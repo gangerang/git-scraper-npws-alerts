@@ -7,7 +7,8 @@
     "Closed areas",
     "Safety alerts",
     "Other incidents",
-    "Other planned events"
+    "Other planned events",
+    "Fires - "
   ],
   "ParkAlerts": [
     {
@@ -393,10 +394,10 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-03-29T08:40:42",
+      "LastReviewed": "2025-03-30T17:25:50",
       "EffectiveFrom": "2024-04-22T13:14:32",
       "Categories": [
-        "Hazard reduction burns",
+        "Fires - ",
         "Safety alerts",
         "Fire bans"
       ],
@@ -405,11 +406,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11323801",
           "EffectiveFrom": "2024-09-20T07:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-03-29T08:40:42",
+          "LastReviewed": "2025-03-30T17:25:50",
           "Title": "Joadja Hill HR",
           "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 20/09/2024. The fire is called&#xA0;Joadja Hill HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "Category": "Fires - ",
+          "DescriptionHtml": "<p>There is a fire in this park called Joadja Hill HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -573,7 +574,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2025-03-29T12:30:09",
+      "LastReviewed": "2025-03-30T08:08:05",
       "EffectiveFrom": "2022-09-21T13:08:34",
       "Categories": [
         "Closed areas",
@@ -581,14 +582,25 @@
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/11807601",
+          "EffectiveFrom": "2025-03-30T08:04:55",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-03-30T08:08:05",
+          "Title": "Hoddles track closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Hoddles Track closed due to excessive rainfall and increased risk of rockfall and landslip</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/11806701",
           "EffectiveFrom": "2025-03-29T12:22:37",
           "EffectiveTo": null,
-          "LastReviewed": "2025-03-29T12:30:09",
-          "Title": "Drawing Room Rocks walking track closed due to high rainfall and rockfall/landslip risk",
+          "LastReviewed": "2025-03-30T01:05:33",
+          "Title": "Drawing Room Rocks and Hoddles Track walking tracks closed due to high rainfall and rockfall/landslip risk",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Drawing Room Rocks walking track is closed due to high rainfall rockfall/landslip risk. The track will remain closed&#xA0;to the public until NPWS staff have conducted an inspection and it is safe to open. Penalties apply for non-compliance.&#xA0;</p>",
+          "DescriptionHtml": "<p>Drawing Room Rocks and Hoddles Track walking tracks&#xA0;are&#xA0;closed due to high rainfall and rockfall/landslip risk. The tracks will remain closed&#xA0;to the public until NPWS staff have conducted an inspection and it is safe to open. Penalties apply for non-compliance.&#xA0;</p>",
           "IsKml": false
         },
         {
@@ -624,7 +636,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 6,
+      "ClosedAreasCount": 4,
       "LastReviewed": "2025-03-28T17:01:31",
       "EffectiveFrom": "2017-11-09T09:59:54",
       "Categories": [
@@ -652,17 +664,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is undertaking a Felixer feral cat pest management program the Gloucester Tops part of the park from Friday 28 March 2025 to Friday 19 September 2025.</p>\n\n<p>This program is designed to minimise the impact of feral cats on wildlife, especially the endangered rufous scrub-bird and broad-toothed rat. There will be signs at all baiting locations.</p>\n\n<p>The operation will involve the use Felixer 1080 cartridges, containing 1080 (sodium fluoroacetate) poison, dispensed by a Felixer unit, for the control of feral cats.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained in the vicinity and must not enter the baiting locations. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information, please call the Barrington Tops area office on 02 6538 5300.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11795301",
-          "EffectiveFrom": "2025-03-28T17:00:00",
-          "EffectiveTo": "2025-05-30T17:00:00",
-          "LastReviewed": "2025-03-25T13:59:31",
-          "Title": "Polblue Swamp Walk partial closure for upgrade works",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Polblue Swamp walk will be partially closed from Monday 31 March until Friday 11 March 2025 to allow NPWS to undertake works associated with the ongoing upgrade of the walking track. Visitors can still access the majority of the walk during this period, just not as a full loop.&#xA0; Please follow the signage / directions on site.</p>\n\n<p>During the Easter school holidays (12-30 April) the walk will be fully open again, with barriers in place to make sure visitors remain safe.</p>\n\n<p>For further information please contact Gloucester NPWS office on (02) 6538 5300.</p>",
           "IsKml": false
         },
         {
@@ -833,9 +834,21 @@
       "LastReviewed": "2025-03-15T16:54:22",
       "EffectiveFrom": "2025-02-13T09:55:44",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11752601",
+          "EffectiveFrom": "2025-03-30T14:00:00",
+          "EffectiveTo": "2025-04-04T14:00:00",
+          "LastReviewed": "2025-03-10T08:58:08",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 30 March until 2pm Friday 4 April 2025 for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Morton National Park - areas that will be closed are:\n\t<ul>\n\t\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t\t<li>Areas east of the Shoalhaven River to Tolwong Road and</li>\n\t\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/ppxm3y5jvw7u/b4yim3u4oe6ls/shk3ou4vda8u\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nowra&#xA0;area office on 02 4428 6300</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11699101",
           "EffectiveFrom": "2025-02-13T09:55:44",
@@ -1191,8 +1204,8 @@
         "Id": "6dd0803b-717d-441d-9fa9-353b5016b239",
         "ItemName": "Berrico-Nature-Reserve"
       },
-      "Closed": true,
-      "PartClosed": true,
+      "Closed": false,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-03-12T09:14:41",
       "EffectiveFrom": "2025-02-21T15:18:48",
@@ -1426,7 +1439,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-03-28T13:48:24",
+      "LastReviewed": "2025-03-28T13:30:31",
       "EffectiveFrom": "2015-03-22T14:11:00",
       "Categories": [
         "Closed areas",
@@ -1434,17 +1447,6 @@
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11804901",
-          "EffectiveFrom": "2025-03-28T12:46:25",
-          "EffectiveTo": "2025-03-31T16:00:00",
-          "LastReviewed": "2025-03-28T13:48:24",
-          "Title": "Blue Mountains walking track and campground closures",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The following walking tracks and campgrounds in Blue Mountains National Park will be closed from 4pm on Friday 28 March 2025 until further notice.</p>\n\n<p>These closures are due to high rainfall in the area.&#xA0;&#xA0;</p>\n\n<p>Closed walking tracks:&#xA0;</p>\n\n<ul>\n\t<li>Grand Canyon and Canyon</li>\n\t<li>Federal Pass</li>\n\t<li>Ruined Castle</li>\n\t<li>Perry's Lookdown</li>\n\t<li>Victoria Falls</li>\n\t<li>Pierces Pass</li>\n\t<li>Walls Cave</li>\n\t<li>Weeping Rock</li>\n\t<li>Roberts Pass</li>\n\t<li>Mt Hay</li>\n\t<li>Valley of the Waters</li>\n\t<li>Old Pt Pilcher</li>\n\t<li>Ampitheatre walking tack</li>\n\t<li>Kedumba Pass</li>\n\t<li>Empress Canyon</li>\n\t<li>Wentworth Falls - top and middle crossings</li>\n\t<li>Giant Stairs</li>\n\t<li>Furber Steps</li>\n</ul>\n\n<p>Closed camping areas:</p>\n\n<ul>\n\t<li>Acacia Flat camping area</li>\n\t<li>Burra Korain camping area</li>\n\t<li>Kedumba Valley campground</li>\n</ul>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre on 02&#xA0;47878877.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11805101",
           "EffectiveFrom": "2025-03-28T13:18:35",
@@ -1914,7 +1916,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-03-29T13:41:56",
+      "LastReviewed": "2025-03-30T10:15:59",
       "EffectiveFrom": "2025-03-03T12:51:14",
       "Categories": [
         "Hazard reduction burns",
@@ -1925,7 +1927,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11797001",
           "EffectiveFrom": "2025-03-27T09:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-03-29T13:41:56",
+          "LastReviewed": "2025-03-30T10:15:59",
           "Title": "Sandy Creek South Sapphire HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -2054,7 +2056,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-03-27T22:49:43",
+      "LastReviewed": "2025-03-29T18:12:44",
       "EffectiveFrom": "2025-03-24T09:29:03",
       "Categories": [
         "Closed parks"
@@ -2064,7 +2066,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11792701",
           "EffectiveFrom": "2025-03-24T09:29:03",
           "EffectiveTo": "2025-04-01T09:30:11",
-          "LastReviewed": "2025-03-27T22:49:43",
+          "LastReviewed": "2025-03-29T18:12:44",
           "Title": "Park closed due to wet weather and road Closures",
           "ItemName": null,
           "Category": "Closed parks",
@@ -2083,24 +2085,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-03-28T16:04:39",
+      "LastReviewed": "2025-03-21T09:07:44",
       "EffectiveFrom": "2022-04-07T11:17:17",
       "Categories": [
-        "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11805701",
-          "EffectiveFrom": "2025-03-29T05:00:00",
-          "EffectiveTo": "2025-03-29T20:00:00",
-          "LastReviewed": "2025-03-28T16:04:39",
-          "Title": "Flood risk warning",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Forecast heavy rainfall on Saturday 29 March 2025 may cause localised flooding in parts of Brisbane Water National Park.</p>\n\n<p>Creek crossings may become impassable with fast flowing water and increased water levels following heavy rainfall.</p>\n\n<p>People planning to visit this park are urged to check for <a href=\"https://www.nationalparks.nsw.gov.au/visit-a-park/parks/brisbane-water-national-park/local-alerts\">closures</a>, emergency warnings and severe weather updates from the <a href=\"http://www.bom.gov.au/nsw/\">Bureau of Meteorology</a> and <a href=\"http://www.ses.nsw.gov.au/\">State Emergency Service</a> before heading out.</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters, so you&#x2019;ll need to reschedule your visit and avoid travel through areas in this park. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information about road closures. For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office on 02 4320 4200.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11744701",
           "EffectiveFrom": "2025-03-24T06:00:00",
@@ -2232,8 +2222,8 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 13,
-      "LastReviewed": "2025-03-25T15:00:53",
+      "ClosedAreasCount": 15,
+      "LastReviewed": "2025-03-30T09:33:18",
       "EffectiveFrom": "2020-07-02T16:56:05",
       "Categories": [
         "Closed areas",
@@ -2241,6 +2231,17 @@
         "Other incidents"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11807801",
+          "EffectiveFrom": "2025-03-30T09:28:17",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-03-30T09:33:18",
+          "Title": "Minnamurra rainforest precinct closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Minnamurra rainforest precinct closed due to tree fall blocking access</p>",
+          "IsKml": true
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11767701",
           "EffectiveFrom": "2025-03-14T07:00:00",
@@ -2554,14 +2555,26 @@
         "ItemName": "Bungonia-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
+      "PartClosed": true,
+      "ClosedAreasCount": 6,
       "LastReviewed": "2025-03-18T15:37:25",
       "EffectiveFrom": "2022-06-03T14:33:00",
       "Categories": [
+        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11752601",
+          "EffectiveFrom": "2025-03-30T14:00:00",
+          "EffectiveTo": "2025-04-04T14:00:00",
+          "LastReviewed": "2025-03-10T08:58:08",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 30 March until 2pm Friday 4 April 2025 for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Morton National Park - areas that will be closed are:\n\t<ul>\n\t\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t\t<li>Areas east of the Shoalhaven River to Tolwong Road and</li>\n\t\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/ppxm3y5jvw7u/b4yim3u4oe6ls/shk3ou4vda8u\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nowra&#xA0;area office on 02 4428 6300</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8545302",
           "EffectiveFrom": "2022-06-03T14:33:00",
@@ -2585,12 +2598,23 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-02-19T08:25:38",
+      "LastReviewed": "2025-03-10T08:58:08",
       "EffectiveFrom": "2020-05-14T15:42:39",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11752601",
+          "EffectiveFrom": "2025-03-30T14:00:00",
+          "EffectiveTo": "2025-04-04T14:00:00",
+          "LastReviewed": "2025-03-10T08:58:08",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 30 March until 2pm Friday 4 April 2025 for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Morton National Park - areas that will be closed are:\n\t<ul>\n\t\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t\t<li>Areas east of the Shoalhaven River to Tolwong Road and</li>\n\t\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/ppxm3y5jvw7u/b4yim3u4oe6ls/shk3ou4vda8u\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nowra&#xA0;area office on 02 4428 6300</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/6230922",
           "EffectiveFrom": "2020-05-14T15:42:39",
@@ -2909,7 +2933,7 @@
         "ItemName": "Carrai-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-02-05T11:27:23",
       "EffectiveFrom": "2024-10-16T13:34:48",
@@ -3932,7 +3956,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-03-27T22:49:43",
+      "LastReviewed": "2025-03-29T18:12:44",
       "EffectiveFrom": "2025-03-24T09:29:03",
       "Categories": [
         "Closed parks"
@@ -3942,7 +3966,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11792701",
           "EffectiveFrom": "2025-03-24T09:29:03",
           "EffectiveTo": "2025-04-01T09:30:11",
-          "LastReviewed": "2025-03-27T22:49:43",
+          "LastReviewed": "2025-03-29T18:12:44",
           "Title": "Park closed due to wet weather and road Closures",
           "ItemName": null,
           "Category": "Closed parks",
@@ -4824,7 +4848,7 @@
         "ItemName": "Garigal-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 1,
       "LastReviewed": "2025-01-21T12:03:15",
       "EffectiveFrom": "2016-02-10T15:18:20",
@@ -5027,6 +5051,35 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using Canid Pest Ejectors containing 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is ongoing and will continue to be conducted between Monday 11 November 2024 to Saturday&#xA0;10 May&#xA0;2025&#xA0;within&#xA0;Girralang Nature Reserve.</p>\n\n<p>All baiting locations will be identifiable by signs.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs).</p>\n\n<p>Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information call NPWS the Central West Area Office at Bathurst on 02 6332 7640.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Glenrock State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/glenrock-state-conservation-area",
+        "Id": "1f37b63f-dccd-4a7a-ba64-16043f210625",
+        "ItemName": "Glenrock-State-Conservation-Area"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
+      "LastReviewed": "2025-03-30T09:38:38",
+      "EffectiveFrom": "2025-03-30T09:34:59",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11807901",
+          "EffectiveFrom": "2025-03-30T09:34:59",
+          "EffectiveTo": "2025-04-04T09:36:50",
+          "LastReviewed": "2025-03-30T09:38:38",
+          "Title": "Mountain Bike Track Network - Wet Condition alert",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to the recent rain, NPWS advises riders to not use the Mountain Bike Track network due to the wet conditions from Saturday 29th March 2025</p>\n\n<p>Using wet or muddy tracks causes damage.</p>\n\n<p>Please help protect our tracks by riding on Management Trails in wet conditions or after rain events.</p>\n\n<p>For more information, please contact the local NPWS office 02) 4946 4100</p>",
           "IsKml": false
         }
       ]
@@ -5383,7 +5436,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 10,
-      "LastReviewed": "2025-03-27T22:49:43",
+      "LastReviewed": "2025-03-29T18:12:44",
       "EffectiveFrom": "2025-03-10T08:00:00",
       "Categories": [
         "Closed parks",
@@ -5394,7 +5447,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11792701",
           "EffectiveFrom": "2025-03-24T09:29:03",
           "EffectiveTo": "2025-04-01T09:30:11",
-          "LastReviewed": "2025-03-27T22:49:43",
+          "LastReviewed": "2025-03-29T18:12:44",
           "Title": "Park closed due to wet weather and road Closures",
           "ItemName": null,
           "Category": "Closed parks",
@@ -5424,7 +5477,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-03-27T22:49:43",
+      "LastReviewed": "2025-03-29T18:12:44",
       "EffectiveFrom": "2025-03-10T08:00:00",
       "Categories": [
         "Closed parks",
@@ -5435,7 +5488,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11792701",
           "EffectiveFrom": "2025-03-24T09:29:03",
           "EffectiveTo": "2025-04-01T09:30:11",
-          "LastReviewed": "2025-03-27T22:49:43",
+          "LastReviewed": "2025-03-29T18:12:44",
           "Title": "Park closed due to wet weather and road Closures",
           "ItemName": null,
           "Category": "Closed parks",
@@ -5657,7 +5710,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-03-28T10:11:46",
+      "LastReviewed": "2025-03-30T17:08:44",
       "EffectiveFrom": "2025-03-28T09:55:01",
       "Categories": [
         "Closed areas"
@@ -5666,8 +5719,8 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11804301",
           "EffectiveFrom": "2025-03-28T09:55:01",
-          "EffectiveTo": "2025-04-04T17:00:00",
-          "LastReviewed": "2025-03-28T10:11:46",
+          "EffectiveTo": "2025-03-31T17:10:00",
+          "LastReviewed": "2025-03-30T17:08:44",
           "Title": "Areas closed due to adverse weather",
           "ItemName": null,
           "Category": "Closed areas",
@@ -6116,6 +6169,35 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. For further information, visit the <a href=\"https://www.nationalparks.nsw.gov.au/safety/fire-safety/fire-bans\">NSW National Parks - Total Fire Bans and park fire bans information page</a>.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Jerralong Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/jerralong-nature-reserve",
+        "Id": "5e1a6588-1e7e-4b96-acfc-1902922b6013",
+        "ItemName": "Jerralong-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-03-10T08:58:08",
+      "EffectiveFrom": "2025-03-30T14:00:00",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11752601",
+          "EffectiveFrom": "2025-03-30T14:00:00",
+          "EffectiveTo": "2025-04-04T14:00:00",
+          "LastReviewed": "2025-03-10T08:58:08",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 30 March until 2pm Friday 4 April 2025 for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Morton National Park - areas that will be closed are:\n\t<ul>\n\t\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t\t<li>Areas east of the Shoalhaven River to Tolwong Road and</li>\n\t\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/ppxm3y5jvw7u/b4yim3u4oe6ls/shk3ou4vda8u\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nowra&#xA0;area office on 02 4428 6300</p>",
           "IsKml": false
         }
       ]
@@ -6777,6 +6859,35 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>This park is closed due to Phytophthora contamination, unless the closure is otherwise extended or removed.&#xA0;https://www.nationalparks.nsw.gov.au/conservation-programs/fighting-invasive-phytophthora ;&#xA0;</p>\n\n<p>How you can help</p>\n\n<p>To prevent phytophthora infection and spreading in parks and at home, try these hygiene tips:</p>\n\n<ul>\n\t<li>Start your trip with clean, dirt-free, dry gear (including shoes, bike tyres, camping gear, vehicles)</li>\n\t<li>Use the boot wash or scrub stations provided &#x2013; these capture contaminated water or control flow to septic or sewage systems where root rot will die</li>\n\t<li>Stay on formed tracks</li>\n\t<li>Follow instructions on signage</li>\n\t<li>Clean your gear again when you get home &#x2013; try a solution of 70% methylated spirits or ethanol, 30% water, and wash straight into the septic/sewage system. You may want to keep a spray bottle in the car.</li>\n</ul>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/viewtop/inforce/subordleg+427+2009+cd+0+N/?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>. For more information, please call&#xA0;the NPWS Cumberland area office on 02&#xA0;4572 3100.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Kerrawary Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kerrawary-nature-reserve",
+        "Id": "87c963ec-4e7a-468f-acee-0ee92118ae0e",
+        "ItemName": "Kerrawary-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-03-10T08:58:08",
+      "EffectiveFrom": "2025-03-30T14:00:00",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11752601",
+          "EffectiveFrom": "2025-03-30T14:00:00",
+          "EffectiveTo": "2025-04-04T14:00:00",
+          "LastReviewed": "2025-03-10T08:58:08",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 30 March until 2pm Friday 4 April 2025 for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Morton National Park - areas that will be closed are:\n\t<ul>\n\t\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t\t<li>Areas east of the Shoalhaven River to Tolwong Road and</li>\n\t\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/ppxm3y5jvw7u/b4yim3u4oe6ls/shk3ou4vda8u\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nowra&#xA0;area office on 02 4428 6300</p>",
           "IsKml": false
         }
       ]
@@ -7687,35 +7798,6 @@
     },
     {
       "Park": {
-        "Name": "Langidoon-Metford State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/langidoon-metford-state-conservation-area",
-        "Id": "dae26e82-75eb-4742-b67f-3ab04d6bf86a",
-        "ItemName": "langidoon-metford-state-conservation-area"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-03-17T12:07:26",
-      "EffectiveFrom": "2025-03-28T06:00:00",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11778601",
-          "EffectiveFrom": "2025-03-28T06:00:00",
-          "EffectiveTo": "2025-03-30T06:00:00",
-          "LastReviewed": "2025-03-17T12:07:26",
-          "Title": "Eckerboon Lake campground is closed",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Eckerboon Lake campground will be closed to camping bookings for 28 and 29 March 2025.&#xA0; For further information please contact the Broken Hill National Parks office on 08 8084 2880.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Langtree Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/langtree-nature-reserve",
         "Id": "7fc39263-784f-4936-817f-fb6fe2e2a483",
@@ -7753,7 +7835,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-03-27T22:49:43",
+      "LastReviewed": "2025-03-29T18:12:44",
       "EffectiveFrom": "2025-03-24T09:29:03",
       "Categories": [
         "Closed parks"
@@ -7763,7 +7845,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11792701",
           "EffectiveFrom": "2025-03-24T09:29:03",
           "EffectiveTo": "2025-04-01T09:30:11",
-          "LastReviewed": "2025-03-27T22:49:43",
+          "LastReviewed": "2025-03-29T18:12:44",
           "Title": "Park closed due to wet weather and road Closures",
           "ItemName": null,
           "Category": "Closed parks",
@@ -7979,13 +8061,24 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-03-29T10:06:42",
+      "ClosedAreasCount": 1,
+      "LastReviewed": "2025-03-30T08:04:50",
       "EffectiveFrom": "2019-06-18T09:18:12",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11807501",
+          "EffectiveFrom": "2025-03-30T07:59:19",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-03-30T08:04:50",
+          "Title": "Clover Hill Trail closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Clover Hill trail closed due to excessive rainfall and increased risk of rockfall and landslip</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/9324401",
           "EffectiveFrom": "2023-02-10T21:21:19",
@@ -8853,7 +8946,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 3,
+      "ClosedAreasCount": 4,
       "LastReviewed": "2025-03-26T11:51:15",
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
@@ -8871,6 +8964,17 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>A baiting program using ground baits containing 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes will be conducted between August 01&#xA0;2024 to&#xA0;August 01&#xA0;2025 in the Kangaroo Valley, Budgong and Illaroo areas.</p>\n\n<p>All baiting locations will be identifiable by signs.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. 1080 is lethal to cats and dogs. Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://click.ngcomms.net/l2tk6d4w19k3/8pvy0bh9jnfa2/nh8scd9q27g8\">Penalties apply for non-compliance</a>. For further information, call the NPWS Shoalhaven area office on 02 4428 6300.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11752601",
+          "EffectiveFrom": "2025-03-30T14:00:00",
+          "EffectiveTo": "2025-04-04T14:00:00",
+          "LastReviewed": "2025-03-10T08:58:08",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 30 March until 2pm Friday 4 April 2025 for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Morton National Park - areas that will be closed are:\n\t<ul>\n\t\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t\t<li>Areas east of the Shoalhaven River to Tolwong Road and</li>\n\t\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/ppxm3y5jvw7u/b4yim3u4oe6ls/shk3ou4vda8u\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nowra&#xA0;area office on 02 4428 6300</p>",
           "IsKml": false
         },
         {
@@ -9308,7 +9412,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-03-27T10:37:20",
+      "LastReviewed": "2025-03-30T13:42:37",
       "EffectiveFrom": "2020-02-18T17:42:12",
       "Categories": [
         "Closed parks",
@@ -9319,12 +9423,12 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11798001",
           "EffectiveFrom": "2025-03-28T05:00:00",
-          "EffectiveTo": "2025-03-31T10:00:00",
-          "LastReviewed": "2025-03-27T10:37:20",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-03-30T13:42:37",
           "Title": "Mugii Murum-ban State Conservation Area closed due to forecast rain",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>Mugii Murum-ban State Conservation Area is closed due to forecast rain.</p>",
+          "DescriptionHtml": "<p>All trails in Mugii Murum-ban State Conservation Area is closed due to heavy rainfall over the weekend (29-30 March).&#xA0; NPWS will conduct an assessment on Wednesday 2 April 2025 on when to reopen the trails.</p>\n\n<p>For more information please contact the Mudgee Area Office on 02 6370 9000</p>",
           "IsKml": false
         },
         {
@@ -10064,25 +10168,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-03-29T14:11:43",
+      "LastReviewed": "2025-03-29T10:07:56",
       "EffectiveFrom": "2022-12-27T12:56:46",
       "Categories": [
-        "Other incidents",
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11806901",
-          "EffectiveFrom": "2025-03-29T14:10:17",
-          "EffectiveTo": "2025-03-30T08:00:00",
-          "LastReviewed": "2025-03-29T14:11:43",
-          "Title": "Bombah Point Ferry Closed",
-          "ItemName": null,
-          "Category": "Other incidents",
-          "DescriptionHtml": "<p>The Bombah Point Ferry has ceased operation today due to the bad weather conditions.&#xA0; Please ring the Manning Great Lakes Area Office on 6591 0300 for further enquiries.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11805001",
           "EffectiveFrom": "2025-03-28T12:43:28",
@@ -10165,6 +10257,35 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>NPWS will undertake targeted weed control including spot spraying and cut and paint using herbicides.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Nadgigomar Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nadgigomar-nature-reserve",
+        "Id": "e7ba011e-c14e-4738-84af-fda7dc2249b1",
+        "ItemName": "Nadgigomar-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-03-10T08:58:08",
+      "EffectiveFrom": "2025-03-30T14:00:00",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11752601",
+          "EffectiveFrom": "2025-03-30T14:00:00",
+          "EffectiveTo": "2025-04-04T14:00:00",
+          "LastReviewed": "2025-03-10T08:58:08",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 30 March until 2pm Friday 4 April 2025 for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Morton National Park - areas that will be closed are:\n\t<ul>\n\t\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t\t<li>Areas east of the Shoalhaven River to Tolwong Road and</li>\n\t\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/ppxm3y5jvw7u/b4yim3u4oe6ls/shk3ou4vda8u\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nowra&#xA0;area office on 02 4428 6300</p>",
           "IsKml": false
         }
       ]
@@ -10433,7 +10554,7 @@
         "ItemName": "Ngambaa-Nature-Reserve"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-03-21T15:30:18",
       "EffectiveFrom": "2024-03-19T21:25:08",
@@ -10556,7 +10677,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-03-27T22:49:43",
+      "LastReviewed": "2025-03-29T18:12:44",
       "EffectiveFrom": "2025-03-10T08:00:00",
       "Categories": [
         "Closed parks",
@@ -10567,7 +10688,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11792701",
           "EffectiveFrom": "2025-03-24T09:29:03",
           "EffectiveTo": "2025-04-01T09:30:11",
-          "LastReviewed": "2025-03-27T22:49:43",
+          "LastReviewed": "2025-03-29T18:12:44",
           "Title": "Park closed due to wet weather and road Closures",
           "ItemName": null,
           "Category": "Closed parks",
@@ -11605,21 +11726,9 @@
       "LastReviewed": "2025-03-26T18:05:16",
       "EffectiveFrom": "2022-07-12T16:30:18",
       "Categories": [
-        "Other incidents",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11791601",
-          "EffectiveFrom": "2025-03-21T15:44:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-03-21T16:11:04",
-          "Title": "Wattamolla BBQ out of order",
-          "ItemName": null,
-          "Category": "Other incidents",
-          "DescriptionHtml": "<p>The BBQ at Wattamolla picnic area are out of order due to a fault.&#xA0;</p>\n\n<p>Nearest public BBQ at Audley or Bonnie Vale.</p>\n\n<p>Please contact the Royal Visitor Centre for more information 02 9542 0648&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11697101",
           "EffectiveFrom": "2025-02-13T06:00:43",
@@ -12233,7 +12342,7 @@
         "ItemName": "Sydney-Harbour-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 6,
       "LastReviewed": "2025-03-27T10:13:08",
       "EffectiveFrom": "2018-07-09T11:06:59",
@@ -12456,36 +12565,37 @@
         "Id": "e9db981b-7ea7-4ef9-931c-6389745b8028",
         "ItemName": "Tarlo-River-National-Park"
       },
-      "Closed": true,
-      "PartClosed": true,
+      "Closed": false,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-03-29T12:32:25",
+      "LastReviewed": "2025-03-30T12:24:02",
       "EffectiveFrom": "2025-03-19T06:00:00",
       "Categories": [
         "Hazard reduction burns",
-        "Closed parks"
+        "Closed parks",
+        "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11796401",
-          "EffectiveFrom": "2025-03-26T11:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-03-29T12:28:57",
-          "Title": "Junction Creek HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 26/03/2025. The fire is called&#xA0;Junction Creek HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11784201",
           "EffectiveFrom": "2025-03-19T11:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-03-29T12:25:06",
+          "LastReviewed": "2025-03-30T12:24:02",
           "Title": "Gravelly Creek Trail HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 19/03/2025. The fire is called&#xA0;Gravelly Creek Trail HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11796401",
+          "EffectiveFrom": "2025-03-26T11:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-03-30T12:23:27",
+          "Title": "Junction Creek HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 26/03/2025. The fire is called&#xA0;Junction Creek HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -12497,6 +12607,17 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Tarlo River National Park is closed for hazard reduction burning from Wednesday 19th March 2025. There will be two Hazard Reduction Burns.&#xA0;<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.</p>\n\n<p>&#xA0;</p>\n\n<p>The first burn is called 'Gravelly Creek Hazard Reduction' and will begin Wednesday 19th March 2025.</p>\n\n<p>The second burn is called 'Junction Creek Hazard Reduction' and will begin Wednesday 26th&#xA0;March 2025.&#xA0;</p>\n\n<p>Tarlo River National Park will be closed for the duration of both these burns, and will be reopened to the public when safe to do so.</p>\n\n<p>&#xA0;</p>\n\n<p>For more information, contact the local NPWS office on (02) 4887 8244&#xA0;or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11752601",
+          "EffectiveFrom": "2025-03-30T14:00:00",
+          "EffectiveTo": "2025-04-04T14:00:00",
+          "LastReviewed": "2025-03-10T08:58:08",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 30 March until 2pm Friday 4 April 2025 for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Morton National Park - areas that will be closed are:\n\t<ul>\n\t\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t\t<li>Areas east of the Shoalhaven River to Tolwong Road and</li>\n\t\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/ppxm3y5jvw7u/b4yim3u4oe6ls/shk3ou4vda8u\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nowra&#xA0;area office on 02 4428 6300</p>",
           "IsKml": false
         }
       ]
@@ -12537,8 +12658,8 @@
         "Id": "ea530415-4b66-4bb8-b0e0-01e50fd6afec",
         "ItemName": "The-Glen-Nature-Reserve"
       },
-      "Closed": true,
-      "PartClosed": true,
+      "Closed": false,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-03-25T16:05:05",
       "EffectiveFrom": "2024-10-01T15:54:12",
@@ -12865,7 +12986,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 6,
-      "LastReviewed": "2025-03-27T22:49:43",
+      "LastReviewed": "2025-03-29T18:12:44",
       "EffectiveFrom": "2025-03-10T08:00:00",
       "Categories": [
         "Closed parks",
@@ -12876,7 +12997,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11792701",
           "EffectiveFrom": "2025-03-24T09:29:03",
           "EffectiveTo": "2025-04-01T09:30:11",
-          "LastReviewed": "2025-03-27T22:49:43",
+          "LastReviewed": "2025-03-29T18:12:44",
           "Title": "Park closed due to wet weather and road Closures",
           "ItemName": null,
           "Category": "Closed parks",
@@ -12906,7 +13027,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-03-27T22:49:43",
+      "LastReviewed": "2025-03-29T18:12:44",
       "EffectiveFrom": "2025-03-10T08:00:00",
       "Categories": [
         "Closed parks",
@@ -12917,7 +13038,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11792701",
           "EffectiveFrom": "2025-03-24T09:29:03",
           "EffectiveTo": "2025-04-01T09:30:11",
-          "LastReviewed": "2025-03-27T22:49:43",
+          "LastReviewed": "2025-03-29T18:12:44",
           "Title": "Park closed due to wet weather and road Closures",
           "ItemName": null,
           "Category": "Closed parks",
@@ -13200,8 +13321,8 @@
         "Id": "8919a3a5-0867-4235-bda1-6497bd9e5b13",
         "ItemName": "Uralba-Nature-Reserve"
       },
-      "Closed": true,
-      "PartClosed": true,
+      "Closed": false,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-03-21T10:07:45",
       "EffectiveFrom": "2025-03-04T17:47:43",
@@ -14785,7 +14906,7 @@
         "ItemName": "yanga-nature-reserve"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-03-28T16:33:57",
       "EffectiveFrom": "2023-09-26T12:56:22",
