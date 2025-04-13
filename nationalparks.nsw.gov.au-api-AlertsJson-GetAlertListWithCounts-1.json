@@ -301,12 +301,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-11T10:46:27",
+      "LastReviewed": "2025-04-13T09:20:04",
       "EffectiveFrom": "2025-04-11T09:41:11",
       "Categories": [
+        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11841901",
+          "EffectiveFrom": "2025-04-13T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-04-13T09:20:04",
+          "Title": "Dam HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 13/04/2025. The fire is called&#xA0;Dam HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11836701",
           "EffectiveFrom": "2025-04-11T09:41:11",
@@ -732,10 +744,10 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T16:38:03",
+      "LastReviewed": "2025-04-13T13:07:01",
       "EffectiveFrom": "2025-03-03T12:51:14",
       "Categories": [
-        "Fires - ",
+        "Hazard reduction burns",
         "Other planned events"
       ],
       "Alerts": [
@@ -743,11 +755,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11839201",
           "EffectiveFrom": "2025-04-12T05:14:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:38:03",
+          "LastReviewed": "2025-04-13T13:07:01",
           "Title": "NPWS SCOUTS HR",
           "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called NPWS SCOUTS HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 12/04/2025. The fire is called&#xA0;NPWS SCOUTS HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -1060,6 +1072,35 @@
     },
     {
       "Park": {
+        "Name": "Blackheath area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/blackheath-area",
+        "Id": "6fffc6ce-38f6-47d5-b039-5c3e997fa412",
+        "ItemName": "blackheath-area"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 9,
+      "LastReviewed": "2025-04-13T13:38:46",
+      "EffectiveFrom": "2025-04-10T10:00:00",
+      "Categories": [
+        "Hazard reduction burns"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11826701",
+          "EffectiveFrom": "2025-04-10T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-04-13T13:38:46",
+          "Title": "Upper Wentworth Creek HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 10/04/2025. The fire is called&#xA0;Upper Wentworth Creek HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Blue Mountains National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/blue-mountains-national-park",
         "Id": "665d5ead-73c1-42d5-84fb-220962a5cb57",
@@ -1068,12 +1109,11 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T16:31:32",
+      "LastReviewed": "2025-04-13T13:38:46",
       "EffectiveFrom": "2015-03-22T14:11:00",
       "Categories": [
-        "Fires - ",
-        "Closed areas",
         "Hazard reduction burns",
+        "Closed areas",
         "Other planned events",
         "Safety alerts"
       ],
@@ -1082,29 +1122,18 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11826701",
           "EffectiveFrom": "2025-04-10T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:31:32",
+          "LastReviewed": "2025-04-13T13:38:46",
           "Title": "Upper Wentworth Creek HR",
           "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called Upper Wentworth Creek HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 10/04/2025. The fire is called&#xA0;Upper Wentworth Creek HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11825001",
-          "EffectiveFrom": "2025-04-07T10:13:09",
-          "EffectiveTo": "2025-04-18T10:14:29",
-          "LastReviewed": "2025-04-12T15:17:04",
-          "Title": "Areas closed for hazard reduction burning",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some parts of this park are closed for hazard reduction burning from 4pm Wednesday 9&#xA0;April 2025. The closed area/s are:<br/>\n&#xA0;</p>\n\n<p>- Mount Hay&#xA0;precinct</p>\n\n<p>- Mount Hay Road</p>\n\n<p>- Lockley Pylon walking track</p>\n\n<p>- Mount Hay summit walking track</p>\n\n<p>- Butterbox canyon</p>\n\n<p>- Fortress canyon</p>\n\n<p>There will be no access into or out of the Grose Valley via Mount Hay Road during this closure.</p>\n\n<p><br/>\nPenalties apply for non-compliance. This burn is called Upper Wentworth Creek HR. For more information, contact the local NPWS office or visit the Rural Fire Service website.</p>",
-          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11828501",
           "EffectiveFrom": "2025-04-09T06:28:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T14:41:06",
+          "LastReviewed": "2025-04-13T13:34:31",
           "Title": "Linden Ridge",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -1115,12 +1144,23 @@
           "ID": "npws-fis@id.ngcomms.net/eme/8419722",
           "EffectiveFrom": "2022-04-09T13:03:17",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-11T16:11:51",
+          "LastReviewed": "2025-04-13T10:35:46",
           "Title": "Parts of Blue Mountains National Park closed",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Many roads, fire trails and walking tracks&#xA0;in Blue Mountains National Park are closed due to infrastructure upgrades or&#xA0;damage caused by&#xA0;wet weather including&#xA0;subsidence,&#xA0;rockfalls, landslides and fallen trees.</p>\n\n<p>The following tracks are&#xA0;<strong>closed</strong>:</p>\n\n<p><strong>Katoomba and Leura </strong>&#xA0;</p>\n\n<ul>\n\t<li>Honeymoon Bridge&#xA0;is closed due to rockfall risk.</li>\n\t<li>Prince Henry Cliff walk (part of Grand Cliff Top walk) is closed between Gordon Falls picnic area and Elysian Rock lookout, due to a landslide. Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information. Detours will also be in place&#xA0;via Olympian Parade.</li>\n\t<li>Gordon Falls picnic area is closed due to upgrades. Detours for walking tracks are in place.&#xA0;Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information.</li>\n\t<li>Fern Bower track between Prince Henry Cliff walk and Amphitheatre track is closed due&#xA0;to&#xA0;landslides. Access to Leura Forest and Jamison Valley is via&#xA0;Amphitheatre track.</li>\n\t<li>Golden Stairs walking track is closed due to landslides and rock fall. There is no access from Glenraphael Drive&#xA0;to Ruined Castle, Federal Pass or Scenic World. Ruined Castle and Mt Solitary can be accessed from Federal Pass (via Furber Steps)&#xA0;or Kedumba Pass.&#xA0; &#xA0;&#xA0;</li>\n\t<li>Lone Lyrebird track is closed between Gordon Road and the War Memorial, due to subsidence. Detour is in place.</li>\n\t<li>Part of Lindeman&#xA0;Pass is&#xA0;closed due to a major landslide&#xA0;below Gladstone lookout. Roberts Pass is closed due to rockfall and&#xA0;landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is affected by&#xA0;closures at <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a>.&#xA0;</li>\n\t<li>Mt Hay Rd is closed to all traffic on Saturday 12th April to allow for hazard reduction operations. Closure includes Lockleys Pylon (and access to Grose Valley), Fortress Ridge, Butterbox Canyon and Mt Hay tracks.&#xA0;&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</li>\n\t<li>Charles Darwin walk (part of Grand Cliff Top walk) is closed between Fletcher Street and Weeping Rock. Detours are in place to provide directions to Wentworth Falls picnic area. Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information.</li>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to multiple landslides. No access to&#xA0;Roberts Pass and Vera Falls. Valley of the Waters track&#xA0;is&#xA0;closed below Sylvia Falls.&#xA0;&#xA0;</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Pulpit Rock Reserve, lookouts and walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu\">Google maps</a>).</li>\n\t<li>Govetts descent and Rodriguez Pass are closed due to rockfalls and landslides. The Grose Valley can be accessed from Blackheath via Perrys Lookdown or the Horse track.</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<ul>\n\t<li>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</li>\n\t<li><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</li>\n</ul>",
+          "DescriptionHtml": "<p>Many roads, fire trails and walking tracks&#xA0;in Blue Mountains National Park are closed due to infrastructure upgrades or&#xA0;damage caused by&#xA0;wet weather including&#xA0;subsidence,&#xA0;rockfalls, landslides and fallen trees.</p>\n\n<p>The following tracks are&#xA0;<strong>closed</strong>:</p>\n\n<p><strong>Katoomba and Leura </strong>&#xA0;</p>\n\n<ul>\n\t<li>Honeymoon Bridge&#xA0;is closed due to rockfall risk.</li>\n\t<li>Prince Henry Cliff walk (part of Grand Cliff Top walk) is closed between Gordon Falls picnic area and Elysian Rock lookout, due to a landslide. Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information. Detours will also be in place&#xA0;via Olympian Parade.</li>\n\t<li>Gordon Falls picnic area is closed due to upgrades. Detours for walking tracks are in place.&#xA0;Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information.</li>\n\t<li>Fern Bower track between Prince Henry Cliff walk and Amphitheatre track is closed due&#xA0;to&#xA0;landslides. Access to Leura Forest and Jamison Valley is via&#xA0;Amphitheatre track.</li>\n\t<li>Golden Stairs walking track is closed due to landslides and rock fall. There is no access from Glenraphael Drive&#xA0;to Ruined Castle, Federal Pass or Scenic World. Ruined Castle and Mt Solitary can be accessed from Federal Pass (via Furber Steps)&#xA0;or Kedumba Pass.&#xA0; &#xA0;&#xA0;</li>\n\t<li>Lone Lyrebird track is closed between Gordon Road and the War Memorial, due to subsidence. Detour is in place.</li>\n\t<li>Part of Lindeman&#xA0;Pass is&#xA0;closed due to a major landslide&#xA0;below Gladstone lookout. Roberts Pass is closed due to rockfall and&#xA0;landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is affected by&#xA0;closures at <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a>.</li>\n</ul>\n\n<p><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</p>\n\n<ul>\n\t<li>Charles Darwin walk (part of Grand Cliff Top walk) is closed between Fletcher Street and Weeping Rock. Detours are in place to provide directions to Wentworth Falls picnic area. Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information.</li>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to multiple landslides. No access to&#xA0;Roberts Pass and Vera Falls. Valley of the Waters track&#xA0;is&#xA0;closed below Sylvia Falls.&#xA0;&#xA0;</li>\n\t<li>Paradise Pool walking track and all tracks associated with Woodford Dam are closed from Monday 14th April to allow for Hazard Reduction burning.&#xA0;&#xA0;</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Pulpit Rock Reserve, lookouts and walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu\">Google maps</a>).</li>\n\t<li>Govetts descent and Rodriguez Pass are closed due to rockfalls and landslides. The Grose Valley can be accessed from Blackheath via Perrys Lookdown or the Horse track.</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<ul>\n\t<li>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</li>\n\t<li><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</li>\n</ul>",
           "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11842201",
+          "EffectiveFrom": "2025-04-13T10:28:12",
+          "EffectiveTo": "2025-04-18T10:28:32",
+          "LastReviewed": "2025-04-13T10:32:28",
+          "Title": "Paradise Pool Walking Track Closed",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>Paradise Pool walking track and all tracks and trails associated with access to Woodford Dam within Blue Mountains National Park will be closed from Monday 14th April until further notice to allow for Hazard Reduction burning.&#xA0; For further information please contact NPWS Heritage Centre on (02) 47878877.&#xA0;&#xA0;</p>",
+          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11828701",
@@ -1131,17 +1171,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Some parts of Blue Mountains National Park are closed for hazard reduction burning from&#xA0;Wednesday 9 April to Monday 14 April inclusive<strong>.</strong> The closed areas are:</p>\n\n<ul>\n\t<li>Linden Ridge fire trail</li>\n\t<li>Grose River Walking Track</li>\n\t<li>Faulconbridge Ridge trail</li>\n\t<li>Faulconbridge Linden Ridge Link Trail</li>\n\t<li>L1 Trail</li>\n\t<li>Faulconbridge Point</li>\n\t<li>All areas between Firebreak cottage and Firebreak Beach</li>\n</ul>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. This burn is called Linden Ridge HR. For more information, contact the local NPWS office on 02 4720 6200 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11827101",
-          "EffectiveFrom": "2025-04-10T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-08T11:04:31",
-          "Title": "Glossop HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a fire in this park called Glossop HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -1470,10 +1499,10 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T16:33:30",
+      "LastReviewed": "2025-04-13T14:50:18",
       "EffectiveFrom": "2025-03-03T12:51:14",
       "Categories": [
-        "Fires - ",
+        "Hazard reduction burns",
         "Other planned events"
       ],
       "Alerts": [
@@ -1481,11 +1510,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11836401",
           "EffectiveFrom": "2025-04-11T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:33:30",
+          "LastReviewed": "2025-04-13T14:50:18",
           "Title": "Sandy Creek South Sapphire Stage 2",
           "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called Sandy Creek South Sapphire Stage 2. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Sandy Creek South Sapphire Stage 2. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -3292,7 +3321,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T14:31:18",
+      "LastReviewed": "2025-04-13T14:18:23",
       "EffectiveFrom": "2025-04-11T10:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -3302,7 +3331,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11836601",
           "EffectiveFrom": "2025-04-11T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T14:31:18",
+          "LastReviewed": "2025-04-13T14:18:23",
           "Title": "10T/ Little HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -5163,7 +5192,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-03-31T11:53:31",
+      "LastReviewed": "2025-04-13T11:08:42",
       "EffectiveFrom": "2022-09-15T10:00:00",
       "Categories": [
         "Closed parks",
@@ -5173,8 +5202,8 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11809101",
           "EffectiveFrom": "2025-03-31T11:50:27",
-          "EffectiveTo": "2025-04-14T11:50:42",
-          "LastReviewed": "2025-03-31T11:53:31",
+          "EffectiveTo": "2025-04-30T11:50:42",
+          "LastReviewed": "2025-04-13T11:08:42",
           "Title": "Karuah National Park - Entire Park Closure",
           "ItemName": null,
           "Category": "Closed parks",
@@ -5332,7 +5361,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T10:55:05",
+      "LastReviewed": "2025-04-13T15:28:32",
       "EffectiveFrom": "2025-03-03T12:51:14",
       "Categories": [
         "Hazard reduction burns",
@@ -5344,7 +5373,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11837301",
           "EffectiveFrom": "2025-04-11T11:31:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T10:55:05",
+          "LastReviewed": "2025-04-13T15:28:32",
           "Title": "Dignams Link Stage 2 HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -5385,7 +5414,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T14:56:32",
+      "LastReviewed": "2025-04-13T15:33:55",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
         "Hazard reduction burns",
@@ -5396,6 +5425,28 @@
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/11830001",
+          "EffectiveFrom": "2025-04-10T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-04-13T15:33:55",
+          "Title": "Snowvale HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 10/04/2025. The fire is called&#xA0;Snowvale HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11830301",
+          "EffectiveFrom": "2025-04-11T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-04-13T15:33:12",
+          "Title": "Stockyard HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Stockyard HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/11819301",
           "EffectiveFrom": "2025-04-07T10:00:00",
           "EffectiveTo": null,
@@ -5404,28 +5455,6 @@
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 07/04/2025. The fire is called&#xA0;Goodradigbee Aqueduct. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11830301",
-          "EffectiveFrom": "2025-04-11T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T14:02:49",
-          "Title": "Stockyard HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Stockyard HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11830001",
-          "EffectiveFrom": "2025-04-10T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T14:00:00",
-          "Title": "Snowvale HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 10/04/2025. The fire is called&#xA0;Snowvale HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -6127,7 +6156,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T14:41:06",
+      "LastReviewed": "2025-04-13T13:34:31",
       "EffectiveFrom": "2025-04-09T06:28:00",
       "Categories": [
         "Hazard reduction burns"
@@ -6137,22 +6166,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11828501",
           "EffectiveFrom": "2025-04-09T06:28:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T14:41:06",
+          "LastReviewed": "2025-04-13T13:34:31",
           "Title": "Linden Ridge",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 09/04/2025. The fire is called&#xA0;Linden Ridge. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11827101",
-          "EffectiveFrom": "2025-04-10T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-08T11:04:31",
-          "Title": "Glossop HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a fire in this park called Glossop HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -6167,32 +6185,32 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-04-12T14:02:49",
+      "LastReviewed": "2025-04-13T15:33:55",
       "EffectiveFrom": "2025-04-10T10:00:00",
       "Categories": [
         "Hazard reduction burns"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/11830301",
-          "EffectiveFrom": "2025-04-11T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T14:02:49",
-          "Title": "Stockyard HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Stockyard HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/11830001",
           "EffectiveFrom": "2025-04-10T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T14:00:00",
+          "LastReviewed": "2025-04-13T15:33:55",
           "Title": "Snowvale HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 10/04/2025. The fire is called&#xA0;Snowvale HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11830301",
+          "EffectiveFrom": "2025-04-11T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-04-13T15:33:12",
+          "Title": "Stockyard HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Stockyard HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -6455,10 +6473,10 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T16:31:18",
+      "LastReviewed": "2025-04-13T15:06:21",
       "EffectiveFrom": "2025-04-08T14:54:40",
       "Categories": [
-        "Fires - ",
+        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
@@ -6466,11 +6484,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11826001",
           "EffectiveFrom": "2025-04-11T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:31:18",
+          "LastReviewed": "2025-04-13T15:06:21",
           "Title": "Coopers Creek HR",
           "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called Coopers Creek HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Coopers Creek HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -6664,14 +6682,26 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-07T12:36:26",
+      "LastReviewed": "2025-04-12T23:50:45",
       "EffectiveFrom": "2024-11-07T10:32:37",
       "Categories": [
+        "Fires - ",
         "Closed areas",
         "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11841401",
+          "EffectiveFrom": "2025-04-13T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-04-12T23:50:45",
+          "Title": "Gillards HR Stage 2",
+          "ItemName": null,
+          "Category": "Fires - ",
+          "DescriptionHtml": "<p>There is a fire in this park called Gillards HR Stage 2. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11825701",
           "EffectiveFrom": "2025-04-07T12:16:08",
@@ -7256,35 +7286,35 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-04-12T16:03:50",
+      "LastReviewed": "2025-04-13T15:07:45",
       "EffectiveFrom": "2020-02-18T17:42:12",
       "Categories": [
-        "Hazard reduction burns",
         "Fires - ",
+        "Hazard reduction burns",
         "Closed parks",
         "Closed areas"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/11835101",
-          "EffectiveFrom": "2025-04-11T09:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:03:50",
-          "Title": "Airly Gap HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Airly Gap HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/11839601",
           "EffectiveFrom": "2025-04-12T07:54:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T15:12:05",
+          "LastReviewed": "2025-04-13T15:07:45",
           "Title": "Genowlan Point",
           "ItemName": null,
           "Category": "Fires - ",
           "DescriptionHtml": "<p>There is a fire in this park called Genowlan Point. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11835101",
+          "EffectiveFrom": "2025-04-11T09:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-04-13T15:04:43",
+          "Title": "Airly Gap HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Airly Gap HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -7621,24 +7651,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-11T17:24:04",
+      "LastReviewed": "2025-04-07T12:32:56",
       "EffectiveFrom": "2025-04-07T12:14:24",
       "Categories": [
-        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11829201",
-          "EffectiveFrom": "2025-04-09T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-11T17:24:04",
-          "Title": "Mountain Firetrail Cultural Burn",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 09/04/2025. The fire is called&#xA0;Mountain Firetrail Cultural Burn. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11825501",
           "EffectiveFrom": "2025-04-07T12:14:24",
@@ -7827,7 +7845,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T16:11:18",
+      "LastReviewed": "2025-04-13T13:21:10",
       "EffectiveFrom": "2025-04-09T15:47:36",
       "Categories": [
         "Fires - Advice",
@@ -7838,11 +7856,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11839401",
           "EffectiveFrom": "2025-04-12T06:45:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:11:18",
+          "LastReviewed": "2025-04-13T13:21:10",
           "Title": "RIVER RD, YANCO",
           "ItemName": null,
           "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called RIVER RD, YANCO. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>There is a fire in this park called RIVER RD, YANCO. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -8526,6 +8544,35 @@
     },
     {
       "Park": {
+        "Name": "Pambula-Haycock area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/pambula-haycock-area",
+        "Id": "453aff01-ef1d-4569-81b4-8d0bfa56657f",
+        "ItemName": "pambula-haycock-area"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-04-13T13:07:01",
+      "EffectiveFrom": "2025-04-12T05:14:00",
+      "Categories": [
+        "Hazard reduction burns"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11839201",
+          "EffectiveFrom": "2025-04-12T05:14:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-04-13T13:07:01",
+          "Title": "NPWS SCOUTS HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 12/04/2025. The fire is called&#xA0;NPWS SCOUTS HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Parma Creek Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/parma-creek-nature-reserve",
         "Id": "6dcdc606-a49d-4a6f-acb8-b09fac55d86b",
@@ -8732,10 +8779,10 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2025-04-12T16:28:55",
+      "LastReviewed": "2025-04-13T16:22:57",
       "EffectiveFrom": "2025-03-05T10:00:00",
       "Categories": [
-        "Fires - ",
+        "Hazard reduction burns",
         "Closed parks",
         "Closed areas"
       ],
@@ -8744,22 +8791,22 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11835501",
           "EffectiveFrom": "2025-04-11T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:28:55",
+          "LastReviewed": "2025-04-13T16:22:57",
           "Title": "Mt Olive HR",
           "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called Mt Olive HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Mt Olive HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11831801",
           "EffectiveFrom": "2025-04-11T00:00:01",
-          "EffectiveTo": "2025-04-14T06:00:00",
-          "LastReviewed": "2025-04-10T13:44:03",
+          "EffectiveTo": "2025-04-15T06:00:00",
+          "LastReviewed": "2025-04-13T08:01:55",
           "Title": "Park closed for hazard reduction burning",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>Popran National Park is closed for hazard reduction burning from Friday 11th April to Sunday 13th April 2025.</p>\n\n<p>No public access to the park is permitted during this time. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.</p>\n\n<p>Closed areas include:</p>\n\n<ul>\n\t<li>Ironbark picnic area</li>\n\t<li>Emerald Pool</li>\n\t<li>Mt Olive lookout</li>\n\t<li>Hominy Creek walking track</li>\n\t<li>Mt Olive, 248 and Pipeline trails</li>\n\t<li>Informal tracks leading into the park (Glenworth South Horse track and Mailmans walking track)</li>\n</ul>\n\n<p>The&#xA0;burn is called Mt Olive HR. For more information, contact the&#xA0;NPWS Girrakool office on 02 4320 4200 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "DescriptionHtml": "<p>Popran National Park is closed for hazard reduction burning from Friday 11th April to Monday&#xA0;14th April 2025.</p>\n\n<p>No public access to the park is permitted during this time. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.</p>\n\n<p>Closed areas include:</p>\n\n<ul>\n\t<li>Ironbark picnic area</li>\n\t<li>Emerald Pool</li>\n\t<li>Mt Olive lookout</li>\n\t<li>Hominy Creek walking track</li>\n\t<li>Mt Olive, 248 and Pipeline trails</li>\n\t<li>Informal tracks leading into the park (Glenworth South Horse track and Mailmans walking track)</li>\n</ul>\n\n<p>The&#xA0;burn is called Mt Olive HR. For more information, contact the&#xA0;NPWS Girrakool office on 02 4320 4200 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
           "IsKml": false
         },
         {
@@ -8956,13 +9003,24 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 8,
-      "LastReviewed": "2025-04-09T12:26:47",
+      "ClosedAreasCount": 9,
+      "LastReviewed": "2025-04-13T11:20:45",
       "EffectiveFrom": "2022-07-12T16:30:18",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11842301",
+          "EffectiveFrom": "2025-04-13T11:08:10",
+          "EffectiveTo": "2025-04-30T11:09:27",
+          "LastReviewed": "2025-04-13T11:20:45",
+          "Title": "Curra Moors loop track partial closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The section of Curra Moors loop track between the carpark and fire trail is closed for repairs until April 2025.</p>\n\n<p>Curra Moors fire trail&#xA0;remains open. For&#xA0;more information, contact the Royal National Park Visitor Centre on 02 9542 0648.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11810301",
           "EffectiveFrom": "2025-04-08T06:00:00",
@@ -9248,7 +9306,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T13:25:19",
+      "LastReviewed": "2025-04-13T14:52:29",
       "EffectiveFrom": "2022-03-25T16:56:42",
       "Categories": [
         "Hazard reduction burns",
@@ -9260,7 +9318,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11836201",
           "EffectiveFrom": "2025-04-11T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T13:25:19",
+          "LastReviewed": "2025-04-13T14:52:29",
           "Title": "Numbugga HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -9727,7 +9785,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T10:44:53",
+      "LastReviewed": "2025-04-13T15:35:03",
       "EffectiveFrom": "2025-04-06T16:00:00",
       "Categories": [
         "Hazard reduction burns",
@@ -9738,7 +9796,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11821201",
           "EffectiveFrom": "2025-04-07T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T10:44:53",
+          "LastReviewed": "2025-04-13T15:35:03",
           "Title": "Urialla North QPRC LGA",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -10099,7 +10157,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T16:12:06",
+      "LastReviewed": "2025-04-13T14:56:49",
       "EffectiveFrom": "2025-03-10T06:00:00",
       "Categories": [
         "Hazard reduction burns",
@@ -10110,7 +10168,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11817801",
           "EffectiveFrom": "2025-04-08T07:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:12:06",
+          "LastReviewed": "2025-04-13T14:56:49",
           "Title": "Forest Creek HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -10562,7 +10620,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T15:38:36",
+      "LastReviewed": "2025-04-13T14:49:41",
       "EffectiveFrom": "2025-04-08T12:58:52",
       "Categories": [
         "Hazard reduction burns",
@@ -10573,22 +10631,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11831401",
           "EffectiveFrom": "2025-04-11T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T15:38:36",
+          "LastReviewed": "2025-04-13T14:49:41",
           "Title": "Albury South HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;Albury South HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11835801",
-          "EffectiveFrom": "2025-04-11T07:28:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T06:14:12",
-          "Title": "FOREST DR, ABERMAIN",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/04/2025. The fire is called&#xA0;FOREST DR, ABERMAIN. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -10640,14 +10687,13 @@
         "Id": "0404e6f4-8e27-4fcc-b159-06615d79c01e",
         "ItemName": "Willandra-National-Park"
       },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 8,
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2025-04-01T09:42:37",
-      "EffectiveFrom": "2022-11-11T11:59:00",
+      "EffectiveFrom": "2025-04-01T09:00:00",
       "Categories": [
-        "Fire bans",
-        "Closed parks"
+        "Fire bans"
       ],
       "Alerts": [
         {
@@ -10659,17 +10705,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/9096002",
-          "EffectiveFrom": "2022-11-11T11:59:00",
-          "EffectiveTo": "2025-04-13T08:00:00",
-          "LastReviewed": "2025-03-27T08:20:35",
-          "Title": "Willandra National Park Closed",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Willandra National Park&#xA0;will be <strong>CLOSED</strong>&#xA0;until further notice,&#xA0;whilst staff undertake major repair works.</p>\n\n<p>&#xA0;</p>\n\n<p>In the interest of visitor safety, we will need to keep the park <strong>CLOSED</strong> until repairs have been completed and the park is deemed safe to re-open.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>This closure includes roofed accommodation, campgrounds and all park roads. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.</p>",
           "IsKml": false
         }
       ]
@@ -10771,7 +10806,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-04-12T16:12:29",
+      "LastReviewed": "2025-04-13T09:27:07",
       "EffectiveFrom": "2025-03-01T12:17:35",
       "Categories": [
         "Hazard reduction burns",
@@ -10783,7 +10818,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11781101",
           "EffectiveFrom": "2025-04-09T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:12:29",
+          "LastReviewed": "2025-04-13T09:27:07",
           "Title": "Eskdale Trig HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -10794,7 +10829,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11781301",
           "EffectiveFrom": "2025-04-09T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:10:57",
+          "LastReviewed": "2025-04-13T09:25:26",
           "Title": "Lagoon Creek HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -10893,7 +10928,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-04-12T16:16:18",
+      "LastReviewed": "2025-04-13T15:48:21",
       "EffectiveFrom": "2022-11-23T14:08:54",
       "Categories": [
         "Hazard reduction burns",
@@ -10905,22 +10940,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11838601",
           "EffectiveFrom": "2025-04-12T08:30:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T16:16:18",
+          "LastReviewed": "2025-04-13T15:48:21",
           "Title": "Little Wheeny HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 12/04/2025. The fire is called&#xA0;Little Wheeny HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11826401",
-          "EffectiveFrom": "2025-04-08T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-04-12T12:26:14",
-          "Title": "Wilderness East IMZ",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 08/04/2025. The fire is called&#xA0;Wilderness East IMZ. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
