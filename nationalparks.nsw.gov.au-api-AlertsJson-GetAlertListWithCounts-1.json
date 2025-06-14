@@ -379,28 +379,16 @@
         "Id": "1ca4574e-05b7-44be-9303-de55556d519e",
         "ItemName": "Bangadilly-National-Park"
       },
-      "Closed": true,
-      "PartClosed": true,
+      "Closed": false,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-06-06T08:38:04",
       "EffectiveFrom": "2024-04-22T13:14:32",
       "Categories": [
-        "Closed parks",
         "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11869601",
           "EffectiveFrom": "2025-05-01T08:00:00",
@@ -562,7 +550,7 @@
       },
       "Closed": false,
       "PartClosed": false,
-      "ClosedAreasCount": 1,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2025-06-06T08:38:04",
       "EffectiveFrom": "2025-05-01T08:00:00",
       "Categories": [
@@ -683,60 +671,63 @@
     },
     {
       "Park": {
-        "Name": "Barrington Tops Flora Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/barrington-tops-flora-reserve",
-        "Id": "55117b85-a7bf-4d30-906f-85d91681af02",
-        "ItemName": "barrington-tops-flora-reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-13T13:50:51",
-      "EffectiveFrom": "2025-05-20T09:54:48",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11922201",
-          "EffectiveFrom": "2025-05-20T09:54:48",
-          "EffectiveTo": "2025-06-30T10:00:00",
-          "LastReviewed": "2025-06-13T13:50:51",
-          "Title": "Barrington Tops National Park temporarily closed due to flooding / severe weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Barrington Tops National Park is closed from Tuesday 20th May 2025 until further notice due to impacts from flooding and severe weather. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.</p>\n\n<p>This closure will be reassessed daily and the park will reopen when conditions are safe.</p>\n\n<p>There is currently no vehicle access to Barrington Tops Forest Rd from the east (Gloucester side) due landslips and a council bridge outage. Vehicle access to the southern section of Barrington Tops NP is also blocked by landslips.</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters. Roads into and throughout the park may also be closed. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information or contact the local park office on 02 6540 2300 (Scone) or 02 6538 5300 (Gloucester).</p>\n\n<p>For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Barrington Tops National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/barrington-tops-national-park",
         "Id": "663e29a2-8fb3-429d-9b53-67fed06bb841",
         "ItemName": "Barrington-Tops-National-Park"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 35,
-      "LastReviewed": "2025-06-13T13:50:51",
+      "ClosedAreasCount": 14,
+      "LastReviewed": "2025-06-13T18:14:22",
       "EffectiveFrom": "2017-11-09T09:59:54",
       "Categories": [
-        "Closed parks",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/11922201",
-          "EffectiveFrom": "2025-05-20T09:54:48",
-          "EffectiveTo": "2025-06-30T10:00:00",
-          "LastReviewed": "2025-06-13T13:50:51",
-          "Title": "Barrington Tops National Park temporarily closed due to flooding / severe weather",
+          "ID": "npws-fis@id.ngcomms.net/eme/12001201",
+          "EffectiveFrom": "2025-06-13T17:00:00",
+          "EffectiveTo": "2025-07-31T13:43:27",
+          "LastReviewed": "2025-06-13T18:14:22",
+          "Title": "Rocky Crossing walk and the Corker trail closed due to severe weather event",
           "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Barrington Tops National Park is closed from Tuesday 20th May 2025 until further notice due to impacts from flooding and severe weather. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.</p>\n\n<p>This closure will be reassessed daily and the park will reopen when conditions are safe.</p>\n\n<p>There is currently no vehicle access to Barrington Tops Forest Rd from the east (Gloucester side) due landslips and a council bridge outage. Vehicle access to the southern section of Barrington Tops NP is also blocked by landslips.</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters. Roads into and throughout the park may also be closed. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information or contact the local park office on 02 6540 2300 (Scone) or 02 6538 5300 (Gloucester).</p>\n\n<p>For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>",
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following areas remain closed:</p>\n\n<ul>\n\t<li>Rocky Crossing walk</li>\n\t<li>The Corker trail</li>\n\t<li>Lagoon Pinch picnic area</li>\n\t<li>Williams Top picnic area</li>\n</ul>\n\n<p>Trails will be inspected and reopened when possible. Access to these areas has been affected by closures in Chichester State Forest.&#xA0;</p>\n\n<p>For information about State Forest&#xA0;closures, please visit:&#xA0;www.forestrycorporation.com.au/visit/closures</p>\n\n<p>&#xA0;</p>\n\n<p>For more information&#xA0;contact Gloucester NPWS on 02 6538 5300.&#xA0;</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11998401",
+          "EffectiveFrom": "2025-06-13T17:00:00",
+          "EffectiveTo": "2025-06-30T16:25:07",
+          "LastReviewed": "2025-06-12T16:28:39",
+          "Title": "Walk-in campgrounds remain closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Junction Pools, Black Swamp and Wombat Creek campgrounds within Barrington Tops NP remain closed until&#xA0;impacts from the recent severe weather can be assessed.&#xA0;</p>\n\n<p>For further information contact Gloucester NPWS on (02) 6538 3500.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11998301",
+          "EffectiveFrom": "2025-06-13T17:00:00",
+          "EffectiveTo": "2025-08-29T15:51:53",
+          "LastReviewed": "2025-06-12T15:56:39",
+          "Title": "Cobark Park picnic area closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Cobark Park picnic area is currently closed due to access issues created by&#xA0;the recent severe weather event.&#xA0; Access from Gloucester is impacted by MidCoast Council road closures and access from the west is impacted by State Forest road closures.</p>\n\n<p>For further information contact Gloucester NPW on (020 6538 5300.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11998101",
+          "EffectiveFrom": "2025-06-13T17:00:00",
+          "EffectiveTo": "2025-09-30T15:39:10",
+          "LastReviewed": "2025-06-12T15:51:00",
+          "Title": "Tubrabucca Road closed due to severe weather impacts.",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The section of Tubrabucca Rd between Horse Swamp campground and the ridge east of Paddys Creek bridge is currently closed due to&#xA0;impacts from the recent severe weather event.</p>\n\n<p>For further information contact the Scone (02) 6540 2300.</p>",
           "IsKml": false
         },
         {
@@ -825,25 +816,24 @@
         "Id": "67ed91e9-6661-4016-9e49-ad2eb46a04b7",
         "ItemName": "Barrington-Tops-State-Conservation-Area"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 4,
-      "LastReviewed": "2025-06-13T13:50:51",
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2025-06-12T15:51:00",
       "EffectiveFrom": "2025-02-21T15:27:21",
       "Categories": [
-        "Closed parks",
         "Closed areas"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/11922201",
-          "EffectiveFrom": "2025-05-20T09:54:48",
-          "EffectiveTo": "2025-06-30T10:00:00",
-          "LastReviewed": "2025-06-13T13:50:51",
-          "Title": "Barrington Tops National Park temporarily closed due to flooding / severe weather",
+          "ID": "npws-fis@id.ngcomms.net/eme/11998101",
+          "EffectiveFrom": "2025-06-13T17:00:00",
+          "EffectiveTo": "2025-09-30T15:39:10",
+          "LastReviewed": "2025-06-12T15:51:00",
+          "Title": "Tubrabucca Road closed due to severe weather impacts.",
           "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Barrington Tops National Park is closed from Tuesday 20th May 2025 until further notice due to impacts from flooding and severe weather. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.</p>\n\n<p>This closure will be reassessed daily and the park will reopen when conditions are safe.</p>\n\n<p>There is currently no vehicle access to Barrington Tops Forest Rd from the east (Gloucester side) due landslips and a council bridge outage. Vehicle access to the southern section of Barrington Tops NP is also blocked by landslips.</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters. Roads into and throughout the park may also be closed. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information or contact the local park office on 02 6540 2300 (Scone) or 02 6538 5300 (Gloucester).</p>\n\n<p>For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>",
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The section of Tubrabucca Rd between Horse Swamp campground and the ridge east of Paddys Creek bridge is currently closed due to&#xA0;impacts from the recent severe weather event.</p>\n\n<p>For further information contact the Scone (02) 6540 2300.</p>",
           "IsKml": false
         },
         {
@@ -1203,35 +1193,6 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Berrico Nature Reserve will be closed until 30 June 2025 to allow contractors to undertake trail upgrade works. The closure has been put in place for the safety of both visitors and the contractors. The planned works and this closure may be weather dependent.</p>\n\n<p>NPWS apologises for any inconvenience.</p>\n\n<p>For more information, please contact the local NPWS Office on 6538 5300.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Biamanga National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/biamanga-national-park",
-        "Id": "aea16322-2514-4999-b43e-5692110fcb8f",
-        "ItemName": "Biamanga-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-11T10:50:41",
-      "EffectiveFrom": "2025-05-12T07:00:00",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11863901",
-          "EffectiveFrom": "2025-05-12T07:00:00",
-          "EffectiveTo": "2025-06-13T17:00:00",
-          "LastReviewed": "2025-06-11T10:50:41",
-          "Title": "Road Delays in Biamanga National Park and Murrah Flora Reserves",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Expect short delays on roads and trails in Biamanga&#xA0;National Park and Murrah Flora Reserves from Monday 12&#xA0;May&#xA0;to Friday 13&#xA0;June&#xA0;2025. Roadworks will be underway. Drive safely and follow the directions of roadwork signs and NPWS staff.</p>\n\n<p>For more information, contact the local NPWS office.</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -2638,28 +2599,16 @@
         "Id": "56cdc0d8-8532-41f5-932b-0889fb26e2c8",
         "ItemName": "Burragorang-State-Conservation-Area"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
       "LastReviewed": "2025-06-06T08:38:04",
       "EffectiveFrom": "2025-03-10T06:00:00",
       "Categories": [
-        "Closed parks",
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11869601",
           "EffectiveFrom": "2025-05-01T08:00:00",
@@ -3155,7 +3104,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 6,
-      "LastReviewed": "2025-06-06T15:28:31",
+      "LastReviewed": "2025-06-14T09:28:15",
       "EffectiveFrom": "2025-01-30T10:20:34",
       "Categories": [
         "Closed areas"
@@ -3165,7 +3114,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11872601",
           "EffectiveFrom": "2025-04-28T14:13:01",
           "EffectiveTo": "2025-06-30T14:13:30",
-          "LastReviewed": "2025-06-06T15:28:31",
+          "LastReviewed": "2025-06-14T09:28:15",
           "Title": "Cattai National Park closed for construction works- Mitchell Park is open",
           "ItemName": null,
           "Category": "Closed areas",
@@ -3416,23 +3365,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-11T16:07:11",
+      "LastReviewed": "2025-05-19T10:03:40",
       "EffectiveFrom": "2025-02-13T09:55:44",
       "Categories": [
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11970501",
-          "EffectiveFrom": "2025-06-04T07:00:00",
-          "EffectiveTo": "2025-06-13T17:00:00",
-          "LastReviewed": "2025-06-11T16:07:11",
-          "Title": "Roadworks - Yalwal Creek Fire Trail, Old Burrier Road and Wattle Fire Trail",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Roadworks will be underway on fire trails in Colymea State Conservation Area and Morton&#xA0;National Park from Wednesday&#xA0;4&#xA0;June to Friday&#xA0;13&#xA0;June 2025.</p>\n\n<p>The trails to be closed include;</p>\n\n<ul>\n\t<li>Wattle Fire Trail</li>\n\t<li>Yalwal Creek Fire Trail</li>\n\t<li>Old Burrier Road</li>\n</ul>\n\n<p>Please follow the directions of roadwork signs, contractors and NPWS staff.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11699101",
           "EffectiveFrom": "2025-02-13T09:55:44",
@@ -3512,27 +3450,15 @@
         "ItemName": "Conjola-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-06T09:04:46",
+      "LastReviewed": "2025-05-19T10:03:40",
       "EffectiveFrom": "2024-04-16T11:41:47",
       "Categories": [
-        "Closed areas",
         "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11837701",
-          "EffectiveFrom": "2025-04-28T07:00:00",
-          "EffectiveTo": "2025-06-13T17:00:00",
-          "LastReviewed": "2025-06-06T09:04:46",
-          "Title": "Alamein Walk beach access - Conjola National Park",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Construction of the Alamein walking track beach access stairs&#xA0;in Conjola&#xA0;National Park&#xA0;will begin from Monday&#xA0;28&#xA0;April to Friday 13&#xA0;June&#xA0;2025.</p>\n\n<p>Access to the beach will be closed..</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11901101",
           "EffectiveFrom": "2025-05-07T07:00:00",
@@ -4961,35 +4887,6 @@
     },
     {
       "Park": {
-        "Name": "Ginghet Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/ginghet-nature-reserve",
-        "Id": "7de9ee2c-3fc2-4ad0-bda2-0b2bc53c57e4",
-        "ItemName": "Ginghet-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-09T08:42:44",
-      "EffectiveFrom": "2025-06-09T08:37:59",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11978601",
-          "EffectiveFrom": "2025-06-09T08:37:59",
-          "EffectiveTo": "2025-06-13T18:00:00",
-          "LastReviewed": "2025-06-09T08:42:44",
-          "Title": "Ground Shoot Operation Macquarie Marshes and GInghet Nature Reserves",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Evening and night ground shoot operations targeting feral cats will occur across Macquarie Marshes and Ginghet Nature Reserves from Monday 9th&#xA0;to Friday 13th June&#xA0;2025. Macquarie Marshes and Ginghet Nature Reserves are closed to the public, which applies during the period of the ground shoot operation. There is no impact to tourist attractions across the general Macquarie Marshes area.</p>\n\n<p>Please contact NPWS Baradine Office on 02 6843 4011 for further information.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Girralang Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/girralang-nature-reserve",
         "Id": "69cee354-5b36-452b-8389-75d900a79a46",
@@ -5517,28 +5414,16 @@
         "Id": "4970b342-c9f7-493d-ad07-fbc2cfd94586",
         "ItemName": "guula-ngurra-national-park"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 3,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2025-06-06T08:38:04",
       "EffectiveFrom": "2025-03-10T06:00:00",
       "Categories": [
-        "Closed parks",
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11917101",
           "EffectiveFrom": "2025-05-16T09:45:37",
@@ -6101,27 +5986,15 @@
         "Id": "e71bd95a-174f-45ad-bb4f-571031ea677d",
         "ItemName": "jellore-flora-reserve"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-05-30T14:54:19",
+      "LastReviewed": "2025-05-15T15:40:55",
       "EffectiveFrom": "2025-03-10T09:46:49",
       "Categories": [
-        "Closed parks",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11755701",
           "EffectiveFrom": "2025-03-10T09:46:49",
@@ -6304,27 +6177,15 @@
         "Id": "c6e075a7-cd8b-4b3e-94ec-7bf5ee3c50e6",
         "ItemName": "Joadja-Nature-Reserve"
       },
-      "Closed": true,
-      "PartClosed": true,
+      "Closed": false,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-06-06T08:38:04",
       "EffectiveFrom": "2025-05-01T08:00:00",
       "Categories": [
-        "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11869601",
           "EffectiveFrom": "2025-05-01T08:00:00",
@@ -7945,35 +7806,6 @@
     },
     {
       "Park": {
-        "Name": "Macquarie Marshes Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/macquarie-marshes-nature-reserve",
-        "Id": "231934fa-fa6a-4045-80d4-88a0d14624a4",
-        "ItemName": "Macquarie-Marshes-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-09T08:42:44",
-      "EffectiveFrom": "2025-06-09T08:37:59",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11978601",
-          "EffectiveFrom": "2025-06-09T08:37:59",
-          "EffectiveTo": "2025-06-13T18:00:00",
-          "LastReviewed": "2025-06-09T08:42:44",
-          "Title": "Ground Shoot Operation Macquarie Marshes and GInghet Nature Reserves",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Evening and night ground shoot operations targeting feral cats will occur across Macquarie Marshes and Ginghet Nature Reserves from Monday 9th&#xA0;to Friday 13th June&#xA0;2025. Macquarie Marshes and Ginghet Nature Reserves are closed to the public, which applies during the period of the ground shoot operation. There is no impact to tourist attractions across the general Macquarie Marshes area.</p>\n\n<p>Please contact NPWS Baradine Office on 02 6843 4011 for further information.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Macquarie Pass National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/macquarie-pass-national-park",
         "Id": "9b52daef-d6d1-47a6-bb6d-c30c86672cec",
@@ -8755,7 +8587,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-06-11T16:07:11",
+      "LastReviewed": "2025-06-14T06:53:19",
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
         "Closed areas",
@@ -8786,21 +8618,10 @@
           "IsKml": false
         },
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/11970501",
-          "EffectiveFrom": "2025-06-04T07:00:00",
-          "EffectiveTo": "2025-06-13T17:00:00",
-          "LastReviewed": "2025-06-11T16:07:11",
-          "Title": "Roadworks - Yalwal Creek Fire Trail, Old Burrier Road and Wattle Fire Trail",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Roadworks will be underway on fire trails in Colymea State Conservation Area and Morton&#xA0;National Park from Wednesday&#xA0;4&#xA0;June to Friday&#xA0;13&#xA0;June 2025.</p>\n\n<p>The trails to be closed include;</p>\n\n<ul>\n\t<li>Wattle Fire Trail</li>\n\t<li>Yalwal Creek Fire Trail</li>\n\t<li>Old Burrier Road</li>\n</ul>\n\n<p>Please follow the directions of roadwork signs, contractors and NPWS staff.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/11951701",
           "EffectiveFrom": "2025-05-30T09:00:00",
           "EffectiveTo": "2025-06-20T17:00:00",
-          "LastReviewed": "2025-06-06T09:03:20",
+          "LastReviewed": "2025-06-14T06:53:19",
           "Title": "Roads Closed: Endrick River Fire Trail",
           "ItemName": null,
           "Category": "Closed areas",
@@ -9716,35 +9537,6 @@
     },
     {
       "Park": {
-        "Name": "Murrah Flora Reserves",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/murrah-flora-reserves",
-        "Id": "dc5a212b-0f56-402a-bde9-5456e5a61ad5",
-        "ItemName": "murrah-flora-reserves"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-11T10:50:41",
-      "EffectiveFrom": "2025-05-12T07:00:00",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11863901",
-          "EffectiveFrom": "2025-05-12T07:00:00",
-          "EffectiveTo": "2025-06-13T17:00:00",
-          "LastReviewed": "2025-06-11T10:50:41",
-          "Title": "Road Delays in Biamanga National Park and Murrah Flora Reserves",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Expect short delays on roads and trails in Biamanga&#xA0;National Park and Murrah Flora Reserves from Monday 12&#xA0;May&#xA0;to Friday 13&#xA0;June&#xA0;2025. Roadworks will be underway. Drive safely and follow the directions of roadwork signs and NPWS staff.</p>\n\n<p>For more information, contact the local NPWS office.</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Murramarang National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/murramarang-national-park",
         "Id": "936831b9-e277-4ae9-bec3-459657ede797",
@@ -10162,27 +9954,15 @@
         "Id": "a2542be8-ccc7-42f5-b771-52ef8dc1f5c1",
         "ItemName": "Nattai-National-Park"
       },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 3,
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2025-06-06T08:38:04",
       "EffectiveFrom": "2024-09-18T14:22:32",
       "Categories": [
-        "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11869601",
           "EffectiveFrom": "2025-05-01T08:00:00",
@@ -10203,35 +9983,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from&#xA0;<strong>Monday 23rd September 2024 to Tuesday 23rd September 2025. </strong>The operation will use&#xA0;a Felixer containing 1080 (sodium fluoroacetate) poison for the control of feral cats, and approved meat baits, meat bait products, and Canid Pest Ejectors (CPE) for the control of foxes and wild dogs.</p>\n\n<p>The program will be conducted in Nattai National Park.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Hawkesbury-Nattai NPWS area&#xA0;office on <strong>(02) 4720 6200</strong> for more information.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Nattai State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nattai-state-conservation-area",
-        "Id": "16f1c319-9cba-47aa-b6c6-98bc4cb63936",
-        "ItemName": "Nattai-State-Conservation-Area"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-05-30T14:54:19",
-      "EffectiveFrom": "2025-05-20T13:40:03",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -11307,17 +11058,6 @@
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11996201",
-          "EffectiveFrom": "2025-06-13T05:00:00",
-          "EffectiveTo": "2025-06-13T19:00:00",
-          "LastReviewed": "2025-06-11T17:16:10",
-          "Title": "Wattamolla closed for essential maintenance",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Wattamolla will be closed for essential maintenance on Friday 13 June 2025. Walkers will be permitted to pass through the area, however the amenities and picnic area will not be available. Please follow directions from staff on site.</p>\n\n<p>&#xA0;</p>\n\n<p>For further information, please contact the Royal National Park Visitors Centre on 9542 0648</p>\n\n<p>&#xA0;</p>",
-          "IsKml": true
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11737401",
           "EffectiveFrom": "2025-03-11T06:00:00",
@@ -12677,14 +12417,13 @@
         "Id": "b11dd9a8-3e50-4a15-9076-5117feac91d9",
         "ItemName": "Upper-Nepean-State-Conservation-Area"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-06-13T15:41:32",
       "EffectiveFrom": "2025-03-10T06:00:00",
       "Categories": [
         "Closed areas",
-        "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
@@ -12698,17 +12437,6 @@
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Sections of Upper Nepean State Conservation Area are closed from 13 June to 20 June 2025 due to emergency ground operations.</p>\n\n<p>The closed areas are:&#xA0;</p>\n\n<ul>\n\t<li>North of Avon Dam Road</li>\n\t<li>West of Firetrail 5c</li>\n\t<li>South of Cow Creek tributary to Nepean River</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/prtzzq4ysz7r/b5bcdy65cufhh/si09ei5cwe31\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office on 02&#xA0;4720 6200.</p>",
           "IsKml": true
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11869601",
@@ -13416,7 +13144,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-06-06T15:46:52",
+      "LastReviewed": "2025-06-14T09:28:01",
       "EffectiveFrom": "2025-04-29T10:48:31",
       "Categories": [
         "Safety alerts",
@@ -13427,12 +13155,12 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11976601",
           "EffectiveFrom": "2025-06-06T15:41:34",
-          "EffectiveTo": "2025-06-16T10:00:00",
-          "LastReviewed": "2025-06-06T15:46:52",
+          "EffectiveTo": "2025-06-19T10:00:00",
+          "LastReviewed": "2025-06-14T09:28:01",
           "Title": "Rummery Park Pedestrian",
           "ItemName": null,
           "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Rummery Park pedestrian bridge is currently closed due to construction. The bridge will be closed from Friday 6 June to Monday 16 June 2025.</p>\n\n<p><br/>\nFor more information, contact the local NPWS Alstonville office 02 6627 0200 or email npws.richmondriver@environment.nsw.gov.au<br/>\n&#xA0;</p>",
+          "DescriptionHtml": "<p>Rummery Park pedestrian bridge is currently closed due to construction. The bridge will be closed from Friday 6 June to Thursday 19&#xA0;June 2025.</p>\n\n<p><br/>\nFor more information, contact the local NPWS Alstonville office 02 6627 0200 or email npws.richmondriver@environment.nsw.gov.au<br/>\n&#xA0;</p>",
           "IsKml": false
         },
         {
@@ -13967,35 +13695,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Some parts of this park are closed between&#xA0;<strong>Monday 16th June and Friday 20th June</strong>, <strong>2025</strong>&#xA0;while the Illoura Access Road is being upgraded. The closed areas are:</p>\n\n<ul>\n\t<li>Illoura Access Road</li>\n\t<li>Two Valley Trail between Johnston Street&#xA0;or Bexley Road&#xA0;and Illoura Reserve</li>\n</ul>\n\n<p>The trail will be closed to public access during this time. Please avoid the area until works have been completed.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Sydney South Area Office on 9337 5511.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Wollondilly River Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wollondilly-river-nature-reserve",
-        "Id": "a8c8a7c3-399a-4974-8360-2c62c5fcc1d1",
-        "ItemName": "Wollondilly-River-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-05-30T14:54:19",
-      "EffectiveFrom": "2025-05-20T13:40:03",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11924001",
-          "EffectiveFrom": "2025-05-20T13:40:03",
-          "EffectiveTo": "2025-06-13T22:00:00",
-          "LastReviewed": "2025-05-30T14:54:19",
-          "Title": "Park closed weekdays for aerial pest control operation: Mon 2 June - Friday 13 June 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>The following parks&#xA0;and reserves will be closed from Monday 2 June to Friday 13 June 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Bangadilly NP</li>\n\t<li>Burragorang SCA</li>\n\t<li>Guula Ngurra NP</li>\n\t<li>Jellore FR</li>\n\t<li>Joadja NR</li>\n\t<li>Nattai NP</li>\n\t<li>Nattai SCA</li>\n\t<li>Upper Nepean SCA</li>\n\t<li>Wollondilly River NR</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Excludes public holidays and weekends.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office on (02) 4720-6200.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -14608,9 +14307,21 @@
       "LastReviewed": "2025-06-11T08:40:57",
       "EffectiveFrom": "2021-01-06T12:37:38",
       "Categories": [
+        "Other planned events",
         "Other incidents"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11970201",
+          "EffectiveFrom": "2025-06-14T01:00:03",
+          "EffectiveTo": "2025-07-14T00:55:31",
+          "LastReviewed": "2025-06-04T12:37:41",
+          "Title": "Aerial 1080 Baiting Program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a ground and&#xA0;aerial baiting program using feral cat Eradicat baits, containing 1080 (sodium fluoroacetate). This baiting program is part of a trial study for feral cat management for the protection of wildlife.</p>\n\n<p>The 1080 baiting program will be conducted between <strong>14 June 2025</strong> and <strong>14 July 2025</strong> in the western section of <strong>Yathong Nature Reserve</strong>. All baiting locations will be identifiable by signs.</p>\n\n<p>Please be reminded that domestic pets are not permitted on NPWS managed lands. Pets, particularly&#xA0;working dogs and cats,&#xA0;may be affected and must be restrained or muzzled in the vicinity of the nature reserve and must not enter the baiting location (as 1080 is lethal to cats and dogs). In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>This program is subject to suitable weather conditions and public notifications will be updated if the program changes.</p>\n\n<p>For further information please contact the NPWS Central West Area office at Bathurst on (02) 6332 7640.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/6786122",
           "EffectiveFrom": "2021-01-06T12:37:38",
@@ -14803,7 +14514,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 12,
-      "LastReviewed": "2025-06-13T08:10:31",
+      "LastReviewed": "2025-06-14T09:39:47",
       "EffectiveFrom": "2017-04-12T11:03:34",
       "Categories": [
         "Closed areas",
@@ -14811,6 +14522,17 @@
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12001701",
+          "EffectiveFrom": "2025-06-14T09:34:11",
+          "EffectiveTo": "2025-06-23T09:35:42",
+          "LastReviewed": "2025-06-14T09:39:47",
+          "Title": "Pebbly Beach campground closed due to flooding and beach erosion effecting vehicle access",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Pebbly Beach campground closed due to flooding and beach erosion effecting vehicle access</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11829701",
           "EffectiveFrom": "2025-06-01T11:10:58",
@@ -14831,17 +14553,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Station Creek Beach closed to vehicle access due to access erosion.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11933701",
-          "EffectiveFrom": "2025-05-23T09:31:21",
-          "EffectiveTo": "2025-06-14T09:31:36",
-          "LastReviewed": "2025-06-13T08:10:31",
-          "Title": "Pebbly Beach campground closed due to flooding",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Pebbly Beach campground&#xA0;is closed from 23 May 2025 until further notice due to ongoing flooding.</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters, so you&#x2019;ll need to reschedule your visit and avoid travel through areas in this park. Check Live Traffic NSW for up-to-date information about road closures. For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.&#xA0;For more information, contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
