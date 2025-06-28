@@ -1016,13 +1016,12 @@
         "ItemName": "Berowra-Valley-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-06-24T16:25:57",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
         "Other planned events",
-        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
@@ -1046,17 +1045,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>Vegetation works will be carried out from Wednesday 25 June to Wednesday 9 July 2025 on the following fire trails in Berowra Valley National &amp; Regional Park:</p>\n\n<ul>\n\t<li>Lyrebird Gully Fire Trail&#xA0;</li>\n</ul>\n\n<ul>\n\t<li>Daphne Fire Trail</li>\n</ul>\n\n<ul>\n\t<li>Patricia Fire Trail</li>\n</ul>\n\n<ul>\n\t<li>Refuge Rock Fire Trail</li>\n</ul>\n\n<ul>\n\t<li>Carmen Fire Trail</li>\n</ul>\n\n<ul>\n\t<li>Kentia Fire Trail</li>\n</ul>\n\n<ul>\n\t<li>Barkala Fire Trail</li>\n</ul>\n\n<p>Walkers permitted but there may be delays. Please follow all signage and instructions from NPWS staff and contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/pot4mi9th3u1/b4pxn425jsgs0/shcvw29xmx1b\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney area office on 02 8448 0400.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11852101",
-          "EffectiveFrom": "2025-04-21T09:00:00",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-06-20T08:48:43",
-          "Title": "Simon Trail Maintenance",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Surface and vegetation works will be carried out on the Simon Trail from Monday 28 April&#xA0;until Friday 27&#xA0;June&#xA0;2025, weather permitting.</p>\n\n<p>Walkers permitted but there may be delays. Please follow all signage and instructions from NPWS staff and contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/pot4mi9th3u1/b4pxn425jsgs0/shcvw29xmx1b\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney area office on 02 8448 0400.</p>",
           "IsKml": false
         },
         {
@@ -1944,6 +1932,35 @@
     },
     {
       "Park": {
+        "Name": "Brunswick Heads Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/brunswick-heads-nature-reserve",
+        "Id": "e2578500-52b1-45d9-8d5c-bbc030785e3e",
+        "ItemName": "Brunswick-Heads-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-06-28T11:29:50",
+      "EffectiveFrom": "2025-06-28T11:25:14",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12051701",
+          "EffectiveFrom": "2025-06-28T11:25:14",
+          "EffectiveTo": "2025-06-28T18:00:00",
+          "LastReviewed": "2025-06-28T11:29:50",
+          "Title": "North Head Road closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>North Head Road closure Saturday 28 June from 1130 to 1800&#xA0;due to wildlife management&#xA0;</p>",
+          "IsKml": true
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Budawang National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/budawang-national-park",
         "Id": "5a50fd2c-3301-4d51-ad2b-a765ad343291",
@@ -2190,24 +2207,13 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-25T15:12:38",
+      "LastReviewed": "2025-06-20T09:05:49",
       "EffectiveFrom": "2024-09-19T16:12:04",
       "Categories": [
         "Safety alerts",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12002301",
-          "EffectiveFrom": "2025-06-18T07:00:00",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-06-25T15:12:38",
-          "Title": "Gap Rd maintenance roadworks",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Roadworks will be underway on Gap Rd from Wednesday&#xA0;18&#xA0;June to Friday&#xA0;27&#xA0;June 2025. The road may be uneven and slippery during this time. Please be mindful of machinery operating during this time, drive safely and follow the directions of roadwork signs and NPWS staff.</p>\n\n<p>For more information please contact the Alstonville NPWS Office on 02 6627 0200.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11959201",
           "EffectiveFrom": "2025-06-02T10:30:00",
@@ -2467,17 +2473,6 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) Hawkesbury-Nattai Area will be conducting&#xA0;a Special Areas Catchment Pig Control Program&#xA0;in the following areas below.</p>\n\n<p>- Nattai National Park &#xA0;</p>\n\n<p>- Nattai State Conservation Area,&#xA0;</p>\n\n<p>&#xA0;including the following Trails -&#xA0;W4I, W4H, Valley Roads and Burragorang Valley</p>\n\n<p>&#xA0;</p>\n\n<p>The operation consists of the following Control Methods</p>\n\n<p>&#xA0;</p>\n\n<p>*The Use of Hoggone (Sodium Nitrite) bait</p>\n\n<p>Hoggone contains peanuts. Anyone with a Peanut allergy is advised not to handle bait product.</p>\n\n<p>Hoggone is lethal to pets and domestic animals, so it is recommended that you contain any livestock or animals during the program.</p>\n\n<p>&#xA0;</p>\n\n<p>*Pig trapping through Nattai NP and SCA and Burragorang SCA during this period through the W4I, W4H, Valley Roads and Burragorang Valley.</p>\n\n<p>This will involve the use of firearms to shoot pigs in traps.</p>\n\n<p>&#xA0;</p>\n\n<p>Signage and a site assessment will be undertaken before any firearms are discharged; however, staff and contractors should be aware.</p>\n\n<p>&#xA0;</p>\n\n<p>A contractor will also be used for pig trapping in the Southern section of our program.</p>\n\n<p>&#xA0;</p>\n\n\n\n<p><a href=\"http://click.ngcomms.net/prtzzq4ysz7r/b5bcdy65cufhh/si09ei5cwe31\">Penalties apply for non-compliance</a>. For more information, contact the local park office (02) 4720 6200.</p>",
           "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12001501",
-          "EffectiveFrom": "2025-06-16T00:00:01",
-          "EffectiveTo": "2025-06-27T23:59:00",
-          "LastReviewed": "2025-06-19T12:02:44",
-          "Title": "Burragorang Lookout Road – closed for road repairs 16/6/2025 - 27/6/2025 Including Weekends",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Burragorang Lookout Road in Burragorang State Conservation Area will be closed to all park users for repairs and maintenance from Monday 16 June 2025 until Friday 27 June 2025 including Weekends.</p>\n\n<p>&#xA0;</p>\n\n<p>Areas affected will include:</p>\n\n<p>&#x2022; Burragorang Lookout Road<br/>\n&#x2022; Burragorang Lookout and picnic area</p>\n\n<p>&#xA0;</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the local park office (02) 4720 6200.<br/>\n&#xA0;</p>",
-          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11869601",
@@ -3022,35 +3017,6 @@
     },
     {
       "Park": {
-        "Name": "Clyde River National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/clyde-river-national-park",
-        "Id": "8740422e-efee-409b-bded-46e278f8daf3",
-        "ItemName": "Clyde-River-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 3,
-      "LastReviewed": "2025-06-19T09:42:18",
-      "EffectiveFrom": "2025-06-23T06:00:00",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12023301",
-          "EffectiveFrom": "2025-06-23T06:00:00",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-06-19T09:42:18",
-          "Title": "Road Works in Clyde River National Park",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Road works will be occurring in Clyde River National Park from Monday 23 June&#xA0;to Friday 27&#xA0;June 2025.</p>\n\n<ul>\n\t<li>Beach Campground and Beach Camp Road will be closed during these works.</li>\n\t<li>Chinaman&#x2019;s Point Road will remain open with warning signs.</li>\n\t<li>Holmes Lookout and Red Gum Campground will remain open and unaffected.</li>\n</ul>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Cobbora State Conservation Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/cobbora-state-conservation-area",
         "Id": "29171daa-70d3-4af0-928f-54d6a85238cd",
@@ -3285,7 +3251,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2025-06-24T09:56:25",
+      "LastReviewed": "2025-06-28T09:03:34",
       "EffectiveFrom": "2025-04-16T06:00:00",
       "Categories": [
         "Closed areas",
@@ -3318,7 +3284,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11888101",
           "EffectiveFrom": "2025-05-01T17:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-05-27T10:18:27",
+          "LastReviewed": "2025-06-28T09:03:34",
           "Title": "Restricted access to Coolah Tops National Park - 4WD recommended",
           "ItemName": null,
           "Category": "Other incidents",
@@ -4131,17 +4097,6 @@
           "IsKml": false
         },
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/11727101",
-          "EffectiveFrom": "2025-04-15T07:00:00",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-06-03T15:06:54",
-          "Title": "Delays on Blackfellows Point Road, Potato Point",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Expect short delays on Blackfellows Point Road, Potato Point&#xA0;from Monday 28 April&#xA0;to Friday 27&#xA0;June&#xA0;2025. Roadworks will be underway. Drive safely and follow the directions of roadwork signs, NPWS staff and their authorised contractors.</p>\n\n<p>Pedestrians are to avoid entering closed / works areas during this time. <a href=\"http://click.ngcomms.net/pxu70m55vx4u/b7uqziu5jsy6n/smyefy9flxii\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office on 02 4476 0800.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/2588321",
           "EffectiveFrom": "2015-10-21T11:57:17",
           "EffectiveTo": "2027-05-28T14:58:29",
@@ -4193,7 +4148,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-27T16:15:30",
+      "LastReviewed": "2025-06-28T09:57:56",
       "EffectiveFrom": "2025-06-25T10:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -4203,7 +4158,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12026501",
           "EffectiveFrom": "2025-06-25T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-06-27T16:15:30",
+          "LastReviewed": "2025-06-28T09:57:56",
           "Title": "Tingarra HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -5086,7 +5041,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 6,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2025-06-23T09:18:55",
       "EffectiveFrom": "2025-02-17T10:03:30",
       "Categories": [
@@ -5102,17 +5057,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>The Talisman Gallery at Hartley Historic Site is closed from Monday 17 February 2025 until further notice.</p>\n\n<p>For more information, please contact Hartley Visitor Centre on 02 6355 2117.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11955401",
-          "EffectiveFrom": "2025-05-30T09:27:31",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-05-30T09:39:52",
-          "Title": "Hartley Historic Site Visitor Centre - temporary closure",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Hartley Historic Site Visitor Centre is closed from 30 May to 27 June 2025 for roof replacement works. During these works there will be no self-guided tours of Hartley Courthouse and Former St Bernards Church and Kew-Y-Ahn Aboriginal Gallery will be closed.</p>\n\n<p>For your safety, please follow all signs and directions of NPWS staff and contractors. The landline will not be monitored during these works. For more information, please call 0448 444 257 or email <a href=\"mailto:hartley@environment.nsw.gov.au\">hartley@environment.nsw.gov.au</a>.</p>",
           "IsKml": false
         }
       ]
@@ -5653,7 +5597,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-08T16:02:06",
+      "LastReviewed": "2025-06-28T09:02:35",
       "EffectiveFrom": "2024-02-01T10:07:42",
       "Categories": [
         "Closed parks"
@@ -5663,11 +5607,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10562301",
           "EffectiveFrom": "2024-02-01T10:07:42",
           "EffectiveTo": "2025-12-31T10:08:01",
-          "LastReviewed": "2025-06-08T16:02:06",
+          "LastReviewed": "2025-06-28T09:02:35",
           "Title": "Jubullum Flat Camp closed",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>Jubullum Flat Camp Aboriginal Area is closed until further notice due to hazardous trees and related works.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/o4m9bl52eqr9/a889ueh5jufne/qubhuh59dnw4\">Penalties apply for non-compliance</a>. For more information, contact the Kyogle NPWS office on 02 6632 0000.</p>",
+          "DescriptionHtml": "<p>Jubullum Flat Camp Aboriginal Area is closed until further notice due to hazardous trees and related works.</p>\n\n<p><a href=\"http://click.ngcomms.net/o4m9bl52eqr9/a889ueh5jufne/qubhuh59dnw4\">Penalties apply for non-compliance</a>. For more information, contact the Kyogle NPWS office on 02 6632 0000.</p>",
           "IsKml": false
         }
       ]
@@ -5682,24 +5626,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T08:47:37",
+      "LastReviewed": "2025-06-20T17:20:11",
       "EffectiveFrom": "2021-10-13T16:28:48",
       "Categories": [
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12026101",
-          "EffectiveFrom": "2025-06-23T12:00:00",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-06-23T08:47:37",
-          "Title": "Limited carparking due to special event",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The carpark at Cape Banks Road will have limited parking from 1pm Monday 23&#xA0;June 2025 to Friday 27&#xA0;June 2025. This closure is due to a special event taking place in La Perouse.</p>\n\n<ul>\n\t<li>Accessible parking will be available.</li>\n\t<li>Some delays are expected on parts of the Cape Banks fire trail and the coastal trail</li>\n</ul>\n\n<p>All other locations in the&#xA0;La Perouse area in Kamay Botany Bay National Park will be unaffected.</p>\n\n<p>Please follow the directions of NPWS staff. For more information, contact the local park office on 02&#xA0;9337 5511.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12027401",
           "EffectiveFrom": "2025-06-20T17:04:03",
@@ -6050,35 +5983,6 @@
     },
     {
       "Park": {
-        "Name": "Kinchega National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kinchega-national-park",
-        "Id": "4aa5c807-2692-4d42-8a1e-71b154512d16",
-        "ItemName": "Kinchega-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-27T10:11:42",
-      "EffectiveFrom": "2025-06-27T10:06:04",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12049901",
-          "EffectiveFrom": "2025-06-27T10:06:04",
-          "EffectiveTo": "2025-07-01T06:00:00",
-          "LastReviewed": "2025-06-27T10:11:42",
-          "Title": "River Drive from campsite 31-34 remains closed",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>River Drive from campsite 31-34 remains closed for the moment while vegetation works are done to prepare this section of road for reopening.&#xA0; This lower section of River Drive will reopen on 1 July 2025 and from that date there will again be access to boiler of the Paddle Steamer Providence via River Drive&#xA0;.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Koolewong Flora Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/koolewong-flora-reserve",
         "Id": "eff5d6f5-7141-49c8-a4c0-1a76012a66ec",
@@ -6145,14 +6049,36 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-24T13:53:43",
+      "LastReviewed": "2025-06-28T14:22:52",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
-        "Other planned events",
         "Safety alerts",
+        "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12051801",
+          "EffectiveFrom": "2025-06-28T14:04:18",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-06-28T14:07:43",
+          "Title": "Ngarigo campground access - exercise caution",
+          "ItemName": null,
+          "Category": "Safety alerts",
+          "DescriptionHtml": "<p>Please be aware that the Ngarigo campground access road is currently snow-covered and may pose a hazard to vehicles exiting and entering the campground, particularly in the mornings when snow cover is frozen.&#xA0;</p>\n\n<p>Please exercise caution when using the road. Park users are reminded that penalties apply for failing to carry tyre chains in Kosciuszko National Park during winter (4WDs exempt).</p>\n\n<p>For more information, please contact the NPWS Jindabyne office on (02) 6450 5555.&#xA0;</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12051101",
+          "EffectiveFrom": "2025-06-28T09:09:20",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-06-28T09:12:19",
+          "Title": "Tom Groggin Station - suspension bridge closed",
+          "ItemName": null,
+          "Category": "Safety alerts",
+          "DescriptionHtml": "<p>The suspension footbridge crossing the Murray River (Victorian border) at Tom Groggin Station is unsafe for pedestrian access and is closed until further notice.</p>\n\n<p>Penalties apply for non-compliance.</p>\n\n<p>For further information, please contact the Jindabyne NPWS office on (02) 6450 5555.&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12036401",
           "EffectiveFrom": "2025-06-24T13:43:25",
@@ -6179,7 +6105,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11941101",
           "EffectiveFrom": "2025-06-10T07:00:00",
           "EffectiveTo": "2025-06-30T19:00:00",
-          "LastReviewed": "2025-06-20T08:25:10",
+          "LastReviewed": "2025-06-28T14:22:52",
           "Title": "Aerial pest control operation",
           "ItemName": null,
           "Category": "Closed areas",
@@ -7094,24 +7020,12 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T09:17:34",
+      "LastReviewed": "2025-06-23T08:37:21",
       "EffectiveFrom": "2025-02-14T08:14:01",
       "Categories": [
-        "Closed areas",
         "Closed parks"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12029301",
-          "EffectiveFrom": "2025-06-23T09:17:00",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-06-23T09:17:34",
-          "Title": "Maroota (Simpson's Hill) fire trail closed for maintenance",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Simpson's Hill fire trail, within Maroota Historic Site, will be closed for essential maintenance from Friday 23 May until Friday 6 June 2025, weather permitting.</p>\n\n<p><a href=\"http://click.ngcomms.net/pot4mi9th3u1/b4pxn425jsgs0/shcvw29xmx1b\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney area office on 02 8448 0400</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11700701",
           "EffectiveFrom": "2025-02-14T08:14:01",
@@ -8432,17 +8346,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Durras Lake is currently open to the ocean</p>\n\n<p>Murramarang South Coast Walkers be advised that walking across the lake opening is potentially dangerous.</p>\n\n<p>For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11862701",
-          "EffectiveFrom": "2025-04-28T07:00:00",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-06-23T11:07:12",
-          "Title": "Ryans Creek Road Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Ryans Creek Road in Murramarang&#xA0;National Park is closed for&#xA0;bridge replacement&#xA0;and repair work&#xA0;from Monday 28&#xA0;April&#xA0;to Friday 27&#xA0;June&#xA0;2025.</p>\n\n<p><a href=\"http://click.ngcomms.net/pwkv8655vwuy/b7dk7r29j1pqq/slqbk652bp9p\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
@@ -10306,7 +10209,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 3,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2025-06-26T13:33:11",
       "EffectiveFrom": "2022-03-25T16:56:42",
       "Categories": [
@@ -10323,17 +10226,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from&#xA0;Monday 3&#xA0;March&#xA0;2025&#xA0;to Monday 29&#xA0;September&#xA0;2025. The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and/or foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species and&#xA0;will take place in:</p>\n\n<ul>\n\t<li>Araluen Nature Reserve</li>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Beowa National Park</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Bondi Gulf Nature Reserve</li>\n\t<li>Bournda National Park</li>\n\t<li>Bournda Nature Reserve</li>\n\t<li>Coolumbooka Nature Reserve</li>\n\t<li>Deua National Park</li>\n\t<li>Eurobodalla National Park</li>\n\t<li>Kooraban National Park</li>\n\t<li>Majors Creek State Conservation Area</li>\n\t<li>Mimosa Rocks National Park</li>\n\t<li>Monga National Park and State Conservation Area</li>\n\t<li>South East Forest National Park</li>\n\t<li>Wadbilliga National Park</li>\n</ul>\n\n<p>Signs will be placed at the entry to baiting locations. Domestic pets are not permitted in NSW National Parks managed lands.</p>\n\n<p>Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For further information call the NPWS Merimbula area office on 02 6495 5000.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11973701",
-          "EffectiveFrom": "2025-06-23T15:48:56",
-          "EffectiveTo": "2025-06-28T15:49:23",
-          "LastReviewed": "2025-06-13T10:06:29",
-          "Title": "SEFNP - Packers Swamp, Nunnock Swamp and Alexanders Hut closed for ground pest control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Packers Swamp/Nunnock Swamp/ Dragon Swamp sections of South East Forest National Park will be closed from 8am Monday 23rd June to 8am Saturday 28th June for a ground pest control operation.</p>\n\n<p>The closed areas include:</p>\n\n<ul>\n\t<li>Nunnock campground</li>\n\t<li>Nunnock grasslands walking tracks</li>\n\t<li>Alexanders Hut</li>\n\t<li>Alexanders Hut campground</li>\n\t<li>Packers Swamp</li>\n\t<li>Dragon Swamp</li>\n</ul>\n\n<p>This operation will involve ground shooting of deer and feral pigs during day time or night as required. It aims to reduce the significant impact invasive species have on native plants and animals including threatened species. Other pest animals, including foxes and wild dogs may be targeted if observed during the operation.</p>\n\n<p>Park closure warning signs will be placed at entrances to the shooting area. Do not enter the closed area during shooting periods <a href=\"http://click.ngcomms.net/mgd7d54zjl8s/9hk4x4t5318yn/pd7sh156ilk3\">Penalties apply for non-compliance</a>.</p>\n\n<p>The following campgrounds will remain open to the public:</p>\n\n<ul>\n\t<li>Six Mile Creek campground</li>\n\t<li>Postmans campground</li>\n</ul>\n\n<p>For more information, contact the Merimbula NPWS office (02) 6495 5000.</p>",
           "IsKml": false
         },
         {
@@ -11082,7 +10974,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-06-26T18:08:11",
+      "LastReviewed": "2025-06-28T15:18:34",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
         "Closed areas",
@@ -11093,7 +10985,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12024701",
           "EffectiveFrom": "2025-05-19T10:19:02",
           "EffectiveTo": null,
-          "LastReviewed": "2025-06-26T18:08:11",
+          "LastReviewed": "2025-06-28T15:18:34",
           "Title": "Samurai Beach Access and Campground temporarily closed due to flooding",
           "ItemName": null,
           "Category": "Closed areas",
@@ -11133,22 +11025,23 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 3,
-      "LastReviewed": "2025-06-13T16:26:27",
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2025-06-28T09:01:32",
       "EffectiveFrom": "2024-12-02T08:01:47",
       "Categories": [
+        "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/11955601",
-          "EffectiveFrom": "2025-05-30T13:54:34",
-          "EffectiveTo": "2025-06-30T13:55:11",
-          "LastReviewed": "2025-06-13T16:26:27",
-          "Title": "Iron Pot Creek campground closed 16 to 18 June",
+          "ID": "npws-fis@id.ngcomms.net/eme/12051001",
+          "EffectiveFrom": "2025-06-28T08:58:36",
+          "EffectiveTo": "2025-10-31T08:59:07",
+          "LastReviewed": "2025-06-28T09:01:32",
+          "Title": "Murray Scrub Road - 2WD access dry weather only",
           "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Iron Pot Creek campground will be closed for road works from 16 to 18&#xA0;June 2025.</p>\n\n<p>Murray Scrub Walking Track will remain open and accessible via&#xA0;Murray Scrub Road.</p>\n\n<p><a href=\"http://click.ngcomms.net/pcbv3a5a09h9/ay5cvsm4sj0cv/s66r465jveo5\">Penalties apply for non-compliance</a>. For more information, contact Kyogle NPWS office on 02 6632 0000 or email <a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">npws.richmondriver@environment.nsw.gov.au</a></p>",
+          "Category": "Safety alerts",
+          "DescriptionHtml": "<p/>\n\n<p>Murray Scrub Road&#xA0;access is limited to dry weather only for 2WD vehicles until future surface works occur.</p>\n\n<p>We apologies for any inconvenience. For more information, contact the Kyogle NPWS office on 02 6632 0000 or npws.richmondriver@environment.nsw.gov.au.</p>",
           "IsKml": false
         },
         {
@@ -11230,35 +11123,6 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Toorale National Park and&#xA0; State Conservation area will be closed from the 27th June to 4th July for a ground pest operation&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Torrington State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/torrington-state-conservation-area",
-        "Id": "27ce9b56-0fab-43eb-a7b4-4648caf9dd4d",
-        "ItemName": "Torrington-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-20T09:52:59",
-      "EffectiveFrom": "2025-06-17T07:00:00",
-      "Categories": [
-        "Safety alerts"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12025601",
-          "EffectiveFrom": "2025-06-17T07:00:00",
-          "EffectiveTo": "2025-06-27T17:00:00",
-          "LastReviewed": "2025-06-20T09:52:59",
-          "Title": "Roadworks Butlers Road",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>There will be roadworks occuring&#xA0;along Butlers Road from 7am Tuesday 17 June to 5pm Friday 27 June 2025. If accessing Butlers Road,&#xA0;you are required to obey all roadwork signage, directing traffic around the roadworks. <a href=\"http://click.ngcomms.net/q1aaj59wyrad/b9er1zt5gd9h7/sqyax59mhlhr\">Penalties apply for non-compliance</a>. For more information, please call the NPWS Northern Tablelands Area office on 02 6739 0700.</p>",
           "IsKml": false
         }
       ]
@@ -12309,7 +12173,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-06-20T08:34:35",
+      "LastReviewed": "2025-06-28T10:41:52",
       "EffectiveFrom": "2025-05-24T09:02:25",
       "Categories": [
         "Closed parks"
@@ -12319,7 +12183,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11937101",
           "EffectiveFrom": "2025-05-24T09:02:25",
           "EffectiveTo": "2025-06-30T17:00:00",
-          "LastReviewed": "2025-06-20T08:34:35",
+          "LastReviewed": "2025-06-28T10:41:52",
           "Title": "Woko National Park visitor areas and walking tracks temporarily closed due to flooding / severe weather",
           "ItemName": null,
           "Category": "Closed parks",
@@ -13305,17 +13169,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Forest Corporation NSW will be conducting&#xA0;hauling operations on&#xA0;McPhillips Road, involving the use of logging trucks. An end date for the operation is unknown.</p>\n\n<p>Please take care when driving along McPhillips Road and be cautious of approaching heavy vehicles.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12029601",
-          "EffectiveFrom": "2025-06-23T10:51:21",
-          "EffectiveTo": "2025-06-27T16:51:54",
-          "LastReviewed": "2025-06-23T10:55:47",
-          "Title": "Winter Maintenance Grading Sandon Road",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Winter maintenance grading is underway on the Sandon Road. Visitors should anticipate earthmoving machinery on the road and short delays associated with the work.&#xA0;</p>",
           "IsKml": false
         },
         {
