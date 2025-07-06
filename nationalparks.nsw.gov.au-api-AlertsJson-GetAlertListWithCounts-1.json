@@ -1204,7 +1204,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-26T16:22:56",
+      "LastReviewed": "2025-07-06T10:08:12",
       "EffectiveFrom": "2025-05-27T14:36:58",
       "Categories": [
         "Closed parks"
@@ -1214,7 +1214,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11943301",
           "EffectiveFrom": "2025-05-27T14:36:58",
           "EffectiveTo": "2025-07-31T13:47:05",
-          "LastReviewed": "2025-06-26T16:22:56",
+          "LastReviewed": "2025-07-06T10:08:12",
           "Title": "Black Bulga State Conservation Area is closed until further notice due impacts from severe weather event",
           "ItemName": null,
           "Category": "Closed parks",
@@ -2022,7 +2022,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-03T08:33:35",
+      "LastReviewed": "2025-07-06T09:19:29",
       "EffectiveFrom": "2024-09-19T16:12:04",
       "Categories": [
         "Safety alerts",
@@ -2033,7 +2033,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11959201",
           "EffectiveFrom": "2025-06-02T10:30:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-06-20T09:05:49",
+          "LastReviewed": "2025-07-06T09:19:29",
           "Title": "Frazers Beach Entrance - Washed out",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -2396,14 +2396,26 @@
         "ItemName": "Capertee-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-05-08T09:03:25",
+      "PartClosed": true,
+      "ClosedAreasCount": 5,
+      "LastReviewed": "2025-06-24T10:23:12",
       "EffectiveFrom": "2020-12-24T09:34:30",
       "Categories": [
+        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12035601",
+          "EffectiveFrom": "2025-07-06T10:14:40",
+          "EffectiveTo": "2025-07-11T17:15:04",
+          "LastReviewed": "2025-06-24T10:23:12",
+          "Title": "Capertee National Park is closed for a ground pest management operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Capertee National Park is closed from 6am on&#xA0;Monday the 7th of July until&#xA0;5pm Friday the 11th of July 2025 for ground shooting of feral animals.&#xA0;</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office in Mudgee on 6370 9000</p>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/6769922",
           "EffectiveFrom": "2020-12-24T09:34:30",
@@ -4133,6 +4145,35 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Many national parks and reserves in the Manning Great Lakes&#xA0;and surrounding areas are closed until further notice&#xA0;due to widespread flooding and weather impacts. Many creek crossings, roads and trails are impassable due to severe rainfall causing dangerous conditions.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>Parks will re-open as soon as staff assess conditions and determine them safe for visitation.</p>\n\n<p>&#xA0;</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters. Roads into and throughout the park may also be closed. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information and contact the local park office on (02) 6552 4097.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.&#xA0;</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Goulburn River National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/goulburn-river-national-park",
+        "Id": "7a501033-9dc2-4d0e-b406-dab93dda5f29",
+        "ItemName": "Goulburn-River-National-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-06-24T10:28:15",
+      "EffectiveFrom": "2025-07-06T10:23:14",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12035701",
+          "EffectiveFrom": "2025-07-06T10:23:14",
+          "EffectiveTo": "2025-07-11T10:24:07",
+          "LastReviewed": "2025-06-24T10:28:15",
+          "Title": "Areas of Goulburn River NP and Wollemi NP are closed for ground pest control operation.",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some areas in this park are closed from 6 am, Monday, the 7th of July to 5pm, Friday, 11th of July 2025&#xA0;for ground shooting of&#xA0;feral animals. The closed areas are:</p>\n\n<p>Wollemi NP</p>\n\n<ul>\n\t<li>Canobla Gap trail&#xA0;</li>\n</ul>\n\n<p>Goulburn River NP</p>\n\n<ul>\n\t<li>Thompsons Flat trail</li>\n\t<li>Morrisons Flat Trail</li>\n\t<li>Tunnel Trail</li>\n\t<li>Drummers Flat Trail&#xA0;</li>\n</ul>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office in Mudgee on 6370 9000.&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -9811,35 +9852,6 @@
     },
     {
       "Park": {
-        "Name": "Tilligerry State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/tilligerry-state-conservation-area",
-        "Id": "d37526f5-77fe-4acd-b52a-8e4872e6e574",
-        "ItemName": "Tilligerry-State-Conservation-Area"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T07:34:22",
-      "EffectiveFrom": "2025-06-09T10:08:11",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11978801",
-          "EffectiveFrom": "2025-06-09T10:08:11",
-          "EffectiveTo": "2025-07-07T10:12:16",
-          "LastReviewed": "2025-06-23T07:34:22",
-          "Title": "Tilligerry State Conservation Area pest control operation 23 June to 7 July 2025",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Tilligerry State Conservation Area has&#xA0;a pest animal control operation from 23 June to 7 July 2025.</p>\n\n<p>Tilligerry State Conservation Area is permanently closed to the public to protect the Tomago drinking water catchment.</p>\n\n<p>&#xA0;</p>\n\n<p>Please observe all signage and instructions from staff during this time. Please ensure all pets are not entering the park and are contained to private properties.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Hunter Coast office on 02 4984 08200.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Timmallallie National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/timmallallie-national-park",
         "Id": "3b709b18-5576-4901-a95d-137dd92f35d3",
@@ -9906,30 +9918,18 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-07-03T09:39:19",
+      "LastReviewed": "2025-07-06T08:38:04",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
-        "Safety alerts",
         "Closed areas",
         "Other incidents"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12055801",
-          "EffectiveFrom": "2025-06-30T14:12:25",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-06-30T15:19:35",
-          "Title": "Safety Alert Severe Weather Conditions expected to impact Tomaree National Park and surrounds",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Due to the current warnings of a possible East Coast Low visitors are advised of a safety alert for&#xA0;Tomaree National Park.</p>\n\n<p>Tomaree National Park is expected&#xA0;to be impacted by damaging high winds and heavy rain, with potential for falling trees, localised landslips, and flooding.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>The following areas impacted by this event include:</p>\n\n<ul>\n\t<li>Tomaree Coastal Walk</li>\n\t<li>Tomaree Head Summit Walk</li>\n\t<li>Tomaree Head lookout storytelling point</li>\n\t<li>World War II Gun Emplacements</li>\n\t<li>Fort Tomaree Walk&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>This safety alert is in effect from <strong>30th June 2025 to 4th July 2025</strong>. Staff will continually assess the conditions as they change.</p>\n\n<p>&#xA0;</p>\n\n<p>Please remember to check conditions before arriving, and if in doubt, save your visit for another day.</p>\n\n<p>Please follow the directions of National Parks and Wildlife Service personnel and/or signage.<br/>\n&#xA0;</p>\n\n<p>For more information, please contact the NPWS Nelson Bay area office on 02 4984 8200 from 8.30am to 4.30pm, Monday to Friday, excluding public holidays.</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/12024701",
           "EffectiveFrom": "2025-06-30T10:19:02",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-03T09:39:19",
+          "LastReviewed": "2025-07-06T08:37:35",
           "Title": "Samurai Beach Access and Campground temporarily closed due to flooding",
           "ItemName": null,
           "Category": "Closed areas",
@@ -9940,7 +9940,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11815301",
           "EffectiveFrom": "2025-04-03T11:10:53",
           "EffectiveTo": null,
-          "LastReviewed": "2025-06-23T07:34:52",
+          "LastReviewed": "2025-07-06T08:38:04",
           "Title": "Tomaree Head - Wet Weather Safety Alert",
           "ItemName": null,
           "Category": "Other incidents",
@@ -10216,27 +10216,15 @@
         "Id": "f72f523e-8dfa-4617-ba6c-fc0529b7000f",
         "ItemName": "Wallaroo-National-Park"
       },
-      "Closed": true,
-      "PartClosed": true,
+      "Closed": false,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T07:34:37",
+      "LastReviewed": "2023-11-04T10:32:07",
       "EffectiveFrom": "2023-06-08T18:07:03",
       "Categories": [
-        "Closed parks",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11978701",
-          "EffectiveFrom": "2025-06-16T09:51:37",
-          "EffectiveTo": "2025-07-06T19:52:52",
-          "LastReviewed": "2025-06-23T07:34:37",
-          "Title": "Wallaroo National Park closed from 23 June to 6 July 2025 for pest animal control.",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Wallaroo National Park closed from 23 June to 7 July 2025 for a pest animal control operation. Please observe all signage and instructions from staff during this time.&#xA0;</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Hunter Coast&#xA0;office on 02 4984 08200.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/9581201",
           "EffectiveFrom": "2023-06-08T18:07:03",
@@ -10964,6 +10952,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>The section of Glow Worm Tunnel walking track from the Glow Worm Tunnel exit to the 'four ways' intersection, Wolgan Valley will remain closed until further notice.</p>\n\n<p>Recent heavy rainfall has caused landslips along this section of Glow Worm Tunnel walking track.</p>\n\n<p>The Glow Worm Tunnel can still be accessed via the Glow Worm Tunnel carpark. Newnes Industrial Ruins and the Newnes Campgrounds can only be accessed via the Pipeline Track from Glen Davis or by Old Coach Road.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Kanangra Area Office on (02) 6336 6200.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12035701",
+          "EffectiveFrom": "2025-07-06T10:23:14",
+          "EffectiveTo": "2025-07-11T10:24:07",
+          "LastReviewed": "2025-06-24T10:28:15",
+          "Title": "Areas of Goulburn River NP and Wollemi NP are closed for ground pest control operation.",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some areas in this park are closed from 6 am, Monday, the 7th of July to 5pm, Friday, 11th of July 2025&#xA0;for ground shooting of&#xA0;feral animals. The closed areas are:</p>\n\n<p>Wollemi NP</p>\n\n<ul>\n\t<li>Canobla Gap trail&#xA0;</li>\n</ul>\n\n<p>Goulburn River NP</p>\n\n<ul>\n\t<li>Thompsons Flat trail</li>\n\t<li>Morrisons Flat Trail</li>\n\t<li>Tunnel Trail</li>\n\t<li>Drummers Flat Trail&#xA0;</li>\n</ul>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office in Mudgee on 6370 9000.&#xA0;</p>",
           "IsKml": false
         },
         {
