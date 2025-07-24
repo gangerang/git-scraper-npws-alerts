@@ -846,7 +846,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-18T15:14:06",
+      "LastReviewed": "2025-07-24T10:09:06",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
         "Other planned events",
@@ -868,7 +868,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10562701",
           "EffectiveFrom": "2024-02-01T12:07:54",
           "EffectiveTo": "2026-02-05T17:00:00",
-          "LastReviewed": "2025-07-14T09:37:19",
+          "LastReviewed": "2025-07-24T10:09:06",
           "Title": "Swimming safety in Berowra Valley National Park",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -887,7 +887,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-14T09:37:19",
+      "LastReviewed": "2025-07-24T10:09:06",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
         "Safety alerts"
@@ -897,7 +897,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10562701",
           "EffectiveFrom": "2024-02-01T12:07:54",
           "EffectiveTo": "2026-02-05T17:00:00",
-          "LastReviewed": "2025-07-14T09:37:19",
+          "LastReviewed": "2025-07-24T10:09:06",
           "Title": "Swimming safety in Berowra Valley National Park",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -1711,7 +1711,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2025-07-23T14:32:26",
+      "LastReviewed": "2025-07-24T08:05:29",
       "EffectiveFrom": "2020-07-02T16:56:05",
       "Categories": [
         "Other planned events",
@@ -1734,7 +1734,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12372901",
           "EffectiveFrom": "2025-07-22T16:46:04",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-22T16:59:02",
+          "LastReviewed": "2025-07-24T08:05:21",
           "Title": "Monday 28th of July - Minnamurra Rainforest Centre Closed and Starting Point for Minnamurra Falls Walk Temporarily changed",
           "ItemName": null,
           "Category": "Other planned events",
@@ -1745,7 +1745,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11999701",
           "EffectiveFrom": "2025-06-13T11:41:38",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-16T06:48:04",
+          "LastReviewed": "2025-07-24T08:05:29",
           "Title": "Kellys Cottage Area at Minnamurra closed for weed control",
           "ItemName": null,
           "Category": "Other planned events",
@@ -2252,16 +2252,28 @@
         "Id": "32d09e6d-cfb2-4131-9b9c-26c452071f6a",
         "ItemName": "Capertee-National-Park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-07-21T14:21:31",
+      "LastReviewed": "2025-07-24T09:31:48",
       "EffectiveFrom": "2020-12-24T09:34:30",
       "Categories": [
+        "Closed parks",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12374901",
+          "EffectiveFrom": "2025-07-24T09:26:34",
+          "EffectiveTo": "2025-07-26T07:00:17",
+          "LastReviewed": "2025-07-24T09:31:48",
+          "Title": "Capertee National Park closed for pest management",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Capertee National Park is closed from 4pm Sunday the 20th July until 7am Saturday 26th July for feral animal control ground shooting.&#xA0;&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>&#xA0;For more information, contact the local park office in Mudgee on 02 6370 9000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12370701",
           "EffectiveFrom": "2025-07-21T14:18:08",
@@ -2271,17 +2283,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Capertee National Park is closed from 12 pm on Monday the 21st of July until 6pm on the 25th of July. For Ground shooting for feral animal control.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local park office in Mudgee on 6370 9000</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12210601",
-          "EffectiveFrom": "2025-07-15T14:36:01",
-          "EffectiveTo": "2025-07-25T23:36:25",
-          "LastReviewed": "2025-07-15T15:08:24",
-          "Title": "Capertee National Park is closed for a ground pest management operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Capertee National Park is closed from 4 pm on Sunday, the 20th of July, until 7 am on Saturday, the 26th of July, for ground shooting for feral animal control.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local park office in Mudgee on 02 6370 9000</p>",
           "IsKml": false
         },
         {
@@ -3641,14 +3642,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-07-04T15:22:27",
+      "LastReviewed": "2025-07-24T13:39:41",
       "EffectiveFrom": "2023-07-20T15:06:23",
       "Categories": [
+        "Closed areas",
         "Other planned events",
-        "Safety alerts",
-        "Closed areas"
+        "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12375301",
+          "EffectiveFrom": "2025-07-24T13:24:25",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-07-24T13:39:41",
+          "Title": "Forest Campground precinct closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The area west of Glowworm Tunnel Road from Western Boundary Road to Fire Trail No. 1 will be closed from&#xA0;Monday 28&#xA0;July 2025&#xA0;for construction of visitor infrastructure works. The closure will be in place for at least 12 months while works continue.</p>\n\n<p>During the closure, there is no public access to:</p>\n\n<ul>\n\t<li>Western Boundary Road</li>\n\t<li>Red Hill Road</li>\n\t<li>Camp Road</li>\n\t<li>Newnes Afforestation Camp</li>\n\t<li>Any roads within the closed area including access to the southern end of Carne Creek Canyon</li>\n</ul>\n\n<p>Closures are in place to enable the construction of:</p>\n\n<ul>\n\t<li>Forest Campground (at the old Newnes Afforestation Camp Ruins) which will include 50 bookable sites, group campground and picnic area</li>\n\t<li>Upgrading roads for 2WD access</li>\n\t<li>Rehabilitation of damaged and eroded areas</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Information for camping:</p>\n\n<p>Bush camping is allowed at sites further than 200 metres from park infrastructure such as roads, walking tracks and lookouts.</p>\n\n<p>&#xA0;</p>\n\n<p>For information on the access strategy for Gardens of Stone State Conservation Area refer to the <a href=\"https://www.environment.nsw.gov.au/sites/default/files/2025-01/gardens-of-stone-state-conservation-area-vehicle-access-strategy-240328.pdf\">Road Access Strategy</a></p>\n\n<p>For information on the long-term plan for the Gardens of Stone State Conservation Area refer to the <a href=\"https://www.environment.nsw.gov.au/publications/gardens-stone-state-conservation-area-visitor-infrastructure-master-plan\">Master Plan&#xA0;</a></p>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12184601",
           "EffectiveFrom": "2025-07-04T15:18:20",
@@ -4336,7 +4348,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-07-16T08:07:10",
+      "LastReviewed": "2025-07-24T08:33:12",
       "EffectiveFrom": "2022-07-06T14:56:02",
       "Categories": [
         "Closed areas",
@@ -4371,7 +4383,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11884501",
           "EffectiveFrom": "2025-03-12T15:51:46",
           "EffectiveTo": "2025-12-01T16:00:00",
-          "LastReviewed": "2025-07-16T08:07:10",
+          "LastReviewed": "2025-07-24T08:33:12",
           "Title": "The Village Campground - Washing Machines Out of Order",
           "ItemName": null,
           "Category": "Other incidents",
@@ -4580,7 +4592,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T15:40:44",
+      "LastReviewed": "2025-07-24T08:58:53",
       "EffectiveFrom": "2025-07-21T09:00:00",
       "Categories": [
         "Other planned events"
@@ -4590,7 +4602,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12034001",
           "EffectiveFrom": "2025-07-21T09:00:00",
           "EffectiveTo": "2025-12-19T17:00:00",
-          "LastReviewed": "2025-06-23T15:40:44",
+          "LastReviewed": "2025-07-24T08:58:53",
           "Title": "Notice of 1080 ongoing program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -5454,7 +5466,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-07-22T11:07:40",
+      "LastReviewed": "2025-07-24T09:31:21",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
         "Other planned events",
@@ -5498,7 +5510,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11583701",
           "EffectiveFrom": "2025-01-01T20:49:41",
           "EffectiveTo": "2025-09-30T20:50:17",
-          "LastReviewed": "2025-07-16T09:13:57",
+          "LastReviewed": "2025-07-24T09:31:21",
           "Title": "Berowra walking track partial closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -5673,7 +5685,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 6,
-      "LastReviewed": "2025-07-18T14:45:01",
+      "LastReviewed": "2025-07-24T09:31:33",
       "EffectiveFrom": "2024-02-01T12:10:51",
       "Categories": [
         "Closed areas",
@@ -5706,7 +5718,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11805401",
           "EffectiveFrom": "2025-03-28T14:52:43",
           "EffectiveTo": "2025-09-15T17:00:00",
-          "LastReviewed": "2025-07-16T09:14:07",
+          "LastReviewed": "2025-07-24T09:31:33",
           "Title": "Road and picnic area closures",
           "ItemName": null,
           "Category": "Closed areas",
@@ -5765,7 +5777,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T08:36:58",
+      "LastReviewed": "2025-07-24T10:09:28",
       "EffectiveFrom": "2025-02-14T08:10:47",
       "Categories": [
         "Closed parks"
@@ -5775,7 +5787,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11700601",
           "EffectiveFrom": "2025-02-14T08:10:47",
           "EffectiveTo": "2026-01-30T08:05:05",
-          "LastReviewed": "2025-06-23T08:36:58",
+          "LastReviewed": "2025-07-24T10:09:28",
           "Title": "Lion Island Nature Reserve closed",
           "ItemName": null,
           "Category": "Closed parks",
@@ -5852,7 +5864,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T08:37:27",
+      "LastReviewed": "2025-07-24T10:09:36",
       "EffectiveFrom": "2025-02-14T08:09:54",
       "Categories": [
         "Closed parks"
@@ -5862,7 +5874,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11700501",
           "EffectiveFrom": "2025-02-14T08:09:54",
           "EffectiveTo": "2026-01-30T08:05:05",
-          "LastReviewed": "2025-06-23T08:37:27",
+          "LastReviewed": "2025-07-24T10:09:36",
           "Title": "Long Island Nature Reserve closed",
           "ItemName": null,
           "Category": "Closed parks",
@@ -6059,7 +6071,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T08:37:21",
+      "LastReviewed": "2025-07-24T10:09:21",
       "EffectiveFrom": "2025-02-14T08:14:01",
       "Categories": [
         "Closed parks"
@@ -6069,7 +6081,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11700701",
           "EffectiveFrom": "2025-02-14T08:14:01",
           "EffectiveTo": "2026-01-30T08:05:05",
-          "LastReviewed": "2025-06-23T08:37:21",
+          "LastReviewed": "2025-07-24T10:09:21",
           "Title": "Maroota Historic site closed",
           "ItemName": null,
           "Category": "Closed parks",
@@ -6515,15 +6527,26 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 5,
-      "LastReviewed": "2025-07-23T14:34:54",
+      "ClosedAreasCount": 8,
+      "LastReviewed": "2025-07-24T13:58:00",
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
-        "Other planned events",
         "Closed areas",
+        "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12375401",
+          "EffectiveFrom": "2025-07-24T13:48:40",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-07-24T13:58:00",
+          "Title": "Three Views Walking Track and Fire Trail is closed for maintenance",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Three Views walking track and fire trail is closed for track maintenance. The track will re-open once works are complete. For more information, contact the NPWS Fitzroy Falls office on 02 4887 8244. Penalties apply&#xA0;for non-compliance.&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/10973101",
           "EffectiveFrom": "2024-06-14T12:04:10",
@@ -6533,6 +6556,17 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service is disposing of used 1080 baits and baiting products in an approved disposal pit on NPWS National Parks land within the Fitzroy Falls area.</p>\n\n<p>The burial of used baits and products will occur from Thursday 17 July 2025&#xA0;to Friday 16 January 2026. All bait material in the pit will be buried under at least 500mm of soil, and clear of waterways so as not to cause pollution of waterways. This is in accordance with the current Pesticide Control Order (1080 bait products).</p>\n\n<p>There will be 1080 baiting signs at the entrance to the disposal pit site.</p>\n\n<p>1080 (sodium fluoroacetate) is lethal to pets (including domestic dogs and cats) and working dogs. In the event of accidental poisoning, seek immediate veterinary assistance. Domestic pets, including dogs and cats, are not permitted in national parks or reserves.</p>\n\n<p>For more information, <a href=\"mailto:npws.illawarrahighlands@environment.nsw.gov.au\">email</a> or call the NPWS Fitzroy Falls Office on 02 4887 8244.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12373301",
+          "EffectiveFrom": "2025-07-24T07:00:00",
+          "EffectiveTo": "2025-07-30T17:33:19",
+          "LastReviewed": "2025-07-23T09:37:52",
+          "Title": "Luncheon Creek Rd Closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Luncheon Creek Road will be closed from Thursday the 24th July until Wednesday 30th of July 2025 for road maintenance.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
@@ -6555,17 +6589,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting an aerial baiting program using fresh meat containing 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. The program will be conducted between Monday 28&#xA0;July&#xA0;and Friday 1 August&#xA0;2025. Affected parks and reserves include:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Budawang National Park</li>\n\t<li>Bungonia National Park</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Coolumbooka Nature Reserve</li>\n\t<li>Deua National Park</li>\n\t<li>Gourock National Park</li>\n\t<li>Kooraban National Park</li>\n\t<li>Monga National Park</li>\n\t<li>Morton National Park</li>\n\t<li>Morton State Conservation Area</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>South East Forest National Park</li>\n\t<li>Tallaganda National Park</li>\n\t<li>Tallaganda State Conservation Area</li>\n\t<li>Tarlo River National Park</li>\n\t<li>Wadbilliga National Park</li>\n</ul>\n\n<p>All baiting locations will be identifiable by signs.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For more information, contact the South Coast Branch Pest Officer at the NPWS Merimbula office on (02) 6495 5000.</p>\n\n<p><a href=\"http://click.ngcomms.net/pz6dw64vbbax/b8jhxtu52zdly/soomvi5h09do\">Penalties apply for non-compliance</a>.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12061701",
-          "EffectiveFrom": "2025-07-01T15:21:47",
-          "EffectiveTo": "2025-07-28T09:00:00",
-          "LastReviewed": "2025-07-14T08:57:10",
-          "Title": "East Rim Wildflower walk closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>East Rim Wildflower Walking Track closed due to high water levels.&#xA0;</p>",
           "IsKml": false
         },
         {
@@ -7175,14 +7198,25 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 7,
-      "LastReviewed": "2025-07-21T08:57:38",
+      "ClosedAreasCount": 9,
+      "LastReviewed": "2025-07-22T11:09:21",
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
-        "Safety alerts",
-        "Closed areas"
+        "Closed areas",
+        "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12371801",
+          "EffectiveFrom": "2025-07-24T14:00:00",
+          "EffectiveTo": "2025-07-29T14:00:00",
+          "LastReviewed": "2025-07-22T11:09:21",
+          "Title": "Mungo accommodation closures due to predicted wet weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All&#xA0;accommodation in Mungo National Park (campgrounds and Shearers' Quarters) will be closed from Thursday 24 July 2025 to Tuesday 29 July 2025, due to predicted wet weather.</p>\n\n<p>This closure may be extended pending local conditions.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/10025301",
           "EffectiveFrom": "2023-08-18T11:11:19",
@@ -7228,13 +7262,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-21T08:57:38",
+      "LastReviewed": "2025-07-22T11:09:21",
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
-        "Safety alerts",
-        "Closed areas"
+        "Closed areas",
+        "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12371801",
+          "EffectiveFrom": "2025-07-24T14:00:00",
+          "EffectiveTo": "2025-07-29T14:00:00",
+          "LastReviewed": "2025-07-22T11:09:21",
+          "Title": "Mungo accommodation closures due to predicted wet weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All&#xA0;accommodation in Mungo National Park (campgrounds and Shearers' Quarters) will be closed from Thursday 24 July 2025 to Tuesday 29 July 2025, due to predicted wet weather.</p>\n\n<p>This closure may be extended pending local conditions.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/10025301",
           "EffectiveFrom": "2023-08-18T11:11:19",
@@ -7344,7 +7389,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-16T09:14:16",
+      "LastReviewed": "2025-07-24T09:32:37",
       "EffectiveFrom": "2025-06-11T09:30:14",
       "Categories": [
         "Other planned events"
@@ -7354,7 +7399,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11992901",
           "EffectiveFrom": "2025-06-11T09:30:14",
           "EffectiveTo": "2025-09-14T16:30:00",
-          "LastReviewed": "2025-07-16T09:14:16",
+          "LastReviewed": "2025-07-24T09:32:37",
           "Title": "Muogamarra Nature Reserve open season 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -7596,7 +7641,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 11,
-      "LastReviewed": "2025-07-22T16:01:05",
+      "LastReviewed": "2025-07-24T12:17:23",
       "EffectiveFrom": "2025-04-04T18:00:00",
       "Categories": [
         "Closed parks",
@@ -7607,7 +7652,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12372701",
           "EffectiveFrom": "2025-07-22T15:58:18",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-22T16:01:05",
+          "LastReviewed": "2025-07-24T12:17:23",
           "Title": "Mutawintji National Park is closed due to rain",
           "ItemName": null,
           "Category": "Closed parks",
@@ -7637,14 +7682,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 18,
-      "LastReviewed": "2025-07-22T15:41:55",
+      "LastReviewed": "2025-07-24T14:29:26",
       "EffectiveFrom": "2024-10-05T11:33:47",
       "Categories": [
-        "Closed areas",
         "Other planned events",
+        "Closed areas",
         "Other incidents"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12049601",
+          "EffectiveFrom": "2025-06-26T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-07-24T14:29:26",
+          "Title": "Violet Hill boat ramp maintenance work",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>Violet Hill boat ramp&#xA0;maintenance is scheduled to occur from Monday 21 July 2025&#xA0;to Friday 1 August 2025, pending weather. During this work, the boat ramp will be closed and&#xA0;machinery will be operating within and around the campground. The campground will remain open during this time.</p>\n\n<p>For further information, please contact the Manning Great Lakes area office on 026591 0300.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12369401",
           "EffectiveFrom": "2025-07-21T09:58:05",
@@ -7665,17 +7721,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>The following areas in Myall Lakes National Park are closed due to widespread flooding:</p>\n\n<ul>\n\t<li>Many campgrounds and picnic areas</li>\n\t<li>Mungo Brush and Neranie boat ramps.</li>\n</ul>\n\n<p>Many creek crossings, roads and trails are impassable due to severe rainfall causing dangerous conditions. Emergency services are requesting that people avoid unnecessary travel.</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters. Roads into and throughout the park may also be closed. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information and contact the local park office.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, call the&#xA0;Manning Great Lakes area office on 02 6591 0300 during business hours.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12049601",
-          "EffectiveFrom": "2025-06-26T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-07-15T14:46:36",
-          "Title": "Violet Hill boat ramp maintenance work",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Violet Hill boat ramp&#xA0;maintenance is scheduled to occur from Monday 21 July 2025&#xA0;to Monday 28 July 2025, pending weather. During this work, the boat ramp will be closed and&#xA0;machinery will be operating within and around the campground. The campground will remain open during this time.</p>\n\n<p>For further information, please contact the Manning Great Lakes area office on 026591 0300.</p>",
           "IsKml": false
         },
         {
@@ -8308,22 +8353,44 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 6,
-      "LastReviewed": "2025-07-23T08:49:11",
+      "ClosedAreasCount": 12,
+      "LastReviewed": "2025-07-24T16:25:41",
       "EffectiveFrom": "2025-04-27T14:00:00",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12376401",
+          "EffectiveFrom": "2025-07-24T16:18:48",
+          "EffectiveTo": "2025-07-30T16:19:15",
+          "LastReviewed": "2025-07-24T16:25:41",
+          "Title": "Dangars Gorge Bridge is closed due to flooding",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Dangars Gorge Bridge is temporarily closed until further notice due to flash flooding. Please note that the main day-use and campground area remains open.&#xA0;This closure affects use of Falls lookdown, McDirty's walk, Mihi walk Sailsbury waters walk, NPWS will be monitoring the conditions and will reopen the bridge as soon as it is deemed suitable.&#xA0;Penalties apply for non-compliance. For more information contact the Armidale NPWS office on 02 6738 9100.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12376301",
+          "EffectiveFrom": "2025-07-24T16:14:52",
+          "EffectiveTo": "2025-07-30T16:15:26",
+          "LastReviewed": "2025-07-24T16:25:19",
+          "Title": "Threlfall Walking Track Closed due to Flooding",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Threlfall walking track is temporarily closed until further notice due to flash flooding. NPWS will be monitoring the conditions and will reopen this walk as soon as it is deemed suitable. Penalties apply&#xA0;for non-compliance. For more information contact the Armidale NPWS office on 02 6738 9100.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12226501",
           "EffectiveFrom": "2025-07-18T10:30:00",
           "EffectiveTo": "2025-08-01T10:30:00",
-          "LastReviewed": "2025-07-23T08:49:11",
-          "Title": "East Kunderang Homestead and Halls Peak are closed until Friday 25 July 2025",
+          "LastReviewed": "2025-07-24T09:27:01",
+          "Title": "East Kunderang Homestead and Halls Peak are closed due to Raspberry Road Closure",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>East Kunderang Homestead and Halls Peak Picnic and campground areas are closed from Friday 18 July at 10:30am until Friday 1&#xA0;August at 10:30am due to impassable road conditions.</p>\n\n<p>For further information, phone Armidale National Parks &amp; Wildlife Service on (02) 6738 9100.</p>",
+          "DescriptionHtml": "<p>East Kunderang Homestead and Halls Peak Picnic and campground areas are closed from Friday 18 July at 10:30am until Friday 1&#xA0;August at 10:30am due to impassable road conditions on the Raspberry Road.</p>\n\n<p>For further information, phone Armidale National Parks &amp; Wildlife Service on (02) 6738 9100.</p>",
           "IsKml": false
         },
         {
@@ -8876,14 +8943,36 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 32,
-      "LastReviewed": "2025-07-21T15:59:55",
+      "ClosedAreasCount": 33,
+      "LastReviewed": "2025-07-24T13:07:53",
       "EffectiveFrom": "2022-07-12T16:30:18",
       "Categories": [
-        "Closed areas",
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12212201",
+          "EffectiveFrom": "2025-07-21T09:39:27",
+          "EffectiveTo": "2025-07-31T12:39:50",
+          "LastReviewed": "2025-07-24T13:07:53",
+          "Title": "Road maintenance works on Garawarra Farm Road",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>Road maintenance works will be taking place on Garawarra Farm Road Thursday 24 July to Thursday 31&#xA0;July 2025. Traffic management will be in place to allow for vehicle access to allow for vehicle access to Garawarra Farm carpark. For your safety please follow all safety and directional signage, as well as directions from staff when visiting Garawarra Farm Carpark. For more information, contact the Royal National Park Visitor Centre on 02 9542 0648.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12370101",
+          "EffectiveFrom": "2025-07-24T05:00:00",
+          "EffectiveTo": "2025-07-25T12:00:00",
+          "LastReviewed": "2025-07-23T11:03:56",
+          "Title": "Allambie Flat and Audley boatshed closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following areas are&#xA0;closed until 12pm on Thursday 24&#xA0;July and&#xA0;Friday 25 July 2025 due to rock scaling and concreting works:</p>\n\n<ul>\n\t<li>Allambie Flat picnic area</li>\n\t<li>Audley Boatshed</li>\n</ul>\n\n<p>For more information, call the Royal National Park Visitor Centre on 02 9542 0632.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12048201",
           "EffectiveFrom": "2025-07-07T08:38:25",
@@ -8904,17 +8993,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Garie Road is closed until further notice to allow for extensive repairs the road surface. Work is being&#xA0;undertaken by Transport for New South Wales.</p>\n\n<p>A reopening date is not currently known.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. Please check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for updates before driving to Garie Beach.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12212201",
-          "EffectiveFrom": "2025-07-21T09:39:27",
-          "EffectiveTo": "2025-07-25T09:39:50",
-          "LastReviewed": "2025-07-16T09:59:35",
-          "Title": "Road maintenance works on Garawarra Farm Road",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Road maintenance works will be taking place on Garawarra Farm Road on Monday 21 July and Friday 25 July 2025. Traffic management will be in place to allow for vehicle access to allow for vehicle access to Garawarra Farm carpark. For your safety please follow all safety and directional signage, as well as directions from staff when visiting Garawarra Farm Carpark. For more information, contact the Royal National Park Visitor Centre on 02 9542 0648.</p>",
           "IsKml": false
         },
         {
@@ -8954,7 +9032,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10623801",
           "EffectiveFrom": "2024-03-04T10:28:12",
           "EffectiveTo": null,
-          "LastReviewed": "2025-06-23T09:55:36",
+          "LastReviewed": "2025-07-24T10:41:04",
           "Title": "Werrong Beach track",
           "ItemName": null,
           "Category": "Closed areas",
@@ -9232,7 +9310,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T08:37:05",
+      "LastReviewed": "2025-07-24T10:09:44",
       "EffectiveFrom": "2025-02-14T08:03:35",
       "Categories": [
         "Closed parks"
@@ -9242,7 +9320,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11700401",
           "EffectiveFrom": "2025-02-14T08:03:35",
           "EffectiveTo": "2026-01-30T08:05:05",
-          "LastReviewed": "2025-06-23T08:37:05",
+          "LastReviewed": "2025-07-24T10:09:44",
           "Title": "Spectacle Island Nature Reserve closed",
           "ItemName": null,
           "Category": "Closed parks",
@@ -9810,7 +9888,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-07-22T12:57:01",
+      "LastReviewed": "2025-07-24T10:50:28",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
         "Closed areas",
@@ -9818,14 +9896,14 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12371701",
+          "ID": "npws-fis@id.ngcomms.net/eme/12375101",
           "EffectiveFrom": "2025-07-22T09:37:40",
-          "EffectiveTo": "2025-07-24T09:38:18",
-          "LastReviewed": "2025-07-22T11:16:57",
+          "EffectiveTo": "2025-07-25T14:00:00",
+          "LastReviewed": "2025-07-24T10:50:28",
           "Title": "Tomaree Head Summit Track temporary detour for track maintenance",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>A section of the Tomaree Head Summit track will be closed for two days while track maintenance works are carried out to improve visitor safety. The track will be closed from&#xA0;the morning of&#xA0; Wednesday 23 July to the afternoon of Thursday 24 July 2025.&#xA0;</p>\n\n<p>The closure will be between the Zenith Beach car park and the bottom of the first staircase.</p>\n\n<p>The summit and all other visitor areas are still open with detours in place around the foreshore and through Tomaree Lodge to access:</p>\n\n<ul>\n\t<li>Tomaree Head Summit</li>\n\t<li>Gun Emplacements</li>\n</ul>\n\n<p>Please follow the directions from signage and NPWS staff while these works are completed.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the Anna Bay NPWS office 02 4984 8200.</p>",
+          "DescriptionHtml": "<p>A section of the Tomaree Head Summit track will be closed for two days while track maintenance works are carried out to improve visitor safety. The track will be closed from&#xA0;the Wednesday 23 July to the afternoon&#xA0;of Friday 25 July 2025.&#xA0;</p>\n\n<p>The closure will be between the Zenith Beach car park and the bottom of the first staircase.</p>\n\n<p>The summit and all other visitor areas are still open with detours in place around the foreshore and through Tomaree Lodge to access:</p>\n\n<ul>\n\t<li>Tomaree Head Summit</li>\n\t<li>Gun Emplacements</li>\n</ul>\n\n<p>Please follow the directions from signage and NPWS staff while these works are completed.</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the Anna Bay NPWS office 02 4984 8200.</p>",
           "IsKml": false
         },
         {
@@ -10180,7 +10258,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T08:36:24",
+      "LastReviewed": "2025-07-24T09:21:30",
       "EffectiveFrom": "2014-11-26T16:28:00",
       "Categories": [
         "Closed areas"
@@ -10190,7 +10268,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/1216201",
           "EffectiveFrom": "2014-11-26T16:28:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-06-23T08:36:24",
+          "LastReviewed": "2025-07-24T09:21:30",
           "Title": "Road closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -10660,7 +10738,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-23T08:37:12",
+      "LastReviewed": "2025-07-24T10:09:14",
       "EffectiveFrom": "2025-02-14T08:15:40",
       "Categories": [
         "Closed parks"
@@ -10670,7 +10748,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11700801",
           "EffectiveFrom": "2025-02-14T08:15:40",
           "EffectiveTo": "2026-01-30T08:05:05",
-          "LastReviewed": "2025-06-23T08:37:12",
+          "LastReviewed": "2025-07-24T10:09:14",
           "Title": "Wisemans Ferry Historic Site closed",
           "ItemName": null,
           "Category": "Closed parks",
@@ -10943,7 +11021,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-13T08:53:53",
+      "LastReviewed": "2025-07-23T17:00:55",
       "EffectiveFrom": "2025-07-04T14:00:40",
       "Categories": [
         "Safety alerts"
@@ -10953,11 +11031,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12074101",
           "EffectiveFrom": "2025-07-04T14:00:40",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-13T08:53:53",
+          "LastReviewed": "2025-07-23T17:00:55",
           "Title": "Worimi Conservation Lands Beachfront Driving Open",
           "ItemName": null,
           "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Worimi Conservation Lands will reopen at first light on Saturday 5th July following severe weather from the recent East Coast Low.</p>\n\n<p>The following entry points remain closed to vehicles:</p>\n\n<ul>\n\t<li>Fern Bay 4WD entry at Fern Bay</li>\n\t<li>Selected sites in Ganyamalbaa campground</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Visitors are reminded to exercise caution along the beachfront as well as in the Recreational Vehicle Area as there is a lot of water lying around and potential hazards after the storm.</p>\n\n<p>Please avoid using the beachfront one hour either side of high tide due to pinch points along the beach.</p>\n\n<p>Four-wheel drive users are reminded that between Gan Gan and Lavis Lane is beachfront driving only and diverting onto or behind the frontal dune is not permitted.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nelson Bay area office on 02 4984 8200 from 8.30am to 4.30pm, Monday to Friday, excluding public holidays.</p>",
+          "DescriptionHtml": "<p>Worimi Conservation Lands is open following severe weather from the recent East Coast Low.</p>\n\n<p>The following&#xA0;remain closed:</p>\n\n<ul>\n\t<li>Selected sites in Ganyamalbaa campground for rehabilitation</li>\n</ul>\n\n<p>Visitors are reminded to exercise caution along the beachfront as well as in the Recreational Vehicle Area as there is a lot of water lying around and potential hazards.</p>\n\n<p>Please avoid using the beachfront two hours either side of high tide due to pinch points along the beach.</p>\n\n<p>Four-wheel drive users are reminded that between Gan Gan and Lavis Lane is beachfront driving only and diverting onto or behind the frontal dune is not permitted.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nelson Bay area office on 02 4984 8200 from 8.30am to 4.30pm, Monday to Friday, excluding public holidays.</p>",
           "IsKml": false
         }
       ]
@@ -10972,7 +11050,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-13T08:53:53",
+      "LastReviewed": "2025-07-23T17:00:55",
       "EffectiveFrom": "2025-07-04T14:00:40",
       "Categories": [
         "Safety alerts"
@@ -10982,11 +11060,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12074101",
           "EffectiveFrom": "2025-07-04T14:00:40",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-13T08:53:53",
+          "LastReviewed": "2025-07-23T17:00:55",
           "Title": "Worimi Conservation Lands Beachfront Driving Open",
           "ItemName": null,
           "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Worimi Conservation Lands will reopen at first light on Saturday 5th July following severe weather from the recent East Coast Low.</p>\n\n<p>The following entry points remain closed to vehicles:</p>\n\n<ul>\n\t<li>Fern Bay 4WD entry at Fern Bay</li>\n\t<li>Selected sites in Ganyamalbaa campground</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Visitors are reminded to exercise caution along the beachfront as well as in the Recreational Vehicle Area as there is a lot of water lying around and potential hazards after the storm.</p>\n\n<p>Please avoid using the beachfront one hour either side of high tide due to pinch points along the beach.</p>\n\n<p>Four-wheel drive users are reminded that between Gan Gan and Lavis Lane is beachfront driving only and diverting onto or behind the frontal dune is not permitted.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nelson Bay area office on 02 4984 8200 from 8.30am to 4.30pm, Monday to Friday, excluding public holidays.</p>",
+          "DescriptionHtml": "<p>Worimi Conservation Lands is open following severe weather from the recent East Coast Low.</p>\n\n<p>The following&#xA0;remain closed:</p>\n\n<ul>\n\t<li>Selected sites in Ganyamalbaa campground for rehabilitation</li>\n</ul>\n\n<p>Visitors are reminded to exercise caution along the beachfront as well as in the Recreational Vehicle Area as there is a lot of water lying around and potential hazards.</p>\n\n<p>Please avoid using the beachfront two hours either side of high tide due to pinch points along the beach.</p>\n\n<p>Four-wheel drive users are reminded that between Gan Gan and Lavis Lane is beachfront driving only and diverting onto or behind the frontal dune is not permitted.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nelson Bay area office on 02 4984 8200 from 8.30am to 4.30pm, Monday to Friday, excluding public holidays.</p>",
           "IsKml": false
         }
       ]
@@ -11001,7 +11079,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-13T08:53:53",
+      "LastReviewed": "2025-07-23T17:00:55",
       "EffectiveFrom": "2025-07-04T14:00:40",
       "Categories": [
         "Safety alerts"
@@ -11011,11 +11089,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12074101",
           "EffectiveFrom": "2025-07-04T14:00:40",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-13T08:53:53",
+          "LastReviewed": "2025-07-23T17:00:55",
           "Title": "Worimi Conservation Lands Beachfront Driving Open",
           "ItemName": null,
           "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Worimi Conservation Lands will reopen at first light on Saturday 5th July following severe weather from the recent East Coast Low.</p>\n\n<p>The following entry points remain closed to vehicles:</p>\n\n<ul>\n\t<li>Fern Bay 4WD entry at Fern Bay</li>\n\t<li>Selected sites in Ganyamalbaa campground</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Visitors are reminded to exercise caution along the beachfront as well as in the Recreational Vehicle Area as there is a lot of water lying around and potential hazards after the storm.</p>\n\n<p>Please avoid using the beachfront one hour either side of high tide due to pinch points along the beach.</p>\n\n<p>Four-wheel drive users are reminded that between Gan Gan and Lavis Lane is beachfront driving only and diverting onto or behind the frontal dune is not permitted.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nelson Bay area office on 02 4984 8200 from 8.30am to 4.30pm, Monday to Friday, excluding public holidays.</p>",
+          "DescriptionHtml": "<p>Worimi Conservation Lands is open following severe weather from the recent East Coast Low.</p>\n\n<p>The following&#xA0;remain closed:</p>\n\n<ul>\n\t<li>Selected sites in Ganyamalbaa campground for rehabilitation</li>\n</ul>\n\n<p>Visitors are reminded to exercise caution along the beachfront as well as in the Recreational Vehicle Area as there is a lot of water lying around and potential hazards.</p>\n\n<p>Please avoid using the beachfront two hours either side of high tide due to pinch points along the beach.</p>\n\n<p>Four-wheel drive users are reminded that between Gan Gan and Lavis Lane is beachfront driving only and diverting onto or behind the frontal dune is not permitted.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Nelson Bay area office on 02 4984 8200 from 8.30am to 4.30pm, Monday to Friday, excluding public holidays.</p>",
           "IsKml": false
         }
       ]
