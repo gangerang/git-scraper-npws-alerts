@@ -1,7 +1,6 @@
 {
   "Categories": [
     "Current alerts",
-    "Hazard reduction burns",
     "Fire bans",
     "Closed parks",
     "Closed areas",
@@ -1172,14 +1171,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-04T15:51:21",
+      "LastReviewed": "2025-08-10T12:29:02",
       "EffectiveFrom": "2015-03-22T14:11:00",
       "Categories": [
-        "Other planned events",
         "Closed areas",
+        "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12410201",
+          "EffectiveFrom": "2025-08-10T12:23:35",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-08-10T12:29:02",
+          "Title": "Paterson Range Trail Closed due to weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Paterson Range Trail is closed due to wet and slippery conditions. Burralow campers can access via Tabaraga Ridge out of Kurrajong Heights.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12399901",
           "EffectiveFrom": "2025-08-06T09:00:00",
@@ -1585,7 +1595,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
+      "ClosedAreasCount": 2,
       "LastReviewed": "2025-08-07T06:42:46",
       "EffectiveFrom": "2024-09-03T08:00:00",
       "Categories": [
@@ -1594,6 +1604,17 @@
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12390601",
+          "EffectiveFrom": "2025-08-10T08:00:00",
+          "EffectiveTo": "2025-08-23T17:00:00",
+          "LastReviewed": "2025-07-30T16:16:05",
+          "Title": "Areas closed for trail maintenance: Flea Creek Campground and Gentle Annie Trail",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Gentle Annie Trail is closed for essential trail maintenance work from Monday 11 August - Friday 22 August 2025. There is&#xA0;no access to Flea Creek Campground and Day Use Area while the works are in progress.&#xA0;&#xA0;<br/>\n&#xA0;</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Queanbeyan office on 02 62297166.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11794401",
           "EffectiveFrom": "2025-03-25T09:00:00",
@@ -11877,25 +11898,13 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-08T15:31:58",
+      "LastReviewed": "2025-07-04T09:32:31",
       "EffectiveFrom": "2023-10-06T11:39:19",
       "Categories": [
-        "Hazard reduction burns",
         "Other planned events",
         "Closed parks"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12403301",
-          "EffectiveFrom": "2025-08-07T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-08-08T15:31:58",
-          "Title": "Yiraaldiya Cultural Burn",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 07/08/2025. The fire is called&#xA0;Yiraaldiya Cultural Burn. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11815001",
           "EffectiveFrom": "2025-04-03T09:40:36",
