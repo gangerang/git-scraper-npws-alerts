@@ -6,7 +6,8 @@
     "Closed areas",
     "Safety alerts",
     "Other incidents",
-    "Other planned events"
+    "Other planned events",
+    "Fires - "
   ],
   "ParkAlerts": [
     {
@@ -19,12 +20,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-07-31T11:05:33",
+      "LastReviewed": "2025-08-04T10:41:23",
       "EffectiveFrom": "2022-05-09T09:53:43",
       "Categories": [
+        "Closed areas",
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8478122",
           "EffectiveFrom": "2022-05-09T09:53:43",
@@ -47,7 +60,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
+      "ClosedAreasCount": 4,
       "LastReviewed": "2025-08-04T15:43:30",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
@@ -65,6 +78,17 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Abercrombie River National Park (NP), Abercrombie River State Conservation Area (SCA), Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP Mares Forest NP, and Turon NP from <strong>Monday 25th August&#xA0;&#x2013; Sunday 7th&#xA0;September 2025.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to reduce predator impacts on wildlife, especially threatened species, and to reduce the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
           "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12373501",
@@ -98,12 +122,13 @@
         "ItemName": "Abercrombie-River-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-08-04T15:43:30",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
         {
@@ -116,6 +141,17 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Abercrombie River National Park (NP), Abercrombie River State Conservation Area (SCA), Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP Mares Forest NP, and Turon NP from <strong>Monday 25th August&#xA0;&#x2013; Sunday 7th&#xA0;September 2025.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to reduce predator impacts on wildlife, especially threatened species, and to reduce the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
           "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
@@ -750,35 +786,6 @@
     },
     {
       "Park": {
-        "Name": "Belmount Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/belmount-nature-reserve",
-        "Id": "ad44699a-3c50-4939-b1ef-525a29980fab",
-        "ItemName": "Belmount-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-15T13:43:26",
-      "EffectiveFrom": "2025-07-30T09:00:00",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12388401",
-          "EffectiveFrom": "2025-07-30T09:00:00",
-          "EffectiveTo": "2025-08-16T17:00:00",
-          "LastReviewed": "2025-08-15T13:43:26",
-          "Title": "Notice of 1080 Baiting - Feral Pigs",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using grain containing 1080 (sodium fluoroacetate) poison for the control of feral pigs. The program will be conducted from Saturday&#xA0;2 August&#xA0;until Saturday 16 August, 2025 in Belmount Nature Reserve.</p>\n\n<p>&#xA0;</p>\n\n<p>All entrances to the baiting location will be sign posted.</p>\n\n<p>&#xA0;</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>&#xA0;</p>\n\n<p>For further information please call NPWS Queanbeyan area office on 02 6229 7166.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Beni State Conservation Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/beni-state-conservation-area",
         "Id": "1e26669b-e957-4b97-b266-8566cfb4ffca",
@@ -1207,6 +1214,17 @@
           "IsKml": false
         },
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/8429922",
           "EffectiveFrom": "2015-03-22T14:11:00",
           "EffectiveTo": null,
@@ -1215,6 +1233,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Waratah Native Gardens picnic area is closed until further notice. This includes Gorge walking track. No access to the area is permitted.&#xA0;</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Hawkesbury-Nattai area office on 02&#xA0;4720 6200.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12197701",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-07-14T12:38:23",
+          "Title": "Closed areas due to aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The section of Blue Mountains National Park&#xA0;south of Dunphys campground and south of Medlow Gap is closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control program.</p>\n\n<p>The following walking tracks are closed during this time:</p>\n\n<ul>\n\t<li>Carlon Creek</li>\n\t<li>Breakfast Creek</li>\n\t<li>Bellbird Ridge</li>\n\t<li>White Dog Ridge trail</li>\n\t<li>Cedarland Ridge trail</li>\n\t<li>Splendour Rock walking track</li>\n\t<li>Yellow Pup Ridge walking track</li>\n\t<li>Kelpie Point trail</li>\n\t<li>Medlow Gap East trail</li>\n\t<li>K2K</li>\n\t<li>Katoomba to Mittagong</li>\n</ul>\n\n<p>Dunphys campground will remain open during this time.</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
           "IsKml": false
         },
         {
@@ -1741,7 +1770,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 9,
-      "LastReviewed": "2025-08-08T08:37:21",
+      "LastReviewed": "2025-08-17T10:46:51",
       "EffectiveFrom": "2022-04-07T11:17:17",
       "Categories": [
         "Closed areas"
@@ -1751,7 +1780,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11827201",
           "EffectiveFrom": "2025-04-08T12:00:00",
           "EffectiveTo": "2026-06-30T18:00:00",
-          "LastReviewed": "2025-07-16T16:00:16",
+          "LastReviewed": "2025-08-17T10:46:51",
           "Title": "Partial closure Piles Creek Loop Walking Track",
           "ItemName": null,
           "Category": "Closed areas",
@@ -1773,7 +1802,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/8410022",
           "EffectiveFrom": "2022-04-07T11:17:17",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-16T16:00:30",
+          "LastReviewed": "2025-08-17T10:46:44",
           "Title": "Brieses fire trail partial closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -1784,7 +1813,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10785001",
           "EffectiveFrom": "2024-05-21T11:41:40",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-16T16:00:48",
+          "LastReviewed": "2025-08-17T10:46:35",
           "Title": "Warrah Trig Road closed to vehicles",
           "ItemName": null,
           "Category": "Closed areas",
@@ -2952,7 +2981,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-08-14T12:07:08",
+      "LastReviewed": "2025-08-17T09:02:09",
       "EffectiveFrom": "2025-05-01T17:00:00",
       "Categories": [
         "Other planned events",
@@ -2975,7 +3004,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11888101",
           "EffectiveFrom": "2025-05-01T17:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-15T17:50:23",
+          "LastReviewed": "2025-08-17T09:02:09",
           "Title": "Restricted access to Coolah Tops National Park - 4WD recommended",
           "ItemName": null,
           "Category": "Other incidents",
@@ -4001,7 +4030,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-16T18:02:33",
+      "LastReviewed": "2025-08-17T06:53:15",
       "EffectiveFrom": "2025-07-16T18:00:56",
       "Categories": [
         "Other planned events"
@@ -4011,7 +4040,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12213701",
           "EffectiveFrom": "2025-07-16T18:00:56",
           "EffectiveTo": "2025-08-29T18:01:21",
-          "LastReviewed": "2025-07-16T18:02:33",
+          "LastReviewed": "2025-08-17T06:53:15",
           "Title": "Ongoing Poison 1080 ground baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -4773,6 +4802,7 @@
       "EffectiveFrom": "2024-07-18T16:36:09",
       "Categories": [
         "Other planned events",
+        "Closed areas",
         "Closed parks"
       ],
       "Alerts": [
@@ -4786,6 +4816,17 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Abercrombie River National Park (NP), Abercrombie River State Conservation Area (SCA), Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP Mares Forest NP, and Turon NP from <strong>Monday 25th August&#xA0;&#x2013; Sunday 7th&#xA0;September 2025.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to reduce predator impacts on wildlife, especially threatened species, and to reduce the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
           "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
@@ -5039,6 +5080,35 @@
     },
     {
       "Park": {
+        "Name": "Kalyarr National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kalyarr-national-park",
+        "Id": "c395f152-8395-42bb-ba36-b249801618c4",
+        "ItemName": "kalyarr-national-park"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2025-08-17T09:53:45",
+      "EffectiveFrom": "2025-08-17T07:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12394501",
+          "EffectiveFrom": "2025-08-17T07:00:00",
+          "EffectiveTo": "2025-08-25T17:00:00",
+          "LastReviewed": "2025-08-17T09:53:45",
+          "Title": "Aerial Baiting Operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Kalyarr National Park from Sunday 17 August 2025 to Monday 25 August 2025. Kalyarr National Park will be closed for this operation. The operation will involve the use of meat baits and meat bait products containing 1080 (sodium fluoroacetate) poison for the control of foxes.</p>\n\n<p>The program is designed to minimise predator impact on wildlife, especially threatened species, and to minimise the impact of foxes on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry points to baiting location. Domestic pets are not permitted in NSW National Parks and Reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting locations. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://click.ngcomms.net/orfpmd59za6k/amafvzx9xnezd/rj4p0l5ju108\">Penalties apply for non-compliance</a>. For more information, please contact the local NPWS area office for more information 02 6966 8100.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Kamay Botany Bay National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kamay-botany-bay-national-park",
         "Id": "0bf41fe3-ba72-411f-986f-cce5ce3f344f",
@@ -5149,6 +5219,17 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Abercrombie River National Park (NP), Abercrombie River State Conservation Area (SCA), Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP Mares Forest NP, and Turon NP from <strong>Monday 25th August&#xA0;&#x2013; Sunday 7th&#xA0;September 2025.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to reduce predator impacts on wildlife, especially threatened species, and to reduce the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
           "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12060301",
@@ -5784,6 +5865,35 @@
     },
     {
       "Park": {
+        "Name": "Lachlan Valley National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/lachlan-valley-national-park",
+        "Id": "8e14a848-ce71-45dd-a6c5-720a93ef4d2c",
+        "ItemName": "Lachlan-Valley-National-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-08-14T10:23:39",
+      "EffectiveFrom": "2025-08-17T08:00:00",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12394101",
+          "EffectiveFrom": "2025-08-17T08:00:00",
+          "EffectiveTo": "2025-08-25T23:59:00",
+          "LastReviewed": "2025-08-14T10:23:39",
+          "Title": "PARK CLOSURE - Notice of 1080 Program - Hunthawang",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Lachlan Valley National Park, Hunthawang Precinct&#xA0;from Sunday 17 August 2025 to Monday 25 August 2025. Lachlan Valley National Park, Hunthawang Precinct&#xA0;will be closed for this operation. The operation will involve the use of meat baits and meat bait products containing 1080 (sodium fluoroacetate) poison for the control of foxes.</p>\n\n<p>The program is designed to minimise predator impact on wildlife, especially threatened species, and to minimise the impact of foxes on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry points to baiting location. Domestic pets are not permitted in NSW National Parks and Reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting locations. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://click.ngcomms.net/orfpmd59za6k/amafvzx9xnezd/rj4p0l5ju108\">Penalties apply for non-compliance</a>. For more information, please contact the local NPWS area office for more information 02 6966 8100.</p>",
+          "IsKml": true
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Lake Innes Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/lake-innes-nature-reserve",
         "Id": "fc28a55a-3500-438f-af60-66983fbeaa5c",
@@ -6245,12 +6355,13 @@
         "ItemName": "Mares-Forest-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-08-04T15:43:30",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
         {
@@ -6263,6 +6374,17 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Abercrombie River National Park (NP), Abercrombie River State Conservation Area (SCA), Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP Mares Forest NP, and Turon NP from <strong>Monday 25th August&#xA0;&#x2013; Sunday 7th&#xA0;September 2025.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to reduce predator impacts on wildlife, especially threatened species, and to reduce the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
           "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
@@ -7416,6 +7538,7 @@
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
         "Safety alerts",
+        "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
@@ -7428,6 +7551,17 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Council-managed access roads to Mungo National Park are unsealed and in variable condition.&#xA0;Before travelling on any unsealed roads, please check road condition reports for <a href=\"http://click.ngcomms.net/mdmyhd9qnt9b/9gaa16t9mkjvu/p9rnc555ufo4\">Balranald</a>, <a href=\"http://click.ngcomms.net/mdmyhd9qnt9b/9gaa16t9mkjvu/p9rnex9g71xb\">Wentworth</a> and <a href=\"http://click.ngcomms.net/mdmyhd9qnt9b/9gaa16t9mkjvu/p9rnhp59do3z\">Central Darling</a> Shires. Do not travel on closed Council roads.</p>\n\n<p>There are numerous access routes to Mungo National Park and conditions can change quickly due to the weather.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12400701",
+          "EffectiveFrom": "2025-08-17T09:00:00",
+          "EffectiveTo": "2025-08-25T23:59:00",
+          "LastReviewed": "2025-08-05T09:35:59",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing aerial baiting program from Sunday 17 August 2025 to Monday 25 August 2025.&#xA0;The operation will use 1080 (sodium fluoroacetate) poison for the control of feral animals (foxes).</p>\n\n<p>The program will take place in Mungo National Park and Mungo State Conservation Area.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of foxes&#xA0;on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Lower Darling&#xA0;NPWS area office for more information on 03 5021 8900.</p>",
           "IsKml": false
         },
         {
@@ -7468,6 +7602,7 @@
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
         "Safety alerts",
+        "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
@@ -7480,6 +7615,17 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Council-managed access roads to Mungo National Park are unsealed and in variable condition.&#xA0;Before travelling on any unsealed roads, please check road condition reports for <a href=\"http://click.ngcomms.net/mdmyhd9qnt9b/9gaa16t9mkjvu/p9rnc555ufo4\">Balranald</a>, <a href=\"http://click.ngcomms.net/mdmyhd9qnt9b/9gaa16t9mkjvu/p9rnex9g71xb\">Wentworth</a> and <a href=\"http://click.ngcomms.net/mdmyhd9qnt9b/9gaa16t9mkjvu/p9rnhp59do3z\">Central Darling</a> Shires. Do not travel on closed Council roads.</p>\n\n<p>There are numerous access routes to Mungo National Park and conditions can change quickly due to the weather.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12400701",
+          "EffectiveFrom": "2025-08-17T09:00:00",
+          "EffectiveTo": "2025-08-25T23:59:00",
+          "LastReviewed": "2025-08-05T09:35:59",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing aerial baiting program from Sunday 17 August 2025 to Monday 25 August 2025.&#xA0;The operation will use 1080 (sodium fluoroacetate) poison for the control of feral animals (foxes).</p>\n\n<p>The program will take place in Mungo National Park and Mungo State Conservation Area.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of foxes&#xA0;on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Lower Darling&#xA0;NPWS area office for more information on 03 5021 8900.</p>",
           "IsKml": false
         },
         {
@@ -8065,12 +8211,23 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-02T14:28:37",
+      "LastReviewed": "2025-08-13T11:36:39",
       "EffectiveFrom": "2025-02-10T14:14:08",
       "Categories": [
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12416901",
+          "EffectiveFrom": "2025-08-17T06:00:00",
+          "EffectiveTo": "2025-08-26T11:34:27",
+          "LastReviewed": "2025-08-13T11:36:39",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>National Parks and Wildlife Service (NPWS) personnel will be conducting an aerial baiting program for the control of Wild Dogs on Narriearra Caryapundy Swamp National Park.</p>\n\n<p><strong>The program is scheduled between 17/08/2025 and 25/08/2025</strong></p>\n\n<p>Exact dates within the above range are not fixed to allow for flexibility if circumstances such as weather impacting the operation.</p>\n\n<p>Narriearra Caryapundy Swamp National Park may be closed during baiting operations. Information regarding park closures can be found on the NPWS website: <a href=\"http://click.ngcomms.net/memg3t4ytynw/9gqfu699j2p6h/pbcwal9q1pzj\">https://www.nationalparks.nsw.gov.au/alerts/alerts-list</a></p>\n\n<p>The program will use fresh meat baits containing 1080 (sodium fluoroacetate) poison. This program is compliant with the Pesticide Control (1080 Bait Products) Order 2020. Signs will be erected to notify the public of the baiting program.</p>\n\n<p>Please be reminded that domestic pets are not permitted on NPWS-managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. If accidental poisoning occurs seek immediate veterinary assistance.</p>\n\n<p>Aerial baiting complements other control measures which can include trapping, ground shooting and ground baiting.</p>\n\n<p>NPWS takes a strategic and integrated approach to pest management on lands we manage. We aim to minimise the adverse impacts of pests on biodiversity, cultural values, neighbours and the community. Only qualified and appropriately trained personnel will participate in this program.</p>\n\n<p>Baits may be deployed from the ground if aerial baiting is suspended due to unforeseen circumstances. This will occur within the same date range.</p>\n\n<p>For further information please Dan Hough on 0428 358 101.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11663901",
           "EffectiveFrom": "2025-02-10T14:14:08",
@@ -8543,20 +8700,32 @@
         "Id": "704a5063-db47-40f8-a3b0-010cbf7f302f",
         "ItemName": "Oolambeyan-National-Park"
       },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-05-07T08:52:09",
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
+      "LastReviewed": "2025-08-17T09:54:43",
       "EffectiveFrom": "2025-02-14T15:04:12",
       "Categories": [
+        "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12394701",
+          "EffectiveFrom": "2025-08-17T07:00:00",
+          "EffectiveTo": "2025-08-25T17:00:00",
+          "LastReviewed": "2025-08-17T09:54:24",
+          "Title": "Aerial Baiting Operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Oolambeyan National Park&#xA0;from Sunday 17 August 2025 to Monday 25 August 2025. Oolambeyan National Park&#xA0;will be closed for this operation. The operation will involve the use of meat baits and meat bait products containing 1080 (sodium fluoroacetate) poison for the control of foxes.</p>\n\n<p>The program is designed to minimise predator impact on wildlife, especially threatened species, and to minimise the impact of foxes on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry points to baiting location. Domestic pets are not permitted in NSW National Parks and Reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting locations. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://click.ngcomms.net/orfpmd59za6k/amafvzx9xnezd/rj4p0l5ju108\">Penalties apply for non-compliance</a>. For more information, please contact the local NPWS area office for more information 02 6966 8100.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/11900201",
           "EffectiveFrom": "2025-02-14T15:04:12",
           "EffectiveTo": "2025-08-30T15:09:41",
-          "LastReviewed": "2025-05-07T08:52:09",
+          "LastReviewed": "2025-08-17T09:54:43",
           "Title": "Notice of ongoing 1080 program in Oolambeyan NP",
           "ItemName": null,
           "Category": "Other planned events",
@@ -8649,6 +8818,7 @@
       "Categories": [
         "Closed areas",
         "Closed parks",
+        "Other planned events",
         "Fire bans"
       ],
       "Alerts": [
@@ -8675,6 +8845,17 @@
           "IsKml": false
         },
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12416701",
+          "EffectiveFrom": "2025-08-17T11:25:44",
+          "EffectiveTo": "2025-08-26T11:27:10",
+          "LastReviewed": "2025-08-13T11:58:12",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>National Parks and Wildlife Service (NPWS) personnel will be conducting an aerial baiting program for the control of Wild Dogs on Paroo-Darling National Park and Paroo- Darling State Conservation Area.</p>\n\n<p><strong>The program is scheduled between 17/08/2025 and 25/08/2025</strong></p>\n\n<p>Exact dates within the above range are not fixed to allow for flexibility if circumstances such as weather impacting the operation.</p>\n\n<p>Paroo-Darling National Park and Paroo- Darling State Conservation Area may be closed during baiting operations. Information regarding park closures can be found on the NPWS website: <a href=\"http://click.ngcomms.net/memg3t4ytynw/9gqfu699j2p6h/pbcwal9q1pzj\">https://www.nationalparks.nsw.gov.au/alerts/alerts-list</a></p>\n\n<p>The program will use fresh meat baits containing 1080 (sodium fluoroacetate) poison. This program is compliant with the Pesticide Control (1080 Bait Products) Order 2020. Signs will be erected to notify the public of the baiting program.</p>\n\n<p>Please be reminded that domestic pets are not permitted on NPWS-managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. If accidental poisoning occurs seek immediate veterinary assistance.</p>\n\n<p>Aerial baiting complements other control measures which can include trapping, ground shooting and ground baiting.</p>\n\n<p>NPWS takes a strategic and integrated approach to pest management on lands we manage. We aim to minimise the adverse impacts of pests on biodiversity, cultural values, neighbours and the community. Only qualified and appropriately trained personnel will participate in this program.</p>\n\n<p>Baits may be deployed from the ground if aerial baiting is suspended due to unforeseen circumstances. This will occur within the same date range.</p>\n\n<p>For further information please Dan Hough on 0428 358 101.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/1502201",
           "EffectiveFrom": "2014-09-25T10:00:00",
           "EffectiveTo": null,
@@ -8683,6 +8864,35 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>There is a 'no solid fuel fire policy'&#xA0;in Paroo-Darling National&#xA0;Park all year round. This park fire ban will remain in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamite) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, please contact the local park office before using a gas and/or electric barbecue or cooker.&#xA0;<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. To find out more about fire bans in parks and reserves, including your responsibilities, visit <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks safety page</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Paroo-Darling State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/paroodarling-state-conservation-area",
+        "Id": "ff5938a9-f102-4379-8ae0-671efd732aeb",
+        "ItemName": "ParooDarling-State-Conservation-Area"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-08-13T11:58:12",
+      "EffectiveFrom": "2025-08-17T11:25:44",
+      "Categories": [
+        "Other planned events"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12416701",
+          "EffectiveFrom": "2025-08-17T11:25:44",
+          "EffectiveTo": "2025-08-26T11:27:10",
+          "LastReviewed": "2025-08-13T11:58:12",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>National Parks and Wildlife Service (NPWS) personnel will be conducting an aerial baiting program for the control of Wild Dogs on Paroo-Darling National Park and Paroo- Darling State Conservation Area.</p>\n\n<p><strong>The program is scheduled between 17/08/2025 and 25/08/2025</strong></p>\n\n<p>Exact dates within the above range are not fixed to allow for flexibility if circumstances such as weather impacting the operation.</p>\n\n<p>Paroo-Darling National Park and Paroo- Darling State Conservation Area may be closed during baiting operations. Information regarding park closures can be found on the NPWS website: <a href=\"http://click.ngcomms.net/memg3t4ytynw/9gqfu699j2p6h/pbcwal9q1pzj\">https://www.nationalparks.nsw.gov.au/alerts/alerts-list</a></p>\n\n<p>The program will use fresh meat baits containing 1080 (sodium fluoroacetate) poison. This program is compliant with the Pesticide Control (1080 Bait Products) Order 2020. Signs will be erected to notify the public of the baiting program.</p>\n\n<p>Please be reminded that domestic pets are not permitted on NPWS-managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. If accidental poisoning occurs seek immediate veterinary assistance.</p>\n\n<p>Aerial baiting complements other control measures which can include trapping, ground shooting and ground baiting.</p>\n\n<p>NPWS takes a strategic and integrated approach to pest management on lands we manage. We aim to minimise the adverse impacts of pests on biodiversity, cultural values, neighbours and the community. Only qualified and appropriately trained personnel will participate in this program.</p>\n\n<p>Baits may be deployed from the ground if aerial baiting is suspended due to unforeseen circumstances. This will occur within the same date range.</p>\n\n<p>For further information please Dan Hough on 0428 358 101.</p>",
           "IsKml": false
         }
       ]
@@ -9938,12 +10148,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-08-17T15:25:47",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
+        "Fires - ",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12424001",
+          "EffectiveFrom": "2025-08-17T15:04:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-08-17T15:25:47",
+          "Title": "THE CASTLES NATURE RESERVE WILLI WILLI",
+          "ItemName": null,
+          "Category": "Fires - ",
+          "DescriptionHtml": "<p>There is a fire in this park called THE CASTLES NATURE RESERVE WILLI WILLI. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
@@ -10271,12 +10493,13 @@
         "ItemName": "Turon-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-08-04T15:43:30",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
         {
@@ -10289,6 +10512,17 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Abercrombie River National Park (NP), Abercrombie River State Conservation Area (SCA), Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP Mares Forest NP, and Turon NP from <strong>Monday 25th August&#xA0;&#x2013; Sunday 7th&#xA0;September 2025.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to reduce predator impacts on wildlife, especially threatened species, and to reduce the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
           "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
@@ -11517,19 +11751,31 @@
         "ItemName": "Wombeyan-Karst-Conservation-Reserve"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-08T15:07:02",
+      "PartClosed": true,
+      "ClosedAreasCount": 4,
+      "LastReviewed": "2025-08-17T08:56:46",
       "EffectiveFrom": "2025-07-08T15:02:47",
       "Categories": [
+        "Closed areas",
         "Other incidents"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12191301",
           "EffectiveFrom": "2025-07-08T15:02:47",
           "EffectiveTo": "2025-12-31T15:03:31",
-          "LastReviewed": "2025-07-08T15:07:02",
+          "LastReviewed": "2025-08-17T08:56:46",
           "Title": "Mittagong to Wombeyan Caves - Road closed",
           "ItemName": null,
           "Category": "Other incidents",
@@ -11965,6 +12211,35 @@
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Post Office Lodge in Yerranderie Regional Park is closed for restoration works until October 2026.</p>\n\n<p>For further information please contact the NPWS Kanangra area office on&#xA0;02 6336 6200.</p>",
           "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Yerranderie State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yerranderie-state-conservation-area",
+        "Id": "e5ffaa5b-025b-4b28-85a3-5dc504e3bd42",
+        "ItemName": "Yerranderie-State-Conservation-Area"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-08-04T10:41:23",
+      "EffectiveFrom": "2025-08-17T16:00:00",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12070901",
+          "EffectiveFrom": "2025-08-17T16:00:00",
+          "EffectiveTo": "2025-08-22T17:30:00",
+          "LastReviewed": "2025-08-04T10:41:23",
+          "Title": "Parks closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 17&#xA0;August to 5.30pm, Friday 22&#xA0;August 2025 for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Turon National Park</li>\n\t<li>Wombeyan Caves</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n\t<li>Southern Blue Mountains National Park</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Obereon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
         }
       ]
     },
