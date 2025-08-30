@@ -848,6 +848,35 @@
     },
     {
       "Park": {
+        "Name": "Belmount Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/belmount-nature-reserve",
+        "Id": "ad44699a-3c50-4939-b1ef-525a29980fab",
+        "ItemName": "Belmount-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-08-29T16:53:46",
+      "EffectiveFrom": "2025-08-29T16:39:13",
+      "Categories": [
+        "Other planned events"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12450001",
+          "EffectiveFrom": "2025-08-29T16:39:13",
+          "EffectiveTo": "2025-09-16T16:39:45",
+          "LastReviewed": "2025-08-29T16:53:46",
+          "Title": "Notice of 1080 Baiting - Feral Pigs",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using grain containing 1080 (sodium fluoroacetate) poison for the control of feral pigs. The program will be conducted from Tuesday 2nd September 2025 until Tuesday 16th September 2025 in Belmount Nature Reserve.</p>\n\n<p>&#xA0;</p>\n\n<p>All entrances to the baiting location will be sign posted.</p>\n\n<p>&#xA0;</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>&#xA0;</p>\n\n<p>For further information please call NPWS Queanbeyan area office on 02 6229 7166.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Beni State Conservation Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/beni-state-conservation-area",
         "Id": "1e26669b-e957-4b97-b266-8566cfb4ffca",
@@ -1913,15 +1942,26 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 5,
+      "ClosedAreasCount": 7,
       "LastReviewed": "2025-08-28T11:15:44",
       "EffectiveFrom": "2020-07-02T16:56:05",
       "Categories": [
-        "Other planned events",
         "Closed areas",
+        "Other planned events",
         "Other incidents"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12426101",
+          "EffectiveFrom": "2025-08-30T07:00:00",
+          "EffectiveTo": "2025-08-30T17:00:00",
+          "LastReviewed": "2025-08-18T14:24:18",
+          "Title": "Minnamurra Rainforest closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Minnamurra Rainforest Centre and associated walking tracks, will be closed on Saturday 30th August 2025 due to power outages.</p>\n\n<p><a href=\"http://click.ngcomms.net/pvnd7h5cvf2o/b6suqy15gdr3d/skhrp99g84sy\">Penalties apply for non-compliance</a>. For more information, please contact the&#xA0;Minnamurra Rainforest Centre on 02 4236 0469.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8971402",
           "EffectiveFrom": "2022-09-21T13:08:34",
@@ -3149,14 +3189,25 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 16,
-      "LastReviewed": "2025-08-22T16:06:01",
+      "LastReviewed": "2025-08-29T20:10:26",
       "EffectiveFrom": "2025-05-01T17:00:00",
       "Categories": [
+        "Closed areas",
         "Closed parks",
-        "Other incidents",
-        "Closed areas"
+        "Other incidents"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11944201",
+          "EffectiveFrom": "2025-06-02T09:52:34",
+          "EffectiveTo": "2025-10-01T17:00:00",
+          "LastReviewed": "2025-08-29T20:10:26",
+          "Title": "Seasonal road closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Forest Road, east of the Hildergarde Road intersection in Coolah Tops National Park, is&#xA0;temporarily closed to vehicles&#xA0;until further notice. This is because of&#xA0;wet&#xA0;road conditions, road surface damage and storm damage.&#xA0;</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/viewtop/inforce/subordleg+427+2009+cd+0+N/?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>.<strong> </strong>For more information, please call the NPWS Castlereagh Area office on 02 6843 4000 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12419101",
           "EffectiveFrom": "2025-08-29T12:00:00",
@@ -3177,17 +3228,6 @@
           "ItemName": null,
           "Category": "Other incidents",
           "DescriptionHtml": "<p>Forest Road between Coolah Creek Road and the entrance of Coolah Tops National Park is managed and maintained by Warrumbungle Shire Council. Major roadwork is currently being undertaken on this section of road and is anticipated to be completed by October 2026.</p>\n\n<p>During this time:</p>\n\n<ul>\n\t<li>Expect delays due to traffic control</li>\n\t<li>The road may NOT be suitable for 2wd vehicles, trucks, trailers and&#xA0;caravans</li>\n\t<li>The road may be closed at short notice or impassable during and after wet weather</li>\n\t<li>Do not attempt to drive on Forest Road if it is wet or closed</li>\n\t<li>\n\t<p>Before visiting&#xA0;check current road and forecast weather conditions</p>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;Please refer any inquiries concerning this road directly to Warrumbungle Shire Council, phone (02) 6378 5000.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11944201",
-          "EffectiveFrom": "2025-06-02T09:52:34",
-          "EffectiveTo": "2025-09-01T17:00:00",
-          "LastReviewed": "2025-07-30T13:05:03",
-          "Title": "Seasonal road closure",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Forest Road, east of the Hildergarde Road intersection in Coolah Tops National Park, will be closed to vehicles from Monday 2 June to Monday 1&#xA0;September 2025. This is because of ongoing wet&#xA0;road conditions during the colder months. This closure may be cancelled or extended as per road conditions, any changes&#xA0;will be posted as soon as possible.</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/viewtop/inforce/subordleg+427+2009+cd+0+N/?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>.<strong> </strong>For more information, please call the NPWS Castlereagh Area office on 02 6843 4000 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -5362,7 +5402,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-29T11:16:08",
+      "LastReviewed": "2025-08-30T14:58:27",
       "EffectiveFrom": "2024-02-01T10:07:42",
       "Categories": [
         "Closed parks"
@@ -5372,7 +5412,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10562301",
           "EffectiveFrom": "2024-02-01T10:07:42",
           "EffectiveTo": "2025-12-31T10:08:01",
-          "LastReviewed": "2025-07-29T11:16:08",
+          "LastReviewed": "2025-08-30T14:58:27",
           "Title": "Jubullum Flat Camp closed",
           "ItemName": null,
           "Category": "Closed parks",
@@ -7138,14 +7178,13 @@
         "ItemName": "Mimosa-Rocks-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2025-08-29T10:46:59",
       "EffectiveFrom": "2024-11-07T10:32:37",
       "Categories": [
         "Other planned events",
-        "Safety alerts",
-        "Closed areas"
+        "Safety alerts"
       ],
       "Alerts": [
         {
@@ -7168,17 +7207,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>The 5&#xA0;southern beach access points and the day-use steps at Gillards Campground are currently closed due to severe erosion. Successive large seas have removed large amounts of sand from the beach resulting in these access points being unusable.</p>\n\n<p>Park users staying in sites 1 to 28 should use the beach access steps to the north instead which is easily accessible via a short walk.</p>\n\n<p>Beach access steps for sites 28&#xA0;to 39 currently remain open.</p>\n\n<p>For more information, contact the local NPWS office on 02 4476 0800</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11726201",
-          "EffectiveFrom": "2025-08-02T11:32:33",
-          "EffectiveTo": "2025-08-30T11:33:22",
-          "LastReviewed": "2025-08-15T09:04:25",
-          "Title": "Myer House closed for maintenance",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Myer House will be closed from 1st August 2025 until 30th August 2025 for annual maintenance works.&#xA0;</p>\n\n<p>For more information, contact the local NPWS office.</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -8219,11 +8247,12 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 13,
+      "ClosedAreasCount": 6,
       "LastReviewed": "2025-08-29T08:53:49",
       "EffectiveFrom": "2025-02-13T09:55:44",
       "Categories": [
         "Other planned events",
+        "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
@@ -8239,6 +8268,17 @@
           "IsKml": false
         },
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12440901",
+          "EffectiveFrom": "2025-08-30T07:00:00",
+          "EffectiveTo": "2025-11-30T12:18:55",
+          "LastReviewed": "2025-08-26T12:34:36",
+          "Title": "Murramarang South Coast Walk Hazard warning",
+          "ItemName": null,
+          "Category": "Safety alerts",
+          "DescriptionHtml": "<p>Walking tracks in Murramarang have been heavily affected by recent storm and sea conditions.</p>\n\n<p>Beach access points and rock crossings have been heavily impacted and can be difficult to negotiate with some steep, slippery and unstable sections.</p>\n\n<p>When accessing beaches and walking across rocky sections of the walk, please be mindful of conditions, loose rocks and dangerous crossings.</p>\n\n<p>The following tracks are affected:</p>\n\n<ul>\n\t<li>Acheron Ledge walking track</li>\n\t<li>Dark Beach walking track</li>\n\t<li>Durras Mountain Loop trail</li>\n\t<li>Myrtle Beach walking track</li>\n\t<li>Burrawang walking track</li>\n\t<li>Point Upright lookout</li>\n\t<li>Richmond Beach&#xA0;</li>\n\t<li>Snake Bay</li>\n\t<li>Honeysuckle Beach walking track</li>\n\t<li>Maloneys Beach to South Durras walking track</li>\n\t<li>Murramarang South Coast Walk</li>\n\t<li>Oaky Beach walking track</li>\n\t<li>Pretty Beach to Pebbly Beach walking track</li>\n\t<li>Wasp Head walk</li>\n</ul>\n\n<p>Please contact the Pretty beach office on 4457 2019&#xA0;pretty.beach@environment.nsw.gov.au for more information or to report further issues&#xA0;</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/11711001",
           "EffectiveFrom": "2025-05-08T06:00:00",
           "EffectiveTo": "2025-09-01T17:00:00",
@@ -8247,17 +8287,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Depot Beach campground and Depot Beach cabins are closed for maintenance until Sunday 31 August. The Depot Beach campground office will also be closed.</p>\n\n<p>If you&#x2019;re staying at Pebbly Beach campground, Pebbly Beach cabins, Judges House or Yellow Rock Beach House during this period &#x2013; you can contact the Pretty Beach campground office on 02 4457 2019&#xA0;if you have a problem and need to speak to staff.&#xA0;</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12372401",
-          "EffectiveFrom": "2025-07-17T13:51:57",
-          "EffectiveTo": "2025-08-30T07:00:00",
-          "LastReviewed": "2025-08-26T12:28:54",
-          "Title": "Murramarang South Coast Walk Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Murramarang South Coast Walk is closed due to extensive damage by recent storms, reopening 30&#xA0;August 2025 pending a thorough safety assessment.</p>",
           "IsKml": false
         },
         {
@@ -8495,7 +8524,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 19,
-      "LastReviewed": "2025-08-23T13:13:35",
+      "LastReviewed": "2025-08-30T09:47:53",
       "EffectiveFrom": "2024-10-05T11:33:47",
       "Categories": [
         "Other planned events",
@@ -8529,7 +8558,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12407901",
           "EffectiveFrom": "2025-08-08T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-21T10:29:23",
+          "LastReviewed": "2025-08-30T09:47:53",
           "Title": "Yagon campground and Yagon Road are closed due to flooding",
           "ItemName": null,
           "Category": "Closed areas",
@@ -9147,11 +9176,10 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-08-17T09:54:43",
-      "EffectiveFrom": "2025-02-14T15:04:12",
+      "LastReviewed": "2025-08-14T14:13:26",
+      "EffectiveFrom": "2025-08-29T06:00:00",
       "Categories": [
-        "Closed parks",
-        "Other planned events"
+        "Closed parks"
       ],
       "Alerts": [
         {
@@ -9163,17 +9191,6 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Oolambeyan National Park is closed from 6am, Friday&#xA0;29&#xA0;August&#xA0;to midnight, Monday 31 August 2025&#xA0;for a&#xA0;ground pest control operation. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11900201",
-          "EffectiveFrom": "2025-02-14T15:04:12",
-          "EffectiveTo": "2025-08-30T15:09:41",
-          "LastReviewed": "2025-08-17T09:54:43",
-          "Title": "Notice of ongoing 1080 program in Oolambeyan NP",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from 14 February 2025 to 30 August 2025. The operation will use 1080 (sodium fluoroacetate) poison for the control of feral foxes.</p>\n\n<p>The program will take place in Oolambeyan National Park.</p>\n\n<p>The program is designed to minimise impacts on wildlife, especially threatened species, and to minimise impact of foxes on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW national parks. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Griffith NPWS area office for more information on (02) 6966 8100.</p>",
           "IsKml": false
         }
       ]
@@ -9797,7 +9814,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 33,
+      "ClosedAreasCount": 32,
       "LastReviewed": "2025-08-29T15:00:06",
       "EffectiveFrom": "2022-07-12T16:30:18",
       "Categories": [
@@ -9825,17 +9842,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Curra Moors Loop Track and Curra Moors fire trail is closed until 31 August 2025 due to maintenance works. Access to Royal Coast Track from this location is not possible during this time.</p>\n\n<p>Please obey all closure signage and follow instructions from NPWS staff and contractors.&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local the Royal National Park Visitor Centre on 02 9542 0648.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12439801",
-          "EffectiveFrom": "2025-08-27T00:00:00",
-          "EffectiveTo": "2025-08-29T17:00:00",
-          "LastReviewed": "2025-08-26T13:28:28",
-          "Title": "Closed Area: Rawson Parade Vehicle Trail, Audley",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Rawson Parade Vehicle Trail will be closed on Thursday the 28th August, from 8am until 5pm Friday the 29th August 2025 for Vegetation maintenance works.</p>\n\n<p>Farnell Avenue Trail will remain open to bicycles for the duration of the works. For your safety please follow all safety and directional signage, as well as directions from staff when visiting the area. For more information, contact the Royal National Park Visitor Centre on 02 9542 0648.</p>",
           "IsKml": false
         },
         {
@@ -10851,7 +10857,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-08-21T15:22:59",
+      "LastReviewed": "2025-08-30T14:58:10",
       "EffectiveFrom": "2024-12-02T08:01:47",
       "Categories": [
         "Closed areas",
@@ -10873,7 +10879,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12051001",
           "EffectiveFrom": "2025-06-28T08:58:36",
           "EffectiveTo": "2025-10-31T08:59:07",
-          "LastReviewed": "2025-07-29T11:16:30",
+          "LastReviewed": "2025-08-30T14:58:10",
           "Title": "Murray Scrub Road - 2WD access dry weather only",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -11378,7 +11384,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-08-20T13:02:35",
+      "LastReviewed": "2025-08-30T14:22:46",
       "EffectiveFrom": "2024-07-19T10:21:05",
       "Categories": [
         "Closed areas",
@@ -11400,11 +11406,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12020601",
           "EffectiveFrom": "2025-06-17T14:51:36",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-20T13:02:05",
+          "LastReviewed": "2025-08-30T14:22:46",
           "Title": "Bangalow Road planned repairs and maintenance",
           "ItemName": null,
           "Category": "Other planned events",
-          "DescriptionHtml": "<p>Planned road repairs and maintenance is scheduled for Bangalow Road from 1 September&#xA0;2025 to 1 November 2025 (subject to weather). Heavy plant and machinery will be operating along Bangalow Road.</p>\n\n<p>Areas that will also be closed due to these works include:</p>\n\n<ul>\n\t<li>Bangalow Campground and Day use area</li>\n\t<li>Gap Creek Campground and Day use area</li>\n\t<li>Gap Creek&#xA0;Falls walking track</li>\n\t<li>Climbers walking track</li>\n</ul>\n\n<p>During this time, Bangalow Road will be closed and pedestrian and vehicle access is not permitted.&#xA0;<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2009/427?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, contact NPWS Central Coast Area office on (02) 4972 9000.</p>",
+          "DescriptionHtml": "<p>Planned road repairs and maintenance is scheduled for Bangalow Road from 8&#xA0;September&#xA0;2025 to mid-December&#xA0;2025 (subject to weather). Heavy plant and machinery will be operating along Bangalow Road.</p>\n\n<p>Areas that will also be closed due to these works include:</p>\n\n<ul>\n\t<li>Bangalow Campground and Day use area</li>\n\t<li>Gap Creek Campground and Day use area</li>\n\t<li>Gap Creek&#xA0;Falls walking track</li>\n</ul>\n\n<p>During this time, Bangalow Road will be closed and pedestrian and vehicle access is not permitted.&#xA0;<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2009/427?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, contact NPWS Central Coast Area office on (02) 4972 9000.</p>",
           "IsKml": false
         },
         {
@@ -11433,7 +11439,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11999001",
           "EffectiveFrom": "2025-06-12T20:23:07",
           "EffectiveTo": "2025-09-30T20:23:59",
-          "LastReviewed": "2025-08-20T13:02:35",
+          "LastReviewed": "2025-08-30T14:19:42",
           "Title": "Monkey Face Road closed due to road conditions",
           "ItemName": null,
           "Category": "Closed areas",
