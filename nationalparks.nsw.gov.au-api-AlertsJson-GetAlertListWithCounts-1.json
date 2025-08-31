@@ -1,6 +1,7 @@
 {
   "Categories": [
     "Current alerts",
+    "Fires - Advice",
     "Fire bans",
     "Closed parks",
     "Closed areas",
@@ -1942,26 +1943,15 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 7,
+      "ClosedAreasCount": 5,
       "LastReviewed": "2025-08-28T11:15:44",
       "EffectiveFrom": "2020-07-02T16:56:05",
       "Categories": [
-        "Closed areas",
         "Other planned events",
+        "Closed areas",
         "Other incidents"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12426101",
-          "EffectiveFrom": "2025-08-30T07:00:00",
-          "EffectiveTo": "2025-08-30T17:00:00",
-          "LastReviewed": "2025-08-18T14:24:18",
-          "Title": "Minnamurra Rainforest closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Minnamurra Rainforest Centre and associated walking tracks, will be closed on Saturday 30th August 2025 due to power outages.</p>\n\n<p><a href=\"http://click.ngcomms.net/pvnd7h5cvf2o/b6suqy15gdr3d/skhrp99g84sy\">Penalties apply for non-compliance</a>. For more information, please contact the&#xA0;Minnamurra Rainforest Centre on 02 4236 0469.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8971402",
           "EffectiveFrom": "2022-09-21T13:08:34",
@@ -2949,64 +2939,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Ongoing wet weather has impacted the roads in this reserve, leaving them washed out and/or under water for long periods of time. While they have dried out, access trails can still have rough surfaces and require maintenance. Please reduce speed, drive to conditions, and be aware of your surroundings. Heavy plant may be working in the area and care should be taken if you come across them.&#xA0;</p>\n\n<p>For more information, contact the NPWS Dubbo area office on 02 6841 7100.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Cocopara Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/cocopara-nature-reserve",
-        "Id": "41373294-9205-4a5a-a483-18cc80bd73a8",
-        "ItemName": "Cocopara-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-20T08:19:01",
-      "EffectiveFrom": "2025-08-27T07:00:00",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12415401",
-          "EffectiveFrom": "2025-08-27T07:00:00",
-          "EffectiveTo": "2025-08-30T19:00:00",
-          "LastReviewed": "2025-08-20T08:19:01",
-          "Title": "Cocoparra National park/Nature Reserved CLOSED for Feral Animal Aerial Shoot Team Operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Cocoparra NP/NR will be closed to the public for safety reasons due to a FAAST operation taking&#xA0;place, focussing on the removal of feral pigs and feral goats. No public access or camping at Woolshed Flat will be permitted from Wednesday 07:00am until Saturday 07:00pm. .&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Cocoparra National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/cocoparra-national-park",
-        "Id": "105da596-0c31-4088-a5f7-7b5ec4014831",
-        "ItemName": "Cocoparra-National-Park"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 10,
-      "LastReviewed": "2025-08-20T08:19:01",
-      "EffectiveFrom": "2025-08-27T07:00:00",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12415401",
-          "EffectiveFrom": "2025-08-27T07:00:00",
-          "EffectiveTo": "2025-08-30T19:00:00",
-          "LastReviewed": "2025-08-20T08:19:01",
-          "Title": "Cocoparra National park/Nature Reserved CLOSED for Feral Animal Aerial Shoot Team Operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Cocoparra NP/NR will be closed to the public for safety reasons due to a FAAST operation taking&#xA0;place, focussing on the removal of feral pigs and feral goats. No public access or camping at Woolshed Flat will be permitted from Wednesday 07:00am until Saturday 07:00pm. .&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -4207,35 +4139,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>National Parks and Wildlife Service (NPWS) will commence a 1080 ground and aerial baiting program on the 25th August&#xA0;2025 to the 19th October 2025 on the following reserves:</p>\n\n<ul>\n\t<li>Bald Rock National Park</li>\n\t<li>Barool National Park</li>\n\t<li>Basket Swamp National Park</li>\n\t<li>Bluff River Nature Reserve</li>\n\t<li>Bolivia Hill Nature Reserve</li>\n\t<li>Boonoo Boonoo National Park</li>\n\t<li>Butterleaf National Park and State Conservation Area</li>\n\t<li>Capoompeta National Park</li>\n\t<li>Cathedral Rock National Park</li>\n\t<li>Gibraltar Range National Park</li>\n\t<li>Guy Fawkes River National Park</li>\n\t<li>Guy Fawkes River Nature Reserve</li>\n\t<li>Kings Plains National Park</li>\n\t<li>Kwiambal CCAZ1 (Arthurs Seat)</li>\n\t<li>Kwiambal National Park</li>\n\t<li>Little Llangothlin Nature Reserve</li>\n\t<li>Maryland National Park</li>\n\t<li>Nymboida National Park</li>\n\t<li>Nullamanna National Park</li>\n\t<li>Severn River Nature Reserve</li>\n\t<li>Torrington State Conservation Area</li>\n\t<li>Warra National Park</li>\n\t<li>Washpool National Park</li>\n\t<li>Washpool State Conservation Area</li>\n</ul>\n\n<p>The operations will use meat baits containing 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. Signs will be placed at the entry to all the baiting locations. Domestic pets are not permitted in NPWS managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting locations. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information call the NPWS Northern Tablelands Area office on 02 6739 0700.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Ginghet Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/ginghet-nature-reserve",
-        "Id": "7de9ee2c-3fc2-4ad0-bda2-0b2bc53c57e4",
-        "ItemName": "Ginghet-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-28T18:22:57",
-      "EffectiveFrom": "2025-08-13T11:52:07",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12417001",
-          "EffectiveFrom": "2025-08-13T11:52:07",
-          "EffectiveTo": "2025-08-31T09:00:00",
-          "LastReviewed": "2025-08-28T18:22:57",
-          "Title": "Reserve closed 27 - 30 August 2025 for aerial pest control operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Macquarie Marshes Nature Reserve and Ginghet Nature Reserve are closed from 6am, Wednesday 27&#xA0;August to 7pm, Friday&#xA0;29&#xA0;August&#xA0;2025 for an aerial pest control operation. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the Castlereagh Area Office on 02 6843 4000.</p>",
           "IsKml": false
         }
       ]
@@ -6134,17 +6037,6 @@
           "IsKml": false
         },
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/11713801",
-          "EffectiveFrom": "2025-02-28T12:13:54",
-          "EffectiveTo": "2025-08-31T12:14:49",
-          "LastReviewed": "2025-07-08T08:47:39",
-          "Title": "Notice of ongoing 1080 wild dog and fox baiting program",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program in the north east precinct of Kosciuszko National Park, Scabby Range and Yaouk Nature Reserves within the Adaminaby/Yaouk wild dog control area.</p>\n\n<p>The program will be continuous and ongoing between 1 March 2025&#xA0;and 31 August 2025, and will use meat baits and canid pest ejectors containing 1080 (sodium fluroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>All baiting locations will be identifiable by signs.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserve. Pets and working dogs may be affected, and 1080 is lethal to cats and dogs. Pets and working dogs in the vicinity must be restrained or muzzled and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please call the NPWS Tumut area office on 02 6947 7000.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/10755101",
           "EffectiveFrom": "2024-05-07T15:22:19",
           "EffectiveTo": null,
@@ -6647,35 +6539,6 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Due to the sensitive nature of the reserve, access to Long Island Nature Reserve is restricted to approved research and cultural activities only. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office on (02) 8448 0400.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Macquarie Marshes Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/macquarie-marshes-nature-reserve",
-        "Id": "231934fa-fa6a-4045-80d4-88a0d14624a4",
-        "ItemName": "Macquarie-Marshes-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-28T18:22:57",
-      "EffectiveFrom": "2025-08-13T11:52:07",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12417001",
-          "EffectiveFrom": "2025-08-13T11:52:07",
-          "EffectiveTo": "2025-08-31T09:00:00",
-          "LastReviewed": "2025-08-28T18:22:57",
-          "Title": "Reserve closed 27 - 30 August 2025 for aerial pest control operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Macquarie Marshes Nature Reserve and Ginghet Nature Reserve are closed from 6am, Wednesday 27&#xA0;August to 7pm, Friday&#xA0;29&#xA0;August&#xA0;2025 for an aerial pest control operation. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the Castlereagh Area Office on 02 6843 4000.</p>",
           "IsKml": false
         }
       ]
@@ -7778,12 +7641,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-08-31T11:34:09",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
+        "Fires - Advice",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12451501",
+          "EffectiveFrom": "2025-08-29T14:41:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-08-31T11:34:09",
+          "Title": "BREWERS RD, KIPPENDUFF",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called BREWERS RD, KIPPENDUFF. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
@@ -8219,7 +8094,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-22T14:49:05",
+      "LastReviewed": "2025-08-31T10:36:01",
       "EffectiveFrom": "2025-06-11T09:30:14",
       "Categories": [
         "Other planned events"
@@ -8229,7 +8104,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11992901",
           "EffectiveFrom": "2025-06-11T09:30:14",
           "EffectiveTo": "2025-09-15T16:30:00",
-          "LastReviewed": "2025-08-22T14:49:05",
+          "LastReviewed": "2025-08-31T10:36:01",
           "Title": "Muogamarra Nature Reserve open season 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9815,13 +9690,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 32,
-      "LastReviewed": "2025-08-29T15:00:06",
+      "LastReviewed": "2025-08-31T08:51:16",
       "EffectiveFrom": "2022-07-12T16:30:18",
       "Categories": [
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12374601",
+          "EffectiveFrom": "2025-07-29T06:00:00",
+          "EffectiveTo": "2025-09-30T17:00:00",
+          "LastReviewed": "2025-08-31T08:51:16",
+          "Title": "Honeymoon Track closed for repairs",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Honeymoon Track within the Audley precinct of Royal National Park will be closed for repairs on weekdays only until approximately 30 September 2025. The track will remain available for use on weekends.&#xA0;</p>\n\n<p>For further information, please contact the Royal National Park Visitors Centre on 9542 0648.</p>",
+          "IsKml": true
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12449901",
           "EffectiveFrom": "2025-08-29T14:55:41",
@@ -9834,14 +9720,25 @@
           "IsKml": false
         },
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12448601",
-          "EffectiveFrom": "2025-08-29T13:53:37",
-          "EffectiveTo": "2025-08-30T19:00:00",
-          "LastReviewed": "2025-08-29T14:05:20",
-          "Title": "Closure to Curra Moors",
+          "ID": "npws-fis@id.ngcomms.net/eme/12227401",
+          "EffectiveFrom": "2025-08-30T19:01:00",
+          "EffectiveTo": "2025-10-03T15:48:50",
+          "LastReviewed": "2025-08-29T14:27:28",
+          "Title": "Curra Moors fire trail weekday closure",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Curra Moors Loop Track and Curra Moors fire trail is closed until 31 August 2025 due to maintenance works. Access to Royal Coast Track from this location is not possible during this time.</p>\n\n<p>Please obey all closure signage and follow instructions from NPWS staff and contractors.&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local the Royal National Park Visitor Centre on 02 9542 0648.</p>",
+          "DescriptionHtml": "<p>Curra Moors fire trail in Royal National Park is closed on weekdays between Monday&#xA0;28&#xA0;July and Friday 3&#xA0;October 2025 due to maintenance works.</p>\n\n<p>Please obey all closure signage and follow instructions from NPWS staff and contractors.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\"><strong>Penalties apply for non-compliance</strong></a><strong>. </strong>For more information, contact the Royal National Park area office on 02 9542 0632.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12227301",
+          "EffectiveFrom": "2025-08-30T19:01:00",
+          "EffectiveTo": "2025-09-19T15:43:25",
+          "LastReviewed": "2025-08-29T14:26:04",
+          "Title": "Curra Moors loop track weekday closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Access to Royal Coast track from Curra Moors loop track in Royal National Park will be closed on weekdays from Monday 28&#xA0;July to Friday 19&#xA0;September 2025 due to maintenance works on Curra Moors vehicle trail.</p>\n\n<p>Please obey all closure signage and follow instructions from NPWS staff and contractors.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\"><strong>Penalties apply for non-compliance</strong></a><strong>. </strong>For more information, contact the Royal National Park area office on 02 9542 0632.</p>",
           "IsKml": false
         },
         {
@@ -9854,17 +9751,6 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service will be conducting an aerial baiting program using dried meat baits containing 1080 poison (sodium fluroacetate) for the control of foxes. The program will occur from Wednesday 3 September to Saturday 6 September 2025 in Royal National Park.</p>\n\n<p>All baiting locations are identifiable by signs. Please don&#x2019;t touch baits.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Fox baiting in this reserve is aimed at improving the eco-health of the reserve by reducing predation of ground dwelling mammals and small birds, and specifically targeting fox control along the Hacking River to assist the successful re-introduction of platypus into Royal National Park.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Audley office on 02 9542 0632 (business hours) or the NPWS after hours call centre on 1300 056 294.</p>",
           "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12374601",
-          "EffectiveFrom": "2025-07-29T06:00:00",
-          "EffectiveTo": "2025-09-30T17:00:00",
-          "LastReviewed": "2025-08-22T08:21:45",
-          "Title": "Honeymoon Track closed for repairs",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Honeymoon Track within the Audley precinct of Royal National Park will be closed for repairs on weekdays only until approximately 30 September 2025. The track will remain available for use on weekends.&#xA0;</p>\n\n<p>For further information, please contact the Royal National Park Visitors Centre on 9542 0648.</p>",
-          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12048201",
@@ -9948,35 +9834,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Ongoing wet weather has impacted the roads in this reserve, leaving them washed out and/or under water for long periods of time. While they have dried out, access trails can still have rough surfaces and require maintenance. Please reduce speed, drive to conditions, and be aware of your surroundings. Heavy plant may be working in the area and care should be taken if you come across them.&#xA0;</p>\n\n<p>For more information, contact the NPWS Dubbo area office on 02 6841 7100.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Scabby Range Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/scabby-range-nature-reserve",
-        "Id": "6a075cdf-907b-4049-b90d-541802836452",
-        "ItemName": "Scabby-Range-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-08T08:47:39",
-      "EffectiveFrom": "2025-02-28T12:13:54",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11713801",
-          "EffectiveFrom": "2025-02-28T12:13:54",
-          "EffectiveTo": "2025-08-31T12:14:49",
-          "LastReviewed": "2025-07-08T08:47:39",
-          "Title": "Notice of ongoing 1080 wild dog and fox baiting program",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program in the north east precinct of Kosciuszko National Park, Scabby Range and Yaouk Nature Reserves within the Adaminaby/Yaouk wild dog control area.</p>\n\n<p>The program will be continuous and ongoing between 1 March 2025&#xA0;and 31 August 2025, and will use meat baits and canid pest ejectors containing 1080 (sodium fluroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>All baiting locations will be identifiable by signs.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserve. Pets and working dogs may be affected, and 1080 is lethal to cats and dogs. Pets and working dogs in the vicinity must be restrained or muzzled and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please call the NPWS Tumut area office on 02 6947 7000.</p>",
           "IsKml": false
         }
       ]
@@ -11271,13 +11128,14 @@
         "Id": "97910996-275c-4916-8134-930800b2b51d",
         "ItemName": "Warrumbungle-National-Park"
       },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 34,
       "LastReviewed": "2025-08-29T07:01:11",
       "EffectiveFrom": "2025-02-20T15:03:16",
       "Categories": [
-        "Other planned events"
+        "Other planned events",
+        "Closed parks"
       ],
       "Alerts": [
         {
@@ -11290,6 +11148,17 @@
           "Category": "Other planned events",
           "DescriptionHtml": "<p>Warrumbungle National Park is closed from 3pm, Sunday 31 August to 9am, Saturday 6 September 2025 for an aerial and ground pest control operation. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the Warrumbungle Visitor Centre on 02 6825 4364.</p>",
           "IsKml": true
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12401001",
+          "EffectiveFrom": "2025-08-31T00:00:00",
+          "EffectiveTo": "2025-09-06T10:00:00",
+          "LastReviewed": "2025-08-29T06:59:56",
+          "Title": "Park closed for aerial and ground pest control operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Warrumbungle National Park is closed from 3pm, Sunday 31 August to 9am, Saturday 6 September 2025 for an aerial and ground pest control operation. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the Warrumbungle Visitor Centre on 02 6825 4364.</p>",
+          "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11717101",
@@ -11884,35 +11753,6 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>The Walking track is currently closed until further notice. <a href=\"http://click.ngcomms.net/p02hyy52zdlz/ardt9dq9jnx15/rtt34u5gdnfj\">Penalties apply for non-compliance</a>. For more information, contact NPWS Alstonville&#xA0;office on 02 66270 200 or email&#xA0;<a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">npws.richmondriver@environment.nsw.gov.au</a></p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Winburndale Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/winburndale-nature-reserve",
-        "Id": "a4f512a8-3a32-41ef-ad15-00331ee9fcaf",
-        "ItemName": "Winburndale-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-27T08:14:48",
-      "EffectiveFrom": "2025-03-01T12:17:35",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11709501",
-          "EffectiveFrom": "2025-03-01T12:17:35",
-          "EffectiveTo": "2025-08-31T12:18:10",
-          "LastReviewed": "2025-06-27T08:14:48",
-          "Title": "Notice of 1080 Baiting",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using Canid Pest Ejectors (CPEs) and fresh meat baits containing 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. The 1080 bating program is ongoing and will continue to be conducted between <strong>01 March 2025</strong>&#xA0;and <strong>31 August&#xA0;</strong><strong>2025</strong> within <strong>Winburndale Nature Reserve</strong>. All baiting locations will be identifiable by signs.</p>\n\n<p>Please be reminded that domestic pets are not permitted on NPWS estate. Pets and working dogs may be affected and must be restrained or muzzled in the vicinity of the nature reserve and must not enter the baiting location (as 1080 is lethal to cats and dogs). In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please contact the NPWS Central West Area office at Bathurst on (02) 6332 7640.</p>",
           "IsKml": false
         }
       ]
@@ -12522,35 +12362,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using grain containing 1080 (sodium fluoroacetate) poison for the control of feral pigs. The program will be conducted from July 31st, 2025 until October 31st&#xA0;2025, in Tinderry&#xA0;Nature Reserve and Yanununbeyan State Conservation Area.</p>\n\n<p>&#xA0;</p>\n\n<p>All entrances to the baiting location will be sign posted.</p>\n\n<p>&#xA0;</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>&#xA0;</p>\n\n<p>For further information please call NPWS Queanbeyan area office on 02 6229 7166.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Yaouk Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yaouk-nature-reserve",
-        "Id": "d1205bca-5790-43d5-a8df-15bbbbf4ba06",
-        "ItemName": "Yaouk-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-08T08:47:39",
-      "EffectiveFrom": "2025-02-28T12:13:54",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11713801",
-          "EffectiveFrom": "2025-02-28T12:13:54",
-          "EffectiveTo": "2025-08-31T12:14:49",
-          "LastReviewed": "2025-07-08T08:47:39",
-          "Title": "Notice of ongoing 1080 wild dog and fox baiting program",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program in the north east precinct of Kosciuszko National Park, Scabby Range and Yaouk Nature Reserves within the Adaminaby/Yaouk wild dog control area.</p>\n\n<p>The program will be continuous and ongoing between 1 March 2025&#xA0;and 31 August 2025, and will use meat baits and canid pest ejectors containing 1080 (sodium fluroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>All baiting locations will be identifiable by signs.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserve. Pets and working dogs may be affected, and 1080 is lethal to cats and dogs. Pets and working dogs in the vicinity must be restrained or muzzled and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please call the NPWS Tumut area office on 02 6947 7000.</p>",
           "IsKml": false
         }
       ]
