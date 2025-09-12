@@ -401,6 +401,35 @@
     },
     {
       "Park": {
+        "Name": "Bandicoot Island Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bandicoot-island-nature-reserve",
+        "Id": "dd3f6910-eaf2-4d19-821a-a93d703c7e41",
+        "ItemName": "Bandicoot-Island-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-12T14:21:47",
+      "EffectiveFrom": "2025-09-12T07:15:52",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12482901",
+          "EffectiveFrom": "2025-09-12T07:15:52",
+          "EffectiveTo": "2025-10-01T07:17:11",
+          "LastReviewed": "2025-09-12T14:21:47",
+          "Title": "Closed parks:  Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand’s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve, Park closure for deer control shooting operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand&#x2019;s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve,&#xA0;will be closed within the following date range&#xA0;for deer control night<strong> </strong>shoot operations preventing localised economic impacts and protecting biodiversity assets within the park:&#xA0;</p>\n\n<ul>\n\t<li>Sept 22-30, 2025</li>\n</ul>\n\n<p>Do not enter at any time during the night-time operation.</p>\n\n<p><a href=\"http://click.ngcomms.net/g8cm7m9fkyaa/62ecvie4vf5di/guqbja9mlfnb\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, call the local park office on 02 6591 0300 or email <a href=\"mailto:npws.centralcoast@environment.nsw.gov.au\">npws.manninggreatlakes@environment.nsw.gov.au</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Bangadilly National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bangadilly-national-park",
         "Id": "1ca4574e-05b7-44be-9303-de55556d519e",
@@ -1189,7 +1218,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-04T08:56:56",
+      "LastReviewed": "2025-09-12T14:52:58",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
         "Safety alerts"
@@ -1199,7 +1228,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10562701",
           "EffectiveFrom": "2024-02-01T12:07:54",
           "EffectiveTo": "2026-02-05T17:00:00",
-          "LastReviewed": "2025-09-04T08:56:56",
+          "LastReviewed": "2025-09-12T14:52:58",
           "Title": "Swimming safety in Berowra Valley National Park",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -1218,7 +1247,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-04T08:56:56",
+      "LastReviewed": "2025-09-12T14:52:58",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
         "Safety alerts"
@@ -1228,7 +1257,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10562701",
           "EffectiveFrom": "2024-02-01T12:07:54",
           "EffectiveTo": "2026-02-05T17:00:00",
-          "LastReviewed": "2025-09-04T08:56:56",
+          "LastReviewed": "2025-09-12T14:52:58",
           "Title": "Swimming safety in Berowra Valley National Park",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -1346,14 +1375,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T15:46:51",
+      "LastReviewed": "2025-09-12T13:46:28",
       "EffectiveFrom": "2015-03-22T14:11:00",
       "Categories": [
-        "Closed areas",
         "Other planned events",
+        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12484701",
+          "EffectiveFrom": "2025-09-12T13:38:03",
+          "EffectiveTo": "2025-09-15T01:00:00",
+          "LastReviewed": "2025-09-12T13:46:28",
+          "Title": "Hounslow Classic - Grose Valley 13th- 14th September",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>The Hounslow Classic Running event is being held within the Grose Valley area of Blue Mountains National Park on the 13th and 14th September 2025.&#xA0; Specific areas that will experience an increase in visitation and parking are Govetts Leap, Grand Canyon, Lockleys Pylon and Evans Lookout.&#xA0; For further information please contact the Blue Mountains Heritage Centre on (02) 47878877.&#xA0;&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12482601",
           "EffectiveFrom": "2025-09-11T15:36:19",
@@ -1374,17 +1414,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Many roads, fire trails and walking tracks&#xA0;in Blue Mountains National Park are closed due to infrastructure repairs, upgrades or&#xA0;damage caused by&#xA0;wet weather including&#xA0;subsidence,&#xA0;rockfalls, landslides and fallen trees.</p>\n\n<p>The following tracks are&#xA0;<strong>closed</strong>:</p>\n\n<p><strong>Katoomba and Leura </strong>&#xA0;</p>\n\n<ul>\n\t<li>Honeymoon Bridge&#xA0;is closed due to rockfall hazards. (Visible bridge from Echo Point. Side route off&#xA0;Three&#xA0;Sisters Track and Giant Stairs.)</li>\n\t<li>Leura Cascades track (bottom section) is closed until the end of 2025 for track upgrade works. There is no access to Prince Henry Cliff walk (part of Grand Clifftop walk) between the top of Leura Cascades and the Amphitheatre junction. Short detour via Cliff Drive.</li>\n\t<li>Leura Cascades parking area and toilets are closed.&#xA0;Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information.</li>\n\t<li>Fern Bower track between Prince Henry Cliff walk and Amphitheatre track is closed due&#xA0;to&#xA0;landslides and associated repairs.&#xA0;</li>\n\t<li>Glenraphael Drive (Narrow Neck fire trail) is closed to vehicles near Cliff Drive due to a road subsidence. Walkers &amp; cyclists are permitted.</li>\n\t<li>Part of Lindeman&#xA0;Pass is&#xA0;closed due to a major landslide&#xA0;below Gladstone lookout. Roberts Pass is closed due to rockfall and&#xA0;landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is affected by&#xA0;closures at <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a>.</li>\n</ul>\n\n<p><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</p>\n\n<ul>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to elevated boardwalk repairs. There's no access to&#xA0;Roberts Pass, Hippocrene or&#xA0;Vera Falls.&#xA0;</li>\n\t<li>Valley of the Waters is closed below Silvia Falls due rockfall hazards. There is no access to Roberts Pass, Hippocrene or Vera Falls.</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Pulpit Rock Reserve, lookouts and part of the walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu\">Google maps</a>).</li>\n\t<li>Govetts descent and Rodriguez Pass are closed due to rockfalls and landslides.&#xA0;</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<p>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12480701",
-          "EffectiveFrom": "2025-09-11T09:19:05",
-          "EffectiveTo": "2025-09-13T23:59:00",
-          "LastReviewed": "2025-09-11T09:27:57",
-          "Title": "Glenbrook Causeway closed due to flooding",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Glenbrook causeway is closed due to flooding from recent rain. There is no pedestrian, cyclist or vehicle access.</p>\n\n<p>The causeway will be assessed daily and will reopen as soon as it is deemed safe.</p>\n\n<p>The following areas are also closed:</p>\n\n<ul>\n\t<li>The Oaks Single track</li>\n\t<li>Euroka campground</li>\n\t<li>Red Hands Cave</li>\n\t<li>Red Hands Cave walking track</li>\n\t<li>Woodford Oaks trail</li>\n\t<li>Jack Evans track</li>\n\t<li>Nepean lookout</li>\n\t<li>Nepean River walking track</li>\n\t<li>Mount Portal lookout</li>\n\t<li>Tunnel View lookout</li>\n</ul>\n\n<p>Jellybean Pool, Blue Pool, and Glenbrook Gorge tracks remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q6i4hp4rx094/bbvy9xh4vcowh/sw2v219fm0ub\">Penalties apply for non-compliance</a><strong>. </strong>For more information, contact the NPWS Glenbrook area office on 02 4720 6200.</p>",
           "IsKml": false
         },
         {
@@ -1705,6 +1734,35 @@
     },
     {
       "Park": {
+        "Name": "Booti Booti National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/booti-booti-national-park",
+        "Id": "ebf678b3-09f4-4ac0-9538-a6496d933556",
+        "ItemName": "Booti-Booti-National-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-12T14:20:59",
+      "EffectiveFrom": "2025-09-12T14:13:41",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12484901",
+          "EffectiveFrom": "2025-09-12T14:13:41",
+          "EffectiveTo": "2025-10-01T14:18:14",
+          "LastReviewed": "2025-09-12T14:20:59",
+          "Title": "Closed section of park:  Snake Island (Booti Booti National Park) closure for deer control shooting operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Snake Island (booti Booti National Park)&#xA0;will be closed within the following date range for deer control night<strong> </strong>shoot operations preventing localised economic impacts and protecting biodiversity assets within the park:</p>\n\n<ul>\n\t<li>Sept 22-30, 2025</li>\n</ul>\n\n<p>Do not enter at any time during the night-time operation.</p>\n\n<p><a href=\"http://click.ngcomms.net/g8cm7m9fkyaa/62ecvie4vf5di/guqbja9mlfnb\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, call the local park office on 02 6591 0300 or email <a href=\"mailto:npws.centralcoast@environment.nsw.gov.au\">npws.manninggreatlakes@environment.nsw.gov.au</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Border Ranges National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/border-ranges-national-park",
         "Id": "30dcc5ce-93a9-46f9-a91b-114e39c2c2a4",
@@ -1713,7 +1771,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-10T11:08:02",
+      "LastReviewed": "2025-09-12T09:13:49",
       "EffectiveFrom": "2025-02-15T11:20:03",
       "Categories": [
         "Closed areas",
@@ -1735,7 +1793,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12021801",
           "EffectiveFrom": "2025-06-18T12:59:36",
           "EffectiveTo": "2025-09-30T16:00:00",
-          "LastReviewed": "2025-09-04T09:59:48",
+          "LastReviewed": "2025-09-12T09:13:49",
           "Title": "Vegetation works being carried out on the Tweed Range Scenic Drive and Brindle creek loop Road",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -1850,26 +1908,14 @@
         "ItemName": "Brindabella-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-08-28T14:37:57",
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-08-15T13:43:57",
       "EffectiveFrom": "2025-06-17T12:47:19",
       "Categories": [
-        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12419701",
-          "EffectiveFrom": "2025-08-14T16:23:37",
-          "EffectiveTo": "2025-09-12T16:24:29",
-          "LastReviewed": "2025-08-28T14:37:57",
-          "Title": "Lowells Flat Toilet Closure",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Closed&#xA0;area - Lowells Flat toilet is closed for repairs.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12020301",
           "EffectiveFrom": "2025-06-17T12:47:19",
@@ -1879,35 +1925,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Trails in Brindabella National Park become wet and slippery following wet weather conditions. Traction may be difficult in some sections and some trails may become impassable. McIntyres Trail, Lowells Flat Trail and Waterfall Trail are steep 4WD only trails which can become slippery and unsafe after or during rain events. Caution is advised if you are travelling to the following areas after or during periods of wet weather:</p>\n\n<ul>\n\t<li>McIntyres campground</li>\n\t<li>Lowells Flat campground</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>These trails require high clearance 4WD vehicles only, with low range capability, off-road tyres and 4WD experience required. AWD and SUVs are not suitable. There is very limited to nil phone service in these areas to call for assistance.</p>\n\n<p>Trail and crossing closures may be implemented at short notice with updates provided on the NPWS website. Always check weather forecasts and the NPWS website for closures and updates before heading out into remote areas and trails.</p>\n\n<p>Please drive safely and drive to the conditions.</p>\n\n<p>For further information, call the NPWS Queanbeyan office on 02 6229 7166.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Brindingabba National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/brindingabba-national-park",
-        "Id": "007973ad-00ba-4302-b5cd-09b8cd291768",
-        "ItemName": "brindingabba-national-park"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-10T08:27:19",
-      "EffectiveFrom": "2025-09-10T08:24:04",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -2365,7 +2382,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-04T09:47:48",
+      "LastReviewed": "2025-09-12T08:52:54",
       "EffectiveFrom": "2022-06-03T14:33:00",
       "Categories": [
         "Safety alerts",
@@ -2376,7 +2393,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/8545302",
           "EffectiveFrom": "2022-06-03T14:33:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-04T09:47:48",
+          "LastReviewed": "2025-09-12T08:52:54",
           "Title": "Bungonia Gorge - Occasional high water",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -2387,7 +2404,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11848401",
           "EffectiveFrom": "2025-04-22T01:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-04T09:47:32",
+          "LastReviewed": "2025-09-12T08:45:58",
           "Title": "Jerrara Lookout Closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -2761,7 +2778,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-08T11:56:57",
+      "LastReviewed": "2025-09-12T09:42:03",
       "EffectiveFrom": "2024-10-16T13:34:48",
       "Categories": [
         "Closed areas",
@@ -2772,11 +2789,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12433601",
           "EffectiveFrom": "2025-09-11T13:49:12",
           "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-08T11:56:57",
+          "LastReviewed": "2025-09-12T09:42:03",
           "Title": "Areas closed for aerial feral animal control operation",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in Oxley Wild Rivers National Park, Carrai National Park and SCA, Nygiyungbayi Aboriginal Area and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Sunday 14 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. The closed areas are:</p>\n\n<ul>\n\t<li>Wollomombi campground and picnic facilities</li>\n\t<li>Walking tracks at Wollomombi Falls</li>\n\t<li>Edgars lookout</li>\n\t<li>Halls Peak campground and picnic area</li>\n\t<li>East Kunderang homestead</li>\n\t<li>Budds Mare lookout and campground</li>\n\t<li>Riverside campground and the Budds Mare to Riverside walk</li>\n\t<li>Youdales campground</li>\n</ul>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
+          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
           "IsKml": false
         },
         {
@@ -2813,7 +2830,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T11:56:57",
+      "LastReviewed": "2025-09-12T09:42:03",
       "EffectiveFrom": "2024-10-16T13:34:48",
       "Categories": [
         "Closed areas",
@@ -2824,11 +2841,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12433601",
           "EffectiveFrom": "2025-09-11T13:49:12",
           "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-08T11:56:57",
+          "LastReviewed": "2025-09-12T09:42:03",
           "Title": "Areas closed for aerial feral animal control operation",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in Oxley Wild Rivers National Park, Carrai National Park and SCA, Nygiyungbayi Aboriginal Area and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Sunday 14 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. The closed areas are:</p>\n\n<ul>\n\t<li>Wollomombi campground and picnic facilities</li>\n\t<li>Walking tracks at Wollomombi Falls</li>\n\t<li>Edgars lookout</li>\n\t<li>Halls Peak campground and picnic area</li>\n\t<li>East Kunderang homestead</li>\n\t<li>Budds Mare lookout and campground</li>\n\t<li>Riverside campground and the Budds Mare to Riverside walk</li>\n\t<li>Youdales campground</li>\n</ul>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
+          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
           "IsKml": false
         },
         {
@@ -2923,12 +2940,23 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-08T08:51:42",
+      "LastReviewed": "2025-09-12T08:33:29",
       "EffectiveFrom": "2025-07-09T13:12:25",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12483101",
+          "EffectiveFrom": "2025-09-12T08:27:34",
+          "EffectiveTo": "2025-09-14T23:59:47",
+          "LastReviewed": "2025-09-12T08:33:29",
+          "Title": "Mitchell Park closed due to flooding",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Mitchell Park is closed due to minor flooding.&#xA0;</p>\n\n<p>This closure will be reviewed and&#xA0;updated on Monday 15 September 2025.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information and contact the local park office.</p>\n\n<p>For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12193901",
           "EffectiveFrom": "2025-07-09T13:12:25",
@@ -3060,35 +3088,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting ongoing aerial and ground baiting programs. Aerial baiting and ground baiting is scheduled from 8th June 2025 to 8th December 2025. The operation will use 1080 (sodium fluoroacetate) poison for the control of Wild dogs and Foxes.</p>\n\n<p>Aerial baiting and ground baiting will occur in:</p>\n\n<p><strong>Richmond River Area &#x2013;</strong> Captains Creek Nature Reserve (NR), Richmond Range National Park (NP), Bundjalung NP</p>\n\n<p><strong>Clarence Area </strong>- Nymboi-Binderay NP, Nymboida NP, Mount Neville NR, Banyabba NR and State Conservation Area (SCA), Ramornie NP, Bundjalung NP</p>\n\n<p><strong>Coffs Coast Area </strong>- Bagul Waajaarr NR, Bindarri NP, Cascade NP, Chaelundi NP and SCA, Cunnawarra NP, Dorrigo NP, Dunggir NP, Gumbaynggirr SCA, Jobs Mountain NR, Mount Hyland NR and SCA, New England NP, Ngambaa NR, Nymboi-Binderay NP, Serpentine NR.</p>\n\n<p><strong>Hastings Macleay</strong> <strong>Area</strong>- The Cells SCA, Cottan-Bimbang NP, Carrai NP and SCA, New England NP, Pee Dee NR, The Castles NR, Werrikimbe NP, Willi Willi NP, Mount Seaview NR.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local NPWS area office for more information.</p>\n\n<p>Hastings Macleay Area 02 6561 6700</p>\n\n<p>Coffs Coast Area 02 6652 0900</p>\n\n<p>Clarence Area 02 6641 1500</p>\n\n<p>Richmond River Area 02 6632 0000</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Chambigne Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/chambigne-nature-reserve",
-        "Id": "5a076b9c-0106-4145-80ad-9a094cc113ca",
-        "ItemName": "Chambigne-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T09:04:40",
-      "EffectiveFrom": "2025-09-08T15:40:00",
-      "Categories": [
-        "Fires - Advice"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12474401",
-          "EffectiveFrom": "2025-09-08T15:40:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T09:04:40",
-          "Title": "Chambigne Nature Reserve",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Chambigne Nature Reserve. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -3581,35 +3580,6 @@
     },
     {
       "Park": {
-        "Name": "Culgoa National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/culgoa-national-park",
-        "Id": "f09c2053-94f9-4e58-9966-e30923d2ec3e",
-        "ItemName": "Culgoa-National-Park"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-10T08:27:19",
-      "EffectiveFrom": "2025-09-10T08:24:04",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Cullendulla Creek Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/cullendulla-creek-nature-reserve",
         "Id": "81afead4-40f5-4b64-99b6-4933c6c4c5c4",
@@ -3618,7 +3588,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-04T08:33:28",
+      "LastReviewed": "2025-09-12T08:54:38",
       "EffectiveFrom": "2024-07-09T11:00:50",
       "Categories": [
         "Safety alerts"
@@ -3628,7 +3598,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11051001",
           "EffectiveFrom": "2024-07-09T11:00:50",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-04T08:33:28",
+          "LastReviewed": "2025-09-12T08:54:38",
           "Title": "Cullendulla Beach erosion",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -3745,23 +3715,12 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-10T08:27:19",
+      "LastReviewed": "2025-09-02T09:17:51",
       "EffectiveFrom": "2024-09-18T10:44:33",
       "Categories": [
         "Closed parks"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11327501",
           "EffectiveFrom": "2024-09-18T10:44:33",
@@ -3988,7 +3947,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-09T11:32:30",
+      "LastReviewed": "2025-09-12T16:38:41",
       "EffectiveFrom": "2024-01-17T15:42:49",
       "Categories": [
         "Closed areas",
@@ -3998,12 +3957,12 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12424801",
           "EffectiveFrom": "2025-08-19T07:00:00",
-          "EffectiveTo": "2025-09-12T17:00:00",
-          "LastReviewed": "2025-09-09T11:32:30",
+          "EffectiveTo": "2025-09-19T17:00:00",
+          "LastReviewed": "2025-09-12T16:38:41",
           "Title": "Road closure Lyrebird Lane - Glade picnic area",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Lyrebird Lane and The Glade picnic area is closed&#xA0;for commencement of construction works on the temporary visitor centre from Tuesday 19 August until Friday&#xA0;12&#xA0;September 2025.</p>",
+          "DescriptionHtml": "<p>Lyrebird Lane and The Glade picnic area is closed&#xA0;for commencement of construction works on the temporary visitor centre from Tuesday 19 August until Friday 19&#xA0;September 2025 at 5pm.</p>",
           "IsKml": false
         },
         {
@@ -4147,6 +4106,35 @@
     },
     {
       "Park": {
+        "Name": "Durands Island Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/durands-island-nature-reserve",
+        "Id": "b639f9eb-05ad-454c-86ed-1a38a343fd94",
+        "ItemName": "Durands-Island-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-12T14:21:47",
+      "EffectiveFrom": "2025-09-12T07:15:52",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12482901",
+          "EffectiveFrom": "2025-09-12T07:15:52",
+          "EffectiveTo": "2025-10-01T07:17:11",
+          "LastReviewed": "2025-09-12T14:21:47",
+          "Title": "Closed parks:  Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand’s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve, Park closure for deer control shooting operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand&#x2019;s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve,&#xA0;will be closed within the following date range&#xA0;for deer control night<strong> </strong>shoot operations preventing localised economic impacts and protecting biodiversity assets within the park:&#xA0;</p>\n\n<ul>\n\t<li>Sept 22-30, 2025</li>\n</ul>\n\n<p>Do not enter at any time during the night-time operation.</p>\n\n<p><a href=\"http://click.ngcomms.net/g8cm7m9fkyaa/62ecvie4vf5di/guqbja9mlfnb\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, call the local park office on 02 6591 0300 or email <a href=\"mailto:npws.centralcoast@environment.nsw.gov.au\">npws.manninggreatlakes@environment.nsw.gov.au</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Durridgere State Conservation Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/durridgere-state-conservation-area",
         "Id": "aaf5123a-8f2d-4732-a602-edc7e230f22d",
@@ -4182,13 +4170,12 @@
         "ItemName": "Eurobodalla-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2025-08-29T10:46:59",
       "EffectiveFrom": "2015-10-21T11:57:17",
       "Categories": [
         "Other planned events",
-        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
@@ -4201,17 +4188,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from&#xA0;Monday 25&#xA0;August 2025&#xA0;to Monday 23 February&#xA0;2026. The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and/or foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species and&#xA0;will take place in:</p>\n\n<ul>\n\t<li>Araluen Nature Reserve</li>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Beowa National Park</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Bondi Gulf Nature Reserve</li>\n\t<li>Bournda National Park</li>\n\t<li>Bournda Nature Reserve</li>\n\t<li>Coolumbooka Nature Reserve</li>\n\t<li>Deua National Park</li>\n\t<li>Eurobodalla National Park</li>\n\t<li>Kooraban National Park</li>\n\t<li>Majors Creek State Conservation Area</li>\n\t<li>Mimosa Rocks National Park</li>\n\t<li>Monga National Park and State Conservation Area</li>\n\t<li>South East Forest National Park</li>\n\t<li>Wadbilliga National Park</li>\n</ul>\n\n<p>Signs will be placed at the entry to baiting locations. Domestic pets are not permitted in NSW National Parks managed lands.</p>\n\n<p>Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For further information call the NPWS Merimbula area office on 02 6495 5000.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12440701",
-          "EffectiveFrom": "2025-09-11T09:30:00",
-          "EffectiveTo": "2025-09-12T08:00:00",
-          "LastReviewed": "2025-08-26T11:56:28",
-          "Title": "Planned power outage Congo Campground",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>There will be a temporary planned power outage at the Congo Campground on 11th September 2025 from 9:30am until 3pm. This planned power outage is necessary for Essential Energy to safely carry out improvements to the electricity network in this area.</p>\n\n<p>For more information about this power outage, please call Essential Energy's 24 hour Customer Contact Team on <strong>13 20 80</strong>. Alternatively, please visit <strong>essentialenergy.com.au/outages </strong>or contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
@@ -4324,35 +4300,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-11T12:53:31",
+      "LastReviewed": "2025-08-19T09:19:41",
       "EffectiveFrom": "2023-07-20T15:06:23",
       "Categories": [
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12474101",
-          "EffectiveFrom": "2025-09-08T15:58:38",
-          "EffectiveTo": "2025-09-12T15:00:00",
-          "LastReviewed": "2025-09-11T12:53:31",
-          "Title": "Walking Tracks Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Due to recent heavy rainfall the following walking tracks will be closed until 3pm Friday 12 September</p>\n\n<p>&#xA0;</p>\n\n<p>-Lost City Walking Track&#xA0;</p>\n\n<p>-Pipeline Walking Track&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>Due to the closure there will be no access to Newnes Campground or Newnes Industrial Ruins.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Kanangra Area Office on (02) 6336 6200.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12474201",
-          "EffectiveFrom": "2025-09-08T16:06:36",
-          "EffectiveTo": "2025-09-12T15:00:00",
-          "LastReviewed": "2025-09-11T12:50:45",
-          "Title": "Glow Worm Tunnel Road - Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Glow Worm Tunnel Road is closed from Bungleboori Picnic Area due to poor road conditions. <strong>The road will reopen at 3pm Friday 12 September</strong>.</p>\n\n<p>&#xA0;</p>\n\n<p>As a result, there will be <strong>no access</strong> to the following areas via Glow Worm Tunnel Road during the closure:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Glow Worm Tunnel</li>\n\t<li>Newnes Campground</li>\n\t<li>Deep Pass Campground</li>\n\t<li>Rocky and Twister Canyon</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;For more information, please contact Kanangra Area office on ph 02 6336 6200 or npws.kanangra@environment.nsw.gov.au</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12375301",
           "EffectiveFrom": "2025-07-24T13:24:25",
@@ -4436,35 +4390,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service will be conducting a baiting program using manufactured baits, fresh baits and Canid Pest Ejectors (CPEs) containing 1080 poison (sodium fluroacetate) for the control of foxes. The program is continuous and ongoing between1 August 2025 and 31 January 2026 in <strong>Garigal National Park</strong>. Don&#x2019;t touch baits or ejector devices. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\n\n<p>&#xA0;</p>\n\n<p>All baiting locations are identifiable by signs.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Fox baiting in these reserves is aimed at reducing their impact on threatened species.</p>\n\n<p>For more information, contact the local park office on:</p>\n\n<p>Forestville 9451 3479 (business hours)</p>\n\n<p>NPWS after-hours call centre: 1300 056 294 (after hours)</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Georges River National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/georges-river-national-park",
-        "Id": "4ab4ab62-d930-4900-921d-ebf9ec8f6786",
-        "ItemName": "Georges-River-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-10T15:28:54",
-      "EffectiveFrom": "2025-09-10T15:23:02",
-      "Categories": [
-        "Safety alerts"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12479101",
-          "EffectiveFrom": "2025-09-10T15:23:02",
-          "EffectiveTo": "2025-09-11T18:00:00",
-          "LastReviewed": "2025-09-10T15:28:54",
-          "Title": "Heavy rain and rising water levels",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Due to heavy rainfall, the creeks and waterfalls in Royal, Heathcote and Georges River National Park may rise rapidly and not allow access or egress to the following visitor areas and Campgrounds:</p>\n\n<ul>\n\t<li>Uloola Falls Campground</li>\n\t<li>Kingfisher Pools Campground</li>\n\t<li>Wattamolla Picnic Area, beach and lagoon</li>\n\t<li>Royal Coast Track</li>\n\t<li>All tracks and trails</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters, NPWS recommends you&#xA0;reconsider your travel plans and reschedule your visit and avoid travel through areas in these parks.</p>\n\n<p>Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information about road closures.</p>\n\n<p>&#xA0;</p>\n\n<p>For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office on 02 95420632</p>",
           "IsKml": false
         }
       ]
@@ -4920,64 +4845,6 @@
     },
     {
       "Park": {
-        "Name": "Gundabooka National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gundabooka-national-park",
-        "Id": "da5e5a29-9d3f-4460-ac35-a67d734daf05",
-        "ItemName": "Gundabooka-National-Park"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 10,
-      "LastReviewed": "2025-09-10T08:27:19",
-      "EffectiveFrom": "2025-09-10T08:24:04",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Gundabooka State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gundabooka-state-conservation-area",
-        "Id": "e90b9cb6-1c18-4308-bee0-31c792ed4959",
-        "ItemName": "Gundabooka-State-Conservation-Area"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-10T08:27:19",
-      "EffectiveFrom": "2025-09-10T08:24:04",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Guula Ngurra National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/guula-ngurra-national-park",
         "Id": "4970b342-c9f7-493d-ad07-fbc2cfd94586",
@@ -5246,17 +5113,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Kingfisher Pool campground is closed from Wed 10 September 2025 due to heavy rainfall event and rising of creek levels.&#xA0;</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters, so you&#x2019;ll need to reschedule your visit and avoid travel through areas in this park. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information about road closures. For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact Royal National Park Visitor Centre on 02 9542 0648.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12479101",
-          "EffectiveFrom": "2025-09-10T15:23:02",
-          "EffectiveTo": "2025-09-11T18:00:00",
-          "LastReviewed": "2025-09-10T15:28:54",
-          "Title": "Heavy rain and rising water levels",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Due to heavy rainfall, the creeks and waterfalls in Royal, Heathcote and Georges River National Park may rise rapidly and not allow access or egress to the following visitor areas and Campgrounds:</p>\n\n<ul>\n\t<li>Uloola Falls Campground</li>\n\t<li>Kingfisher Pools Campground</li>\n\t<li>Wattamolla Picnic Area, beach and lagoon</li>\n\t<li>Royal Coast Track</li>\n\t<li>All tracks and trails</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters, NPWS recommends you&#xA0;reconsider your travel plans and reschedule your visit and avoid travel through areas in these parks.</p>\n\n<p>Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information about road closures.</p>\n\n<p>&#xA0;</p>\n\n<p>For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office on 02 95420632</p>",
           "IsKml": false
         },
         {
@@ -6228,7 +6084,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 8,
-      "LastReviewed": "2025-09-10T12:04:51",
+      "LastReviewed": "2025-09-12T11:51:00",
       "EffectiveFrom": "2025-09-10T09:47:26",
       "Categories": [
         "Closed parks"
@@ -6238,11 +6094,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12477601",
           "EffectiveFrom": "2025-09-10T09:47:26",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-10T12:04:51",
-          "Title": "Kinchega National Park is closed due to rain",
+          "LastReviewed": "2025-09-12T11:51:00",
+          "Title": "Kinchega National Park remains closed due to rain",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>Kinchega National Park is closed due to rain. This closure will be updated when conditions change. For further information please contact the Broken Hill National Park office on&#xA0;08 8084 2880.</p>",
+          "DescriptionHtml": "<p>Kinchega National Park remains closed due to rain.&#xA0; The internal unsealed road are very waterlogged.&#xA0; The road conditions will be re-assessed again&#xA0;on Monday 15 September 2025. For further information please contact the Broken Hill National Park office on&#xA0;08 8084 2880.</p>",
           "IsKml": false
         }
       ]
@@ -6365,46 +6221,6 @@
     },
     {
       "Park": {
-        "Name": "Koreelah National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/koreelah-national-park",
-        "Id": "55a57e6f-b542-41ef-b342-993bf4a36535",
-        "ItemName": "Koreelah-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T12:04:47",
-      "EffectiveFrom": "2025-09-09T10:00:00",
-      "Categories": [
-        "Hazard reduction burns"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12471601",
-          "EffectiveFrom": "2025-09-09T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T12:04:47",
-          "Title": "Bindarabi HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 09/09/2025. The fire is called&#xA0;Bindarabi HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12473301",
-          "EffectiveFrom": "2025-09-09T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T12:03:40",
-          "Title": "Trough Creek HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 09/09/2025. The fire is called&#xA0;Trough Creek HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Kosciuszko National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park",
         "Id": "514aa34c-1388-4a2e-ab56-4dbdfbf3a624",
@@ -6413,7 +6229,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T15:45:23",
+      "LastReviewed": "2025-09-12T13:18:19",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
         "Other planned events",
@@ -6557,7 +6373,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/8466922",
           "EffectiveFrom": "2022-05-04T11:29:37",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-11T14:33:37",
+          "LastReviewed": "2025-09-12T13:18:19",
           "Title": "Tantangara Reservoir partial closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -6697,7 +6513,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-09T14:21:07",
+      "LastReviewed": "2025-09-12T14:52:50",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
         "Closed areas",
@@ -6752,7 +6568,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11583701",
           "EffectiveFrom": "2025-01-01T20:49:41",
           "EffectiveTo": "2026-01-30T20:50:17",
-          "LastReviewed": "2025-09-04T08:56:40",
+          "LastReviewed": "2025-09-12T14:52:50",
           "Title": "Berowra walking track partial closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -6976,35 +6792,6 @@
     },
     {
       "Park": {
-        "Name": "Ledknapper Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/ledknapper-nature-reserve",
-        "Id": "d0ee9664-36fe-4c1e-a244-b05acf1c643a",
-        "ItemName": "Ledknapper-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-10T08:27:19",
-      "EffectiveFrom": "2025-09-10T08:24:04",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Limeburners Creek National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/limeburners-creek-national-park",
         "Id": "f7e5b82c-a6d6-4a32-a2cf-ce924e594e77",
@@ -7013,24 +6800,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-05T13:46:37",
+      "LastReviewed": "2025-09-04T12:26:39",
       "EffectiveFrom": "2025-08-18T09:09:15",
       "Categories": [
-        "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12463601",
-          "EffectiveFrom": "2025-09-09T06:00:00",
-          "EffectiveTo": "2025-09-11T17:00:00",
-          "LastReviewed": "2025-09-05T13:46:37",
-          "Title": "Point Plomer Road Works",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Road grading works will be carried out on <strong>Point Plomer Road</strong> from<strong> Tuesday 9 September </strong>to<strong> Thursday 11 September 2025</strong>, weather dependant. During the works there will be heavy plant and equipment on the road. Vehicle access will remain open. Drive with caution.</p>\n\n<p>&#xA0;</p>\n\n<p>For the latest updates, please contact the local NPWS office on <strong>(02) 6588 5555.</strong></p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12424701",
           "EffectiveFrom": "2025-08-18T09:09:15",
@@ -7199,7 +6974,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-11T09:10:36",
+      "LastReviewed": "2025-09-12T07:19:40",
       "EffectiveFrom": "2019-06-18T09:18:12",
       "Categories": [
         "Closed areas"
@@ -7231,7 +7006,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/6744822",
           "EffectiveFrom": "2020-12-14T11:55:27",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-11T10:35:37",
+          "LastReviewed": "2025-09-12T07:19:32",
           "Title": "Macquarie Rivulet - Jump Rock track closed",
           "ItemName": null,
           "Category": "Closed areas",
@@ -7242,7 +7017,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/5254122",
           "EffectiveFrom": "2019-06-18T09:18:12",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-11T09:34:46",
+          "LastReviewed": "2025-09-12T07:19:40",
           "Title": "Restricted access to Macquarie Rivulet",
           "ItemName": null,
           "Category": "Closed areas",
@@ -7910,15 +7685,48 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 50,
-      "LastReviewed": "2025-09-11T10:59:19",
+      "LastReviewed": "2025-09-12T16:28:57",
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
-        "Closed parks",
         "Closed areas",
+        "Closed parks",
         "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12485301",
+          "EffectiveFrom": "2025-09-12T16:17:46",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-12T16:28:57",
+          "Title": "Belmore Falls precinct closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Belmore Falls visitor precinct is closed due to an ongoing search and rescue operation.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12366601",
+          "EffectiveFrom": "2025-07-18T17:36:28",
+          "EffectiveTo": "2025-10-20T11:00:00",
+          "LastReviewed": "2025-09-12T13:58:13",
+          "Title": "Tallowa Dam Road Closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The end of Tallowa Dam Road in Morton National Park is currently closed due to cracks which have developed after multiple heavy rain events, creating the potential for a landslide. The closure is located approximately 1.5km east of Tallowa Dam crest.</p>\n\n<p>There is no public access to Tallowa Dam. Paddlers must exit the lake at Beehive Point or Bendeela.</p>\n\n<p>The road will be closed until at least mid-October, to allow for essential geotechnical investigation work. This work is being managed by National Parks and Wildlife Service and we will update this message when we have more information in early October.</p>\n\n<p>For more information, contact the NPWS Fitzroy Falls office on 02 4887 8244.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12483401",
+          "EffectiveFrom": "2025-09-12T08:48:36",
+          "EffectiveTo": "2025-09-15T10:00:00",
+          "LastReviewed": "2025-09-12T09:09:31",
+          "Title": "Belmore Falls Area Closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Belmore Falls visitor precinct is closed re-opening on the 15.09.2025</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12481601",
           "EffectiveFrom": "2025-09-11T10:57:36",
@@ -7928,17 +7736,6 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Erith Coal Mine stairwell&#xA0;is closed due to predicted high rainfall and rockfall/landslip risk. The track portion of the track will remain closed to the public until NPWS staff have conducted an inspection and risk assessment and it is safe to reopen.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12366601",
-          "EffectiveFrom": "2025-07-18T17:36:28",
-          "EffectiveTo": "2025-10-20T11:00:00",
-          "LastReviewed": "2025-09-10T08:22:59",
-          "Title": "Tallowa Dam Road Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The end of Tallowa Dam Road in Morton National Park is currently closed due to cracks which have developed after multiple heavy rain events, creating the potential for a landslide. The closure is located approximately 1.5km east of Tallowa Dam crest.</p>\n\n<p>There is no public access to Tallowa Dam. Paddlers must exit the lake at Beehive Point or Bendeela.</p>\n\n<p>The road will be closed until at least mid-October, to allow for essential geotechnical investigation work. This work is being managed by National Parks and Wildlife Service and we will update this message when we have more information in early October.</p>\n\n<p>For more information, contact the NPWS Fitzroy Falls office on 02 4887 8244.</p>",
           "IsKml": false
         },
         {
@@ -8488,7 +8285,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-09T09:29:53",
+      "LastReviewed": "2025-09-12T10:05:01",
       "EffectiveFrom": "2020-02-18T17:42:12",
       "Categories": [
         "Closed areas",
@@ -8498,12 +8295,12 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12476101",
           "EffectiveFrom": "2025-09-09T09:17:23",
-          "EffectiveTo": "2025-09-12T17:00:00",
-          "LastReviewed": "2025-09-09T09:29:53",
+          "EffectiveTo": "2025-09-14T17:00:00",
+          "LastReviewed": "2025-09-12T10:05:01",
           "Title": "Genowlan Mountain Trail closed due to Wet Weather",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Genowlan Mountain Trail is closed to vehicles due to forecast heavy rainfall to minimise damage to the trail surface.</p>\n\n<p>&#xA0;</p>\n\n<p>There is no vehicle access to the following areas:</p>\n\n<p>- Airly Turret Radio Toer</p>\n\n<p>- The Grotto</p>\n\n<p>- The Diamond Mine</p>\n\n<p>- Genowlan Point</p>\n\n<p>- The Valley of the Dinosaurs</p>\n\n<p>- The Ultimate Slot</p>\n\n<p>-Genowlan Trig</p>\n\n<p>&#xA0;</p>\n\n<p>Penalties apply for non compliance.&#xA0; For more information please call the Mudgee Area Office on 02 6370 9000</p>",
+          "DescriptionHtml": "<p>The Genowlan Mountain Trail is closed to vehicles due to forecast heavy rainfall to minimise damage to the trail surface.</p>\n\n<p>&#xA0;</p>\n\n<p>There is no vehicle access to the following areas:</p>\n\n<p>- Airly Turret Radio Tower</p>\n\n<p>- The Grotto</p>\n\n<p>- The Diamond Mine</p>\n\n<p>- Genowlan Point</p>\n\n<p>- The Valley of the Dinosaurs</p>\n\n<p>- The Ultimate Slot</p>\n\n<p>-Genowlan Trig</p>\n\n<p>&#xA0;</p>\n\n<p>Penalties apply for non compliance.&#xA0; For more information please call the Mudgee Area Office on 02 6370 9000</p>",
           "IsKml": false
         },
         {
@@ -8685,7 +8482,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 18,
-      "LastReviewed": "2025-09-10T13:43:28",
+      "LastReviewed": "2025-09-12T15:53:30",
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
         "Closed parks",
@@ -8696,23 +8493,23 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12478801",
           "EffectiveFrom": "2025-09-10T13:39:42",
-          "EffectiveTo": "2025-09-12T14:00:00",
-          "LastReviewed": "2025-09-10T13:43:28",
-          "Title": "Mungo National Park closed due to wet weather",
+          "EffectiveTo": "2025-09-13T12:00:00",
+          "LastReviewed": "2025-09-12T15:53:30",
+          "Title": "Mungo National Park closed due to recent wet weather",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>Due to wet weather Mungo National Park is closed until Friday 12 September 2025.</p>\n\n<p>This closure may be extended pending local conditions.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7sj3d4rwid1/bchkueh5a0cip/sxbui15dh1a9\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
+          "DescriptionHtml": "<p>Due to recent wet weather Mungo National Park is closed until Saturday 13&#xA0;September 2025.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7sj3d4rwid1/bchkueh5a0cip/sxbui15dh1a9\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12472301",
           "EffectiveFrom": "2025-09-09T10:00:00",
-          "EffectiveTo": "2025-09-13T14:00:00",
-          "LastReviewed": "2025-09-10T09:34:25",
-          "Title": "Mungo accommodation closures due to wet weather",
+          "EffectiveTo": "2025-09-15T14:00:00",
+          "LastReviewed": "2025-09-12T15:50:35",
+          "Title": "Mungo accommodation closures",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>All accommodation in Mungo National Park (campgrounds and Shearer's Quarters) will be closed from 10am Tuesday 9 September 2025 to 2pm Saturday 13&#xA0;September 2025 due to wet weather.</p>\n\n<p>This closure may be further extended pending local conditions.</p>\n\n<p><a href=\"http://click.ngcomms.net/q4ehkq9j3rv0/bawvmaq4vda1d/su8t1q4zim30\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
+          "DescriptionHtml": "<p>All accommodation in Mungo National Park (campgrounds and Shearer's Quarters) will be closed from 10am Tuesday 9 September 2025 to 2pm Monday 15 September 2025 due to recent wet weather.</p>\n\n<p>Bookings reopen from Monday 15 September 2025.</p>\n\n<p><a href=\"http://click.ngcomms.net/q4ehkq9j3rv0/bawvmaq4vda1d/su8t1q4zim30\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
@@ -8760,7 +8557,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-10T13:43:28",
+      "LastReviewed": "2025-09-12T15:53:30",
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
         "Closed parks",
@@ -8771,23 +8568,23 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12478801",
           "EffectiveFrom": "2025-09-10T13:39:42",
-          "EffectiveTo": "2025-09-12T14:00:00",
-          "LastReviewed": "2025-09-10T13:43:28",
-          "Title": "Mungo National Park closed due to wet weather",
+          "EffectiveTo": "2025-09-13T12:00:00",
+          "LastReviewed": "2025-09-12T15:53:30",
+          "Title": "Mungo National Park closed due to recent wet weather",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>Due to wet weather Mungo National Park is closed until Friday 12 September 2025.</p>\n\n<p>This closure may be extended pending local conditions.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7sj3d4rwid1/bchkueh5a0cip/sxbui15dh1a9\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
+          "DescriptionHtml": "<p>Due to recent wet weather Mungo National Park is closed until Saturday 13&#xA0;September 2025.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7sj3d4rwid1/bchkueh5a0cip/sxbui15dh1a9\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12472301",
           "EffectiveFrom": "2025-09-09T10:00:00",
-          "EffectiveTo": "2025-09-13T14:00:00",
-          "LastReviewed": "2025-09-10T09:34:25",
-          "Title": "Mungo accommodation closures due to wet weather",
+          "EffectiveTo": "2025-09-15T14:00:00",
+          "LastReviewed": "2025-09-12T15:50:35",
+          "Title": "Mungo accommodation closures",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>All accommodation in Mungo National Park (campgrounds and Shearer's Quarters) will be closed from 10am Tuesday 9 September 2025 to 2pm Saturday 13&#xA0;September 2025 due to wet weather.</p>\n\n<p>This closure may be further extended pending local conditions.</p>\n\n<p><a href=\"http://click.ngcomms.net/q4ehkq9j3rv0/bawvmaq4vda1d/su8t1q4zim30\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
+          "DescriptionHtml": "<p>All accommodation in Mungo National Park (campgrounds and Shearer's Quarters) will be closed from 10am Tuesday 9 September 2025 to 2pm Monday 15 September 2025 due to recent wet weather.</p>\n\n<p>Bookings reopen from Monday 15 September 2025.</p>\n\n<p><a href=\"http://click.ngcomms.net/q4ehkq9j3rv0/bawvmaq4vda1d/su8t1q4zim30\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
@@ -9164,7 +8961,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 11,
-      "LastReviewed": "2025-09-11T09:56:23",
+      "LastReviewed": "2025-09-12T10:36:42",
       "EffectiveFrom": "2025-04-04T18:00:00",
       "Categories": [
         "Closed parks",
@@ -9175,11 +8972,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12481301",
           "EffectiveFrom": "2025-09-11T09:53:17",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T09:56:23",
-          "Title": "Mutawintji National Park is closed due to rain.",
+          "LastReviewed": "2025-09-12T10:36:42",
+          "Title": "Mutawintji National Park remains closed due to rain.",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>Mutawintji National Park is closed due to rain.&#xA0; &#xA0;This closure will be updated when conditions change.&#xA0; For further information please contact the Broken Hill National Parks office on 08 8084 2880.</p>",
+          "DescriptionHtml": "<p>Mutawintji National Park remains closed due to rain.&#xA0; &#xA0;This closure will be updated when conditions change.&#xA0; The road authority will review&#xA0;on Monday 15 September. For further information please contact the Broken Hill National Parks office on 08 8084 2880.</p>",
           "IsKml": false
         },
         {
@@ -9565,7 +9362,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T11:56:57",
+      "LastReviewed": "2025-09-12T09:42:03",
       "EffectiveFrom": "2025-09-11T13:49:12",
       "Categories": [
         "Closed areas"
@@ -9575,11 +9372,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12433601",
           "EffectiveFrom": "2025-09-11T13:49:12",
           "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-08T11:56:57",
+          "LastReviewed": "2025-09-12T09:42:03",
           "Title": "Areas closed for aerial feral animal control operation",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in Oxley Wild Rivers National Park, Carrai National Park and SCA, Nygiyungbayi Aboriginal Area and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Sunday 14 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. The closed areas are:</p>\n\n<ul>\n\t<li>Wollomombi campground and picnic facilities</li>\n\t<li>Walking tracks at Wollomombi Falls</li>\n\t<li>Edgars lookout</li>\n\t<li>Halls Peak campground and picnic area</li>\n\t<li>East Kunderang homestead</li>\n\t<li>Budds Mare lookout and campground</li>\n\t<li>Riverside campground and the Budds Mare to Riverside walk</li>\n\t<li>Youdales campground</li>\n</ul>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
+          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
           "IsKml": false
         }
       ]
@@ -9594,24 +9391,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-10T10:59:53",
+      "LastReviewed": "2025-09-09T08:47:46",
       "EffectiveFrom": "2024-07-01T08:27:12",
       "Categories": [
-        "Closed areas",
-        "Safety alerts"
+        "Safety alerts",
+        "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12478001",
-          "EffectiveFrom": "2025-09-11T00:00:00",
-          "EffectiveTo": "2025-09-11T18:00:00",
-          "LastReviewed": "2025-09-10T10:59:53",
-          "Title": "Minyon Falls lookout closure",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Minyon Falls lookout in Nightcap National Park is closed for hazardous tree and maintenance works Thursday 11 September 2025.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, Alstonville NPWS office via 02 6627 0200 or email <a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">npws.richmondriver@environment.nsw.gov.au</a></p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11034101",
           "EffectiveFrom": "2024-07-01T08:27:12",
@@ -9632,35 +9418,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Nightcap Range Road is closed to traffic in both directions due to a major landslip associated with the 2022 flood event. The closure affects the section of Nightcap Range Road between Rummery Road intersection and Telephone Road trailer parking area.</p>\n\n<p>Access to Minyon Falls and Rummery Park is via&#xA0;Minyon Falls Road only.&#xA0;</p>\n\n<p>An estimated repair date has not been determined. For more information, please <a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">email</a> or call Richmond River NPWS on 02 6672 0200.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Nocoleche Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nocoleche-nature-reserve",
-        "Id": "ec622bea-3e66-4785-9068-e9839fbf1600",
-        "ItemName": "Nocoleche-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-10T08:27:19",
-      "EffectiveFrom": "2025-09-10T08:24:04",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -9820,7 +9577,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T12:16:16",
+      "LastReviewed": "2025-09-12T14:18:41",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Fires - Advice",
@@ -9831,7 +9588,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12475001",
           "EffectiveFrom": "2025-09-08T17:33:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T12:16:16",
+          "LastReviewed": "2025-09-12T14:18:41",
           "Title": "Valorem",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -9900,8 +9657,8 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 14,
-      "LastReviewed": "2025-09-11T09:42:10",
+      "ClosedAreasCount": 6,
+      "LastReviewed": "2025-09-12T13:13:50",
       "EffectiveFrom": "2025-09-04T10:00:00",
       "Categories": [
         "Hazard reduction burns",
@@ -9912,7 +9669,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12459101",
           "EffectiveFrom": "2025-09-04T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T09:42:10",
+          "LastReviewed": "2025-09-12T13:13:50",
           "Title": "West Kunderang HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -9923,11 +9680,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12433601",
           "EffectiveFrom": "2025-09-11T13:49:12",
           "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-08T11:56:57",
+          "LastReviewed": "2025-09-12T09:42:03",
           "Title": "Areas closed for aerial feral animal control operation",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in Oxley Wild Rivers National Park, Carrai National Park and SCA, Nygiyungbayi Aboriginal Area and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Sunday 14 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. The closed areas are:</p>\n\n<ul>\n\t<li>Wollomombi campground and picnic facilities</li>\n\t<li>Walking tracks at Wollomombi Falls</li>\n\t<li>Edgars lookout</li>\n\t<li>Halls Peak campground and picnic area</li>\n\t<li>East Kunderang homestead</li>\n\t<li>Budds Mare lookout and campground</li>\n\t<li>Riverside campground and the Budds Mare to Riverside walk</li>\n\t<li>Youdales campground</li>\n</ul>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
+          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
           "IsKml": false
         }
       ]
@@ -9942,7 +9699,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T11:56:57",
+      "LastReviewed": "2025-09-12T09:42:03",
       "EffectiveFrom": "2025-09-11T13:49:12",
       "Categories": [
         "Closed areas"
@@ -9952,11 +9709,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12433601",
           "EffectiveFrom": "2025-09-11T13:49:12",
           "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-08T11:56:57",
+          "LastReviewed": "2025-09-12T09:42:03",
           "Title": "Areas closed for aerial feral animal control operation",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in Oxley Wild Rivers National Park, Carrai National Park and SCA, Nygiyungbayi Aboriginal Area and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Sunday 14 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. The closed areas are:</p>\n\n<ul>\n\t<li>Wollomombi campground and picnic facilities</li>\n\t<li>Walking tracks at Wollomombi Falls</li>\n\t<li>Edgars lookout</li>\n\t<li>Halls Peak campground and picnic area</li>\n\t<li>East Kunderang homestead</li>\n\t<li>Budds Mare lookout and campground</li>\n\t<li>Riverside campground and the Budds Mare to Riverside walk</li>\n\t<li>Youdales campground</li>\n</ul>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
+          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
           "IsKml": false
         }
       ]
@@ -9997,16 +9754,28 @@
         "Id": "607d540d-db2a-4be9-92fd-4f77e020617d",
         "ItemName": "paroo-darling-national-park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-08-25T10:22:22",
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2025-09-12T16:18:23",
       "EffectiveFrom": "2014-09-25T10:00:00",
       "Categories": [
+        "Closed parks",
         "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12485201",
+          "EffectiveFrom": "2025-09-12T16:13:55",
+          "EffectiveTo": "2025-09-15T16:14:17",
+          "LastReviewed": "2025-09-12T16:18:23",
+          "Title": "Paroo-Darling National Park is closed due to rain",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Paroo-Darling National Park is closed in both sections due to to rain.&#xA0; Peery Day Use Area is closed and Coach and Horses campground is closed.&#xA0; These locations will open again when the road access opens up.&#xA0; For further information please contact the Broken Hill National Park office on 08 8084 2880.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12438801",
           "EffectiveFrom": "2025-09-10T05:00:00",
@@ -10456,6 +10225,35 @@
     },
     {
       "Park": {
+        "Name": "Regatta Island Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/regatta-island-nature-reserve",
+        "Id": "91bd2320-2277-4ac8-ab74-4d968597498c",
+        "ItemName": "Regatta-Island-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-12T14:21:47",
+      "EffectiveFrom": "2025-09-12T07:15:52",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12482901",
+          "EffectiveFrom": "2025-09-12T07:15:52",
+          "EffectiveTo": "2025-10-01T07:17:11",
+          "LastReviewed": "2025-09-12T14:21:47",
+          "Title": "Closed parks:  Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand’s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve, Park closure for deer control shooting operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand&#x2019;s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve,&#xA0;will be closed within the following date range&#xA0;for deer control night<strong> </strong>shoot operations preventing localised economic impacts and protecting biodiversity assets within the park:&#xA0;</p>\n\n<ul>\n\t<li>Sept 22-30, 2025</li>\n</ul>\n\n<p>Do not enter at any time during the night-time operation.</p>\n\n<p><a href=\"http://click.ngcomms.net/g8cm7m9fkyaa/62ecvie4vf5di/guqbja9mlfnb\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, call the local park office on 02 6591 0300 or email <a href=\"mailto:npws.centralcoast@environment.nsw.gov.au\">npws.manninggreatlakes@environment.nsw.gov.au</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Richmond Range National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/richmond-range-national-park",
         "Id": "30fde917-cd48-4d70-b810-a03bc323928a",
@@ -10589,7 +10387,6 @@
       "EffectiveFrom": "2022-07-12T16:30:18",
       "Categories": [
         "Closed areas",
-        "Safety alerts",
         "Other planned events"
       ],
       "Alerts": [
@@ -10602,17 +10399,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>All single-track mountain bike trails in Royal National Park are closed until Tuesday 16th September&#xA0;2025 due to wet and muddy trail conditions.</p>\n\n<p>This closure is to prevent damage to recently upgraded trails. The closure will be reassessed on the 16th September&#xA0;and may be extended if trail conditions remain wet.</p>\n\n<p>Riding on fire management (4WD) tracks is still permitted, but please take care as they may be wet and slippery.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact Royal National Park Visitor Centre on 02 9542 0648 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12479101",
-          "EffectiveFrom": "2025-09-10T15:23:02",
-          "EffectiveTo": "2025-09-11T18:00:00",
-          "LastReviewed": "2025-09-10T15:28:54",
-          "Title": "Heavy rain and rising water levels",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Due to heavy rainfall, the creeks and waterfalls in Royal, Heathcote and Georges River National Park may rise rapidly and not allow access or egress to the following visitor areas and Campgrounds:</p>\n\n<ul>\n\t<li>Uloola Falls Campground</li>\n\t<li>Kingfisher Pools Campground</li>\n\t<li>Wattamolla Picnic Area, beach and lagoon</li>\n\t<li>Royal Coast Track</li>\n\t<li>All tracks and trails</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters, NPWS recommends you&#xA0;reconsider your travel plans and reschedule your visit and avoid travel through areas in these parks.</p>\n\n<p>Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information about road closures.</p>\n\n<p>&#xA0;</p>\n\n<p>For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office on 02 95420632</p>",
           "IsKml": false
         },
         {
@@ -10929,13 +10715,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T15:18:31",
+      "LastReviewed": "2025-09-12T09:05:23",
       "EffectiveFrom": "2025-08-08T15:26:18",
       "Categories": [
-        "Other planned events",
-        "Hazard reduction burns"
+        "Hazard reduction burns",
+        "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12481901",
+          "EffectiveFrom": "2025-09-12T08:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-12T09:05:23",
+          "Title": "Southern HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a fire in this park called Southern HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12470501",
           "EffectiveFrom": "2025-09-07T07:00:00",
@@ -10945,17 +10742,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>A hazard reduction burn is planned to be undertaken on&#xA0; Friday 12 September 2025 in Sherwood Nature Reserve. Areas closed to the public will be Falls Trail, along Sherwood Trail and Bluff Road during this operation.&#xA0;</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12465901",
-          "EffectiveFrom": "2025-09-09T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-06T14:26:59",
-          "Title": "Southern HR NPWS",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 09/09/2025. The fire is called&#xA0;Southern HR NPWS. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -11010,24 +10796,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T09:12:12",
+      "LastReviewed": "2025-08-29T10:46:59",
       "EffectiveFrom": "2022-03-25T16:56:42",
       "Categories": [
-        "Closed areas",
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12447201",
-          "EffectiveFrom": "2025-08-29T10:06:11",
-          "EffectiveTo": "2025-09-12T16:30:00",
-          "LastReviewed": "2025-09-11T09:12:12",
-          "Title": "Six Mile boardwalk closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Six Mile Creek Walk and lookout in South East Forest National Park are closed for rebuilding works from Monday the 8th of September. <a href=\"http://click.ngcomms.net/p02hyy52zdlz/ardt9dq9jnx15/rtt34u5gdnfj\">Penalties apply for non-compliance</a>. The site is expected to reopen on to Friday the 12th September 2025. Six Mile Creek Campground remains open. For further information call the NPWS Merimbula area office on 02 6495 5000.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2025-08-25T06:00:00",
@@ -11699,7 +11474,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T07:58:57",
+      "LastReviewed": "2025-09-12T08:43:57",
       "EffectiveFrom": "2025-03-17T14:53:51",
       "Categories": [
         "Other planned events"
@@ -11709,7 +11484,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11729001",
           "EffectiveFrom": "2025-03-17T14:53:51",
           "EffectiveTo": "2025-09-17T14:54:15",
-          "LastReviewed": "2025-08-11T07:58:57",
+          "LastReviewed": "2025-09-12T08:43:57",
           "Title": "Ongoing Poison 1080 ground baiting program - controlling fox impacts for Biosecurity values.",
           "ItemName": null,
           "Category": "Other planned events",
@@ -11734,17 +11509,6 @@
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12449801",
-          "EffectiveFrom": "2025-08-22T14:32:42",
-          "EffectiveTo": "2025-09-12T14:50:46",
-          "LastReviewed": "2025-08-29T14:56:43",
-          "Title": "Landslip Shoal Bay East Trail, Quarry Hill",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Tomaree Coastal Walk (Shoal Bay East Trail) is closed south of Wreck Beach Trail and north of Box Beach Road due to a land slip impacting the track.</p>\n\n<p>Visitors are requested to avoid the area.<br/>\nDetour for walkers is via Garden Place, Essendene Rd and Verona Rd, Shoal Bay&#xA0;<br/>\n<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS Office (02) 49848200</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12400401",
           "EffectiveFrom": "2025-08-05T09:00:51",
@@ -11831,21 +11595,21 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 6,
-      "LastReviewed": "2025-09-10T08:27:19",
-      "EffectiveFrom": "2025-09-10T08:24:04",
+      "LastReviewed": "2025-09-12T09:13:09",
+      "EffectiveFrom": "2025-09-10T09:06:09",
       "Categories": [
         "Closed parks"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
+          "ID": "npws-fis@id.ngcomms.net/eme/12483501",
+          "EffectiveFrom": "2025-09-10T09:06:09",
+          "EffectiveTo": "2025-09-15T09:00:00",
+          "LastReviewed": "2025-09-12T09:13:09",
+          "Title": "Park Closed due to wet weather",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
+          "DescriptionHtml": "<p>Toorale NP &amp; SCA is closed due to recent rain and Bourke Shire Council Road Closures</p>\n\n<p>&#xA0;</p>\n\n<p>The park is closed from 10th September until Monday15th September.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/nly9nm4ofngn/a2twmxy4rx04j/qlw45y4obppc\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Bourke&#xA0;office on 02 6830 0020.</p>",
           "IsKml": false
         }
       ]
@@ -11860,21 +11624,21 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-10T08:27:19",
-      "EffectiveFrom": "2025-09-10T08:24:04",
+      "LastReviewed": "2025-09-12T09:13:09",
+      "EffectiveFrom": "2025-09-10T09:06:09",
       "Categories": [
         "Closed parks"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12477301",
-          "EffectiveFrom": "2025-09-10T08:24:04",
-          "EffectiveTo": "2025-09-12T10:00:00",
-          "LastReviewed": "2025-09-10T08:27:19",
-          "Title": "Park Closed - wet weather",
+          "ID": "npws-fis@id.ngcomms.net/eme/12483501",
+          "EffectiveFrom": "2025-09-10T09:06:09",
+          "EffectiveTo": "2025-09-15T09:00:00",
+          "LastReviewed": "2025-09-12T09:13:09",
+          "Title": "Park Closed due to wet weather",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>All Bourke Area Parks and Reserves are closed until Friday 10am due to rainfall in the area and Council road closures. We will reassess Friday Morning closure may be extended. Please check Bourke shire council road report before travelling&#xA0;</p>",
+          "DescriptionHtml": "<p>Toorale NP &amp; SCA is closed due to recent rain and Bourke Shire Council Road Closures</p>\n\n<p>&#xA0;</p>\n\n<p>The park is closed from 10th September until Monday15th September.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/nly9nm4ofngn/a2twmxy4rx04j/qlw45y4obppc\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Bourke&#xA0;office on 02 6830 0020.</p>",
           "IsKml": false
         }
       ]
@@ -12267,6 +12031,35 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Ferny Creek campground is closed until further notice due to a collapsed bridge on the access road.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Wallis Island Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wallis-island-nature-reserve",
+        "Id": "aa3fd70f-5937-4a88-be80-2be4d01a6c5e",
+        "ItemName": "Wallis-Island-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-12T14:21:47",
+      "EffectiveFrom": "2025-09-12T07:15:52",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12482901",
+          "EffectiveFrom": "2025-09-12T07:15:52",
+          "EffectiveTo": "2025-10-01T07:17:11",
+          "LastReviewed": "2025-09-12T14:21:47",
+          "Title": "Closed parks:  Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand’s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve, Park closure for deer control shooting operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand&#x2019;s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve,&#xA0;will be closed within the following date range&#xA0;for deer control night<strong> </strong>shoot operations preventing localised economic impacts and protecting biodiversity assets within the park:&#xA0;</p>\n\n<ul>\n\t<li>Sept 22-30, 2025</li>\n</ul>\n\n<p>Do not enter at any time during the night-time operation.</p>\n\n<p><a href=\"http://click.ngcomms.net/g8cm7m9fkyaa/62ecvie4vf5di/guqbja9mlfnb\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, call the local park office on 02 6591 0300 or email <a href=\"mailto:npws.centralcoast@environment.nsw.gov.au\">npws.manninggreatlakes@environment.nsw.gov.au</a>.</p>",
           "IsKml": false
         }
       ]
@@ -12772,7 +12565,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T11:56:57",
+      "LastReviewed": "2025-09-12T09:42:03",
       "EffectiveFrom": "2025-05-07T15:03:11",
       "Categories": [
         "Closed areas",
@@ -12784,11 +12577,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12433601",
           "EffectiveFrom": "2025-09-11T13:49:12",
           "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-08T11:56:57",
+          "LastReviewed": "2025-09-12T09:42:03",
           "Title": "Areas closed for aerial feral animal control operation",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in Oxley Wild Rivers National Park, Carrai National Park and SCA, Nygiyungbayi Aboriginal Area and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Sunday 14 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. The closed areas are:</p>\n\n<ul>\n\t<li>Wollomombi campground and picnic facilities</li>\n\t<li>Walking tracks at Wollomombi Falls</li>\n\t<li>Edgars lookout</li>\n\t<li>Halls Peak campground and picnic area</li>\n\t<li>East Kunderang homestead</li>\n\t<li>Budds Mare lookout and campground</li>\n\t<li>Riverside campground and the Budds Mare to Riverside walk</li>\n\t<li>Youdales campground</li>\n</ul>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
+          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
           "IsKml": false
         },
         {
@@ -12825,7 +12618,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T11:56:57",
+      "LastReviewed": "2025-09-12T09:42:03",
       "EffectiveFrom": "2025-09-11T13:49:12",
       "Categories": [
         "Closed areas"
@@ -12835,11 +12628,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12433601",
           "EffectiveFrom": "2025-09-11T13:49:12",
           "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-08T11:56:57",
+          "LastReviewed": "2025-09-12T09:42:03",
           "Title": "Areas closed for aerial feral animal control operation",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in Oxley Wild Rivers National Park, Carrai National Park and SCA, Nygiyungbayi Aboriginal Area and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Sunday 14 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. The closed areas are:</p>\n\n<ul>\n\t<li>Wollomombi campground and picnic facilities</li>\n\t<li>Walking tracks at Wollomombi Falls</li>\n\t<li>Edgars lookout</li>\n\t<li>Halls Peak campground and picnic area</li>\n\t<li>East Kunderang homestead</li>\n\t<li>Budds Mare lookout and campground</li>\n\t<li>Riverside campground and the Budds Mare to Riverside walk</li>\n\t<li>Youdales campground</li>\n</ul>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
+          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
           "IsKml": false
         }
       ]
@@ -12854,24 +12647,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-09-10T10:59:53",
+      "LastReviewed": "2025-09-10T08:12:24",
       "EffectiveFrom": "2025-04-29T10:48:31",
       "Categories": [
-        "Closed areas",
-        "Safety alerts"
+        "Safety alerts",
+        "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12478001",
-          "EffectiveFrom": "2025-09-11T00:00:00",
-          "EffectiveTo": "2025-09-11T18:00:00",
-          "LastReviewed": "2025-09-10T10:59:53",
-          "Title": "Minyon Falls lookout closure",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Minyon Falls lookout in Nightcap National Park is closed for hazardous tree and maintenance works Thursday 11 September 2025.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, Alstonville NPWS office via 02 6627 0200 or email <a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">npws.richmondriver@environment.nsw.gov.au</a></p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12211401",
           "EffectiveFrom": "2025-07-15T15:49:04",
@@ -13172,7 +12954,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T07:58:57",
+      "LastReviewed": "2025-09-12T08:43:57",
       "EffectiveFrom": "2025-03-17T14:53:51",
       "Categories": [
         "Other planned events"
@@ -13182,7 +12964,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11729001",
           "EffectiveFrom": "2025-03-17T14:53:51",
           "EffectiveTo": "2025-09-17T14:54:15",
-          "LastReviewed": "2025-08-11T07:58:57",
+          "LastReviewed": "2025-09-12T08:43:57",
           "Title": "Ongoing Poison 1080 ground baiting program - controlling fox impacts for Biosecurity values.",
           "ItemName": null,
           "Category": "Other planned events",
@@ -13269,37 +13051,15 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 7,
-      "LastReviewed": "2025-09-11T12:53:31",
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2025-09-06T23:58:57",
       "EffectiveFrom": "2022-11-23T14:08:54",
       "Categories": [
-        "Closed areas",
         "Safety alerts",
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12474101",
-          "EffectiveFrom": "2025-09-08T15:58:38",
-          "EffectiveTo": "2025-09-12T15:00:00",
-          "LastReviewed": "2025-09-11T12:53:31",
-          "Title": "Walking Tracks Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Due to recent heavy rainfall the following walking tracks will be closed until 3pm Friday 12 September</p>\n\n<p>&#xA0;</p>\n\n<p>-Lost City Walking Track&#xA0;</p>\n\n<p>-Pipeline Walking Track&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>Due to the closure there will be no access to Newnes Campground or Newnes Industrial Ruins.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Kanangra Area Office on (02) 6336 6200.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12474201",
-          "EffectiveFrom": "2025-09-08T16:06:36",
-          "EffectiveTo": "2025-09-12T15:00:00",
-          "LastReviewed": "2025-09-11T12:50:45",
-          "Title": "Glow Worm Tunnel Road - Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Glow Worm Tunnel Road is closed from Bungleboori Picnic Area due to poor road conditions. <strong>The road will reopen at 3pm Friday 12 September</strong>.</p>\n\n<p>&#xA0;</p>\n\n<p>As a result, there will be <strong>no access</strong> to the following areas via Glow Worm Tunnel Road during the closure:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Glow Worm Tunnel</li>\n\t<li>Newnes Campground</li>\n\t<li>Deep Pass Campground</li>\n\t<li>Rocky and Twister Canyon</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;For more information, please contact Kanangra Area office on ph 02 6336 6200 or npws.kanangra@environment.nsw.gov.au</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11886801",
           "EffectiveFrom": "2025-05-02T07:00:00",
@@ -13696,6 +13456,35 @@
           "ItemName": null,
           "Category": "Other incidents",
           "DescriptionHtml": "<p>South Yabbra Road runs South from Clarence Way providing visitors with an 18km rainforest road experience to the heart of Yabbra National Park. South Yabbra Road is generally suitable for AWD or 4WD vehicles in dry weather conditions and is a no through road (visitors need to return along South Yabbra Road). From the end of South Yabbra Road visitors can walk or cycle along the adjacent management trails to explore further. Joes Box Road, Yabbra Plains Road, Pocupar Road, Bald Knob Road and South Haystack Feeder are management trails where public vehicle access is not permitted. These management trails are periodically closed to visitors for road maintenance or pest management operations with closures notified on NPWS website.</p>\n\n<p>&#xA0;</p>\n\n<p>Sheas Hut Road provides public vehicle access for a further 10 km however is in poor condition and not promoted.</p>\n\n<p>&#xA0;</p>\n\n<p>There are frequent tree falls along these roads and visitors are advised to avoid during wet weather events or strong winds. For further information contact the Kyogle&#xA0;NPWS office on (02) 6632 0000.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Yahoo Island Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yahoo-island-nature-reserve",
+        "Id": "7dfc9730-6a09-4eb2-a27f-4363639669ae",
+        "ItemName": "Yahoo-Island-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-12T14:21:47",
+      "EffectiveFrom": "2025-09-12T07:15:52",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12482901",
+          "EffectiveFrom": "2025-09-12T07:15:52",
+          "EffectiveTo": "2025-10-01T07:17:11",
+          "LastReviewed": "2025-09-12T14:21:47",
+          "Title": "Closed parks:  Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand’s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve, Park closure for deer control shooting operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Bandicoot Island Nature Reserve, Regatta Island Nature Reserve, Durand&#x2019;s Island Nature Reserve, Wallis Island Nature Reserve, Yahoo Island Nature Reserve,&#xA0;will be closed within the following date range&#xA0;for deer control night<strong> </strong>shoot operations preventing localised economic impacts and protecting biodiversity assets within the park:&#xA0;</p>\n\n<ul>\n\t<li>Sept 22-30, 2025</li>\n</ul>\n\n<p>Do not enter at any time during the night-time operation.</p>\n\n<p><a href=\"http://click.ngcomms.net/g8cm7m9fkyaa/62ecvie4vf5di/guqbja9mlfnb\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, call the local park office on 02 6591 0300 or email <a href=\"mailto:npws.centralcoast@environment.nsw.gov.au\">npws.manninggreatlakes@environment.nsw.gov.au</a>.</p>",
           "IsKml": false
         }
       ]
@@ -14180,24 +13969,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-06T14:19:51",
+      "LastReviewed": "2025-08-18T12:51:27",
       "EffectiveFrom": "2025-06-30T15:56:21",
       "Categories": [
-        "Hazard reduction burns",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12465701",
-          "EffectiveFrom": "2025-09-09T07:30:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-06T14:19:51",
-          "Title": "Julies Rd HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 09/09/2025. The fire is called&#xA0;Julies Rd HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12056501",
           "EffectiveFrom": "2025-06-30T15:56:21",
