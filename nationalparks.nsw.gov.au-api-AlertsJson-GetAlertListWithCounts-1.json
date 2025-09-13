@@ -8,7 +8,8 @@
     "Closed areas",
     "Safety alerts",
     "Other incidents",
-    "Other planned events"
+    "Other planned events",
+    "Fires - "
   ],
   "ParkAlerts": [
     {
@@ -2172,35 +2173,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>A baiting program using ground baits containing 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes will be conducted between July 28 2025&#xA0;to&#xA0;August 01&#xA0;2026 in the Kangaroo Valley, Budgong and Illaroo areas.</p>\n\n<p>All baiting locations will be identifiable by signs.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. 1080 is lethal to cats and dogs. Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://click.ngcomms.net/l2tk6d4w19k3/8pvy0bh9jnfa2/nh8scd9q27g8\">Penalties apply for non-compliance</a>. For further information, call the NPWS Shoalhaven area office on 02 4428 6300.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Bulagaranda (Mount Yarrowyck) Aboriginal Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bulagaranda-mount-yarrowyck-aboriginal-area",
-        "Id": "bb73c415-7a2f-45f6-8f51-a02c48b535d3",
-        "ItemName": "bulagaranda-mount-yarrowyck-aboriginal-area"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-09T11:33:24",
-      "EffectiveFrom": "2025-09-10T11:54:07",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12432601",
-          "EffectiveFrom": "2025-09-10T11:54:07",
-          "EffectiveTo": "2025-09-14T11:31:46",
-          "LastReviewed": "2025-09-09T11:33:24",
-          "Title": "Park closed for aerial pest control operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Bulagaranda (Mt Yarrowyck) Aboriginal Area and The Basin Nature Reserve&#xA0;are&#xA0;closed from 6am, Thursday 11 September&#xA0;to 8:00pm, Saturday 13 September&#xA0;2025&#xA0;for an aerial&#xA0;pest control operation. The public are not permitted to enter these reserves during this period.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the New England office of the NSW National Parks and Wildlife Service on Tel. 6738 9100.</p>",
           "IsKml": false
         }
       ]
@@ -5001,38 +4973,15 @@
         "Id": "4cabd6e0-da57-4816-b57f-b23250949a7c",
         "ItemName": "Gwydir-Wetlands-State-Conservation-Area"
       },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-08-27T14:28:03",
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-08-12T17:32:51",
       "EffectiveFrom": "2025-07-09T13:29:38",
       "Categories": [
-        "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12443701",
-          "EffectiveFrom": "2025-09-08T01:17:43",
-          "EffectiveTo": "2025-09-12T23:18:55",
-          "LastReviewed": "2025-08-27T14:28:03",
-          "Title": "Park closed for aerial pest control operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Gwydir Wetlands SCA&#xA0;is closed from Tuesday 9&#xA0;September&#xA0;to Friday 12 September 2025&#xA0;for an aerial&#xA0;pest control operation.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the Barwon area&#xA0;office on (02) 6792 7300.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12417101",
-          "EffectiveFrom": "2025-08-13T12:01:02",
-          "EffectiveTo": "2025-09-12T23:59:00",
-          "LastReviewed": "2025-08-13T12:57:06",
-          "Title": "Gwydir Wetlands SCA closed due to flooding",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Gwydir Wetlands SCA is closed from Wednesday 13/08/25, re-opening Saturday 13/09/2025, due to widespread flooding.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.&#xA0;Remember, it's never safe to drive, ride or walk through flood waters.&#xA0;Roads into and throughout the reserve are also closed.</p>\n\n<p>&#xA0;</p>\n\n<p>For more information, please contact Barwon NPWS Office on (02) 6792 7300.</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12194101",
           "EffectiveFrom": "2025-07-09T13:29:38",
@@ -7717,17 +7666,6 @@
           "IsKml": false
         },
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12483401",
-          "EffectiveFrom": "2025-09-12T08:48:36",
-          "EffectiveTo": "2025-09-15T10:00:00",
-          "LastReviewed": "2025-09-12T09:09:31",
-          "Title": "Belmore Falls Area Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Belmore Falls visitor precinct is closed re-opening on the 15.09.2025</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/12481601",
           "EffectiveFrom": "2025-09-11T10:57:36",
           "EffectiveTo": "2025-09-14T10:00:00",
@@ -8013,24 +7951,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-10T10:35:07",
+      "LastReviewed": "2025-09-06T08:46:26",
       "EffectiveFrom": "2025-01-15T08:51:07",
       "Categories": [
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12457401",
-          "EffectiveFrom": "2025-09-01T08:00:00",
-          "EffectiveTo": "2025-09-12T17:00:00",
-          "LastReviewed": "2025-09-10T10:35:07",
-          "Title": "Rockface Road and Gilwah Road - essential road maintenance",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Essential road maintenance is currently being undertaken to Rockface Road and Gilwah&#xA0;Road. Works will be undertaken between 7:00 am to 5:00 pm Monday to Friday. The works are expected to be completed by 12 September&#xA0;2025. Heavy plant and machinery will be operating in the area. During these works access maybe temporarily restricted. Bushwalkers, cyclists and horse riders are advised to follow the directions of roadwork signs and contractor staff.</p>\n\n<p>These roads were badly damaged during the Flood 2022 event. Works being undertaken include the re-surfacing of trails and the&#xA0;re-instatement of drainage..</p>\n\n<p>For more information contact the local NPWS office on 02 6639 8300.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11856101",
           "EffectiveFrom": "2025-01-15T08:51:07",
@@ -8479,28 +8406,16 @@
         "Id": "dc51624b-1951-4a10-a249-08cc99a41cf5",
         "ItemName": "Mungo-National-Park"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 18,
-      "LastReviewed": "2025-09-12T15:53:30",
+      "ClosedAreasCount": 10,
+      "LastReviewed": "2025-09-12T15:50:35",
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
-        "Closed parks",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12478801",
-          "EffectiveFrom": "2025-09-10T13:39:42",
-          "EffectiveTo": "2025-09-13T12:00:00",
-          "LastReviewed": "2025-09-12T15:53:30",
-          "Title": "Mungo National Park closed due to recent wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Due to recent wet weather Mungo National Park is closed until Saturday 13&#xA0;September 2025.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7sj3d4rwid1/bchkueh5a0cip/sxbui15dh1a9\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12472301",
           "EffectiveFrom": "2025-09-09T10:00:00",
@@ -8554,28 +8469,16 @@
         "Id": "0af50cfc-ca91-4bfa-8781-b03b223c936f",
         "ItemName": "Mungo-State-Conservation-Area"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T15:53:30",
+      "LastReviewed": "2025-09-12T15:50:35",
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
-        "Closed parks",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12478801",
-          "EffectiveFrom": "2025-09-10T13:39:42",
-          "EffectiveTo": "2025-09-13T12:00:00",
-          "LastReviewed": "2025-09-12T15:53:30",
-          "Title": "Mungo National Park closed due to recent wet weather",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Due to recent wet weather Mungo National Park is closed until Saturday 13&#xA0;September 2025.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7sj3d4rwid1/bchkueh5a0cip/sxbui15dh1a9\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12472301",
           "EffectiveFrom": "2025-09-09T10:00:00",
@@ -9658,24 +9561,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 6,
-      "LastReviewed": "2025-09-12T13:13:50",
-      "EffectiveFrom": "2025-09-04T10:00:00",
+      "LastReviewed": "2025-09-12T09:42:03",
+      "EffectiveFrom": "2025-09-11T13:49:12",
       "Categories": [
-        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12459101",
-          "EffectiveFrom": "2025-09-04T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-12T13:13:50",
-          "Title": "West Kunderang HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 04/09/2025. The fire is called&#xA0;West Kunderang HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12433601",
           "EffectiveFrom": "2025-09-11T13:49:12",
@@ -10262,24 +10153,13 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T09:37:33",
+      "LastReviewed": "2025-09-04T10:00:01",
       "EffectiveFrom": "2025-01-05T15:39:03",
       "Categories": [
-        "Safety alerts",
-        "Other planned events"
+        "Other planned events",
+        "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12480901",
-          "EffectiveFrom": "2025-09-11T09:32:16",
-          "EffectiveTo": "2025-09-13T09:33:07",
-          "LastReviewed": "2025-09-11T09:37:33",
-          "Title": "Cambridge Plateau Forest Drive road grading 10-12 September 2025",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Cambridge Plateau Forest Drive will be subject to road grading works between the southern gate and Western Boundary Trail from 10 to 12 September 2025.</p>\n\n<p>Cambridge Plateau Forest Drive will remain open with signage and traffic management in place. Drivers are to drive to conditions and follow all signage and directions of contractors.</p>\n\n<p>We apologise for any inconvenience. For more information, contact the Kyogle NPWS office on 02 6632 0000 or npws.richmondriver@environment.nsw.gov.au.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
@@ -10715,7 +10595,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T09:05:23",
+      "LastReviewed": "2025-09-13T15:49:16",
       "EffectiveFrom": "2025-08-08T15:26:18",
       "Categories": [
         "Hazard reduction burns",
@@ -10726,11 +10606,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12481901",
           "EffectiveFrom": "2025-09-12T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-12T09:05:23",
+          "LastReviewed": "2025-09-13T15:49:16",
           "Title": "Southern HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a fire in this park called Southern HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 12/09/2025. The fire is called&#xA0;Southern HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -11234,35 +11114,6 @@
     },
     {
       "Park": {
-        "Name": "The Basin Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/the-basin-nature-reserve",
-        "Id": "ea12a1e3-3d46-47fe-90a5-e3e682e88dd4",
-        "ItemName": "The-Basin-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-09T11:33:24",
-      "EffectiveFrom": "2025-09-10T11:54:07",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12432601",
-          "EffectiveFrom": "2025-09-10T11:54:07",
-          "EffectiveTo": "2025-09-14T11:31:46",
-          "LastReviewed": "2025-09-09T11:33:24",
-          "Title": "Park closed for aerial pest control operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Bulagaranda (Mt Yarrowyck) Aboriginal Area and The Basin Nature Reserve&#xA0;are&#xA0;closed from 6am, Thursday 11 September&#xA0;to 8:00pm, Saturday 13 September&#xA0;2025&#xA0;for an aerial&#xA0;pest control operation. The public are not permitted to enter these reserves during this period.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the New England office of the NSW National Parks and Wildlife Service on Tel. 6738 9100.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "The Castles Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/the-castles-nature-reserve",
         "Id": "c03ee3bb-ff1f-4c23-bdc3-e33cac9bfb77",
@@ -11503,12 +11354,23 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-09-06T18:13:14",
+      "LastReviewed": "2025-09-12T17:16:57",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12485401",
+          "EffectiveFrom": "2025-09-12T17:15:02",
+          "EffectiveTo": "2025-10-12T17:15:30",
+          "LastReviewed": "2025-09-12T17:16:57",
+          "Title": "Landslip Shoal Bay East Trail, Quarry Hill",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Tomaree Coastal Walk (Shoal Bay East Trail) is closed south of Wreck Beach Trail and north of Box Beach Road due to a land slip impacting the track.</p>\n\n<p>Visitors are requested to avoid the area.</p>\n\n<p>Detour for walkers is via Garden Place, Essendene Rd and Verona Rd, Shoal Bay</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS Office (02) 49848200</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12400401",
           "EffectiveFrom": "2025-08-05T09:00:51",
@@ -12100,28 +11962,16 @@
         "Id": "c2728164-8310-4d56-a781-56c5fb1466bd",
         "ItemName": "Warrabah-National-Park"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 5,
-      "LastReviewed": "2025-09-09T11:33:02",
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2025-09-09T11:32:38",
       "EffectiveFrom": "2025-08-04T13:53:08",
       "Categories": [
-        "Closed parks",
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12432501",
-          "EffectiveFrom": "2025-09-11T06:00:00",
-          "EffectiveTo": "2025-09-13T20:00:00",
-          "LastReviewed": "2025-09-09T11:33:02",
-          "Title": "Park closed for aerial pest control operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Warrabah National Park is closed from 6am, Thursday&#xA0;11 September&#xA0;to 8:00pm,&#xA0;Saturday 13 September 2025&#xA0;for an aerial and ground&#xA0;pest control operation. Members of the public should not enter the reserve during this time period.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the New England Area office of the National Parks and Wildlife Service office on Tel. 6738 9100.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12399301",
           "EffectiveFrom": "2025-08-04T13:53:08",
@@ -13456,6 +13306,35 @@
           "ItemName": null,
           "Category": "Other incidents",
           "DescriptionHtml": "<p>South Yabbra Road runs South from Clarence Way providing visitors with an 18km rainforest road experience to the heart of Yabbra National Park. South Yabbra Road is generally suitable for AWD or 4WD vehicles in dry weather conditions and is a no through road (visitors need to return along South Yabbra Road). From the end of South Yabbra Road visitors can walk or cycle along the adjacent management trails to explore further. Joes Box Road, Yabbra Plains Road, Pocupar Road, Bald Knob Road and South Haystack Feeder are management trails where public vehicle access is not permitted. These management trails are periodically closed to visitors for road maintenance or pest management operations with closures notified on NPWS website.</p>\n\n<p>&#xA0;</p>\n\n<p>Sheas Hut Road provides public vehicle access for a further 10 km however is in poor condition and not promoted.</p>\n\n<p>&#xA0;</p>\n\n<p>There are frequent tree falls along these roads and visitors are advised to avoid during wet weather events or strong winds. For further information contact the Kyogle&#xA0;NPWS office on (02) 6632 0000.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Yaegl Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yaegl-nature-reserve",
+        "Id": "11590a6b-cec7-4887-8039-e7131f3e5852",
+        "ItemName": "Yaegl-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-12T20:37:43",
+      "EffectiveFrom": "2025-09-12T19:55:00",
+      "Categories": [
+        "Fires - "
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12485901",
+          "EffectiveFrom": "2025-09-12T19:55:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-12T20:37:43",
+          "Title": "PACIFIC HWY, MACLEAN",
+          "ItemName": null,
+          "Category": "Fires - ",
+          "DescriptionHtml": "<p>There is a fire in this park called PACIFIC HWY, MACLEAN. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
