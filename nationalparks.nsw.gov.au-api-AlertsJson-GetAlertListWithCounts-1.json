@@ -1,15 +1,13 @@
 {
   "Categories": [
     "Current alerts",
-    "Fires - Advice",
     "Hazard reduction burns",
     "Fire bans",
     "Closed parks",
     "Closed areas",
     "Safety alerts",
     "Other incidents",
-    "Other planned events",
-    "Fires - "
+    "Other planned events"
   ],
   "ParkAlerts": [
     {
@@ -639,28 +637,16 @@
         "Id": "da00afe1-90ab-4dca-97e3-e6a28ce5c03c",
         "ItemName": "Barren-Grounds-Nature-Reserve"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 5,
-      "LastReviewed": "2025-09-11T10:56:29",
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-08-28T11:15:44",
       "EffectiveFrom": "2022-09-21T13:08:34",
       "Categories": [
-        "Closed parks",
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12481501",
-          "EffectiveFrom": "2025-09-11T10:54:50",
-          "EffectiveTo": "2025-09-14T10:00:00",
-          "LastReviewed": "2025-09-11T10:56:29",
-          "Title": "Drawing Room Rocks Walking Track Closed",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Drawing Room Rocks walking track is closed due to predicted high rainfall and rockfall/landslip risk. The track will remain closed to the public until NPWS staff have conducted an inspection and risk assessment and it is safe to reopen.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12056801",
           "EffectiveFrom": "2025-06-30T16:37:04",
@@ -695,7 +681,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 15,
-      "LastReviewed": "2025-09-08T18:40:30",
+      "LastReviewed": "2025-09-14T13:24:33",
       "EffectiveFrom": "2017-11-09T09:59:54",
       "Categories": [
         "Closed areas",
@@ -729,7 +715,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12395201",
           "EffectiveFrom": "2025-06-16T15:47:25",
           "EffectiveTo": "2025-09-30T16:00:00",
-          "LastReviewed": "2025-09-05T08:19:46",
+          "LastReviewed": "2025-09-14T13:24:33",
           "Title": "Barrington Tops Forest Road closures",
           "ItemName": null,
           "Category": "Other incidents",
@@ -814,7 +800,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-08T18:40:30",
+      "LastReviewed": "2025-09-14T13:24:33",
       "EffectiveFrom": "2025-05-01T07:00:00",
       "Categories": [
         "Closed areas",
@@ -836,7 +822,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12395201",
           "EffectiveFrom": "2025-06-16T15:47:25",
           "EffectiveTo": "2025-09-30T16:00:00",
-          "LastReviewed": "2025-09-05T08:19:46",
+          "LastReviewed": "2025-09-14T13:24:33",
           "Title": "Barrington Tops Forest Road closures",
           "ItemName": null,
           "Category": "Other incidents",
@@ -964,7 +950,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -974,7 +960,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -993,7 +979,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -1003,7 +989,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -1080,21 +1066,22 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-11T13:47:24",
+      "LastReviewed": "2025-09-13T17:24:58",
       "EffectiveFrom": "2025-07-09T13:14:04",
       "Categories": [
+        "Closed areas",
         "Closed parks"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12482101",
-          "EffectiveFrom": "2025-09-11T13:34:22",
-          "EffectiveTo": "2025-09-16T23:59:09",
-          "LastReviewed": "2025-09-11T13:47:24",
-          "Title": "Bents Basin SCA closed due to flooding",
+          "ID": "npws-fis@id.ngcomms.net/eme/12486501",
+          "EffectiveFrom": "2025-09-14T08:00:29",
+          "EffectiveTo": "2025-09-16T23:59:55",
+          "LastReviewed": "2025-09-13T17:24:58",
+          "Title": "Bents Basin SCA Partial closure - Waterhole & Campground closed - Bents Basin Road Picnic Area closed (including Caleys Lookout). Enter via Wolstenholme Ave Greendale.",
           "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Bents Basin SCA is closed due to&#xA0;local flooding.&#xA0;</p>\n\n<p>No access to Bent Basin Campground or Picnic Areas</p>\n\n<p>This closure will be reviewed and updated on Sunday 14th September 2025</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>\n\n<p>&#xA0;</p>\n\n<p>Remember, it&#x2019;s never safe to drive, ride or walk through flood waters. Check <a href=\"https://www.livetraffic.com/\">Live Traffic NSW</a> for up-to-date information and contact the local park office.</p>\n\n<p>For assistance during severe weather visit the <a href=\"https://www.ses.nsw.gov.au/\">NSW SES website.</a> In life-threatening situations call emergency services on Triple Zero (000).</p>\n\n<p>&#xA0;</p>",
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Bents Basin SCA Partial Closure due to local flooding -&#xA0;no access to Bents Basin Road Silverdale, Enter Park via Wolstenholme Ave, Greendale.</p>\n\n<p>&#xA0;</p>\n\n<p>The following areas are closed:</p>\n\n<p>- Bents Basin Campground&#xA0;</p>\n\n<p>- Bents Basin Road Picnic Area&#xA0;</p>\n\n<p>- Caleys Lookout Track</p>\n\n<p>&#xA0;</p>\n\n<p>The following areas are remain open:</p>\n\n<p>- Durwai Picnic Area</p>\n\n<p>- Gulguer Nature Reserve</p>\n\n<p>&#xA0;</p>\n\n<p>This partial closure will be reviewed on Tuesday 16th September 2025.&#xA0;</p>\n\n<p>For more information, please contact the Cumberland Area Office on 02 4580 2750 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/viewtop/inforce/subordleg+427+2009+cd+0+N/?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>.</p>",
           "IsKml": false
         },
         {
@@ -1263,6 +1250,35 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Swimming is not advisable in Berowra Creek at certain times as the water may be subject to variable pollution levels and algal blooms. Please refer to the <a href=\"http://click.ngcomms.net/o4vhkp5gzuq0/a8dxf9d5gysgt/quhet555wwb2\">Hornsby Shire Council website</a> before swimming in Berowra Creek. Alternatively you can call the Hornsby Council 24 hour information line on 9847 6666 or the Algal information line on 1800 999 457.</p>\n\n<p>Swimming at Fishponds is not advised at any time due to heavy water pollution.</p>\n\n<p><a href=\"http://click.ngcomms.net/o4vhkp5gzuq0/a8dxf9d5gysgt/quhevx52cs0r\">Penalties apply for non-compliance</a>.For more information, contact the NPWS Chatswood area office on 02 8448 0400 or visit the <a href=\"http://click.ngcomms.net/o4vhkp5gzuq0/a8dxf9d5gysgt/quheyp4ocawq\">NSW National Parks safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Berrico Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/berrico-nature-reserve",
+        "Id": "6dd0803b-717d-441d-9fa9-353b5016b239",
+        "ItemName": "Berrico-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-01T10:07:47",
+      "EffectiveFrom": "2025-09-14T09:56:57",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12453001",
+          "EffectiveFrom": "2025-09-14T09:56:57",
+          "EffectiveTo": "2025-10-27T09:57:27",
+          "LastReviewed": "2025-09-01T10:07:47",
+          "Title": "Berrico Nature Reserve closed for essential landslip remediation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Berrico Nature Reserve will be closed from Monday 15th&#xA0;September to Monday 27th October 2025 to allow contractors to undertake essential landslip&#xA0;remediation.&#xA0; The closure has been put in place for the safety of both visitors and the contractors. The planned works and this closure may be weather dependant.</p>\n\n<p>&#xA0;</p>\n\n<p>NPWS apologies for any inconvenience.</p>\n\n<p>&#xA0;</p>\n\n<p>For more information, please contact the local NPWS Office on 6538 5300.</p>",
           "IsKml": false
         }
       ]
@@ -2593,7 +2609,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -2603,7 +2619,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -2622,7 +2638,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -2632,7 +2648,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -2750,24 +2766,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-12T09:42:03",
+      "LastReviewed": "2025-08-11T12:10:41",
       "EffectiveFrom": "2024-10-16T13:34:48",
       "Categories": [
-        "Closed areas",
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12433601",
-          "EffectiveFrom": "2025-09-11T13:49:12",
-          "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-12T09:42:03",
-          "Title": "Areas closed for aerial feral animal control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
@@ -2802,24 +2807,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T09:42:03",
+      "LastReviewed": "2025-08-11T12:10:41",
       "EffectiveFrom": "2024-10-16T13:34:48",
       "Categories": [
-        "Closed areas",
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12433601",
-          "EffectiveFrom": "2025-09-11T13:49:12",
-          "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-12T09:42:03",
-          "Title": "Areas closed for aerial feral animal control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
@@ -3618,7 +3612,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-08-29T09:03:41",
       "Categories": [
         "Closed areas"
@@ -3639,7 +3633,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -3658,7 +3652,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -3668,7 +3662,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -6178,7 +6172,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T13:18:19",
+      "LastReviewed": "2025-09-14T07:37:59",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
         "Other planned events",
@@ -6333,7 +6327,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12036401",
           "EffectiveFrom": "2025-06-24T13:43:25",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-05T14:38:52",
+          "LastReviewed": "2025-09-14T07:37:59",
           "Title": "Notice of ongoing 1080 winter fox baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -7308,7 +7302,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -7318,7 +7312,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -7535,7 +7529,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -7545,7 +7539,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -7631,14 +7625,13 @@
         "Id": "f67f6a54-42f0-4377-b5df-d7646e7068aa",
         "ItemName": "Morton-National-Park"
       },
-      "Closed": true,
+      "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 50,
+      "ClosedAreasCount": 6,
       "LastReviewed": "2025-09-12T16:28:57",
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
         "Closed areas",
-        "Closed parks",
         "Other planned events",
         "Safety alerts"
       ],
@@ -7663,17 +7656,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>The end of Tallowa Dam Road in Morton National Park is currently closed due to cracks which have developed after multiple heavy rain events, creating the potential for a landslide. The closure is located approximately 1.5km east of Tallowa Dam crest.</p>\n\n<p>There is no public access to Tallowa Dam. Paddlers must exit the lake at Beehive Point or Bendeela.</p>\n\n<p>The road will be closed until at least mid-October, to allow for essential geotechnical investigation work. This work is being managed by National Parks and Wildlife Service and we will update this message when we have more information in early October.</p>\n\n<p>For more information, contact the NPWS Fitzroy Falls office on 02 4887 8244.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12481601",
-          "EffectiveFrom": "2025-09-11T10:57:36",
-          "EffectiveTo": "2025-09-14T10:00:00",
-          "LastReviewed": "2025-09-11T10:59:19",
-          "Title": "Erith Coal Mine Stairwell closed.",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Erith Coal Mine stairwell&#xA0;is closed due to predicted high rainfall and rockfall/landslip risk. The track portion of the track will remain closed to the public until NPWS staff have conducted an inspection and risk assessment and it is safe to reopen.</p>",
           "IsKml": false
         },
         {
@@ -9257,35 +9239,6 @@
     },
     {
       "Park": {
-        "Name": "Ngiyungbayi Aboriginal Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/ngiyungbayi-aboriginal-area",
-        "Id": "28e8b676-4d86-449c-9de2-824ec655f8b8",
-        "ItemName": "ngiyungbayi-aboriginal-area"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T09:42:03",
-      "EffectiveFrom": "2025-09-11T13:49:12",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12433601",
-          "EffectiveFrom": "2025-09-11T13:49:12",
-          "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-12T09:42:03",
-          "Title": "Areas closed for aerial feral animal control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Nightcap National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nightcap-national-park",
         "Id": "7b28ac00-4838-4de9-b9bc-92f30c615e91",
@@ -9480,24 +9433,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T14:18:41",
+      "LastReviewed": "2025-08-13T14:18:58",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
-        "Fires - Advice",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12475001",
-          "EffectiveFrom": "2025-09-08T17:33:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-12T14:18:41",
-          "Title": "Valorem",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Valorem. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12416401",
           "EffectiveFrom": "2025-08-25T07:30:00",
@@ -9553,64 +9494,6 @@
     },
     {
       "Park": {
-        "Name": "Oxley Wild Rivers National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/oxley-wild-rivers-national-park",
-        "Id": "c513d061-aefa-4c9c-9498-7111a0614feb",
-        "ItemName": "Oxley-Wild-Rivers-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 6,
-      "LastReviewed": "2025-09-12T09:42:03",
-      "EffectiveFrom": "2025-09-11T13:49:12",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12433601",
-          "EffectiveFrom": "2025-09-11T13:49:12",
-          "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-12T09:42:03",
-          "Title": "Areas closed for aerial feral animal control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Oxley Wild Rivers State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/oxley-wild-rivers-state-conservation-area",
-        "Id": "ac1fbbe3-f4f3-4d33-b9f8-846d85bc9733",
-        "ItemName": "Oxley-Wild-Rivers-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T09:42:03",
-      "EffectiveFrom": "2025-09-11T13:49:12",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12433601",
-          "EffectiveFrom": "2025-09-11T13:49:12",
-          "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-12T09:42:03",
-          "Title": "Areas closed for aerial feral animal control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Parma Creek Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/parma-creek-nature-reserve",
         "Id": "6dcdc606-a49d-4a6f-acb8-b09fac55d86b",
@@ -9652,7 +9535,6 @@
       "EffectiveFrom": "2014-09-25T10:00:00",
       "Categories": [
         "Closed parks",
-        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
@@ -9666,17 +9548,6 @@
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Paroo-Darling National Park is closed in both sections due to to rain.&#xA0; Peery Day Use Area is closed and Coach and Horses campground is closed.&#xA0; These locations will open again when the road access opens up.&#xA0; For further information please contact the Broken Hill National Park office on 08 8084 2880.</p>",
           "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12438801",
-          "EffectiveFrom": "2025-09-10T05:00:00",
-          "EffectiveTo": "2025-09-13T20:00:00",
-          "LastReviewed": "2025-08-25T10:22:22",
-          "Title": "Pest Control Program Peery, Mandalay and Arrow Bar,",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Closure for Pest Control</p>\n\n<p>Peery (Peery Lake), Mandalay and Arrow Bar will be closed from 5 AM&#xA0;on 8th September to 8 PM 13th September 2025 while pest control works are undertaken.</p>",
-          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/1502201",
@@ -10595,7 +10466,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-13T15:49:16",
+      "LastReviewed": "2025-09-14T16:09:19",
       "EffectiveFrom": "2025-08-08T15:26:18",
       "Categories": [
         "Hazard reduction burns",
@@ -10606,7 +10477,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12481901",
           "EffectiveFrom": "2025-09-12T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-13T15:49:16",
+          "LastReviewed": "2025-09-14T16:09:19",
           "Title": "Southern HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -11544,7 +11415,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:28",
+      "LastReviewed": "2025-09-14T13:24:25",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -11554,7 +11425,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430501",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:28",
+          "LastReviewed": "2025-09-14T13:24:25",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -11769,7 +11640,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -11779,7 +11650,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -12208,7 +12079,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -12218,7 +12089,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -12413,27 +12284,15 @@
         "ItemName": "Werrikimbe-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T09:42:03",
+      "LastReviewed": "2025-09-04T12:24:53",
       "EffectiveFrom": "2025-05-07T15:03:11",
       "Categories": [
-        "Closed areas",
         "Safety alerts",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12433601",
-          "EffectiveFrom": "2025-09-11T13:49:12",
-          "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-12T09:42:03",
-          "Title": "Areas closed for aerial feral animal control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11901801",
           "EffectiveFrom": "2025-05-07T15:03:11",
@@ -12454,35 +12313,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting ongoing aerial and ground baiting programs. Aerial baiting and ground baiting is scheduled from 8th June 2025 to 8th December 2025. The operation will use 1080 (sodium fluoroacetate) poison for the control of Wild dogs and Foxes.</p>\n\n<p>Aerial baiting and ground baiting will occur in:</p>\n\n<p><strong>Richmond River Area &#x2013;</strong> Captains Creek Nature Reserve (NR), Richmond Range National Park (NP), Bundjalung NP</p>\n\n<p><strong>Clarence Area </strong>- Nymboi-Binderay NP, Nymboida NP, Mount Neville NR, Banyabba NR and State Conservation Area (SCA), Ramornie NP, Bundjalung NP</p>\n\n<p><strong>Coffs Coast Area </strong>- Bagul Waajaarr NR, Bindarri NP, Cascade NP, Chaelundi NP and SCA, Cunnawarra NP, Dorrigo NP, Dunggir NP, Gumbaynggirr SCA, Jobs Mountain NR, Mount Hyland NR and SCA, New England NP, Ngambaa NR, Nymboi-Binderay NP, Serpentine NR.</p>\n\n<p><strong>Hastings Macleay</strong> <strong>Area</strong>- The Cells SCA, Cottan-Bimbang NP, Carrai NP and SCA, New England NP, Pee Dee NR, The Castles NR, Werrikimbe NP, Willi Willi NP, Mount Seaview NR.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local NPWS area office for more information.</p>\n\n<p>Hastings Macleay Area 02 6561 6700</p>\n\n<p>Coffs Coast Area 02 6652 0900</p>\n\n<p>Clarence Area 02 6641 1500</p>\n\n<p>Richmond River Area 02 6632 0000</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Werrikimbe State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/werrikimbe-state-conservation-area",
-        "Id": "06a62fca-9503-498a-9f06-bd18b01eeafa",
-        "ItemName": "Werrikimbe-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T09:42:03",
-      "EffectiveFrom": "2025-09-11T13:49:12",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12433601",
-          "EffectiveFrom": "2025-09-11T13:49:12",
-          "EffectiveTo": "2025-09-14T14:00:30",
-          "LastReviewed": "2025-09-12T09:42:03",
-          "Title": "Areas closed for aerial feral animal control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some remote areas in Oxley Wild Rivers National Park, Carrai National Park and SCA&#xA0;and Werrikimbe National Park&#xA0;are closed from 6am, Thursday 11 September&#xA0;to 8.00pm, Saturday 13 September&#xA0;2025&#xA0;for aerial&#xA0;pest control of&#xA0;feral animals. No picnic areas, campgrounds or hard-roofed accommodation areas will be impacted. The closed areas are marked with signage.</p>\n\n<p>Members of the public are not permitted in these areas during this operation.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact New England Area National Parks and Wildlife Service office in Armidale on Tel. 6738 9100.</p>",
           "IsKml": false
         }
       ]
@@ -12717,7 +12547,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-05T08:19:28",
+      "LastReviewed": "2025-09-14T13:24:25",
       "EffectiveFrom": "2025-09-03T06:00:00",
       "Categories": [
         "Closed areas"
@@ -12727,7 +12557,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430501",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:28",
+          "LastReviewed": "2025-09-14T13:24:25",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -12833,7 +12663,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-09-05T08:19:38",
+      "LastReviewed": "2025-09-14T13:24:19",
       "EffectiveFrom": "2025-07-31T18:00:06",
       "Categories": [
         "Closed areas"
@@ -12854,7 +12684,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430401",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-05T08:19:38",
+          "LastReviewed": "2025-09-14T13:24:19",
           "Title": "Notice of Aerial Shooting for Pest Animal Control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -13306,35 +13136,6 @@
           "ItemName": null,
           "Category": "Other incidents",
           "DescriptionHtml": "<p>South Yabbra Road runs South from Clarence Way providing visitors with an 18km rainforest road experience to the heart of Yabbra National Park. South Yabbra Road is generally suitable for AWD or 4WD vehicles in dry weather conditions and is a no through road (visitors need to return along South Yabbra Road). From the end of South Yabbra Road visitors can walk or cycle along the adjacent management trails to explore further. Joes Box Road, Yabbra Plains Road, Pocupar Road, Bald Knob Road and South Haystack Feeder are management trails where public vehicle access is not permitted. These management trails are periodically closed to visitors for road maintenance or pest management operations with closures notified on NPWS website.</p>\n\n<p>&#xA0;</p>\n\n<p>Sheas Hut Road provides public vehicle access for a further 10 km however is in poor condition and not promoted.</p>\n\n<p>&#xA0;</p>\n\n<p>There are frequent tree falls along these roads and visitors are advised to avoid during wet weather events or strong winds. For further information contact the Kyogle&#xA0;NPWS office on (02) 6632 0000.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Yaegl Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yaegl-nature-reserve",
-        "Id": "11590a6b-cec7-4887-8039-e7131f3e5852",
-        "ItemName": "Yaegl-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-12T20:37:43",
-      "EffectiveFrom": "2025-09-12T19:55:00",
-      "Categories": [
-        "Fires - "
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12485901",
-          "EffectiveFrom": "2025-09-12T19:55:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-12T20:37:43",
-          "Title": "PACIFIC HWY, MACLEAN",
-          "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called PACIFIC HWY, MACLEAN. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
