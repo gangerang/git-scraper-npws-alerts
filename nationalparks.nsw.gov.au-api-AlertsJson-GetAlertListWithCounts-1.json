@@ -7,7 +7,8 @@
     "Closed areas",
     "Safety alerts",
     "Other incidents",
-    "Other planned events"
+    "Other planned events",
+    "Fires - "
   ],
   "ParkAlerts": [
     {
@@ -46,16 +47,28 @@
         "Id": "0f8fe64c-29eb-4956-9df3-abd34e03d805",
         "ItemName": "Abercrombie-River-National-Park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:28",
+      "ClosedAreasCount": 4,
+      "LastReviewed": "2025-09-16T07:55:48",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
+        "Closed parks",
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12491601",
+          "EffectiveFrom": "2025-09-16T07:54:10",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-16T07:55:48",
+          "Title": "Abercrombie River State Conservation Area and Abercrombie River National Park are Closed due to high rainfall and flooding conditions",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Abercrombie River National Park and Abercrombie River State Conservation Area are both closed due to predicted high rainfalls creating dangerous floodwater conditions and impassable river crossings.</p>\n\n<p>&#xA0;</p>\n\n<p>the Park will be opened once conditions improve.</p>\n\n<p>&#xA0;</p>\n\n<p>Penalties apply for non compliance, for further information, contact the NPWS Oberon Office on 02 6336 6200</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12399701",
           "EffectiveFrom": "2025-08-06T14:48:29",
@@ -98,15 +111,27 @@
         "Id": "6065be7d-5118-4623-9caf-317aaf15a229",
         "ItemName": "Abercrombie-River-State-Conservation-Area"
       },
-      "Closed": false,
-      "PartClosed": false,
+      "Closed": true,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:28",
+      "LastReviewed": "2025-09-16T07:55:48",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
+        "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12491601",
+          "EffectiveFrom": "2025-09-16T07:54:10",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-16T07:55:48",
+          "Title": "Abercrombie River State Conservation Area and Abercrombie River National Park are Closed due to high rainfall and flooding conditions",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Abercrombie River National Park and Abercrombie River State Conservation Area are both closed due to predicted high rainfalls creating dangerous floodwater conditions and impassable river crossings.</p>\n\n<p>&#xA0;</p>\n\n<p>the Park will be opened once conditions improve.</p>\n\n<p>&#xA0;</p>\n\n<p>Penalties apply for non compliance, for further information, contact the NPWS Oberon Office on 02 6336 6200</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12399701",
           "EffectiveFrom": "2025-08-06T14:48:29",
@@ -338,7 +363,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -348,7 +373,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -483,7 +508,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -493,7 +518,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -512,7 +537,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -522,7 +547,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -669,7 +694,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 15,
-      "LastReviewed": "2025-09-15T07:20:33",
+      "LastReviewed": "2025-09-16T09:07:37",
       "EffectiveFrom": "2017-11-09T09:59:54",
       "Categories": [
         "Closed areas",
@@ -681,7 +706,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430601",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-08T18:40:30",
+          "LastReviewed": "2025-09-16T09:07:00",
           "Title": "Notice of Aerial and Ground Shooting for Feral Animal Control - Barrington Tops National Park and State Conservation Area",
           "ItemName": null,
           "Category": "Closed areas",
@@ -714,7 +739,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11959401",
           "EffectiveFrom": "2025-05-01T07:00:00",
           "EffectiveTo": "2025-09-29T17:00:00",
-          "LastReviewed": "2025-09-08T18:39:05",
+          "LastReviewed": "2025-09-16T09:07:37",
           "Title": "Seasonal Closure of Barrington Tops NP 4WD trails",
           "ItemName": null,
           "Category": "Closed areas",
@@ -725,7 +750,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11998101",
           "EffectiveFrom": "2025-06-13T17:00:00",
           "EffectiveTo": "2025-09-30T15:39:10",
-          "LastReviewed": "2025-09-08T18:39:21",
+          "LastReviewed": "2025-09-16T09:07:08",
           "Title": "Tubrabucca Road closed due to severe weather impacts.",
           "ItemName": null,
           "Category": "Closed areas",
@@ -788,7 +813,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-14T13:24:33",
+      "LastReviewed": "2025-09-16T09:07:37",
       "EffectiveFrom": "2025-05-01T07:00:00",
       "Categories": [
         "Closed areas",
@@ -799,7 +824,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12430601",
           "EffectiveFrom": "2025-09-03T06:00:00",
           "EffectiveTo": "2025-09-24T17:00:00",
-          "LastReviewed": "2025-09-08T18:40:30",
+          "LastReviewed": "2025-09-16T09:07:00",
           "Title": "Notice of Aerial and Ground Shooting for Feral Animal Control - Barrington Tops National Park and State Conservation Area",
           "ItemName": null,
           "Category": "Closed areas",
@@ -821,7 +846,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11959401",
           "EffectiveFrom": "2025-05-01T07:00:00",
           "EffectiveTo": "2025-09-29T17:00:00",
-          "LastReviewed": "2025-09-08T18:39:05",
+          "LastReviewed": "2025-09-16T09:07:37",
           "Title": "Seasonal Closure of Barrington Tops NP 4WD trails",
           "ItemName": null,
           "Category": "Closed areas",
@@ -832,7 +857,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11998101",
           "EffectiveFrom": "2025-06-13T17:00:00",
           "EffectiveTo": "2025-09-30T15:39:10",
-          "LastReviewed": "2025-09-08T18:39:21",
+          "LastReviewed": "2025-09-16T09:07:08",
           "Title": "Tubrabucca Road closed due to severe weather impacts.",
           "ItemName": null,
           "Category": "Closed areas",
@@ -895,35 +920,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from 3rd March 2025&#xA0;to 31st October&#xA0;2025. The operation will use 1080 (sodium fluoroacetate) poison for the control of feral animals wild dogs and/or foxes.</p>\n\n<p>&#xA0;</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise impact of wild dogs on neighbouring stock and will take place in:</p>\n\n<p>&#xA0;</p>\n\n<p>Morton National Park (including: 12 Mile Road, Croobyar/Kingiman, Touga/Tolwong, Little Forest Plateau, Redground, Endrick and&#xA0;Sassafras)</p>\n\n<p>Conjola National Park</p>\n\n<p>Murramarang National Park</p>\n\n<p>Parma Nature Reserve</p>\n\n<p>Jerrawangala National Park</p>\n\n<p>Colymea SCA</p>\n\n<p>Bees Nest Nature Reserve</p>\n\n<p>&#xA0;</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands.</p>\n\n<p>Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local NPWS Nowra Office on 44286300&#xA0;or NPWS Ulladulla on 44549500&#xA0;for more information.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/osrbie4yug4l/amzf2r69g81cm/rkneui9u65ff\">Penalties apply for non-compliance</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Belmount Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/belmount-nature-reserve",
-        "Id": "ad44699a-3c50-4939-b1ef-525a29980fab",
-        "ItemName": "Belmount-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:23:06",
-      "EffectiveFrom": "2025-08-29T16:39:13",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12450001",
-          "EffectiveFrom": "2025-08-29T16:39:13",
-          "EffectiveTo": "2025-09-16T16:39:45",
-          "LastReviewed": "2025-09-08T08:23:06",
-          "Title": "Notice of 1080 Baiting - Feral Pigs",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using grain containing 1080 (sodium fluoroacetate) poison for the control of feral pigs. The program will be conducted from Tuesday 2nd September 2025 until Tuesday 16th September 2025 in Belmount Nature Reserve.</p>\n\n<p>&#xA0;</p>\n\n<p>All entrances to the baiting location will be sign posted.</p>\n\n<p>&#xA0;</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>&#xA0;</p>\n\n<p>For further information please call NPWS Queanbeyan area office on 02 6229 7166.</p>",
           "IsKml": false
         }
       ]
@@ -1054,7 +1050,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-13T17:24:58",
+      "LastReviewed": "2025-09-16T10:56:23",
       "EffectiveFrom": "2025-07-09T13:14:04",
       "Categories": [
         "Closed areas",
@@ -1064,19 +1060,19 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12486501",
           "EffectiveFrom": "2025-09-14T08:00:29",
-          "EffectiveTo": "2025-09-16T23:59:55",
-          "LastReviewed": "2025-09-13T17:24:58",
-          "Title": "Bents Basin SCA Partial closure - Waterhole & Campground closed - Bents Basin Road Picnic Area closed (including Caleys Lookout). Enter via Wolstenholme Ave Greendale.",
+          "EffectiveTo": "2025-09-23T23:59:55",
+          "LastReviewed": "2025-09-16T10:56:23",
+          "Title": "Bents Basin State Conservation Area partially closed due to flood damage",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Bents Basin SCA Partial Closure due to local flooding -&#xA0;no access to Bents Basin Road Silverdale, Enter Park via Wolstenholme Ave, Greendale.</p>\n\n<p>&#xA0;</p>\n\n<p>The following areas are closed:</p>\n\n<p>- Bents Basin Campground&#xA0;</p>\n\n<p>- Bents Basin Road Picnic Area&#xA0;</p>\n\n<p>- Caleys Lookout Track</p>\n\n<p>&#xA0;</p>\n\n<p>The following areas are remain open:</p>\n\n<p>- Durwai Picnic Area</p>\n\n<p>- Gulguer Nature Reserve</p>\n\n<p>&#xA0;</p>\n\n<p>This partial closure will be reviewed on Tuesday 16th September 2025.&#xA0;</p>\n\n<p>For more information, please contact the Cumberland Area Office on 02 4580 2750 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/viewtop/inforce/subordleg+427+2009+cd+0+N/?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>.</p>",
+          "DescriptionHtml": "<p>Bents Basin State Conservation Area Partial Closure due to&#xA0;flood damage -&#xA0;no access to Bents Basin Road Silverdale.&#xA0;Enter Park via Wolstenholme Ave, Greendale.</p>\n\n<p>&#xA0;</p>\n\n<p>The following areas are closed:</p>\n\n<p>- Bents Basin Road Picnic Area&#xA0;</p>\n\n<p>- Caleys Lookout Track</p>\n\n<p>- Bents Basin&#xA0;Waterhole</p>\n\n<p>&#xA0;</p>\n\n<p>The following areas&#xA0;are&#xA0;open:</p>\n\n<p>- Bents Basin Campground</p>\n\n<p>- Durwai Picnic Area</p>\n\n<p>- Gulguer Nature Reserve</p>\n\n<p>&#xA0;</p>\n\n<p>This partial closure will be reviewed on Tuesday 23rd&#xA0;September 2025.&#xA0;</p>\n\n<p>For more information, please contact the Cumberland Area Office on 02 4580 2750 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/viewtop/inforce/subordleg+427+2009+cd+0+N/?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>.</p>",
           "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12194001",
           "EffectiveFrom": "2025-07-09T13:14:04",
           "EffectiveTo": "2025-09-26T23:59:59",
-          "LastReviewed": "2025-09-08T08:51:29",
+          "LastReviewed": "2025-09-16T08:42:06",
           "Title": "Bents Basin SCA Closed for ground pest control operations - excluding weekends and public holidays, does not affect camping bookings or day use",
           "ItemName": null,
           "Category": "Closed parks",
@@ -1273,6 +1269,35 @@
     },
     {
       "Park": {
+        "Name": "Bimberi Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bimberi-nature-reserve",
+        "Id": "792e6599-afd0-49f0-83a0-4fab44309cef",
+        "ItemName": "Bimberi-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-16T09:37:38",
+      "EffectiveFrom": "2025-09-16T09:30:26",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12492301",
+          "EffectiveFrom": "2025-09-16T09:30:26",
+          "EffectiveTo": "2025-10-03T09:31:35",
+          "LastReviewed": "2025-09-16T09:37:38",
+          "Title": "Pryor's Hut Toilet Closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Pryor's Hut Toilet is currently closed for repairs.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Bindarri National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bindarri-national-park",
         "Id": "fcccb1fe-4626-483d-9570-d69e769e8da8",
@@ -1281,7 +1306,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-04T08:07:56",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2022-03-21T10:41:42",
       "Categories": [
         "Other planned events",
@@ -1292,7 +1317,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -1397,17 +1422,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Many roads, fire trails and walking tracks&#xA0;in Blue Mountains National Park are closed due to infrastructure repairs, upgrades or&#xA0;damage caused by&#xA0;wet weather including&#xA0;subsidence,&#xA0;rockfalls, landslides and fallen trees.</p>\n\n<p>The following tracks are&#xA0;<strong>closed</strong>:</p>\n\n<p><strong>Katoomba and Leura </strong>&#xA0;</p>\n\n<ul>\n\t<li>Honeymoon Bridge&#xA0;is closed due to rockfall hazards. (Visible bridge from Echo Point. Side route off&#xA0;Three&#xA0;Sisters Track and Giant Stairs.)</li>\n\t<li>Leura Cascades track (bottom section) is closed until the end of 2025 for track upgrade works. There is no access to Prince Henry Cliff walk (part of Grand Clifftop walk) between the top of Leura Cascades and the Amphitheatre junction. Short detour via Cliff Drive.</li>\n\t<li>Leura Cascades parking area and toilets are closed.&#xA0;Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information.</li>\n\t<li>Fern Bower track between Prince Henry Cliff walk and Amphitheatre track is closed due&#xA0;to&#xA0;landslides and associated repairs.&#xA0;</li>\n\t<li>Glenraphael Drive (Narrow Neck fire trail) is closed to vehicles near Cliff Drive due to a road subsidence. Walkers &amp; cyclists are permitted.</li>\n\t<li>Part of Lindeman&#xA0;Pass is&#xA0;closed due to a major landslide&#xA0;below Gladstone lookout. Roberts Pass is closed due to rockfall and&#xA0;landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is affected by&#xA0;closures at <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a>.</li>\n</ul>\n\n<p><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</p>\n\n<ul>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to elevated boardwalk repairs. There's no access to&#xA0;Roberts Pass, Hippocrene or&#xA0;Vera Falls.&#xA0;</li>\n\t<li>Valley of the Waters is closed below Silvia Falls due rockfall hazards. There is no access to Roberts Pass, Hippocrene or Vera Falls.</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Pulpit Rock Reserve, lookouts and part of the walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu\">Google maps</a>).</li>\n\t<li>Govetts descent and Rodriguez Pass are closed due to rockfalls and landslides.&#xA0;</li>\n\t<li>The Six Foot Track's Bowtells Swing Bridge will be closed on Wednesday 17th September for maintenance.&#xA0;</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<p>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12482601",
-          "EffectiveFrom": "2025-09-11T15:36:19",
-          "EffectiveTo": "2025-09-16T01:00:00",
-          "LastReviewed": "2025-09-11T15:46:51",
-          "Title": "Mt Hay Road: Partial closure",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>My Hay Road within Blue Mountains National Park will be closed to all traffic north of Lockleys Pylon on Monday 15th September 2025 to allow for road works.&#xA0; No access to Mt Hay, Butterbox Point or Butterbox Canyon.&#xA0; For further information please call the Blue Mountains Heritage Centre on (02) 47878877.&#xA0;</p>",
           "IsKml": false
         },
         {
@@ -1793,23 +1807,46 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-12T09:13:49",
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2025-09-16T15:51:10",
       "EffectiveFrom": "2025-02-15T11:20:03",
       "Categories": [
+        "Hazard reduction burns",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12488901",
+          "EffectiveFrom": "2025-09-16T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-16T15:51:10",
+          "Title": "Pinnacle HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 16/09/2025. The fire is called&#xA0;Pinnacle HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12478101",
           "EffectiveFrom": "2025-09-10T10:55:55",
-          "EffectiveTo": "2025-09-17T09:00:31",
-          "LastReviewed": "2025-09-10T11:08:02",
+          "EffectiveTo": "2025-09-19T09:00:31",
+          "LastReviewed": "2025-09-16T10:00:44",
           "Title": "Partial closure Tweed Range Scenic Drive",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Eastern Access to the Tweed Range Scenic Drive (Barkers Vale to Bar Mountain) will be closed for Road repair from 7am Tuesday 16&#xA0;September to 830am Wednesday 17 September&#xA0;for programmed road works.</p>\n\n<p>The ONLY access to the Border Ranges National Park and the Tweed Range Scenic Drive during this time will be from the west via Wiangaree.</p>\n\n<p>All Campgrounds and walking tracks remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/pcbv3a5a09h9/ay5cvsm4sj0cv/s66r465jveo5\">Penalties apply for non-compliance</a>. For more information, contact Kyogle NPWS office on 02 6632 0000 or email <a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">npws.richmondriver@environment.nsw.gov.au</a></p>",
+          "DescriptionHtml": "<p>The Eastern Access to the Tweed Range Scenic Drive (Barkers Vale to Bar Mountain) will be closed for Road repair from 7am Tuesday 16&#xA0;September to 830am Friday 19&#xA0;September&#xA0;for programmed road works.</p>\n\n<p>The ONLY access to the Border Ranges National Park and the Tweed Range Scenic Drive during this time will be from the west via Wiangaree.</p>\n\n<p>All Campgrounds and walking tracks remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/pcbv3a5a09h9/ay5cvsm4sj0cv/s66r465jveo5\">Penalties apply for non-compliance</a>. For more information, contact Kyogle NPWS office on 02 6632 0000 or email <a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">npws.richmondriver@environment.nsw.gov.au</a></p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12485101",
+          "EffectiveFrom": "2025-09-16T00:00:00",
+          "EffectiveTo": "2025-09-19T18:00:00",
+          "LastReviewed": "2025-09-12T16:00:03",
+          "Title": "Area closed for planned burning Border Ranges National Park",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some parts of this park are closed for planned burn from Tuesday 16 September to Friday 19 September 2025.</p>\n\n<p>The closed area is:</p>\n\n<ul>\n\t<li>Pinnacle walk and lookout</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/q7s0vu9pyrnv/bchhiyi52zdlz/sxb87a9qpavh\">Penalties apply for non-compliance</a>. This burn is called NPWS Pinnacle HR. For more information, contact Kyogle NPWS office 02 6632 0000 or visit Hazards Near Me app and <a href=\"http://click.ngcomms.net/q7s0vu9pyrnv/bchhiyi52zdlz/sxb8a259b7rf\">Rural Fire Service website.</a></p>",
           "IsKml": false
         },
         {
@@ -1896,6 +1933,35 @@
     },
     {
       "Park": {
+        "Name": "Bowraville Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bowraville-nature-reserve",
+        "Id": "75bf8167-f890-4d3c-ad3a-de5c27af0581",
+        "ItemName": "Bowraville-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-16T10:45:17",
+      "EffectiveFrom": "2025-09-16T03:44:00",
+      "Categories": [
+        "Fires - "
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12491301",
+          "EffectiveFrom": "2025-09-16T03:44:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-16T10:45:17",
+          "Title": "BELLINGEN RD, SPICKETTS CREEK",
+          "ItemName": null,
+          "Category": "Fires - ",
+          "DescriptionHtml": "<p>There is a fire in this park called BELLINGEN RD, SPICKETTS CREEK. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Bretti Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bretti-nature-reserve",
         "Id": "f9396880-fa51-4fae-b8b6-743f388753ce",
@@ -1931,14 +1997,26 @@
         "ItemName": "Brindabella-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-15T13:43:57",
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
+      "LastReviewed": "2025-09-16T09:12:09",
       "EffectiveFrom": "2025-06-17T12:47:19",
       "Categories": [
+        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12492101",
+          "EffectiveFrom": "2025-09-16T09:08:48",
+          "EffectiveTo": "2025-09-20T09:09:00",
+          "LastReviewed": "2025-09-16T09:12:09",
+          "Title": "Lowells Flat Toilet Closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Lowells Flat toilet is closed for repairs.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12020301",
           "EffectiveFrom": "2025-06-17T12:47:19",
@@ -2225,14 +2303,26 @@
         "ItemName": "Bundjalung-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-25T08:14:52",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2024-09-19T16:12:04",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12482801",
+          "EffectiveFrom": "2025-09-15T17:17:50",
+          "EffectiveTo": "2025-09-28T17:19:19",
+          "LastReviewed": "2025-09-11T17:29:27",
+          "Title": "Bundjalung NP - Partial park closure (planned Hazard Reduction burn)",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some parts of Bundjalung NP are closed for hazard reduction burning from Monday 15 September to Sunday 28 September 2025<strong>.</strong> The closed areas include the following trails and area encompassed by them:</p>\n\n<ul>\n\t<li>Washed Out Trail</li>\n\t<li>Mororo Firetrail</li>\n\t<li>Woombah Firetrail</li>\n\t<li>Big Marsh Firetrail</li>\n\t<li>Bazzas Firetrail</li>\n</ul>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. This burn is called Washed Out HR. For more information, contact the local NPWS office or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11345501",
           "EffectiveFrom": "2024-09-19T16:12:04",
@@ -2248,7 +2338,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -2761,7 +2851,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -2771,7 +2861,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -2790,7 +2880,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2024-10-16T13:34:48",
       "Categories": [
         "Other planned events",
@@ -2801,7 +2891,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -2831,7 +2921,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2024-10-16T13:34:48",
       "Categories": [
         "Other planned events",
@@ -2842,7 +2932,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -2872,7 +2962,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -2882,7 +2972,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -2930,7 +3020,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-08T08:51:42",
+      "LastReviewed": "2025-09-16T08:42:18",
       "EffectiveFrom": "2025-07-09T13:12:25",
       "Categories": [
         "Closed areas"
@@ -2940,7 +3030,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12193901",
           "EffectiveFrom": "2025-07-09T13:12:25",
           "EffectiveTo": "2025-09-26T23:59:59",
-          "LastReviewed": "2025-09-08T08:51:42",
+          "LastReviewed": "2025-09-16T08:42:18",
           "Title": "Closed for ground pest control operations",
           "ItemName": null,
           "Category": "Closed areas",
@@ -2988,7 +3078,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-04T08:08:04",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2022-09-28T15:55:55",
       "Categories": [
         "Closed areas",
@@ -3010,7 +3100,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -3040,7 +3130,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-19T08:56:49",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-04-16T08:00:00",
       "Categories": [
         "Closed areas",
@@ -3062,7 +3152,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -3468,7 +3558,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-15T09:19:51",
+      "LastReviewed": "2025-09-16T09:08:13",
       "EffectiveFrom": "2025-07-14T13:35:12",
       "Categories": [
         "Closed areas"
@@ -3478,7 +3568,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12207701",
           "EffectiveFrom": "2025-07-14T13:35:12",
           "EffectiveTo": "2025-12-31T13:37:22",
-          "LastReviewed": "2025-08-15T09:19:51",
+          "LastReviewed": "2025-09-16T09:08:13",
           "Title": "Sleppy Hollow Trail and Craddocks Creek Trail closed due to landslips",
           "ItemName": null,
           "Category": "Closed areas",
@@ -3497,7 +3587,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-02T10:17:52",
+      "LastReviewed": "2025-09-16T11:31:53",
       "EffectiveFrom": "2025-08-01T10:13:27",
       "Categories": [
         "Closed parks"
@@ -3507,7 +3597,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12391401",
           "EffectiveFrom": "2025-08-01T10:13:27",
           "EffectiveTo": "2026-03-31T10:20:38",
-          "LastReviewed": "2025-09-02T10:17:52",
+          "LastReviewed": "2025-09-16T11:31:53",
           "Title": "Corrie Island Nature Reserve closed for shorebird nesting season",
           "ItemName": null,
           "Category": "Closed parks",
@@ -3526,7 +3616,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-12T11:14:03",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Closed areas",
@@ -3537,7 +3627,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11970801",
           "EffectiveFrom": "2025-06-04T08:33:18",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-08T11:42:25",
+          "LastReviewed": "2025-09-15T18:12:27",
           "Title": "Safety Alert - Myrtle Scrub Scenic Drive closed",
           "ItemName": null,
           "Category": "Closed areas",
@@ -3559,7 +3649,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -3607,7 +3697,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -3617,7 +3707,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -3842,35 +3932,6 @@
     },
     {
       "Park": {
-        "Name": "Dharawal National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/dharawal-national-park",
-        "Id": "d98509c9-c03a-46bb-b64a-69855fa519e7",
-        "ItemName": "Dharawal-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-11T09:45:05",
-      "EffectiveFrom": "2025-09-11T09:35:04",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12481201",
-          "EffectiveFrom": "2025-09-11T09:35:04",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T09:45:05",
-          "Title": "Jingga Walking Track: Closed due to heavy rainfall",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Jingga Walking Track&#xA0;in Dharawal National Park is closed due to heavy rainfall and increased risk of rockfall and landslide from Thursday 11 September&#xA0;2025 until at least Monday 15 September 2025.</p>\n\n<p>The walking track will be re-opened after assessing it is safe for public use again.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office on (02) 4224 4188 or npws.illawarrahighlands@environment.nsw.gov.au</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Dharug National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/dharug-national-park",
         "Id": "28a33206-be04-4df4-8c3f-1238d6507d7f",
@@ -3949,7 +4010,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-12T16:38:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2024-01-17T15:42:49",
       "Categories": [
         "Closed areas",
@@ -3982,7 +4043,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -4052,7 +4113,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-08-22T10:39:48",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2023-07-25T07:14:57",
       "Categories": [
         "Closed areas",
@@ -4097,7 +4158,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -4174,7 +4235,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-29T10:46:59",
+      "LastReviewed": "2025-09-16T08:42:05",
       "EffectiveFrom": "2015-10-21T11:57:17",
       "Categories": [
         "Other planned events",
@@ -4196,7 +4257,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/2588321",
           "EffectiveFrom": "2015-10-21T11:57:17",
           "EffectiveTo": "2027-05-28T14:58:29",
-          "LastReviewed": "2025-08-15T09:04:16",
+          "LastReviewed": "2025-09-16T08:42:05",
           "Title": "Bingi Dreaming track - Closed and open coastal lakes and lagoons",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -4674,7 +4735,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-15T13:42:12",
+      "LastReviewed": "2025-09-16T10:17:47",
       "EffectiveFrom": "2022-02-14T14:02:54",
       "Categories": [
         "Other planned events"
@@ -4684,7 +4745,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/8256522",
           "EffectiveFrom": "2022-02-14T14:02:54",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-15T13:42:12",
+          "LastReviewed": "2025-09-16T10:17:47",
           "Title": "Notice of ongoing 1080 baiting",
           "ItemName": null,
           "Category": "Other planned events",
@@ -4732,7 +4793,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:51:13",
+      "LastReviewed": "2025-09-16T08:41:49",
       "EffectiveFrom": "2025-07-11T14:04:12",
       "Categories": [
         "Closed parks"
@@ -4742,7 +4803,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12204601",
           "EffectiveFrom": "2025-07-11T14:04:12",
           "EffectiveTo": "2025-09-26T23:59:59",
-          "LastReviewed": "2025-09-08T08:51:13",
+          "LastReviewed": "2025-09-16T08:41:49",
           "Title": "Gulguer NR closed for ground pest control operations - excluding weekends and public holidays and does not affect day use",
           "ItemName": null,
           "Category": "Closed parks",
@@ -4802,7 +4863,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-22T10:39:48",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-03-21T14:16:15",
       "Categories": [
         "Closed areas",
@@ -4836,7 +4897,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -5231,7 +5292,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 5,
+      "ClosedAreasCount": 4,
       "LastReviewed": "2025-09-11T16:09:31",
       "EffectiveFrom": "2022-12-09T09:15:16",
       "Categories": [
@@ -5259,17 +5320,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>The Mount Kembla Ring Track is closed due to heavy rainfall and increased risk of rockfall and landslide from Thursday 11 September&#xA0;2025 until at least Monday 15 September 2025.</p>\n\n<p>The walking track will be re-opened after assessing it is safe for public use again.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office on (02) 4224&#xA0;4188 or npws.illawarrahighlands@environment.nsw.gov.au</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12480301",
-          "EffectiveFrom": "2025-09-11T08:36:49",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T08:59:23",
-          "Title": "Mount Keira Ring Track: Closed due to heavy rainfall",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Mount Keira Ring Track in Illawarra Escarpment State Conservation Area is closed due to heavy rainfall and increased risk of rockfall and landslide from Thursday&#xA0;11 September&#xA0;2025 until at least Monday 15 September 2025.&#xA0;</p>\n\n<p>The walking track will be re-opened after assessing it is safe for public use again.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office on (02) 4224 4 4188 or npws.illawarrahighlands@environment.nsw.gov.au</p>",
           "IsKml": false
         },
         {
@@ -5595,7 +5645,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -5605,7 +5655,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -6196,14 +6246,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-15T11:17:30",
+      "LastReviewed": "2025-09-16T15:15:23",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
+        "Closed areas",
         "Safety alerts",
-        "Other planned events",
-        "Closed areas"
+        "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/11893701",
+          "EffectiveFrom": "2025-09-08T07:00:00",
+          "EffectiveTo": "2025-11-28T19:00:00",
+          "LastReviewed": "2025-09-16T15:15:23",
+          "Title": "Part park closure for feral animal control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service will be&#xA0;conducting aerial control operations in some parts of this park. Areas will be closed from 5:45 am, Monday 10 November to 8:15 pm, Friday 28 November 2025.&#xA0;</p>\n\n<p>The operation will not run on weekends from 8:15 pm on Friday&#xA0;to 5:45 am on Monday. Closure notices will be placed at relevant access points. Do not enter the closed areas. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\n\n<p>The following areas will be closed:</p>\n\n<ul>\n\t<li><strong>The sign posted section of the AAWT from Guthega to Charlottes Pass along&#xA0;Illawong track. [NB: not on official AAWT Maps]</strong></li>\n\t<li><strong>Rennix walk</strong></li>\n\t<li><strong>Rainbow Lake walk</strong></li>\n\t<li><strong>Porcupine walk</strong></li>\n\t<li><strong>Waterfall walk</strong></li>\n\t<li><strong>Illawong walk</strong></li>\n\t<li><strong>Snowies Alpine Walk: Guthega to Charlotte Pass walk</strong></li>\n\t<li>\n\t<p><strong>Snowies Alpine Walk: Charlotte Pass Village to Perisher Valley walk</strong></p>\n\t</li>\n\t<li>\n\t<p><strong>Snowies Alpine Walk: Perisher Valley to Bullocks Flat walk</strong></p>\n\t</li>\n\t<li><strong>Hannels Spur track</strong></li>\n\t<li><strong>The Main Range - Dicky Cooper Bogong south along Rolling Grounds (down to ~1300m elevation to West, ~1600m elevation to N, E) to Wilkinson Valley</strong></li>\n\t<li><strong>Ramshead Range - Merritts Creek east to Sawpit Creek</strong></li>\n\t<li><strong>Part of Perisher Range including Mount Guthrie (Snowy River east to Mount Paralyser)</strong></li>\n\t<li><strong>The area east of Guthega Link Road, eastwards to Diggers Creek</strong></li>\n\t<li>\n\t<p><strong>The area east from Diggers Creek (Guthega Road) and north of Kosciuszko Road towards Jindabyne Pumping Station</strong></p>\n\t</li>\n\t<li>\n\t<p><strong>The area west of Thredbo Resort, Dead Horse Gap walk and Kosciuszko walk.</strong></p>\n\t</li>\n\t<li><strong>Cootapatamba Hut</strong></li>\n\t<li>\n\t<p><strong>Pilot Wilderness Area (excepting the Australian Alps Walking Track route from Dead Horse Gap to Cowombat Flat)</strong></p>\n\t</li>\n\t<li>\n\t<p><strong>Moonbah, Grosses Plain and Ingebyra areas</strong></p>\n\t</li>\n\t<li>\n\t<p><strong>Teddys Hut</strong></p>\n\t</li>\n\t<li>\n\t<p><strong>The Ingeegoodbee and Nine Mile Trail sections of the Pilot Wilderness mountain bike ride (Alpine Way to Barry Way)</strong></p>\n\t</li>\n\t<li><strong>Tin Mine trail</strong></li>\n\t<li>\n\t<p><strong>The area east of Whites River corridor and west of the Brassy Mountains.</strong></p>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>The following areas will remain open:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>\n\t<p>Resort areas</p>\n\t</li>\n\t<li>\n\t<p>Public road corridors</p>\n\t</li>\n\t<li>\n\t<p>Walking tracks;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>The official AAWT through the area (apart from the unofficial section noted above in the closed area) remains open.</p>\n\t</li>\n\t<li>\n\t<p>Kosciuszko walk</p>\n\t</li>\n\t<li>\n\t<p>Summit walk</p>\n\t</li>\n\t<li>\n\t<p>Summit trail</p>\n\t</li>\n\t<li>\n\t<p>Main Range walk</p>\n\t</li>\n\t<li>\n\t<p>Mount Stilwell walk</p>\n\t</li>\n\t<li>\n\t<p>Pallaibo walk</p>\n\t</li>\n\t<li>\n\t<p>Dead Horse Gap walk</p>\n\t</li>\n\t<li>\n\t<p>Thredbo River walk</p>\n\t</li>\n\t<li>\n\t<p>Thredbo Valley track</p>\n\t</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>For more information, <a href=\"mailto:npws.southernrangesbranch@environment.nsw.gov.au\">email</a> the local NPWS office or call 13000 PARKS (1300 072 757).</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12488201",
           "EffectiveFrom": "2025-09-15T09:46:08",
@@ -6246,17 +6307,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>The following roads in Kosciuszko National Park&#xA0;will be closed for winter from 6 June 2025 and scheduled to re-open as below:</p>\n\n<p><strong>Re-opening from 2pm&#xA0;4 October 2025:&#xA0;</strong></p>\n\n<ul>\n\t<li>KNP5 (Khancoban to Cabramurra)</li>\n\t<li>Kings Cross Road (from Selwyn Resort to Cabramurra - unsealed section)</li>\n\t<li>Long Plain Road</li>\n\t<li>Port Phillip Trail</li>\n\t<li>Olsens Lookout / Geehi Dam Road</li>\n</ul>\n\n<p><strong>Re-opening from 6 October 2025:</strong></p>\n\n<ul>\n\t<li>Grassy Flat Trail</li>\n\t<li>Murray Gates Trail</li>\n\t<li>Behrs Flat trail (including Behrs Flat campground and Old Geehi campground)</li>\n\t<li>Geehi Walls trail</li>\n\t<li>Major Clews trail</li>\n</ul>\n\n<p><strong>Scheduled re-opening to be advised based on snow conditions:</strong></p>\n\n<ul>\n\t<li>Kosciuszko Road (Perisher to Charlotte Pass)</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Other current road conditions can be found on the <a href=\"https://www.livetraffic.com/\">RMS Live Traffic website</a>. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.<strong> </strong>For more information, please contact the NPWS Snowy Region Visitors Centre on 02&#xA0;6450 5600 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11893701",
-          "EffectiveFrom": "2025-09-08T07:00:00",
-          "EffectiveTo": "2025-11-28T19:00:00",
-          "LastReviewed": "2025-09-08T15:02:26",
-          "Title": "Part park closure for feral animal control operation",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service will be&#xA0;conducting aerial control operations in some parts of this park. Areas will be closed from 5:45 am, Monday 10 November to 8:15 pm, Friday 28 November 2025.&#xA0;</p>\n\n<p>The operation will not run on weekends from 8:15 pm on Friday&#xA0;to 5:45 am on Monday. Closure notices will be placed at relevant access points. Do not enter the closed areas. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\n\n<p>The following areas will be closed:</p>\n\n<ul>\n\t<li>The alternative section of the AAWT from Guthega to Charlottes Pass along&#xA0;Illawong track.</li>\n\t<li>Rennix walk</li>\n\t<li>Rainbow Lake walk</li>\n\t<li>Porcupine walk</li>\n\t<li>Waterfall walk</li>\n\t<li>Illawong walk</li>\n\t<li>Guthega to Charlotte Pass walk</li>\n\t<li>Charlotte Pass Village to Perisher Valley walk</li>\n\t<li>Perisher Valley to Bullocks Flat walk</li>\n\t<li>Hannels Spur track</li>\n\t<li>The Main Range - Dicky Cooper Bogong south along Rolling Grounds (down to ~1300m elevation to West, ~1600m elevation to N, E) to Wilkinson Valley</li>\n\t<li>Ramshead Range - Merritts Creek east to Sawpit Creek</li>\n\t<li>Part of Perisher Range including Mount Guthrie (Snowy River east to Mount Paralyser)</li>\n\t<li>The area east of Guthega Link Road, eastwards to Diggers Creek</li>\n\t<li>The area east from Diggers Creek (Guthega Road) and north of Kosciuszko Road eastwards towards Jindabyne Pumping Station</li>\n\t<li>The area west of Thredbo Resort, Dead Horse Gap walk and Kosciuszko walk, bounded by the Alpine Way to the south and down to approximately 1300m elevation in the west to north-west.</li>\n\t<li>Cootapatamba Hut</li>\n\t<li>Pilot Wilderness Area, between Rileys Track and Big Boggy in the north, and Murray River and Ingeegoodbee in the south.</li>\n\t<li>Teddy&#x2019;s Hut</li>\n\t<li>Tin Mine trail</li>\n\t<li>The area south of Mount Jagungal and west of the Brassy Mountains.</li>\n</ul>\n\n<p>The following tracks in this area will remain open during the operation:</p>\n\n<ul>\n\t<li>The official AAWT through the area (apart from the unofficial section noted above in the closed area) remains open.</li>\n\t<li>Kosciuszko walk</li>\n\t<li>Summit walk</li>\n\t<li>Summit trail</li>\n\t<li>Main Range walk</li>\n\t<li>Mount Stilwell walk</li>\n\t<li>Pallaibo walk</li>\n\t<li>Dead Horse Gap walk</li>\n\t<li>Thredbo River walk</li>\n\t<li>Thredbo Valley track</li>\n</ul>\n\n<p>For more information, <a href=\"mailto:npws.southernrangesbranch@environment.nsw.gov.au\">email</a> the local NPWS office or call 13000 PARKS (1300 072 757).</p>",
           "IsKml": false
         },
         {
@@ -6782,35 +6832,6 @@
     },
     {
       "Park": {
-        "Name": "Limeburners Creek National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/limeburners-creek-national-park",
-        "Id": "f7e5b82c-a6d6-4a32-a2cf-ce924e594e77",
-        "ItemName": "Limeburners-Creek-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-04T12:26:39",
-      "EffectiveFrom": "2025-08-18T09:09:15",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12424701",
-          "EffectiveFrom": "2025-08-18T09:09:15",
-          "EffectiveTo": "2025-09-16T09:11:12",
-          "LastReviewed": "2025-09-04T12:26:39",
-          "Title": "Point Plomer Campground CLOSED for maintenance works",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Point Plomer Campground is CLOSED for maintenance/drainage works from 18th August to 16th September 2025.</p>\n\n<p>Day use areas remain OPEN.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Lion Island Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/lion-island-nature-reserve",
         "Id": "3b5d7323-6f0c-4daf-8cb4-de710949f3c8",
@@ -6963,24 +6984,13 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 1,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2025-09-12T07:19:40",
       "EffectiveFrom": "2019-06-18T09:18:12",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12480501",
-          "EffectiveFrom": "2025-09-11T09:07:40",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-09-11T09:10:36",
-          "Title": "Clover Hill Trail: Closed due to heavy rainfall",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Clover Hill Trail in Macquarie Pass National Park is closed due to heavy rainfall and increased risk of rockfall and landslide from Thursday 11 September 2025 until at least Monday 15 September 2025.</p>\n\n<p>The walking track will be re-opened after assessing it is safe for public use again.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office on (02) 4224 4188 or npws.illawarrahighlands@environment.nsw.gov.au</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/9324401",
           "EffectiveFrom": "2023-02-10T21:21:19",
@@ -7900,7 +7910,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -7910,7 +7920,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -7929,7 +7939,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -7939,7 +7949,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -7958,7 +7968,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-15T13:11:38",
+      "LastReviewed": "2025-09-16T11:39:46",
       "EffectiveFrom": "2025-01-15T08:51:07",
       "Categories": [
         "Other planned events",
@@ -7991,7 +8001,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11814601",
           "EffectiveFrom": "2025-04-02T16:09:28",
           "EffectiveTo": "2025-10-01T16:10:11",
-          "LastReviewed": "2025-08-15T12:48:09",
+          "LastReviewed": "2025-09-16T11:39:46",
           "Title": "North Chowan Road closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -8009,8 +8019,8 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 17,
-      "LastReviewed": "2025-09-15T08:39:48",
+      "ClosedAreasCount": 7,
+      "LastReviewed": "2025-09-16T15:15:35",
       "EffectiveFrom": "2024-04-16T10:35:17",
       "Categories": [
         "Closed areas",
@@ -8019,14 +8029,14 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12456601",
-          "EffectiveFrom": "2025-09-06T10:00:00",
-          "EffectiveTo": "2025-09-15T23:59:59",
-          "LastReviewed": "2025-09-11T10:04:43",
-          "Title": "Areas closed for hazard reduction burning",
+          "ID": "npws-fis@id.ngcomms.net/eme/12493501",
+          "EffectiveFrom": "2025-09-05T00:00:00",
+          "EffectiveTo": "2025-09-30T23:59:59",
+          "LastReviewed": "2025-09-16T15:15:35",
+          "Title": "Area closed due to maintenance requirements",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some parts of this park are closed for hazard reduction burning from Saturday 6 September to Monday 15 September 2025<strong>.</strong> The closed areas are:</p>\n\n<ul>\n\t<li>Coryah Gap picnic area</li>\n\t<li>Euglah Rock lookout</li>\n\t<li>Euglah Rock walking track</li>\n\t<li>Green Camp</li>\n\t<li>Kaputar Plateau walk (Rocky Plateau fire trail)</li>\n\t<li>Lairds lookout</li>\n\t<li>Mount Coryah walking track</li>\n\t<li>Rangers lookout</li>\n\t<li>Scutts Hut</li>\n\t<li>Scutts Hut and Kurrawonga Falls walk</li>\n\t<li>Scutts Hut trail</li>\n\t<li>Yulludunida walking track</li>\n</ul>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. This burn is called Scutts West HR Burn. For more information, contact the local NPWS Barwon area&#xA0;office (02) 6792 7300&#xA0;or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "DescriptionHtml": "<p>Green Camp and Yulludunida walking track are closed from Friday 5 September to Tuesday 30 September 2025 due to maintenance requirements.</p>\n\n<p><a href=\"http://click.ngcomms.net/nly9nm4ofngn/a2twmxy4rx04j/qlw45y4obppc\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Narrabri office on 02 6792 7300.</p>",
           "IsKml": false
         },
         {
@@ -8107,7 +8117,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -8117,7 +8127,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -8194,7 +8204,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -8204,7 +8214,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -8663,15 +8673,26 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-15T10:54:05",
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2025-09-16T15:55:15",
       "EffectiveFrom": "2025-02-13T09:55:44",
       "Categories": [
+        "Closed areas",
         "Safety alerts",
-        "Other planned events",
-        "Closed areas"
+        "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12494001",
+          "EffectiveFrom": "2025-07-10T15:50:51",
+          "EffectiveTo": "2025-11-19T15:52:56",
+          "LastReviewed": "2025-09-16T15:55:15",
+          "Title": "Depot Beach Rainforest Walk Closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Walking Track is closed due to storm damage</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12488701",
           "EffectiveFrom": "2025-09-15T10:46:17",
@@ -8908,25 +8929,25 @@
         "Id": "854384a3-81e7-402f-9c9d-18e1b954b28d",
         "ItemName": "Mutawintji-National-Park"
       },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 11,
-      "LastReviewed": "2025-09-15T12:05:36",
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-16T11:39:55",
       "EffectiveFrom": "2025-04-04T18:00:00",
       "Categories": [
-        "Closed parks",
+        "Safety alerts",
         "Other planned events"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12481301",
-          "EffectiveFrom": "2025-09-11T09:53:17",
+          "ID": "npws-fis@id.ngcomms.net/eme/12492601",
+          "EffectiveFrom": "2025-09-16T11:35:21",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-15T12:05:36",
-          "Title": "Mutawintji National Park remains closed due to rain.",
+          "LastReviewed": "2025-09-16T11:39:55",
+          "Title": "Mutawintji National Park is open with access ONLY via the Silver City Highway.",
           "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Mutawintji National Park remains closed due to rain..&#xA0; This closure will be updated when conditions change.&#xA0; The road authority will review&#xA0;again Tuesday 16 September. For further information please contact the Broken Hill National Parks office on 08 8084 2880.</p>",
+          "Category": "Safety alerts",
+          "DescriptionHtml": "<p>Mutawintji National Park is OPEN with access only via The Silver City Highway.&#xA0; The road is open with CAUTION.&#xA0; Please&#xA0; drive for the conditions.&#xA0; For further information please contact the Broken Hill National Park office on 08 8084 2880.</p>",
           "IsKml": false
         },
         {
@@ -9207,14 +9228,26 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-10T10:15:22",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2023-07-24T14:39:59",
       "Categories": [
+        "Hazard reduction burns",
         "Safety alerts",
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12487701",
+          "EffectiveFrom": "2025-09-16T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-15T10:17:17",
+          "Title": "Brineville HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a fire in this park called Brineville HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12464001",
           "EffectiveFrom": "2025-09-05T14:08:25",
@@ -9241,7 +9274,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9271,7 +9304,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-26T14:11:38",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2024-03-19T21:25:08",
       "Categories": [
         "Closed areas",
@@ -9293,7 +9326,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9312,13 +9345,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2025-09-10T11:37:58",
+      "LastReviewed": "2025-09-16T16:31:42",
       "EffectiveFrom": "2024-07-01T08:27:12",
       "Categories": [
+        "Hazard reduction burns",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12488401",
+          "EffectiveFrom": "2025-09-16T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-16T16:31:42",
+          "Title": "Sphinx Rock HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 16/09/2025. The fire is called&#xA0;Sphinx Rock HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12478201",
           "EffectiveFrom": "2025-09-15T00:00:00",
@@ -9492,7 +9537,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -9502,7 +9547,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9521,7 +9566,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-15T08:36:48",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -9542,7 +9587,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9588,12 +9633,13 @@
         "ItemName": "Oxley-Wild-Rivers-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-15T15:57:03",
+      "PartClosed": true,
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2025-09-16T09:16:25",
       "EffectiveFrom": "2025-09-15T07:00:00",
       "Categories": [
         "Hazard reduction burns",
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
@@ -9601,11 +9647,22 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12482401",
           "EffectiveFrom": "2025-09-15T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-15T15:57:03",
+          "LastReviewed": "2025-09-16T09:16:25",
           "Title": "Cedar Creek Stage 1 HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 15/09/2025. The fire is called&#xA0;Cedar Creek Stage 1 HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12485501",
+          "EffectiveFrom": "2025-09-15T17:24:12",
+          "EffectiveTo": "2025-09-18T17:24:42",
+          "LastReviewed": "2025-09-15T07:49:45",
+          "Title": "Area closed for hazard reduction burning",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Cedar Creek precinct&#xA0;of Oxley Wild Rivers National Park is closed for hazard reduction burning from Monday 15&#xA0;September&#xA0;to Wednesday 17&#xA0;September 2025<strong>.</strong> The closed area&#xA0;means that there is no access to the Green Gully Track.</p>\n\n<p>Vehicles will still be able to travel through the national park along Racecourse Trail.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. This burn is called Cedar Creek Stage 1 Hazard Reduction. For more information, contact the Armidale&#xA0;NPWS office on Tel. 6738 9100 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
           "IsKml": false
         },
         {
@@ -9689,7 +9746,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-15T12:56:08",
+      "LastReviewed": "2025-09-16T15:40:24",
       "EffectiveFrom": "2014-09-25T10:00:00",
       "Categories": [
         "Closed areas",
@@ -9697,14 +9754,14 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12489501",
-          "EffectiveFrom": "2025-09-15T12:52:15",
+          "ID": "npws-fis@id.ngcomms.net/eme/12493601",
+          "EffectiveFrom": "2025-09-16T15:21:45",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-15T12:56:08",
-          "Title": "Coach and Horses campground remains closed due to rain.",
+          "LastReviewed": "2025-09-16T15:40:24",
+          "Title": "Peery Lake Day Use Area is currently closed due to rain.",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Coach and Horses campground remains closed due to rain and the Wilcannia to Tilpa Road is closed on the east side preventing access to the campground.&#xA0; This closure will be updated as conditions change.&#xA0; NB. The Peery Day Use Area is accessible to visitors.&#xA0;&#xA0;For further information please contact the Broken Hill national Park office on 08 8084 2880.</p>",
+          "DescriptionHtml": "<p>Peery Lake Day Use Area is currently closed due to rain.&#xA0; This closure will be updated when conditions change.&#xA0; &#xA0;The Coach and Horse campground is now open as the access road from Wilcannia to Tilpa is&#xA0;open with caution to 2WD.&#xA0;&#xA0;<br/>\nFor further information please contact the Broken Hill National Parks office on 08 8084 2880.</p>",
           "IsKml": false
         },
         {
@@ -9828,7 +9885,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -9838,7 +9895,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9973,7 +10030,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:19:39",
+      "LastReviewed": "2025-09-16T07:47:22",
       "EffectiveFrom": "2025-06-24T16:19:04",
       "Categories": [
         "Other planned events",
@@ -9984,7 +10041,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12406001",
           "EffectiveFrom": "2025-08-11T08:08:52",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-08T08:19:39",
+          "LastReviewed": "2025-09-16T07:47:22",
           "Title": "Queens Lake road maintenance works",
           "ItemName": null,
           "Category": "Other planned events",
@@ -10014,7 +10071,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:19:39",
+      "LastReviewed": "2025-09-16T07:47:22",
       "EffectiveFrom": "2025-08-11T08:08:52",
       "Categories": [
         "Other planned events"
@@ -10024,7 +10081,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12406001",
           "EffectiveFrom": "2025-08-11T08:08:52",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-08T08:19:39",
+          "LastReviewed": "2025-09-16T07:47:22",
           "Title": "Queens Lake road maintenance works",
           "ItemName": null,
           "Category": "Other planned events",
@@ -10083,7 +10140,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -10093,7 +10150,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -10141,7 +10198,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-15T08:21:39",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-01-05T15:39:03",
       "Categories": [
         "Other planned events",
@@ -10152,7 +10209,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -10251,7 +10308,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 31,
-      "LastReviewed": "2025-09-15T08:55:27",
+      "LastReviewed": "2025-09-16T13:51:57",
       "EffectiveFrom": "2022-07-12T16:30:18",
       "Categories": [
         "Closed areas",
@@ -10261,12 +10318,12 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12479701",
           "EffectiveFrom": "2025-09-10T18:18:00",
-          "EffectiveTo": "2025-09-16T18:19:00",
-          "LastReviewed": "2025-09-10T18:20:07",
+          "EffectiveTo": "2025-09-19T23:59:00",
+          "LastReviewed": "2025-09-16T07:01:23",
           "Title": "Singletrack Mountain Bike Trails closed to prevent trail damage",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>All single-track mountain bike trails in Royal National Park are closed until Tuesday 16th September&#xA0;2025 due to wet and muddy trail conditions.</p>\n\n<p>This closure is to prevent damage to recently upgraded trails. The closure will be reassessed on the 16th September&#xA0;and may be extended if trail conditions remain wet.</p>\n\n<p>Riding on fire management (4WD) tracks is still permitted, but please take care as they may be wet and slippery.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact Royal National Park Visitor Centre on 02 9542 0648 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>All single-track mountain bike trails in Royal National Park are closed until Saturday 20th September&#xA0;2025 due to wet and muddy trail conditions.</p>\n\n<p>This closure is to prevent damage to recently upgraded trails.&#xA0;</p>\n\n<p>Riding on fire management (4WD) tracks is still permitted, but please take care as they may be wet and slippery.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact Royal National Park Visitor Centre on 02 9542 0648 or visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety\">NSW National Parks safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -10284,7 +10341,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12227401",
           "EffectiveFrom": "2025-08-30T19:01:00",
           "EffectiveTo": "2025-10-17T18:00:00",
-          "LastReviewed": "2025-09-08T16:46:48",
+          "LastReviewed": "2025-09-16T13:51:48",
           "Title": "Curra Moors fire trail weekday closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -10295,7 +10352,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12227301",
           "EffectiveFrom": "2025-08-30T19:01:00",
           "EffectiveTo": "2025-10-03T18:00:00",
-          "LastReviewed": "2025-09-08T17:11:27",
+          "LastReviewed": "2025-09-16T13:51:57",
           "Title": "Curra Moors loop track weekday closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -10427,7 +10484,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-08T08:51:53",
+      "LastReviewed": "2025-09-16T08:42:37",
       "EffectiveFrom": "2022-12-30T11:19:43",
       "Categories": [
         "Closed areas"
@@ -10437,7 +10494,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12193801",
           "EffectiveFrom": "2025-07-09T12:15:33",
           "EffectiveTo": "2025-09-26T23:59:59",
-          "LastReviewed": "2025-09-08T08:51:53",
+          "LastReviewed": "2025-09-16T08:42:37",
           "Title": "Closed for ground pest control operations",
           "ItemName": null,
           "Category": "Closed areas",
@@ -10496,7 +10553,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -10506,7 +10563,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -10583,7 +10640,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-15T15:44:13",
+      "LastReviewed": "2025-09-16T14:44:05",
       "EffectiveFrom": "2025-08-08T15:26:18",
       "Categories": [
         "Hazard reduction burns",
@@ -10594,7 +10651,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12481901",
           "EffectiveFrom": "2025-09-12T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-15T15:44:13",
+          "LastReviewed": "2025-09-16T14:44:05",
           "Title": "Southern HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -11000,7 +11057,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-25T10:39:31",
+      "LastReviewed": "2025-09-16T10:17:47",
       "EffectiveFrom": "2022-02-14T14:02:54",
       "Categories": [
         "Other planned events",
@@ -11011,7 +11068,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/8256522",
           "EffectiveFrom": "2022-02-14T14:02:54",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-15T13:42:12",
+          "LastReviewed": "2025-09-16T10:17:47",
           "Title": "Notice of ongoing 1080 baiting",
           "ItemName": null,
           "Category": "Other planned events",
@@ -11041,7 +11098,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-15T13:42:12",
+      "LastReviewed": "2025-09-16T10:17:47",
       "EffectiveFrom": "2022-02-14T14:02:54",
       "Categories": [
         "Other planned events"
@@ -11051,7 +11108,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/8256522",
           "EffectiveFrom": "2022-02-14T14:02:54",
           "EffectiveTo": null,
-          "LastReviewed": "2025-08-15T13:42:12",
+          "LastReviewed": "2025-09-16T10:17:47",
           "Title": "Notice of ongoing 1080 baiting",
           "ItemName": null,
           "Category": "Other planned events",
@@ -11157,7 +11214,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -11167,7 +11224,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -11186,7 +11243,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-11T12:10:41",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Other planned events"
@@ -11196,7 +11253,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -11389,7 +11446,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-09-12T17:16:57",
+      "LastReviewed": "2025-09-16T11:31:41",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
         "Closed areas"
@@ -11410,7 +11467,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12400401",
           "EffectiveFrom": "2025-08-05T09:00:51",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-02T10:17:31",
+          "LastReviewed": "2025-09-16T11:31:41",
           "Title": "Big Rocky Trail closed due to flooding",
           "ItemName": null,
           "Category": "Closed areas",
@@ -12421,7 +12478,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-15T15:57:03",
+      "LastReviewed": "2025-09-16T09:16:25",
       "EffectiveFrom": "2025-05-07T15:03:11",
       "Categories": [
         "Hazard reduction burns",
@@ -12433,7 +12490,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12482401",
           "EffectiveFrom": "2025-09-15T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-15T15:57:03",
+          "LastReviewed": "2025-09-16T09:16:25",
           "Title": "Cedar Creek Stage 1 HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -12466,7 +12523,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -12606,7 +12663,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2025-09-15T10:51:52",
+      "LastReviewed": "2025-09-16T08:40:44",
       "EffectiveFrom": "2025-05-20T14:19:18",
       "Categories": [
         "Closed parks",
@@ -12628,7 +12685,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
           "EffectiveTo": "2025-12-08T16:00:00",
-          "LastReviewed": "2025-08-11T12:10:41",
+          "LastReviewed": "2025-09-16T08:40:44",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -12889,15 +12946,26 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-06T23:58:57",
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2025-09-16T09:03:49",
       "EffectiveFrom": "2022-11-23T14:08:54",
       "Categories": [
-        "Safety alerts",
         "Closed areas",
+        "Safety alerts",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12492001",
+          "EffectiveFrom": "2025-09-16T08:58:45",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-09-16T09:03:49",
+          "Title": "Section of Glow Worm Tunnel Walking Track Closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The section of Glow Worm Tunnel walking track from the Glow Worm Tunnel exit to the 'four ways' intersection, Wolgan Valley will remain closed until further notice.</p>\n\n<p>Recent heavy rainfall has caused landslips along this section of Glow Worm Tunnel walking track.</p>\n\n<p>The Glow Worm Tunnel can still be accessed via the Glow Worm Tunnel carpark. Newnes Industrial Ruins and the Newnes Campgrounds can only be accessed via the Pipeline Track from Glen Davis or via&#xA0;Old Coach Road from Newnes Plateau.&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/q49p1m4p0rs5/basu6vq52driz/su44di9n5klz\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Kanangra Area Office on (02) 6336 6200.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11886801",
           "EffectiveFrom": "2025-05-02T07:00:00",
@@ -13622,7 +13690,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-04T09:32:31",
+      "LastReviewed": "2025-09-16T13:23:11",
       "EffectiveFrom": "2023-10-06T11:39:19",
       "Categories": [
         "Other planned events",
@@ -13644,7 +13712,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10168501",
           "EffectiveFrom": "2023-10-06T11:39:19",
           "EffectiveTo": null,
-          "LastReviewed": "2025-06-12T09:58:14",
+          "LastReviewed": "2025-09-16T13:23:11",
           "Title": "Yiraaldiya National Park closed during the establishment of feral predator-free area",
           "ItemName": null,
           "Category": "Closed parks",
