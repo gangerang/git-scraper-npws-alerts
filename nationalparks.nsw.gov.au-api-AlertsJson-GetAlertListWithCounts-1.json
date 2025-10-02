@@ -8,7 +8,8 @@
     "Closed areas",
     "Safety alerts",
     "Other incidents",
-    "Other planned events"
+    "Other planned events",
+    "Fires - "
   ],
   "ParkAlerts": [
     {
@@ -50,13 +51,36 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:28",
+      "LastReviewed": "2025-10-02T09:32:40",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
-        "Other planned events",
-        "Closed areas"
+        "Fire bans",
+        "Closed areas",
+        "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12537301",
+          "EffectiveFrom": "2025-10-02T09:28:52",
+          "EffectiveTo": "2026-03-31T09:30:49",
+          "LastReviewed": "2025-10-02T09:32:40",
+          "Title": "Park Fire Ban",
+          "ItemName": null,
+          "Category": "Fire bans",
+          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12373501",
+          "EffectiveFrom": "2025-07-23T10:16:35",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T09:30:34",
+          "Title": "Tavern Creek Road Closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Tavern Creek Road in Abercrombie River National&#xA0;Park is currently closed for maintenance.&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Kanangra area office at Oberon on 02 6336 6200.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12399701",
           "EffectiveFrom": "2025-08-06T14:48:29",
@@ -66,17 +90,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Abercrombie River National Park (NP), Abercrombie River State Conservation Area (SCA), Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP Mares Forest NP, and Turon NP from <strong>Monday 25th August&#xA0;&#x2013; Sunday 7th&#xA0;September 2025.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to reduce predator impacts on wildlife, especially threatened species, and to reduce the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12373501",
-          "EffectiveFrom": "2025-07-23T10:16:35",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-08-28T10:35:05",
-          "Title": "Tavern Creek Road Closure",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Tavern Creek Road in Abercrombie River National&#xA0;Park is currently closed for maintenance.&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/q2kbv24odp2n/b9y9xuq4rwikf/ss8fki4odon9\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Kanangra area office at Oberon on 02 6336 6200.</p>",
           "IsKml": false
         },
         {
@@ -102,12 +115,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:28",
+      "LastReviewed": "2025-10-02T09:32:40",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
+        "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12537301",
+          "EffectiveFrom": "2025-10-02T09:28:52",
+          "EffectiveTo": "2026-03-31T09:30:49",
+          "LastReviewed": "2025-10-02T09:32:40",
+          "Title": "Park Fire Ban",
+          "ItemName": null,
+          "Category": "Fire bans",
+          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12399701",
           "EffectiveFrom": "2025-08-06T14:48:29",
@@ -426,7 +451,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:02",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2025-08-06T08:00:00",
       "Categories": [
         "Other planned events"
@@ -436,7 +461,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -466,12 +491,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-16T08:40:44",
+      "LastReviewed": "2025-10-02T16:24:45",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
+        "Fires - Advice",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12536201",
+          "EffectiveFrom": "2025-10-01T17:09:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T16:24:45",
+          "Title": "LANKEYS CREEK RD, COALDALE",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called LANKEYS CREEK RD, COALDALE. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11944301",
           "EffectiveFrom": "2025-05-29T06:00:00",
@@ -652,7 +689,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-10-01T08:54:01",
+      "LastReviewed": "2025-10-02T08:25:05",
       "EffectiveFrom": "2017-11-09T09:59:54",
       "Categories": [
         "Other incidents",
@@ -719,7 +756,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11589301",
           "EffectiveFrom": "2024-03-19T09:11:16",
           "EffectiveTo": "2025-12-31T17:00:00",
-          "LastReviewed": "2025-09-01T09:12:53",
+          "LastReviewed": "2025-10-02T08:25:05",
           "Title": "Visitor Safety Alert: Feral Horses",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -1034,7 +1071,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-01T10:07:47",
+      "LastReviewed": "2025-10-02T08:02:54",
       "EffectiveFrom": "2025-09-14T09:56:57",
       "Categories": [
         "Closed parks"
@@ -1044,7 +1081,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12453001",
           "EffectiveFrom": "2025-09-14T09:56:57",
           "EffectiveTo": "2025-10-27T09:57:27",
-          "LastReviewed": "2025-09-01T10:07:47",
+          "LastReviewed": "2025-10-02T08:02:54",
           "Title": "Berrico Nature Reserve closed for essential landslip remediation",
           "ItemName": null,
           "Category": "Closed parks",
@@ -1203,7 +1240,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T09:11:33",
+      "LastReviewed": "2025-10-02T14:24:09",
       "EffectiveFrom": "2015-03-22T14:11:00",
       "Categories": [
         "Closed areas",
@@ -1215,11 +1252,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/8419722",
           "EffectiveFrom": "2022-04-09T13:03:17",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T09:11:33",
+          "LastReviewed": "2025-10-02T14:24:09",
           "Title": "Parts of Blue Mountains National Park closed",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Many roads, fire trails and walking tracks&#xA0;in Blue Mountains National Park are closed due to infrastructure repairs, upgrades or&#xA0;damage caused by&#xA0;wet weather including&#xA0;subsidence,&#xA0;rockfalls, landslides and fallen trees.</p>\n\n<p>The following tracks are&#xA0;<strong>closed</strong>:</p>\n\n<p><strong>Katoomba and Leura </strong>&#xA0;</p>\n\n<ul>\n\t<li>Honeymoon Bridge&#xA0;is closed due to rockfall hazards. (Visible bridge from Echo Point. Side route off&#xA0;Three&#xA0;Sisters Track and Giant Stairs.)</li>\n\t<li>Giant Stairs will be closed for repairs on Thursday 2-3 October 2025. Alternate valley access is&#xA0;via Amphitheatre Track and Furber Steps.&#xA0;&#xA0;</li>\n\t<li>Leura Cascades track (bottom section) is closed until the end of 2025 for track upgrade works. There is no access to Prince Henry Cliff walk (part of Grand Clifftop walk) between the top of Leura Cascades and the Amphitheatre junction. Short detour via Cliff Drive.</li>\n\t<li>Leura Cascades parking area and toilets are closed.&#xA0;Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information.</li>\n\t<li>Fern Bower track between Prince Henry Cliff walk and Amphitheatre track is closed due&#xA0;to&#xA0;landslides and associated repairs.&#xA0;</li>\n\t<li>Glenraphael Drive (Narrow Neck fire trail) is closed to vehicles near Cliff Drive due to a road subsidence. Walkers &amp; cyclists are permitted.</li>\n\t<li>Part of Lindeman&#xA0;Pass is&#xA0;closed due to a major landslide&#xA0;below Gladstone lookout. Roberts Pass is closed due to rockfall and&#xA0;landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is affected by&#xA0;closures at <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a>&#xA0;and between Katoomba (Explorer's Tree) to Alum Creek for aerial pest control works (25th - 27th of Nov)</li>\n</ul>\n\n<p><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</p>\n\n<ul>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to elevated boardwalk repairs. There's no access to&#xA0;Roberts Pass, Hippocrene or&#xA0;Vera Falls routes.&#xA0;</li>\n\t<li>Valley of the Waters is closed below Silvia Falls due rockfall hazards. There is no access to Roberts Pass, Hippocrene or Vera Falls.</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of&#xA0;Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Pulpit Rock Reserve, lookouts and part of the walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu\">Google maps</a>).</li>\n\t<li>Govetts descent and parts of Rodriguez Pass are closed due to rockfalls and landslides. Valley access from Blackheath is via Horse Track.</li>\n\t<li>The Six Foot Track's Bowtells Swing Bridge will be closed on Wednesday 17th September for maintenance.&#xA0;</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<p>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</p>",
+          "DescriptionHtml": "<p>Many roads, fire trails and walking tracks&#xA0;in Blue Mountains National Park are closed due to infrastructure repairs, upgrades or&#xA0;damage caused by&#xA0;wet weather including&#xA0;subsidence,&#xA0;rockfalls, landslides and fallen trees.</p>\n\n<p>The following tracks are&#xA0;<strong>closed</strong>:</p>\n\n<p><strong>Katoomba and Leura </strong>&#xA0;</p>\n\n<ul>\n\t<li>Honeymoon Bridge&#xA0;is closed due to rockfall hazards. (Visible bridge from Echo Point. Side route off&#xA0;Three&#xA0;Sisters Track and Giant Stairs.)</li>\n\t<li>Leura Cascades track (bottom section) is closed until the end of 2025 for track upgrade works. There is no access to Prince Henry Cliff walk (part of Grand Clifftop walk) between the top of Leura Cascades and the Amphitheatre junction. Short detour via Cliff Drive.</li>\n\t<li>Leura Cascades parking area and toilets are closed.&#xA0;Visit the <a href=\"https://www.bmcc.nsw.gov.au/walking-tracks\">Blue Mountains City Council website</a> for information.</li>\n\t<li>Fern Bower track between Prince Henry Cliff walk and Amphitheatre track is closed due&#xA0;to&#xA0;landslides and associated repairs.&#xA0;</li>\n\t<li>Glenraphael Drive (Narrow Neck fire trail) is closed to vehicles near Cliff Drive due to a road subsidence. Walkers &amp; cyclists are permitted.</li>\n\t<li>Part of Lindeman&#xA0;Pass is&#xA0;closed due to a major landslide&#xA0;below Gladstone lookout. Roberts Pass is closed due to rockfall and&#xA0;landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is affected by&#xA0;closures at <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a>&#xA0;and between Katoomba (Explorer's Tree) to Alum Creek for aerial pest control works (25th - 27th of Nov)</li>\n</ul>\n\n<p><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</p>\n\n<ul>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to elevated boardwalk repairs. There's no access to&#xA0;Roberts Pass, Hippocrene or&#xA0;Vera Falls routes.&#xA0;</li>\n\t<li>Valley of the Waters is closed below Silvia Falls due rockfall hazards. There is no access to Roberts Pass, Hippocrene or Vera Falls.</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of&#xA0;Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Pulpit Rock Reserve, lookouts and part of the walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu\">Google maps</a>).</li>\n\t<li>Govetts descent and parts of Rodriguez Pass are closed due to rockfalls and landslides. Valley access from Blackheath is via Horse Track.</li>\n\t<li>The Six Foot Track's Bowtells Swing Bridge will be closed on Wednesday 17th September for maintenance.&#xA0;</li>\n\t<li>Dunphys Campground and Green Gully Road closed for road upgrade Monday 13 October to Monday 22 December.</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<p>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</p>",
           "IsKml": false
         },
         {
@@ -1270,7 +1307,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12060301",
           "EffectiveFrom": "2025-07-01T13:20:27",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-01T13:21:29",
+          "LastReviewed": "2025-10-02T07:28:46",
           "Title": "Remote walking track conditions",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -1459,6 +1496,35 @@
     },
     {
       "Park": {
+        "Name": "Boomi West Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/boomi-west-nature-reserve",
+        "Id": "0bfe6e06-b946-42c8-a9df-e93752cc1216",
+        "ItemName": "Boomi-West-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-02T15:59:48",
+      "EffectiveFrom": "2025-10-02T04:17:00",
+      "Categories": [
+        "Fires - "
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12536901",
+          "EffectiveFrom": "2025-10-02T04:17:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T15:59:48",
+          "Title": "CARRIGAN RD, BOOMI",
+          "ItemName": null,
+          "Category": "Fires - ",
+          "DescriptionHtml": "<p>There is a fire in this park called CARRIGAN RD, BOOMI. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Boonoo Boonoo National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/boonoo-boonoo-national-park",
         "Id": "0600d099-011f-4bd3-904a-2e12a0d6279f",
@@ -1593,26 +1659,14 @@
         "ItemName": "Bouddi-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-28T11:10:21",
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-09-24T17:30:04",
       "EffectiveFrom": "2025-09-25T12:35:46",
       "Categories": [
-        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12523901",
-          "EffectiveFrom": "2025-09-27T10:55:48",
-          "EffectiveTo": "2025-10-01T18:00:00",
-          "LastReviewed": "2025-09-28T11:10:21",
-          "Title": "Stroms fire trail closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Stroms fire trail is currently closed until further notice,&#xA0;due to potential dangerous trees following a hazard reduction burn.</p>\n\n<p>Do not enter Stroms fire trail until further notice. Signage will be in place around the closed area.</p>\n\n<p>The area needs to be assessed and declared safe before the trail can be reopened for public access.</p>\n\n<p>The Maitland Bay and Mount Bouddi walking tracks nearby remain open for public use.</p>\n\n<p>Contact the NPWS Girrakool office for more information on (02) 4320 4200.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12516901",
           "EffectiveFrom": "2025-09-25T12:35:46",
@@ -2290,7 +2344,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:02",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2025-08-06T08:00:00",
       "Categories": [
         "Other planned events"
@@ -2300,7 +2354,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -2638,7 +2692,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-10-01T14:49:06",
+      "LastReviewed": "2025-10-02T10:43:49",
       "EffectiveFrom": "2024-10-16T13:34:48",
       "Categories": [
         "Fires - Advice",
@@ -2648,14 +2702,14 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12520201",
-          "EffectiveFrom": "2025-09-25T16:28:00",
+          "ID": "npws-fis@id.ngcomms.net/eme/12536001",
+          "EffectiveFrom": "2025-10-01T17:03:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T14:49:06",
-          "Title": "COCHRANE FIRETRAIL, CARRAI",
+          "LastReviewed": "2025-10-02T10:43:49",
+          "Title": "Landers Ridge",
           "ItemName": null,
           "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called COCHRANE FIRETRAIL, CARRAI. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>There is a fire in this park called Landers Ridge. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -2703,26 +2757,14 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T14:49:06",
+      "LastReviewed": "2025-09-25T22:51:53",
       "EffectiveFrom": "2024-10-16T13:34:48",
       "Categories": [
-        "Fires - Advice",
         "Closed parks",
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12520201",
-          "EffectiveFrom": "2025-09-25T16:28:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T14:49:06",
-          "Title": "COCHRANE FIRETRAIL, CARRAI",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called COCHRANE FIRETRAIL, CARRAI. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12520401",
           "EffectiveFrom": "2025-09-25T22:47:28",
@@ -2855,7 +2897,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-10-01T13:36:17",
+      "LastReviewed": "2025-10-02T11:21:48",
       "EffectiveFrom": "2022-09-28T15:55:55",
       "Categories": [
         "Fires - Advice",
@@ -2867,7 +2909,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12525901",
           "EffectiveFrom": "2025-09-28T15:07:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T13:36:17",
+          "LastReviewed": "2025-10-02T11:21:48",
           "Title": "Cobleys Road Fire",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -2919,7 +2961,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T13:36:17",
+      "LastReviewed": "2025-10-02T11:21:48",
       "EffectiveFrom": "2025-04-16T08:00:00",
       "Categories": [
         "Fires - Advice",
@@ -2931,7 +2973,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12525901",
           "EffectiveFrom": "2025-09-28T15:07:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T13:36:17",
+          "LastReviewed": "2025-10-02T11:21:48",
           "Title": "Cobleys Road Fire",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -3389,7 +3431,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-16T11:31:53",
+      "LastReviewed": "2025-10-01T18:05:00",
       "EffectiveFrom": "2025-08-01T10:13:27",
       "Categories": [
         "Closed parks"
@@ -3399,7 +3441,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12391401",
           "EffectiveFrom": "2025-08-01T10:13:27",
           "EffectiveTo": "2026-03-31T10:20:38",
-          "LastReviewed": "2025-09-16T11:31:53",
+          "LastReviewed": "2025-10-01T18:05:00",
           "Title": "Corrie Island Nature Reserve closed for shorebird nesting season",
           "ItemName": null,
           "Category": "Closed parks",
@@ -3616,7 +3658,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-17T13:23:59",
+      "LastReviewed": "2025-10-02T08:51:46",
       "EffectiveFrom": "2025-10-01T06:00:00",
       "Categories": [
         "Closed parks"
@@ -3626,7 +3668,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12495701",
           "EffectiveFrom": "2025-10-01T06:00:00",
           "EffectiveTo": "2025-10-03T23:59:00",
-          "LastReviewed": "2025-09-17T13:23:59",
+          "LastReviewed": "2025-10-02T08:51:46",
           "Title": "Park closed for ground pest control operation",
           "ItemName": null,
           "Category": "Closed parks",
@@ -4104,7 +4146,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T16:39:42",
+      "LastReviewed": "2025-10-02T16:11:55",
       "EffectiveFrom": "2025-09-26T12:26:00",
       "Categories": [
         "Fires - Advice"
@@ -4114,7 +4156,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12521601",
           "EffectiveFrom": "2025-09-26T12:26:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:39:42",
+          "LastReviewed": "2025-10-02T16:11:55",
           "Title": "Scrubby Creek",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -4220,7 +4262,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-10-01T15:01:09",
+      "LastReviewed": "2025-10-02T15:15:04",
       "EffectiveFrom": "2023-07-20T15:06:23",
       "Categories": [
         "Fire bans",
@@ -4232,7 +4274,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534901",
           "EffectiveFrom": "2025-10-01T14:58:04",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T15:01:09",
+          "LastReviewed": "2025-10-02T15:15:04",
           "Title": "Park Fire Ban - Gardens of Stone State Conservation Area",
           "ItemName": null,
           "Category": "Fire bans",
@@ -4381,15 +4423,27 @@
         "ItemName": "Glenrock-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T15:44:53",
+      "LastReviewed": "2025-10-02T11:05:35",
       "EffectiveFrom": "2025-08-31T16:52:39",
       "Categories": [
+        "Closed areas",
         "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12537801",
+          "EffectiveFrom": "2025-10-02T10:50:29",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T11:05:35",
+          "Title": "City Road Easement Trail",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The City Road Easement Trail in Glenrock State Conservation Area will be closed for Maintenance from Tuesday 7th October to Friday 10th October 2025</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office 02) 4946 4100.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12464301",
           "EffectiveFrom": "2025-09-08T07:00:38",
@@ -4405,7 +4459,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12452501",
           "EffectiveFrom": "2025-08-31T16:52:39",
           "EffectiveTo": "2026-06-30T16:53:25",
-          "LastReviewed": "2025-08-31T16:57:53",
+          "LastReviewed": "2025-10-02T08:54:46",
           "Title": "Yuelarbah Walking Track - Surface damage, proceed with caution",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -4779,7 +4833,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:02",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2025-07-16T07:00:00",
       "Categories": [
         "Other planned events",
@@ -4790,7 +4844,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -4831,7 +4885,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T13:36:17",
+      "LastReviewed": "2025-10-02T11:21:48",
       "EffectiveFrom": "2025-09-28T15:07:00",
       "Categories": [
         "Fires - Advice",
@@ -4842,7 +4896,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12525901",
           "EffectiveFrom": "2025-09-28T15:07:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T13:36:17",
+          "LastReviewed": "2025-10-02T11:21:48",
           "Title": "Cobleys Road Fire",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -4872,7 +4926,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T13:36:17",
+      "LastReviewed": "2025-10-02T16:10:30",
       "EffectiveFrom": "2024-09-02T09:00:00",
       "Categories": [
         "Fires - Advice",
@@ -4881,25 +4935,25 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12525901",
-          "EffectiveFrom": "2025-09-28T15:07:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T13:36:17",
-          "Title": "Cobleys Road Fire",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Cobleys Road Fire. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/12529501",
           "EffectiveFrom": "2025-09-30T11:05:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T12:17:02",
+          "LastReviewed": "2025-10-02T16:10:30",
           "Title": "HENRY VALLEY TRAIL",
           "ItemName": null,
           "Category": "Fires - Advice",
           "DescriptionHtml": "<p>There is a fire in this park called HENRY VALLEY TRAIL. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12525901",
+          "EffectiveFrom": "2025-09-28T15:07:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T11:21:48",
+          "Title": "Cobleys Road Fire",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called Cobleys Road Fire. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -5302,24 +5356,24 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-26T15:17:54",
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2025-10-02T12:53:31",
       "EffectiveFrom": "2025-08-18T00:00:00",
       "Categories": [
+        "Closed areas",
         "Other planned events",
-        "Safety alerts",
-        "Closed areas"
+        "Safety alerts"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12520601",
-          "EffectiveFrom": "2025-09-26T08:00:00",
+          "ID": "npws-fis@id.ngcomms.net/eme/12538201",
+          "EffectiveFrom": "2025-10-02T12:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-26T15:17:54",
+          "LastReviewed": "2025-10-02T12:53:31",
           "Title": "Kembla Mountain Bike Trails closures",
           "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The following trails on the Kembla MTB network are affected by maintenance closures:</p>\n\n<p>&#xA0;</p>\n\n<p>Four Seasons and Mind the Gaps: closed until at least Monday the 29th of September 2025</p>\n\n<p>False start: closed on Monday 29th to Tuesday 30th of September 2025 inclusive.</p>\n\n<p>&#xA0;</p>\n\n<p>This wet weather closure is a management practice consistent with most mountain bike trail networks, and aims to protect the trails and riders. With a wet spring and summer expected, riders should be prepared for future closures, which may occur at short notice.</p>\n\n<p>We know that riders are excited about the new trails, but riding when wet can damage the trails, and lead to costly repairs with prolonged closures. This also impacts the surrounding park, and risks rider safety.</p>\n\n<p>People are reminded to check trail closure alerts before visiting at nswparks.info/illawarra-mtn-bike or on Trailforks, and to always follow park signage. People can also subscribe on the NPWS Kembla mountain trails webpage to receive email notifications of trail and park closures.</p>\n\n<p>Thank you for doing your part to care for the trails and for continuing to &#x2018;ride lightly&#x2019;.</p>\n\n<p>&#xA0;</p>",
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following trails on the Kembla MTB network are affected by maintenance closures:</p>\n\n<p>&#xA0;</p>\n\n<p>False Start: closed until Saturday 4 October 2025</p>\n\n<p>Mind the Gaps: closed until further notice</p>\n\n<p>&#xA0;</p>\n\n<p>This wet weather closure is a management practice consistent with most mountain bike trail networks, and aims to protect the trails and riders. With a wet spring and summer expected, riders should be prepared for future closures, which may occur at short notice.</p>\n\n<p>We know that riders are excited about the new trails, but riding when wet can damage the trails, and lead to costly repairs with prolonged closures. This also impacts the surrounding park, and risks rider safety.</p>\n\n<p>People are reminded to check trail closure alerts before visiting at nswparks.info/illawarra-mtn-bike or on Trailforks, and to always follow park signage. People can also subscribe on the NPWS Kembla mountain trails webpage to receive email notifications of trail and park closures.</p>\n\n<p>Thank you for doing your part to care for the trails and for continuing to &#x2018;ride lightly&#x2019;.</p>",
           "IsKml": false
         },
         {
@@ -5378,7 +5432,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-17T13:23:59",
+      "LastReviewed": "2025-10-02T08:51:46",
       "EffectiveFrom": "2025-10-01T06:00:00",
       "Categories": [
         "Closed parks"
@@ -5388,7 +5442,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12495701",
           "EffectiveFrom": "2025-10-01T06:00:00",
           "EffectiveTo": "2025-10-03T23:59:00",
-          "LastReviewed": "2025-09-17T13:23:59",
+          "LastReviewed": "2025-10-02T08:51:46",
           "Title": "Park closed for ground pest control operation",
           "ItemName": null,
           "Category": "Closed parks",
@@ -5436,7 +5490,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-01T11:54:40",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2025-09-29T08:00:00",
       "Categories": [
         "Other planned events"
@@ -5446,7 +5500,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -5465,13 +5519,25 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-08T08:55:28",
+      "LastReviewed": "2025-10-02T07:31:57",
       "EffectiveFrom": "2024-07-18T16:36:09",
       "Categories": [
+        "Fire bans",
         "Other planned events",
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12537001",
+          "EffectiveFrom": "2025-10-02T07:29:42",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T07:31:57",
+          "Title": "Park Fire Ban",
+          "ItemName": null,
+          "Category": "Fire bans",
+          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12399701",
           "EffectiveFrom": "2025-08-06T14:48:29",
@@ -5656,7 +5722,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:02",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2025-08-06T08:00:00",
       "Categories": [
         "Other planned events"
@@ -5666,7 +5732,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -5725,7 +5791,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-08-30T14:58:27",
+      "LastReviewed": "2025-10-02T10:02:05",
       "EffectiveFrom": "2024-02-01T10:07:42",
       "Categories": [
         "Closed parks"
@@ -5735,7 +5801,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10562301",
           "EffectiveFrom": "2024-02-01T10:07:42",
           "EffectiveTo": "2025-12-31T10:08:01",
-          "LastReviewed": "2025-08-30T14:58:27",
+          "LastReviewed": "2025-10-02T10:02:05",
           "Title": "Jubullum Flat Camp closed",
           "ItemName": null,
           "Category": "Closed parks",
@@ -5827,14 +5893,26 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:28",
+      "LastReviewed": "2025-10-02T07:31:57",
       "EffectiveFrom": "2023-09-29T16:04:49",
       "Categories": [
+        "Fire bans",
         "Other planned events",
         "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12537001",
+          "EffectiveFrom": "2025-10-02T07:29:42",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T07:31:57",
+          "Title": "Park Fire Ban",
+          "ItemName": null,
+          "Category": "Fire bans",
+          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12399701",
           "EffectiveFrom": "2025-08-06T14:48:29",
@@ -5850,7 +5928,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12060301",
           "EffectiveFrom": "2025-07-01T13:20:27",
           "EffectiveTo": null,
-          "LastReviewed": "2025-07-01T13:21:29",
+          "LastReviewed": "2025-10-02T07:28:46",
           "Title": "Remote walking track conditions",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -6065,7 +6143,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-23T16:58:35",
+      "LastReviewed": "2025-10-02T14:58:00",
       "EffectiveFrom": "2024-03-01T15:12:12",
       "Categories": [
         "Other incidents",
@@ -6087,7 +6165,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10618201",
           "EffectiveFrom": "2024-03-01T15:12:12",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-01T06:50:33",
+          "LastReviewed": "2025-10-02T14:58:00",
           "Title": "Beaches at Killalea Regional Park are unpatrolled",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -6251,7 +6329,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-17T13:23:59",
+      "LastReviewed": "2025-10-02T08:51:46",
       "EffectiveFrom": "2025-10-01T06:00:00",
       "Categories": [
         "Closed parks"
@@ -6261,7 +6339,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12495701",
           "EffectiveFrom": "2025-10-01T06:00:00",
           "EffectiveTo": "2025-10-03T23:59:00",
-          "LastReviewed": "2025-09-17T13:23:59",
+          "LastReviewed": "2025-10-02T08:51:46",
           "Title": "Park closed for ground pest control operation",
           "ItemName": null,
           "Category": "Closed parks",
@@ -7176,7 +7254,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-29T17:29:02",
+      "LastReviewed": "2025-10-02T15:52:56",
       "EffectiveFrom": "2020-05-19T16:18:59",
       "Categories": [
         "Hazard reduction burns",
@@ -7187,7 +7265,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12528101",
           "EffectiveFrom": "2025-10-01T07:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-29T17:29:02",
+          "LastReviewed": "2025-10-02T15:52:56",
           "Title": "Franklin Street HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -7692,23 +7770,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-24T13:35:57",
+      "LastReviewed": "2025-09-02T17:55:54",
       "EffectiveFrom": "2025-02-03T09:00:37",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12517001",
-          "EffectiveFrom": "2025-09-29T07:00:32",
-          "EffectiveTo": "2025-10-01T17:00:48",
-          "LastReviewed": "2025-09-24T13:35:57",
-          "Title": "Cooradilla Road Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Cooradilla Road and Smarts Road&#xA0;are closed for public access Monday 29 September to Wednesday 1 October 2025 inclusive&#xA0;for road remediation works.</p>\n\n<p><a href=\"http://click.ngcomms.net/osqdbu52f51z/amyn41i4rth5f/rkmm2e9thl8q\">Penalties apply for non-compliance</a>. For more information, contact the&#xA0;NPWS Byron Bay&#xA0;office on 02 6639 8300</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11672901",
           "EffectiveFrom": "2025-02-03T09:00:37",
@@ -8193,7 +8260,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T16:33:13",
+      "LastReviewed": "2025-10-02T14:58:40",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Fires - Advice",
@@ -8204,7 +8271,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12519901",
           "EffectiveFrom": "2025-09-25T15:47:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:33:13",
+          "LastReviewed": "2025-10-02T14:58:40",
           "Title": "Bennetts Rd, Mt Belmore SF",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -8234,7 +8301,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-09-01T07:46:56",
+      "LastReviewed": "2025-10-01T18:38:02",
       "EffectiveFrom": "2025-05-29T11:22:53",
       "Categories": [
         "Closed areas"
@@ -8244,7 +8311,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11954201",
           "EffectiveFrom": "2025-05-29T11:22:53",
           "EffectiveTo": "2025-12-31T23:00:00",
-          "LastReviewed": "2025-09-01T07:46:56",
+          "LastReviewed": "2025-10-01T18:38:02",
           "Title": "Areas closed due to severe weather damage.",
           "ItemName": null,
           "Category": "Closed areas",
@@ -8632,7 +8699,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T14:38:38",
+      "LastReviewed": "2025-10-02T12:08:42",
       "EffectiveFrom": "2025-09-15T16:30:00",
       "Categories": [
         "Hazard reduction burns",
@@ -8643,7 +8710,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12527201",
           "EffectiveFrom": "2025-09-30T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T14:38:38",
+          "LastReviewed": "2025-10-02T12:08:42",
           "Title": "Point Loop HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -8905,7 +8972,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 10,
-      "LastReviewed": "2025-10-01T14:20:25",
+      "LastReviewed": "2025-10-02T16:28:16",
       "EffectiveFrom": "2024-10-05T11:33:47",
       "Categories": [
         "Hazard reduction burns",
@@ -8918,7 +8985,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12526901",
           "EffectiveFrom": "2025-09-29T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T14:20:25",
+          "LastReviewed": "2025-10-02T16:28:16",
           "Title": "Devils Hill HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -9113,7 +9180,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-11T12:33:03",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2024-09-18T14:22:32",
       "Categories": [
         "Closed areas",
@@ -9146,7 +9213,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9176,7 +9243,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-01T11:54:40",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2025-09-29T08:00:00",
       "Categories": [
         "Other planned events"
@@ -9186,7 +9253,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9234,7 +9301,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T12:50:46",
+      "LastReviewed": "2025-10-02T10:45:41",
       "EffectiveFrom": "2023-07-24T14:39:59",
       "Categories": [
         "Fires - Advice",
@@ -9246,7 +9313,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12530801",
           "EffectiveFrom": "2025-09-30T13:58:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T12:50:46",
+          "LastReviewed": "2025-10-02T10:45:41",
           "Title": "Andersons",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -9331,35 +9398,6 @@
     },
     {
       "Park": {
-        "Name": "Ngiyungbayi Aboriginal Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/ngiyungbayi-aboriginal-area",
-        "Id": "28e8b676-4d86-449c-9de2-824ec655f8b8",
-        "ItemName": "ngiyungbayi-aboriginal-area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T14:49:06",
-      "EffectiveFrom": "2025-09-25T16:28:00",
-      "Categories": [
-        "Fires - Advice"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12520201",
-          "EffectiveFrom": "2025-09-25T16:28:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T14:49:06",
-          "Title": "COCHRANE FIRETRAIL, CARRAI",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called COCHRANE FIRETRAIL, CARRAI. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Nightcap National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nightcap-national-park",
         "Id": "7b28ac00-4838-4de9-b9bc-92f30c615e91",
@@ -9368,7 +9406,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-10-01T16:33:15",
+      "LastReviewed": "2025-10-02T15:55:00",
       "EffectiveFrom": "2024-07-01T08:27:12",
       "Categories": [
         "Hazard reduction burns",
@@ -9377,25 +9415,25 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12523301",
-          "EffectiveFrom": "2025-09-27T07:44:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:33:15",
-          "Title": "Sphinx HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 27/09/2025. The fire is called&#xA0;Sphinx HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/12510301",
           "EffectiveFrom": "2025-09-24T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:01:33",
+          "LastReviewed": "2025-10-02T15:55:00",
           "Title": "Minyon Cultural HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 24/09/2025. The fire is called&#xA0;Minyon Cultural HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12523301",
+          "EffectiveFrom": "2025-09-27T07:44:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T15:50:38",
+          "Title": "Sphinx HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 27/09/2025. The fire is called&#xA0;Sphinx HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -9577,7 +9615,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T16:32:35",
+      "LastReviewed": "2025-10-02T15:58:30",
       "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
         "Fires - Advice",
@@ -9588,7 +9626,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12527601",
           "EffectiveFrom": "2025-09-29T12:01:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:32:35",
+          "LastReviewed": "2025-10-02T15:58:30",
           "Title": "Laytons Range Rd",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -11192,7 +11230,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T16:18:55",
+      "LastReviewed": "2025-10-02T16:34:37",
       "EffectiveFrom": "2024-10-01T15:54:12",
       "Categories": [
         "Hazard reduction burns",
@@ -11203,7 +11241,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12529101",
           "EffectiveFrom": "2025-10-01T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:18:55",
+          "LastReviewed": "2025-10-02T16:34:37",
           "Title": "Mackays HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -11349,7 +11387,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-09-30T07:43:51",
+      "LastReviewed": "2025-10-01T18:04:50",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
         "Other planned events",
@@ -11404,7 +11442,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/7463822",
           "EffectiveFrom": "2021-08-02T13:52:50",
           "EffectiveTo": null,
-          "LastReviewed": "2025-06-23T07:35:07",
+          "LastReviewed": "2025-10-01T18:04:50",
           "Title": "Lighthouse Keepers' Cottages Ruins site closed",
           "ItemName": null,
           "Category": "Closed areas",
@@ -11423,7 +11461,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-30T13:08:50",
+      "LastReviewed": "2025-10-02T10:01:45",
       "EffectiveFrom": "2025-06-28T08:58:36",
       "Categories": [
         "Closed areas",
@@ -11445,7 +11483,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12051001",
           "EffectiveFrom": "2025-06-28T08:58:36",
           "EffectiveTo": "2025-10-31T08:59:07",
-          "LastReviewed": "2025-08-30T14:58:10",
+          "LastReviewed": "2025-10-02T10:01:45",
           "Title": "Murray Scrub Road - 2WD access dry weather only",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -11632,7 +11670,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-08T08:55:02",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2025-08-06T08:00:00",
       "Categories": [
         "Other planned events"
@@ -11642,7 +11680,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -11915,13 +11953,25 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T15:38:28",
+      "LastReviewed": "2025-10-02T16:02:43",
       "EffectiveFrom": "2025-02-20T15:03:16",
       "Categories": [
+        "Fires - Advice",
         "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12537701",
+          "EffectiveFrom": "2025-10-02T10:16:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T16:02:43",
+          "Title": "Ogma Fire",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called Ogma Fire. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12535601",
           "EffectiveFrom": "2025-10-01T15:34:03",
@@ -12226,18 +12276,29 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-09-01T11:10:29",
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2025-10-02T10:09:11",
       "EffectiveFrom": "2025-07-21T17:00:15",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12537501",
+          "EffectiveFrom": "2025-10-02T09:22:49",
+          "EffectiveTo": "2025-10-06T17:00:00",
+          "LastReviewed": "2025-10-02T10:09:11",
+          "Title": "Area closed for hazard reduction burning",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>A section of <strong>Werakata National Park</strong> will be <strong>closed from 7:00 AM, Friday 3 October</strong> due to <strong>hazard reduction burning</strong> operations.</p>\n\n<p><strong>Closures will remain in place</strong> during the burn and until the site has been assessed as safe.</p>\n\n<p>The closed areas are:</p>\n\n<ul>\n\t<li>Astills picnic area</li>\n\t<li>Deadmans Trail and Astills Trail</li>\n\t<li>Lomas Lane (between Ironbark Lane North and McCarthy Road)</li>\n\t<li>The area between Lomas Lane and Astills Trail</li>\n</ul>\n\n<p><strong>Important safety information:</strong></p>\n\n<ul>\n\t<li>Recently burnt areas may contain serious hazards including falling trees, unstable ground, and buried hot coals. <strong>Do not enter while closure signs are in place.</strong></li>\n\t<li>Smoke will be visible during and after the burn. Drivers should take extra care as visibility may be reduced.</li>\n\t<li><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</li>\n</ul>\n\n<p>This burn is called <strong>Wattle South HR</strong>. For more information, contact the local NPWS office, check the RFS Fires Near Me app,&#xA0;or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12206201",
           "EffectiveFrom": "2025-07-21T17:00:15",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-01T11:10:29",
+          "LastReviewed": "2025-10-02T08:30:15",
           "Title": "Werakata National Park partial closure for ground shooting for feral animal control",
           "ItemName": null,
           "Category": "Closed areas",
@@ -12285,7 +12346,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T16:19:07",
+      "LastReviewed": "2025-10-02T15:31:19",
       "EffectiveFrom": "2025-05-07T15:03:11",
       "Categories": [
         "Fires - Advice",
@@ -12297,7 +12358,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12527401",
           "EffectiveFrom": "2025-09-29T11:58:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:19:07",
+          "LastReviewed": "2025-10-02T15:31:19",
           "Title": "Bosanquets",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -12338,7 +12399,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-10-01T16:01:33",
+      "LastReviewed": "2025-10-02T15:55:00",
       "EffectiveFrom": "2025-04-29T10:48:31",
       "Categories": [
         "Hazard reduction burns",
@@ -12350,7 +12411,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12510301",
           "EffectiveFrom": "2025-09-24T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:01:33",
+          "LastReviewed": "2025-10-02T15:55:00",
           "Title": "Minyon Cultural HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -12391,7 +12452,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-09-19T09:36:02",
+      "LastReviewed": "2025-10-02T08:33:00",
       "EffectiveFrom": "2025-08-14T15:32:29",
       "Categories": [
         "Closed areas",
@@ -12402,18 +12463,18 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12419401",
           "EffectiveFrom": "2025-08-14T15:32:29",
           "EffectiveTo": "2025-12-31T15:39:23",
-          "LastReviewed": "2025-09-19T09:36:02",
+          "LastReviewed": "2025-10-02T08:33:00",
           "Title": "Willandra Visitor Facilities CLOSED",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>In the interest of visitor safety we will need to keep some areas and facilities of the park CLOSED, until repairs have been completed and those areas are deemed accessible and safe.</p>\n\n<p>Areas that will remain CLOSED to visitors include:</p>\n\n<ul>\n\t<li>Willandra Campground</li>\n\t<li>Men's Quarters Accommodation &amp; Showers</li>\n\t<li>Willandra Cottage Accommodation</li>\n\t<li>Nilla Yannagalang Billana Walking Track - parts of this track will be closed due to safety.</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Facilities available:</p>\n\n<ul>\n\t<li>Willandra Homestead - Toilet&#xA0;</li>\n\t<li>Men's Quarters - Toilets x2&#xA0;</li>\n</ul>",
+          "DescriptionHtml": "<p>In the interest of visitor safety we will need to keep some areas and facilities of the park CLOSED, until repairs have been completed and those areas are deemed accessible and safe.</p>\n\n<p>Areas that will remain CLOSED to visitors include:</p>\n\n<ul>\n\t<li>Willandra Campground</li>\n\t<li>Men's Quarters Accommodation &amp; Showers</li>\n\t<li>Willandra Cottage Accommodation</li>\n\t<li>Nilla Yannagalang Billana Walking Track - parts of this track will be closed due to safety.</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>Facilities available:</p>\n\n<ul>\n\t<li>Willandra Group Campground&#xA0;</li>\n\t<li>Willandra Homestead - Toilet&#xA0;</li>\n\t<li>Men's Quarters - Toilets x2&#xA0;</li>\n</ul>",
           "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12487801",
           "EffectiveFrom": "2025-09-30T08:00:00",
           "EffectiveTo": "2025-10-05T17:00:00",
-          "LastReviewed": "2025-09-15T09:00:07",
+          "LastReviewed": "2025-10-02T08:31:29",
           "Title": "Park CLOSED for Aerial Shooting",
           "ItemName": null,
           "Category": "Closed parks",
@@ -12658,7 +12719,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-09-01T08:34:41",
+      "LastReviewed": "2025-10-01T18:06:24",
       "EffectiveFrom": "2025-07-31T18:00:06",
       "Categories": [
         "Closed areas"
@@ -12668,7 +12729,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12392801",
           "EffectiveFrom": "2025-07-31T18:00:06",
           "EffectiveTo": "2025-10-30T18:01:07",
-          "LastReviewed": "2025-09-01T08:34:41",
+          "LastReviewed": "2025-10-01T18:06:24",
           "Title": "Woko National Park visitor areas and walking tracks temporarily closed due to flooding / severe weather",
           "ItemName": null,
           "Category": "Closed areas",
@@ -12716,19 +12777,43 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-09-24T12:26:34",
+      "LastReviewed": "2025-10-02T16:35:39",
       "EffectiveFrom": "2022-11-23T14:08:54",
       "Categories": [
+        "Fires - Advice",
+        "Fire bans",
         "Closed areas",
         "Safety alerts",
         "Other planned events"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12537201",
+          "EffectiveFrom": "2025-10-01T14:30:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T16:35:39",
+          "Title": "TONGA FIRETRAIL, MARTINDALE",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called TONGA FIRETRAIL, MARTINDALE. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12538501",
+          "EffectiveFrom": "2025-10-02T15:15:07",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T15:24:31",
+          "Title": "Part Park Fire Ban: Wollemi National Park",
+          "ItemName": null,
+          "Category": "Fire bans",
+          "DescriptionHtml": "<p>A part park fire ban is in place for Wollemi National Park, in Newnes and Deep Pass Campgrounds and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12492001",
           "EffectiveFrom": "2025-09-16T08:58:45",
           "EffectiveTo": null,
-          "LastReviewed": "2025-09-24T12:26:34",
+          "LastReviewed": "2025-10-02T09:16:51",
           "Title": "Section of Glow Worm Tunnel Walking Track Closed",
           "ItemName": null,
           "Category": "Closed areas",
@@ -12860,7 +12945,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-01T11:54:40",
+      "LastReviewed": "2025-10-02T09:33:38",
       "EffectiveFrom": "2025-09-29T08:00:00",
       "Categories": [
         "Other planned events"
@@ -12870,7 +12955,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12447401",
           "EffectiveFrom": "2025-09-29T08:00:00",
           "EffectiveTo": "2025-10-24T22:00:00",
-          "LastReviewed": "2025-09-01T11:54:40",
+          "LastReviewed": "2025-10-02T09:33:38",
           "Title": "Park closed weekdays for aerial pest control operation: Mon 13 October - Friday 24 October 2025",
           "ItemName": null,
           "Category": "Other planned events",
@@ -12916,35 +13001,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Wollumbin (Mount Warning) summit track and the summit are closed until further notice. Parking at Korrumbyn Creek and Breakfast Creek is limited.</p>\n\n<p>Korrumbyn Creek picnic area, Lyrebird walking track, and visitor facilities at Breakfast Creek remain&#xA0;open.</p>\n\n<p><a href=\"http://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For up-to-date visitor information visit the <a href=\"/visit-a-park/parks/wollumbin-national-park\">Wollumbin National Park webpage</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Wombat Creek State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wombat-creek-state-conservation-area",
-        "Id": "5b8d4715-115b-4162-9235-41aa7341dc28",
-        "ItemName": "Wombat-Creek-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T16:24:05",
-      "EffectiveFrom": "2025-09-26T11:42:00",
-      "Categories": [
-        "Fires - Advice"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12521001",
-          "EffectiveFrom": "2025-09-26T11:42:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-10-01T16:24:05",
-          "Title": "Coal Ridge",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Coal Ridge. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -13417,21 +13473,62 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-06-25T09:17:57",
+      "LastReviewed": "2025-10-02T12:21:11",
       "EffectiveFrom": "2022-06-09T14:01:54",
       "Categories": [
+        "Fire bans",
         "Closed areas"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12538101",
+          "EffectiveFrom": "2025-10-02T12:15:39",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T12:21:11",
+          "Title": "Park Fire Ban Yerranderie RP & SCA",
+          "ItemName": null,
+          "Category": "Fire bans",
+          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/8553002",
           "EffectiveFrom": "2022-06-09T14:01:54",
           "EffectiveTo": "2026-10-31T17:00:00",
-          "LastReviewed": "2025-06-25T09:17:57",
+          "LastReviewed": "2025-10-02T12:14:07",
           "Title": "Post Office Lodge closed for restoration works",
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Post Office Lodge in Yerranderie Regional Park is closed for restoration works until October 2026.</p>\n\n<p>For further information please contact the NPWS Kanangra area office on&#xA0;02 6336 6200.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Yerranderie State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yerranderie-state-conservation-area",
+        "Id": "e5ffaa5b-025b-4b28-85a3-5dc504e3bd42",
+        "ItemName": "Yerranderie-State-Conservation-Area"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-02T12:21:11",
+      "EffectiveFrom": "2025-10-02T12:15:39",
+      "Categories": [
+        "Fire bans"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12538101",
+          "EffectiveFrom": "2025-10-02T12:15:39",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-02T12:21:11",
+          "Title": "Park Fire Ban Yerranderie RP & SCA",
+          "ItemName": null,
+          "Category": "Fire bans",
+          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
           "IsKml": false
         }
       ]
