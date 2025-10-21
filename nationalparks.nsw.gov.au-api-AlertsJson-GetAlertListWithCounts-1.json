@@ -136,6 +136,35 @@
     },
     {
       "Park": {
+        "Name": "Agnes Banks Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/agnes-banks-nature-reserve",
+        "Id": "afab7d06-b6b2-4e44-994c-6aa9451c92ee",
+        "ItemName": "Agnes-Banks-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Appletree Aboriginal Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/appletree-aboriginal-area",
         "Id": "a3096bfc-a9bc-4af8-ba65-47e3d941d50e",
@@ -498,7 +527,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-20T16:28:19",
+      "LastReviewed": "2025-10-21T16:38:58",
       "EffectiveFrom": "2025-10-04T07:00:00",
       "Categories": [
         "Fires - Advice",
@@ -509,11 +538,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12574701",
           "EffectiveFrom": "2025-10-14T13:40:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T16:28:19",
-          "Title": "Barakee Trail",
+          "LastReviewed": "2025-10-21T16:38:58",
+          "Title": "BARAKEE TRAIL",
           "ItemName": null,
           "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Barakee Trail. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>There is a fire in this park called BARAKEE TRAIL. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -646,16 +675,28 @@
         "Id": "da00afe1-90ab-4dca-97e3-e6a28ce5c03c",
         "ItemName": "Barren-Grounds-Nature-Reserve"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-03T22:11:15",
+      "ClosedAreasCount": 5,
+      "LastReviewed": "2025-10-21T14:22:46",
       "EffectiveFrom": "2022-09-21T13:08:34",
       "Categories": [
+        "Closed parks",
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590201",
+          "EffectiveFrom": "2025-10-21T14:18:17",
+          "EffectiveTo": "2025-10-23T11:00:00",
+          "LastReviewed": "2025-10-21T14:22:46",
+          "Title": "Barren Grounds Nature Reserve - Closed - Extreme Fire Danger",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Barren Grounds Nature Reserve will be closed between 15:00 Tuesday the 21/10/2025 and 09:00 Thursday the 23/10/2025 due to Extreme Fire Danger. Please do not access the Nature Reserve during this time.&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12056801",
           "EffectiveFrom": "2025-06-30T16:37:04",
@@ -689,14 +730,14 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 2,
-      "LastReviewed": "2025-10-20T16:02:25",
+      "ClosedAreasCount": 10,
+      "LastReviewed": "2025-10-21T16:19:17",
       "EffectiveFrom": "2017-11-09T09:59:54",
       "Categories": [
         "Fires - Advice",
+        "Closed areas",
         "Other incidents",
         "Other planned events",
-        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
@@ -704,11 +745,22 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12543001",
           "EffectiveFrom": "2025-10-04T16:23:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T16:02:25",
+          "LastReviewed": "2025-10-21T16:19:17",
           "Title": "Rumbels",
           "ItemName": null,
           "Category": "Fires - Advice",
           "DescriptionHtml": "<p>There is a fire in this park called Rumbels. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12589101",
+          "EffectiveFrom": "2025-10-21T07:58:08",
+          "EffectiveTo": "2025-11-07T08:02:20",
+          "LastReviewed": "2025-10-21T08:04:10",
+          "Title": "Williams River precinct of Barrington Tops National Park closed due to bushfire",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some parts of this park are closed due to bushfire. The closed areas are:</p>\n\n<ul>\n\t<li>Williams River Picnic Area</li>\n\t<li>Blue Gum Loop Walking Track</li>\n\t<li>Rocky Crossing Walking Track</li>\n\t<li>Lagoon Pinch Picnic Area</li>\n</ul>\n\n<p>There is no access to the Corker Trail from the south via these trails.</p>\n\n<p>Do not enter the closed areas. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\n\n<p>This fire is called Rumbels. For more information, contact the local NPWS office or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website</a>.</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         },
         {
@@ -1038,12 +1090,23 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-10-17T10:45:48",
+      "LastReviewed": "2025-10-21T16:20:19",
       "EffectiveFrom": "2025-10-11T08:00:00",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12529801",
           "EffectiveFrom": "2025-10-11T08:00:00",
@@ -1176,14 +1239,25 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-10-16T08:59:29",
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2025-10-21T17:10:23",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592701",
+          "EffectiveFrom": "2025-10-21T16:12:40",
+          "EffectiveTo": "2025-10-22T23:59:59",
+          "LastReviewed": "2025-10-21T17:10:23",
+          "Title": "Total fire ban - all tracks and trails closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails in the following parks are closed on 22 October 2025&#xA0;due to a Total Fire Ban and elevated Fire Danger Rating:</p>\n\n<ul>\n\t<li>Berowra Valley National Park</li>\n\t<li>Berowra Valley Regional Park</li>\n\t<li>Marramarra National Park</li>\n\t<li>Wallumatta Nature Reserve</li>\n\t<li>Dalrymple Hay Nature Reserve</li>\n\t<li>Dural Nature Reserve</li>\n</ul>\n\n<p>Campgrounds in Berowra Valley National Park and Marramarra National Park are also closed, including:</p>\n\n<ul>\n\t<li>Tunks Ridge campground</li>\n\t<li>Marramarra Creek campground</li>\n\t<li>Orchard campground</li>\n\t<li>Gentleman's Halt campground</li>\n\t<li>Twin Beaches campground</li>\n</ul>\n\n<p>Picnic areas and boat ramps will remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/n7m2jy5gxt14/9uj6f0i9n6k26/q8alv69fkgh4\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney Area office on 02 8448 0400 or the NPWS contact centre on 1300 072 757 (13000 PARKS).</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings, and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3cy4vdoh4\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3fq4ruy4q\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551701",
           "EffectiveFrom": "2025-10-08T11:36:27",
@@ -1216,14 +1290,26 @@
         "ItemName": "Berowra-Valley-Regional-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-16T08:59:29",
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
+      "LastReviewed": "2025-10-21T17:10:23",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
+        "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592701",
+          "EffectiveFrom": "2025-10-21T16:12:40",
+          "EffectiveTo": "2025-10-22T23:59:59",
+          "LastReviewed": "2025-10-21T17:10:23",
+          "Title": "Total fire ban - all tracks and trails closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails in the following parks are closed on 22 October 2025&#xA0;due to a Total Fire Ban and elevated Fire Danger Rating:</p>\n\n<ul>\n\t<li>Berowra Valley National Park</li>\n\t<li>Berowra Valley Regional Park</li>\n\t<li>Marramarra National Park</li>\n\t<li>Wallumatta Nature Reserve</li>\n\t<li>Dalrymple Hay Nature Reserve</li>\n\t<li>Dural Nature Reserve</li>\n</ul>\n\n<p>Campgrounds in Berowra Valley National Park and Marramarra National Park are also closed, including:</p>\n\n<ul>\n\t<li>Tunks Ridge campground</li>\n\t<li>Marramarra Creek campground</li>\n\t<li>Orchard campground</li>\n\t<li>Gentleman's Halt campground</li>\n\t<li>Twin Beaches campground</li>\n</ul>\n\n<p>Picnic areas and boat ramps will remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/n7m2jy5gxt14/9uj6f0i9n6k26/q8alv69fkgh4\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney Area office on 02 8448 0400 or the NPWS contact centre on 1300 072 757 (13000 PARKS).</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings, and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3cy4vdoh4\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3fq4ruy4q\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/10562701",
           "EffectiveFrom": "2024-02-01T12:07:54",
@@ -1404,7 +1490,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-20T16:00:13",
+      "LastReviewed": "2025-10-21T16:26:57",
       "EffectiveFrom": "2025-10-19T15:10:00",
       "Categories": [
         "Fires - "
@@ -1414,7 +1500,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12585301",
           "EffectiveFrom": "2025-10-19T15:10:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T16:00:13",
+          "LastReviewed": "2025-10-21T16:26:57",
           "Title": "TOWN FIRETRAIL, BINGARA",
           "ItemName": null,
           "Category": "Fires - ",
@@ -2079,7 +2165,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-20T16:19:58",
+      "LastReviewed": "2025-10-21T16:10:50",
       "EffectiveFrom": "2025-10-14T14:42:00",
       "Categories": [
         "Fires - Advice"
@@ -2089,11 +2175,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12578101",
           "EffectiveFrom": "2025-10-14T14:42:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T16:19:58",
-          "Title": "COMBOYNE RD X OSULLIVANS LANE, COMBOYNE",
+          "LastReviewed": "2025-10-21T16:10:50",
+          "Title": "COMBOYNE RD, COMBOYNE",
           "ItemName": null,
           "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called COMBOYNE RD X OSULLIVANS LANE, COMBOYNE. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>There is a fire in this park called COMBOYNE RD, COMBOYNE. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -3214,13 +3300,12 @@
         "ItemName": "Carrai-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 1,
       "LastReviewed": "2025-10-20T10:27:54",
-      "EffectiveFrom": "2024-10-16T13:34:48",
+      "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
-        "Other planned events",
-        "Closed areas"
+        "Other planned events"
       ],
       "Alerts": [
         {
@@ -3232,17 +3317,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting ongoing aerial and ground baiting programs. Aerial baiting and ground baiting is scheduled from 8th June 2025 to 8th December 2025. The operation will use 1080 (sodium fluoroacetate) poison for the control of Wild dogs and Foxes.</p>\n\n<p>Aerial baiting and ground baiting will occur in:</p>\n\n<p><strong>Richmond River Area &#x2013;</strong> Captains Creek Nature Reserve (NR), Richmond Range National Park (NP), Bundjalung NP</p>\n\n<p><strong>Clarence Area </strong>- Nymboi-Binderay NP, Nymboida NP, Mount Neville NR, Banyabba NR and State Conservation Area (SCA), Ramornie NP, Bundjalung NP</p>\n\n<p><strong>Coffs Coast Area </strong>- Bagul Waajaarr NR, Bindarri NP, Cascade NP, Chaelundi NP and SCA, Cunnawarra NP, Dorrigo NP, Dunggir NP, Gumbaynggirr SCA, Jobs Mountain NR, Mount Hyland NR and SCA, New England NP, Ngambaa NR, Nymboi-Binderay NP, Serpentine NR.</p>\n\n<p><strong>Hastings Macleay</strong> <strong>Area</strong>- The Cells SCA, Cottan-Bimbang NP, Carrai NP and SCA, New England NP, Pee Dee NR, The Castles NR, Werrikimbe NP, Willi Willi NP, Mount Seaview NR.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local NPWS area office for more information.</p>\n\n<p>Hastings Macleay Area 02 6561 6700</p>\n\n<p>Coffs Coast Area 02 6652 0900</p>\n\n<p>Clarence Area 02 6641 1500</p>\n\n<p>Richmond River Area 02 6632 0000</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11402901",
-          "EffectiveFrom": "2024-10-16T13:34:48",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-05-08T08:15:55",
-          "Title": "Mary's View Lookout - Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Warrick Road will be closed&#xA0;from the 4 November 2024 or a period of time due to planned road works.&#xA0; &#xA0;Mary's View Lookout&#xA0;will be closed until the work is complete.&#xA0; If you have any questions please contact the Walcha NPWS Office on 6777 4700.&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -3255,13 +3329,12 @@
         "ItemName": "Carrai-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2025-10-20T10:27:54",
-      "EffectiveFrom": "2024-10-16T13:34:48",
+      "EffectiveFrom": "2025-05-29T06:00:00",
       "Categories": [
-        "Other planned events",
-        "Closed areas"
+        "Other planned events"
       ],
       "Alerts": [
         {
@@ -3273,17 +3346,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting ongoing aerial and ground baiting programs. Aerial baiting and ground baiting is scheduled from 8th June 2025 to 8th December 2025. The operation will use 1080 (sodium fluoroacetate) poison for the control of Wild dogs and Foxes.</p>\n\n<p>Aerial baiting and ground baiting will occur in:</p>\n\n<p><strong>Richmond River Area &#x2013;</strong> Captains Creek Nature Reserve (NR), Richmond Range National Park (NP), Bundjalung NP</p>\n\n<p><strong>Clarence Area </strong>- Nymboi-Binderay NP, Nymboida NP, Mount Neville NR, Banyabba NR and State Conservation Area (SCA), Ramornie NP, Bundjalung NP</p>\n\n<p><strong>Coffs Coast Area </strong>- Bagul Waajaarr NR, Bindarri NP, Cascade NP, Chaelundi NP and SCA, Cunnawarra NP, Dorrigo NP, Dunggir NP, Gumbaynggirr SCA, Jobs Mountain NR, Mount Hyland NR and SCA, New England NP, Ngambaa NR, Nymboi-Binderay NP, Serpentine NR.</p>\n\n<p><strong>Hastings Macleay</strong> <strong>Area</strong>- The Cells SCA, Cottan-Bimbang NP, Carrai NP and SCA, New England NP, Pee Dee NR, The Castles NR, Werrikimbe NP, Willi Willi NP, Mount Seaview NR.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local NPWS area office for more information.</p>\n\n<p>Hastings Macleay Area 02 6561 6700</p>\n\n<p>Coffs Coast Area 02 6652 0900</p>\n\n<p>Clarence Area 02 6641 1500</p>\n\n<p>Richmond River Area 02 6632 0000</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/11402901",
-          "EffectiveFrom": "2024-10-16T13:34:48",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-05-08T08:15:55",
-          "Title": "Mary's View Lookout - Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Warrick Road will be closed&#xA0;from the 4 November 2024 or a period of time due to planned road works.&#xA0; &#xA0;Mary's View Lookout&#xA0;will be closed until the work is complete.&#xA0; If you have any questions please contact the Walcha NPWS Office on 6777 4700.&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -3319,6 +3381,35 @@
     },
     {
       "Park": {
+        "Name": "Castlereagh Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/castlereagh-nature-reserve",
+        "Id": "b009284a-e1df-4919-93be-c550e8690138",
+        "ItemName": "Castlereagh-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Cattai National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/cattai-national-park",
         "Id": "5e728ef8-5282-4f3d-b2ce-2981c9642e02",
@@ -3327,12 +3418,23 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-09-30T13:46:51",
+      "LastReviewed": "2025-10-21T16:20:19",
       "EffectiveFrom": "2025-10-10T08:00:00",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12530401",
           "EffectiveFrom": "2025-10-10T08:00:00",
@@ -3414,7 +3516,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-10-20T15:40:22",
+      "LastReviewed": "2025-10-21T16:18:30",
       "EffectiveFrom": "2022-09-28T15:55:55",
       "Categories": [
         "Fires - Advice",
@@ -3426,7 +3528,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12541301",
           "EffectiveFrom": "2025-09-29T17:18:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T15:40:22",
+          "LastReviewed": "2025-10-21T16:18:30",
           "Title": "Marara",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -3437,7 +3539,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12571201",
           "EffectiveFrom": "2025-10-12T10:06:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T15:39:19",
+          "LastReviewed": "2025-10-21T16:15:48",
           "Title": "SAILORS HILL NYMBOIDA",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -4489,20 +4591,61 @@
     },
     {
       "Park": {
+        "Name": "Dalrymple-Hay Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/dalrymplehay-nature-reserve",
+        "Id": "4a8900ed-0594-41ba-9373-3c7af9c775c2",
+        "ItemName": "DalrympleHay-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
+      "LastReviewed": "2025-10-21T17:10:23",
+      "EffectiveFrom": "2025-10-21T16:12:40",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592701",
+          "EffectiveFrom": "2025-10-21T16:12:40",
+          "EffectiveTo": "2025-10-22T23:59:59",
+          "LastReviewed": "2025-10-21T17:10:23",
+          "Title": "Total fire ban - all tracks and trails closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails in the following parks are closed on 22 October 2025&#xA0;due to a Total Fire Ban and elevated Fire Danger Rating:</p>\n\n<ul>\n\t<li>Berowra Valley National Park</li>\n\t<li>Berowra Valley Regional Park</li>\n\t<li>Marramarra National Park</li>\n\t<li>Wallumatta Nature Reserve</li>\n\t<li>Dalrymple Hay Nature Reserve</li>\n\t<li>Dural Nature Reserve</li>\n</ul>\n\n<p>Campgrounds in Berowra Valley National Park and Marramarra National Park are also closed, including:</p>\n\n<ul>\n\t<li>Tunks Ridge campground</li>\n\t<li>Marramarra Creek campground</li>\n\t<li>Orchard campground</li>\n\t<li>Gentleman's Halt campground</li>\n\t<li>Twin Beaches campground</li>\n</ul>\n\n<p>Picnic areas and boat ramps will remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/n7m2jy5gxt14/9uj6f0i9n6k26/q8alv69fkgh4\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney Area office on 02 8448 0400 or the NPWS contact centre on 1300 072 757 (13000 PARKS).</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings, and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3cy4vdoh4\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3fq4ruy4q\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Dandry Gorge Aboriginal Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/dandry-gorge-aboriginal-area",
         "Id": "6f4f68dc-ae4a-403d-a94f-9a6f5e09a985",
         "ItemName": "Dandry-Gorge-Aboriginal-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2025-10-08T09:46:08",
       "Categories": [
+        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -4526,7 +4669,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-20T17:20:43",
+      "LastReviewed": "2025-10-21T17:21:45",
       "EffectiveFrom": "2025-10-20T12:47:00",
       "Categories": [
         "Fires - Advice"
@@ -4536,7 +4679,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12587501",
           "EffectiveFrom": "2025-10-20T12:47:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T17:20:43",
+          "LastReviewed": "2025-10-21T17:21:45",
           "Title": "DANGELONG RD, KYBEYAN",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -4854,6 +4997,35 @@
     },
     {
       "Park": {
+        "Name": "Dural Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/dural-nature-reserve",
+        "Id": "15e625fe-9dcc-4bb0-9d34-5993668cdc38",
+        "ItemName": "Dural-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T17:10:23",
+      "EffectiveFrom": "2025-10-21T16:12:40",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592701",
+          "EffectiveFrom": "2025-10-21T16:12:40",
+          "EffectiveTo": "2025-10-22T23:59:59",
+          "LastReviewed": "2025-10-21T17:10:23",
+          "Title": "Total fire ban - all tracks and trails closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails in the following parks are closed on 22 October 2025&#xA0;due to a Total Fire Ban and elevated Fire Danger Rating:</p>\n\n<ul>\n\t<li>Berowra Valley National Park</li>\n\t<li>Berowra Valley Regional Park</li>\n\t<li>Marramarra National Park</li>\n\t<li>Wallumatta Nature Reserve</li>\n\t<li>Dalrymple Hay Nature Reserve</li>\n\t<li>Dural Nature Reserve</li>\n</ul>\n\n<p>Campgrounds in Berowra Valley National Park and Marramarra National Park are also closed, including:</p>\n\n<ul>\n\t<li>Tunks Ridge campground</li>\n\t<li>Marramarra Creek campground</li>\n\t<li>Orchard campground</li>\n\t<li>Gentleman's Halt campground</li>\n\t<li>Twin Beaches campground</li>\n</ul>\n\n<p>Picnic areas and boat ramps will remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/n7m2jy5gxt14/9uj6f0i9n6k26/q8alv69fkgh4\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney Area office on 02 8448 0400 or the NPWS contact centre on 1300 072 757 (13000 PARKS).</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings, and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3cy4vdoh4\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3fq4ruy4q\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Durands Island Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/durands-island-nature-reserve",
         "Id": "b639f9eb-05ad-454c-86ed-1a38a343fd94",
@@ -4906,6 +5078,35 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>However the following campgrounds are exempt:</p>\n\n<p><strong>Capertee National Park</strong></p>\n\n<ul>\n\t<li>Capertee Campground</li>\n\t<li>Honeyeater Homestead</li>\n\t<li>Capertee Homestead</li>\n\t<li>Capertee Cottage</li>\n</ul>\n\n<p><strong>Goulburn River National Park</strong></p>\n\n<ul>\n\t<li>Spring Gully campground</li>\n\t<li>Big River campground</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Edmondson Regional Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/edmondson-regional-park",
+        "Id": "0a9d1526-bbf3-44e7-bccd-8b92b1cd1735",
+        "ItemName": "Edmondson-Regional-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
           "IsKml": false
         }
       ]
@@ -5262,14 +5463,25 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2025-08-08T11:23:58",
+      "ClosedAreasCount": 8,
+      "LastReviewed": "2025-10-21T16:27:05",
       "EffectiveFrom": "2016-02-10T15:18:20",
       "Categories": [
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592601",
+          "EffectiveFrom": "2025-10-21T16:25:10",
+          "EffectiveTo": "2025-10-23T07:25:24",
+          "LastReviewed": "2025-10-21T16:27:05",
+          "Title": "Total Fire Ban - All tracks and trails closed in Garigal National Park - Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails in Garigal National Park are closed on Wednesday 22 October 2025 due to a Total Fire Ban and elevated Fire Danger rating.</p>\n\n<p>Davidson Picnic Area and Boat Ramp will remain open.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcou652bb3x/b0dom6q9xob1q/s8w3we9wzcjt\">Penalties apply for non-compliance</a>. For more information, call the National Parks Contact Centre on 1300 072 757.</p>\n\n<p>&#xA0;</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings, and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcou652bb3x/b0dom6q9xob1q/s8w3z69ti309\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"http://click.ngcomms.net/pfcou652bb3x/b0dom6q9xob1q/s8w41y9tjyfc\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/3015721",
           "EffectiveFrom": "2016-02-10T15:18:20",
@@ -5792,12 +6004,23 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-17T10:45:48",
+      "LastReviewed": "2025-10-21T16:20:19",
       "EffectiveFrom": "2025-10-11T08:00:00",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12529801",
           "EffectiveFrom": "2025-10-11T08:00:00",
@@ -6154,7 +6377,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-13T07:39:08",
+      "LastReviewed": "2025-10-20T18:12:14",
       "EffectiveFrom": "2025-08-27T08:00:00",
       "Categories": [
         "Safety alerts",
@@ -6165,18 +6388,18 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12533301",
           "EffectiveFrom": "2025-08-27T08:00:00",
           "EffectiveTo": "2025-10-31T18:00:00",
-          "LastReviewed": "2025-10-01T11:34:03",
+          "LastReviewed": "2025-10-20T18:12:14",
           "Title": "Korogoro walking track, Hat Head National Park - washouts on walking track",
           "ItemName": null,
           "Category": "Safety alerts",
-          "DescriptionHtml": "<p>Sections of Korogoro walking track have been eroded&#xA0;by recent severe weather events. Walkers should excercise caution until repairs&#xA0;are completed.</p>",
+          "DescriptionHtml": "<p>Sections of Korogoro walking track have been eroded&#xA0;by recent severe weather events. Walkers should exercise caution until repairs&#xA0;are completed.</p>",
           "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12476801",
           "EffectiveFrom": "2025-09-09T15:19:13",
           "EffectiveTo": "2025-10-31T18:00:00",
-          "LastReviewed": "2025-10-13T07:39:08",
+          "LastReviewed": "2025-10-20T18:06:31",
           "Title": "Road Closure - North Gap Rd, Hat Head NP",
           "ItemName": null,
           "Category": "Closed areas",
@@ -6363,7 +6586,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2025-10-20T17:24:36",
+      "LastReviewed": "2025-10-21T09:32:53",
       "EffectiveFrom": "2025-08-18T00:00:00",
       "Categories": [
         "Closed areas",
@@ -6371,6 +6594,17 @@
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12589401",
+          "EffectiveFrom": "2025-10-21T09:23:53",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-21T09:32:53",
+          "Title": "The Kembla MTB trails are closed on Wednesday 22nd October, due to predicted fire conditions",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p><strong>All Trails Closed</strong> for Wednesday 22nd October&#xA0;</p>\n\n<p>The Kembla Mountain bike trails are temporarily closed due to predicted fire conditions, which pose a safety risk to riders in the event of a fire starting.</p>\n\n<p>The fire rating for Wednesday the 22nd of October is predicted to be extreme and wind gusts are forecast to reach 50km/h, exceeding safety thresholds in the Trigger Action Response Plan for the trails.</p>\n\n<p>Visitor safety is a priority for NPWS, and the closures are a standard safety practice.&#xA0;</p>\n\n<p>We will continue to monitor conditions and will reopen the trails when conditions improve. Please check nswparks.info/illawarra-mtn-bike or Trailforks before visiting and follow all park signs.&#xA0;</p>\n\n<p>Thank you for continuing to ride responsibly on the trails.</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12577201",
           "EffectiveFrom": "2025-10-15T08:00:00",
@@ -7192,12 +7426,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-30T09:29:14",
+      "LastReviewed": "2025-10-21T16:20:19",
       "EffectiveFrom": "2017-09-28T11:12:16",
       "Categories": [
+        "Closed areas",
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/4262422",
           "EffectiveFrom": "2017-09-28T11:12:16",
@@ -7474,6 +7720,17 @@
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12565001",
+          "EffectiveFrom": "2025-10-21T16:00:00",
+          "EffectiveTo": "2025-10-31T17:00:00",
+          "LastReviewed": "2025-10-17T09:06:00",
+          "Title": "Manjar and Mount Blackjack trails closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Manjar and Mount Blackjack trails are closed due to trail maintenance and construction works at Mount Blackjack.</p>\n\n<p>For more information, call the Khancoban Visitor Centre on 02 6070 8400</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12576901",
           "EffectiveFrom": "2025-10-20T07:00:26",
           "EffectiveTo": "2025-10-30T16:00:42",
@@ -7705,7 +7962,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-20T15:48:25",
+      "LastReviewed": "2025-10-21T17:14:08",
       "EffectiveFrom": "2025-10-20T10:11:00",
       "Categories": [
         "Fires - Advice"
@@ -7715,7 +7972,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12586401",
           "EffectiveFrom": "2025-10-20T10:11:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T15:48:25",
+          "LastReviewed": "2025-10-21T17:14:08",
           "Title": "Eight Mile",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -7733,14 +7990,25 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 3,
-      "LastReviewed": "2025-10-20T12:32:08",
+      "ClosedAreasCount": 30,
+      "LastReviewed": "2025-10-21T16:24:26",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592501",
+          "EffectiveFrom": "2025-10-21T16:16:25",
+          "EffectiveTo": "2025-10-23T08:30:36",
+          "LastReviewed": "2025-10-21T16:24:26",
+          "Title": "Total Fire Ban - All tracks and trails closed in Ku-ring-gai Chase National Park - Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails in Ku-ring-gai Chase National Park are closed on Wednesday 22 October 2025 due to a Total Fire Ban and elevated Fire Danger rating.</p>\n\n<p>The following areas are closed:</p>\n\n<ul>\n\t<li>West Head road</li>\n\t<li>West Head lookout</li>\n\t<li>Salvation Creek picnic area</li>\n\t<li>Barrenjoey headland</li>\n\t<li>Sphinx memorial precinct</li>\n\t<li>Stringybark Ridge precinct</li>\n\t<li>Kalkari track</li>\n\t<li>All remote campgrounds (accessible by water only)</li>\n</ul>\n\n<p>These areas will remain open:</p>\n\n<ul>\n\t<li>Apple Tree Bay picnic area</li>\n\t<li>Apple Tree Bay boat ramp</li>\n\t<li>Bobbin Head picnic areas</li>\n\t<li>Bobbin Head Marina</li>\n\t<li>Duckholes picnic area</li>\n\t<li>Illawong Bay picnic area</li>\n\t<li>Gibberagong Boardwalk</li>\n\t<li>Kalkari Discovery Centre (the walking track is closed)</li>\n\t<li>The Basin campground and picnic area (accessible by water only)</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3a65309lc\">Penalties apply for non-compliance</a>. For more information, contact the Bobbin Head Visitor Centre on 02 9472 8949.</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings, and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3cy4vdoh4\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3fq4ruy4q\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>",
+          "IsKml": true
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12549101",
           "EffectiveFrom": "2025-10-07T11:23:48",
@@ -7767,7 +8035,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12539401",
           "EffectiveFrom": "2025-10-03T12:10:57",
           "EffectiveTo": "2025-10-27T02:00:00",
-          "LastReviewed": "2025-10-13T09:11:06",
+          "LastReviewed": "2025-10-21T09:06:13",
           "Title": "Cowan entrance to Great North Walk closed October 24-27",
           "ItemName": null,
           "Category": "Closed areas",
@@ -8088,16 +8356,28 @@
         "Id": "302804ad-168b-4828-aab1-3f8d3ca4e31c",
         "ItemName": "Lane-Cove-National-Park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 6,
-      "LastReviewed": "2025-10-16T08:59:10",
+      "ClosedAreasCount": 22,
+      "LastReviewed": "2025-10-21T17:09:36",
       "EffectiveFrom": "2024-02-01T12:10:51",
       "Categories": [
+        "Closed parks",
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12593001",
+          "EffectiveFrom": "2025-10-21T17:06:09",
+          "EffectiveTo": "2025-10-22T23:59:59",
+          "LastReviewed": "2025-10-21T17:09:36",
+          "Title": "Total Fire Ban - Lane Cove National Park Closed 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Lane Cove National Park is closed&#xA0;on Wednesday 22 October 2025 due to a Total Fire Ban and elevated Fire Danger rating.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/n7m2jy5gxt14/9uj6f0i9n6k26/q8alv69fkgh4\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney Area office on 02 8448 0400 or the NPWS contact centre on 1300 072 757 (13000 PARKS).</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings, and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3cy4vdoh4\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3fq4ruy4q\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12368901",
           "EffectiveFrom": "2025-07-31T22:38:45",
@@ -8169,6 +8449,35 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Leacock Regional Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/leacock-regional-park",
+        "Id": "4b39168c-73ae-4a5f-8cc0-41dfc4415702",
+        "ItemName": "Leacock-Regional-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
           "IsKml": false
         }
       ]
@@ -8655,6 +8964,64 @@
     },
     {
       "Park": {
+        "Name": "Maroota Ridge State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/maroota-ridge-state-conservation-area",
+        "Id": "34bd783a-c7c5-4d96-bab9-5f8f8e1d4ee4",
+        "ItemName": "Maroota-Ridge-State-Conservation-Area"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Marramarra National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/marramarra-national-park",
+        "Id": "f31ade3f-b387-40e9-b2ff-2c5c5acffa47",
+        "ItemName": "Marramarra-National-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 7,
+      "LastReviewed": "2025-10-21T17:10:23",
+      "EffectiveFrom": "2025-10-21T16:12:40",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592701",
+          "EffectiveFrom": "2025-10-21T16:12:40",
+          "EffectiveTo": "2025-10-22T23:59:59",
+          "LastReviewed": "2025-10-21T17:10:23",
+          "Title": "Total fire ban - all tracks and trails closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails in the following parks are closed on 22 October 2025&#xA0;due to a Total Fire Ban and elevated Fire Danger Rating:</p>\n\n<ul>\n\t<li>Berowra Valley National Park</li>\n\t<li>Berowra Valley Regional Park</li>\n\t<li>Marramarra National Park</li>\n\t<li>Wallumatta Nature Reserve</li>\n\t<li>Dalrymple Hay Nature Reserve</li>\n\t<li>Dural Nature Reserve</li>\n</ul>\n\n<p>Campgrounds in Berowra Valley National Park and Marramarra National Park are also closed, including:</p>\n\n<ul>\n\t<li>Tunks Ridge campground</li>\n\t<li>Marramarra Creek campground</li>\n\t<li>Orchard campground</li>\n\t<li>Gentleman's Halt campground</li>\n\t<li>Twin Beaches campground</li>\n</ul>\n\n<p>Picnic areas and boat ramps will remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/n7m2jy5gxt14/9uj6f0i9n6k26/q8alv69fkgh4\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney Area office on 02 8448 0400 or the NPWS contact centre on 1300 072 757 (13000 PARKS).</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings, and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3cy4vdoh4\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"http://click.ngcomms.net/pfcore5cvf57/b0dom164vfnhj/s8w3fq4ruy4q\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Marrangaroo National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/marrangaroo-national-park",
         "Id": "c527485f-b722-4c26-8aa3-ed6fb86cc4be",
@@ -8715,7 +9082,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-20T17:37:59",
+      "LastReviewed": "2025-10-21T17:32:40",
       "EffectiveFrom": "2025-10-17T20:08:00",
       "Categories": [
         "Fires - Advice",
@@ -8723,25 +9090,14 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12588201",
-          "EffectiveFrom": "2025-10-20T15:54:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T17:37:59",
-          "Title": "CULLENDORE CREEK RD, CULLENDORE",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called CULLENDORE CREEK RD, CULLENDORE. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/12584701",
           "EffectiveFrom": "2025-10-17T20:08:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T15:56:44",
-          "Title": "Cullendore Rd, Cullendore",
+          "LastReviewed": "2025-10-21T17:32:40",
+          "Title": "CULLENDORE COMPLEX",
           "ItemName": null,
           "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Cullendore Rd, Cullendore. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>There is a fire in this park called CULLENDORE COMPLEX. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -8883,7 +9239,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 8,
-      "LastReviewed": "2025-10-13T09:19:25",
+      "LastReviewed": "2025-10-21T07:57:01",
       "EffectiveFrom": "2025-07-21T09:32:29",
       "Categories": [
         "Closed areas",
@@ -8894,7 +9250,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12567901",
           "EffectiveFrom": "2025-10-13T09:03:06",
           "EffectiveTo": "2025-11-08T09:04:19",
-          "LastReviewed": "2025-10-13T09:19:25",
+          "LastReviewed": "2025-10-21T07:56:48",
           "Title": "Termeil Point and Sunburnt Beach campgrounds closed for annual tree and campground maintenance",
           "ItemName": null,
           "Category": "Closed areas",
@@ -8905,7 +9261,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12567801",
           "EffectiveFrom": "2025-10-13T08:33:37",
           "EffectiveTo": "2025-11-01T08:35:18",
-          "LastReviewed": "2025-10-13T08:42:40",
+          "LastReviewed": "2025-10-21T07:57:01",
           "Title": "Meroo Head campground closed for maintenance",
           "ItemName": null,
           "Category": "Closed areas",
@@ -8962,14 +9318,26 @@
         "ItemName": "Merriwindi-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2025-10-08T09:46:08",
       "Categories": [
+        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -9610,13 +9978,14 @@
         "Id": "b6247f3a-f647-4f83-bd09-a41faa480af5",
         "ItemName": "Mount-Kaputar-National-Park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 10,
+      "ClosedAreasCount": 37,
       "LastReviewed": "2025-10-18T14:02:58",
       "EffectiveFrom": "2024-04-16T10:35:17",
       "Categories": [
         "Closed areas",
+        "Closed parks",
         "Other planned events",
         "Safety alerts"
       ],
@@ -9630,6 +9999,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Scutts Hut trail is closed from Monday 13 October to Friday 19 December 2025 due to maintenance requirements.</p>\n\n<p>This closure also includes:</p>\n\n<ul>\n\t<li>Scutts Hut</li>\n\t<li>Scutts Hut and Kurrawonga Falls walk</li>\n\t<li>Kaputar Plateau walk (Rocky Plateau firetrail)</li>\n\t<li>Lairds lookout</li>\n\t<li>Rangers Lookout</li>\n</ul>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Narrabri office on 02 6792 7300.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12518201",
+          "EffectiveFrom": "2025-10-21T14:00:00",
+          "EffectiveTo": "2025-10-25T09:00:00",
+          "LastReviewed": "2025-10-15T21:40:02",
+          "Title": "Park closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Mount Kaputar National Park is closed from 2pm Tuesday 21 October to 9am Saturday 25 October 2025 for aerial pest control operations.</p>\n\n<p><a href=\"http://click.ngcomms.net/nly9nm4ofngn/a2twmxy4rx04j/qlw45y4obppc\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Narrabri office on 02 6792 7300.</p>",
           "IsKml": false
         },
         {
@@ -9867,14 +10247,26 @@
         "ItemName": "Mulgoa-Nature-Reserve"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-07-28T12:36:30",
+      "LastReviewed": "2025-10-21T16:20:19",
       "EffectiveFrom": "2025-04-24T09:44:58",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11864001",
           "EffectiveFrom": "2025-04-24T09:44:58",
@@ -9939,14 +10331,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-10-10T14:54:27",
+      "LastReviewed": "2025-10-17T12:56:16",
       "EffectiveFrom": "2023-08-18T11:11:19",
       "Categories": [
-        "Fire bans",
         "Safety alerts",
+        "Fire bans",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12581201",
+          "EffectiveFrom": "2025-10-21T08:00:00",
+          "EffectiveTo": "2025-10-23T18:00:00",
+          "LastReviewed": "2025-10-17T12:56:16",
+          "Title": "Walls Road routine maintenance - Grading",
+          "ItemName": null,
+          "Category": "Safety alerts",
+          "DescriptionHtml": "<p>The Walls Road at Mungo NP will be undergoing maintenance from 8:00am&#xA0;Tuesday 21 October until 6:00pm&#xA0;Thursday 23 October 2025.</p>\n\n<p>The road will remain open during this time.</p>\n\n<p>Be aware of Heavy Machinery on the road and drive safely.</p>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12564701",
           "EffectiveFrom": "2025-10-13T08:00:00",
@@ -10279,7 +10682,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 9,
-      "LastReviewed": "2025-10-20T15:40:19",
+      "LastReviewed": "2025-10-21T15:35:11",
       "EffectiveFrom": "2023-10-30T14:08:54",
       "Categories": [
         "Fires - Advice",
@@ -10293,7 +10696,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12575401",
           "EffectiveFrom": "2025-10-14T16:56:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T15:40:19",
+          "LastReviewed": "2025-10-21T15:35:11",
           "Title": "Lakes Roads Fire",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -10452,7 +10855,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-10-20T16:44:14",
+      "LastReviewed": "2025-10-21T16:41:43",
       "EffectiveFrom": "2025-10-13T00:00:00",
       "Categories": [
         "Fires - Advice",
@@ -10465,7 +10868,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12582301",
           "EffectiveFrom": "2025-10-17T12:27:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T16:44:14",
+          "LastReviewed": "2025-10-21T16:41:43",
           "Title": "RIVER RD, GOGELDRIE",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -11037,6 +11440,35 @@
     },
     {
       "Park": {
+        "Name": "Newington Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/newington-nature-reserve",
+        "Id": "7a123b25-b3cb-45a1-9ba4-d302f0f2a18a",
+        "ItemName": "Newington-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Ngambaa Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/ngambaa-nature-reserve",
         "Id": "f7216d4e-c719-4f17-9268-3166b7846b8e",
@@ -11115,7 +11547,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-10-10T07:44:00",
+      "LastReviewed": "2025-10-21T07:58:01",
       "EffectiveFrom": "2024-07-01T08:27:12",
       "Categories": [
         "Safety alerts",
@@ -11126,7 +11558,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11034101",
           "EffectiveFrom": "2024-07-01T08:27:12",
           "EffectiveTo": "2025-12-31T16:00:00",
-          "LastReviewed": "2025-10-10T07:44:00",
+          "LastReviewed": "2025-10-21T07:44:39",
           "Title": "North Rocks Road closed",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -11137,7 +11569,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11875101",
           "EffectiveFrom": "2025-04-29T10:48:31",
           "EffectiveTo": "2025-12-31T10:49:22",
-          "LastReviewed": "2025-09-19T08:11:18",
+          "LastReviewed": "2025-10-21T07:58:01",
           "Title": "Nightcap Range Road closed in both directions",
           "ItemName": null,
           "Category": "Closed areas",
@@ -11572,14 +12004,26 @@
         "ItemName": "Pilliga-East-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2025-10-08T09:46:08",
       "Categories": [
+        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -11601,15 +12045,27 @@
         "ItemName": "Pilliga-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2024-06-24T09:25:30",
       "Categories": [
+        "Closed areas",
         "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -11644,13 +12100,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2025-09-26T14:24:38",
       "Categories": [
-        "Fire bans",
-        "Closed areas"
+        "Closed areas",
+        "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -11683,15 +12150,27 @@
         "ItemName": "Pilliga-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2024-06-24T09:25:30",
       "Categories": [
+        "Closed areas",
         "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -11724,14 +12203,26 @@
         "ItemName": "Pilliga-West-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2025-10-08T09:46:08",
       "Categories": [
+        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -11753,14 +12244,26 @@
         "ItemName": "Pilliga-West-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2025-10-08T09:46:08",
       "Categories": [
+        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -11770,6 +12273,35 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Pitt Town Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/pitt-town-nature-reserve",
+        "Id": "2458f48c-90c2-4404-9bd3-15e3e828c092",
+        "ItemName": "Pitt-Town-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
           "IsKml": false
         }
       ]
@@ -11813,12 +12345,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-30T09:29:23",
+      "LastReviewed": "2025-10-21T16:20:19",
       "EffectiveFrom": "2021-08-18T17:01:16",
       "Categories": [
+        "Closed areas",
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/7547722",
           "EffectiveFrom": "2021-08-18T17:01:16",
@@ -12188,6 +12732,35 @@
     },
     {
       "Park": {
+        "Name": "Rouse Hill Regional Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/rouse-hill-regional-park",
+        "Id": "3d5379f5-5a6f-4b73-847f-b2a4d131b192",
+        "ItemName": "Rouse-Hill-Regional-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Royal National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/royal-national-park",
         "Id": "ce59746c-6586-4d50-b3bb-4add1b1cd313",
@@ -12327,12 +12900,23 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-09-30T13:42:33",
+      "LastReviewed": "2025-10-21T16:20:19",
       "EffectiveFrom": "2022-12-30T11:19:43",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12530301",
           "EffectiveFrom": "2025-10-10T08:00:00",
@@ -12675,13 +13259,36 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-20T10:03:21",
+      "LastReviewed": "2025-10-21T17:29:09",
       "EffectiveFrom": "2014-10-07T13:53:00",
       "Categories": [
-        "Safety alerts",
-        "Closed areas"
+        "Fires - Advice",
+        "Closed areas",
+        "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12588801",
+          "EffectiveFrom": "2025-10-20T22:11:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-21T17:29:09",
+          "Title": "SUGARLOAF RANGE RD, KILLINGWORTH",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called SUGARLOAF RANGE RD, KILLINGWORTH. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12589301",
+          "EffectiveFrom": "2025-10-21T09:12:51",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-10-21T09:26:28",
+          "Title": "Sugarloaf Range Rod closed due to a bushfire",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Sugarloaf Range Road&#xA0;is closed due to a bushfire in Sugarloaf State Conservation Area&#xA0;</p>\n\n<p>Do Not enter the closed area&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\n\n&#xA0;\n\nFor more information, contact the local NPWS office (02) 4946 4100 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website</a>\n\n<p>&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11903901",
           "EffectiveFrom": "2025-05-11T17:51:04",
@@ -13265,14 +13872,26 @@
         "ItemName": "Timmallallie-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "PartClosed": true,
+      "ClosedAreasCount": 5,
+      "LastReviewed": "2025-10-21T13:10:31",
       "EffectiveFrom": "2025-10-08T09:46:08",
       "Categories": [
+        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590001",
+          "EffectiveFrom": "2025-10-21T13:00:25",
+          "EffectiveTo": "2025-10-23T10:00:00",
+          "LastReviewed": "2025-10-21T13:10:31",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Due to DANGEROUS FIRE WEATHER campgrounds and walking tracks in the Pilliga Forest will be CLOSED Wednesday 22 October 2025.</p>\n\n<p>The following areas are CLOSED:</p>\n\n<ul>\n\t<li>Salt Caves visitor area</li>\n\t<li>Sculptures in the Scrub visitor area</li>\n\t<li>Sandstone Caves visitor area</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qa0vzu9flxxu/bdgipky5khlmo/szg1se4ruyc7\">Penalties apply for non-compliance</a>. For more information, contact the Pilliga Forest Discovery Centre on 02 6843 4011.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -13830,14 +14449,26 @@
         "ItemName": "Wadbilliga-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-01T10:10:41",
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
+      "LastReviewed": "2025-10-14T15:03:04",
       "EffectiveFrom": "2025-08-25T06:00:00",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12574001",
+          "EffectiveFrom": "2025-10-21T09:00:00",
+          "EffectiveTo": "2025-10-22T16:00:00",
+          "LastReviewed": "2025-10-14T15:03:04",
+          "Title": "Wadbilliga Road closed due to road works",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Wadbilliga Road will be closed to allow for geotechnical investigation works on Wadbilliga Crossing from 9am Tuesday 21st&#xA0;October 2025 until 4pm Wednesday 22nd October 2025.</p>\n\n<p>Drive safely and follow the direction of roadworks signs. Do not attempt to enter areas that have been closed for works.</p>\n\n<p>For more information, please call the local NPWS office</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2025-08-25T06:00:00",
@@ -14131,15 +14762,27 @@
         "ItemName": "Warrumbungle-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-08T09:50:26",
+      "PartClosed": true,
+      "ClosedAreasCount": 21,
+      "LastReviewed": "2025-10-21T13:21:02",
       "EffectiveFrom": "2025-02-20T15:03:16",
       "Categories": [
+        "Closed areas",
         "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12590101",
+          "EffectiveFrom": "2025-10-21T12:24:28",
+          "EffectiveTo": "2025-10-23T09:00:00",
+          "LastReviewed": "2025-10-21T13:21:02",
+          "Title": "Areas closed due to dangerous fire weather",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Walking tracks and remote campsites are closed from 4:00pm Tuesday 21 October to 9:00am Thursday 23 October due to forecast dangerous fire weather conditions.</p>\n\n<p>&#xA0;</p>\n\n<p>The following walking tracks will remain open:</p>\n\n<ul>\n\t<li>White Gum Lookout and Walking Track</li>\n\t<li>Wambelong Nature Trail</li>\n\t<li>Gurianawa Circuit</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>The following campgrounds will remain open:</p>\n\n<ul>\n\t<li>Blackman</li>\n\t<li>Walaay</li>\n\t<li>Wambelong</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pa1dq19tjk9k/ax7hrg19pyrxv/s4amex4rvfje\">Penalties apply for non-compliance</a>. For more information contact the Warrumbungle Visitor Centre on 02 6825 4364.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12551101",
           "EffectiveFrom": "2025-10-08T09:46:08",
@@ -14641,7 +15284,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 7,
-      "LastReviewed": "2025-10-10T07:43:46",
+      "LastReviewed": "2025-10-21T07:58:01",
       "EffectiveFrom": "2025-04-29T10:48:31",
       "Categories": [
         "Safety alerts",
@@ -14663,11 +15306,69 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11875101",
           "EffectiveFrom": "2025-04-29T10:48:31",
           "EffectiveTo": "2025-12-31T10:49:22",
-          "LastReviewed": "2025-09-19T08:11:18",
+          "LastReviewed": "2025-10-21T07:58:01",
           "Title": "Nightcap Range Road closed in both directions",
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Nightcap Range Road is closed to traffic in both directions due to a major landslip associated with the 2022 flood event. The closure affects the section of Nightcap Range Road between Rummery Road intersection and Telephone Road trailer parking area.</p>\n\n<p>Access to Minyon Falls and Rummery Park is via&#xA0;Minyon Falls Road only.&#xA0;</p>\n\n<p>An estimated repair date has not been determined. For more information, please <a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">email</a> or call Richmond River NPWS on 02 6672 0200.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Wianamatta Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wianamatta-nature-reserve",
+        "Id": "c6d6a712-0886-4933-b5ed-a55912b7f4e7",
+        "ItemName": "Wianamatta-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Wianamatta Regional Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wianamatta-regional-park",
+        "Id": "96aa645d-426f-4a84-aeb0-7763897bf271",
+        "ItemName": "Wianamatta-Regional-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
           "IsKml": false
         }
       ]
@@ -14854,6 +15555,35 @@
     },
     {
       "Park": {
+        "Name": "William Howe Regional Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/william-howe-regional-park",
+        "Id": "8115fd71-8cb9-4ddd-a2a4-188cd404fb86",
+        "ItemName": "William-Howe-Regional-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Wilson Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wilson-nature-reserve",
         "Id": "e7fd5e8e-1def-4402-8a24-0bdc3eba8d92",
@@ -14862,7 +15592,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-10-10T07:44:16",
+      "LastReviewed": "2025-10-21T07:43:39",
       "EffectiveFrom": "2024-08-30T16:06:21",
       "Categories": [
         "Closed parks"
@@ -14872,7 +15602,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11279901",
           "EffectiveFrom": "2024-08-30T16:06:21",
           "EffectiveTo": "2026-01-30T16:00:00",
-          "LastReviewed": "2025-10-10T07:44:16",
+          "LastReviewed": "2025-10-21T07:43:39",
           "Title": "Walking Track Closed - Wilsons Nature Reserve",
           "ItemName": null,
           "Category": "Closed parks",
@@ -14906,6 +15636,35 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using Canid Pest Ejectors (CPEs) and fresh meat baits containing 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. The 1080 bating program is ongoing and will continue to be conducted between <strong>01 September&#xA0;2025</strong> and <strong>28 February&#xA0;2026</strong>&#xA0;within <strong>Winburndale Nature Reserve</strong>. All baiting locations will be identifiable by signs.</p>\n\n<p>Please be reminded that domestic pets are not permitted on NPWS estate. Pets and working dogs may be affected and must be restrained or muzzled in the vicinity of the nature reserve and must not enter the baiting location (as 1080 is lethal to cats and dogs). In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please contact the NPWS Central West Area office at Bathurst on (02) 6332 7640.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Windsor Downs Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/windsor-downs-nature-reserve",
+        "Id": "9a5663c3-0568-48c1-931a-2472a170c04c",
+        "ItemName": "Windsor-Downs-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-10-21T16:20:19",
+      "EffectiveFrom": "2025-10-21T16:14:55",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
           "IsKml": false
         }
       ]
@@ -15314,7 +16073,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-10-20T15:51:30",
+      "LastReviewed": "2025-10-21T14:40:39",
       "EffectiveFrom": "2023-06-30T17:44:06",
       "Categories": [
         "Fires - Advice",
@@ -15326,7 +16085,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12584501",
           "EffectiveFrom": "2025-10-19T08:56:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T15:51:30",
+          "LastReviewed": "2025-10-21T14:40:39",
           "Title": "MOUNT WARNING RD, MOUNT WARNING",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -16011,7 +16770,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-10-20T17:08:08",
+      "LastReviewed": "2025-10-21T17:26:48",
       "EffectiveFrom": "2025-05-29T07:48:17",
       "Categories": [
         "Fires - Advice",
@@ -16024,11 +16783,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12588501",
           "EffectiveFrom": "2025-10-20T16:01:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-10-20T17:08:08",
-          "Title": "MT MARLO UPPER MACDONALD",
+          "LastReviewed": "2025-10-21T17:26:48",
+          "Title": "MT MARLO",
           "ItemName": null,
           "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called MT MARLO UPPER MACDONALD. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>There is a fire in this park called MT MARLO. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -16175,12 +16934,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-09-30T09:29:36",
+      "LastReviewed": "2025-10-21T16:20:19",
       "EffectiveFrom": "2023-10-06T11:39:19",
       "Categories": [
+        "Closed areas",
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12592401",
+          "EffectiveFrom": "2025-10-21T16:14:55",
+          "EffectiveTo": "2025-10-23T08:00:00",
+          "LastReviewed": "2025-10-21T16:20:19",
+          "Title": "Total Fire Ban - all tracks and trails closed Wednesday 22 October 2025",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All walking tracks and trails closed due to Total Fire Ban. All visitor precincts remain open.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/10168501",
           "EffectiveFrom": "2023-10-06T11:39:19",
