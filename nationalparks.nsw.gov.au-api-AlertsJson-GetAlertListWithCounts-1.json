@@ -842,35 +842,6 @@
     },
     {
       "Park": {
-        "Name": "Bents Basin State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bents-basin-state-conservation-area",
-        "Id": "891ac0bc-ec64-4722-a87c-9ad79130bd88",
-        "ItemName": "Bents-Basin-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 4,
-      "LastReviewed": "2025-11-18T15:45:51",
-      "EffectiveFrom": "2025-10-11T08:00:00",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12529801",
-          "EffectiveFrom": "2025-10-11T08:00:00",
-          "EffectiveTo": "2025-12-22T08:00:00",
-          "LastReviewed": "2025-11-18T15:45:51",
-          "Title": "Closed for ground pest control operations",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Bents Basin SCA and Gulguer NR are closed due to pest animal control shooting operations. Shooting operations will occur on select nights throughout this period, excluding weekends and public holidays, Does not affect camping bookings. The operations will run from sunset to sunrise, where the park will be closed for public access.</p>\n\n<p><a href=\"http://click.ngcomms.net/q12cnh59en2a/b9bjh6x59d6ce/sqnt2d4yugej\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Beowa National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/beowa-national-park",
         "Id": "1cf31315-d534-4c91-a891-39cc798420a6",
@@ -1321,17 +1292,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Cedarland Ridge Trail, the access track from Mount Solitary to Kedumba River Campground will be undergoing maintenance from Monday 15 December 2025 to Monday 12 January 2026. Please exercise caution during this time and follow the direction of staff and signage.</p>\n\n<p>&#xA0;</p>\n\n<p>For more information, contact the Blackheath NPWS Office on: 02 4787 8877</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12717201",
-          "EffectiveFrom": "2025-11-17T10:26:00",
-          "EffectiveTo": "2025-12-19T19:00:00",
-          "LastReviewed": "2025-12-10T11:01:10",
-          "Title": "Areas closed for fire trail repairs",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some parts of Blue Mountains National Park&#xA0;are closed from Tuesday 18 November&#xA0;to Friday 19&#xA0;December 2025&#xA0;for fire trail repair works. The closed areas are:</p>\n\n<ul>\n\t<li>Mountain Avenue Fire Trail</li>\n\t<li>Hillcrest Avenue Fire Trail</li>\n</ul>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office (02) 4720 6200.</p>",
           "IsKml": false
         },
         {
@@ -2148,8 +2108,8 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 9,
-      "LastReviewed": "2025-12-19T04:11:53",
+      "ClosedAreasCount": 10,
+      "LastReviewed": "2025-12-20T15:41:05",
       "EffectiveFrom": "2024-05-21T11:41:40",
       "Categories": [
         "Fires - Advice",
@@ -2157,14 +2117,36 @@
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12777501",
+          "EffectiveFrom": "2025-12-19T16:47:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-12-20T15:41:05",
+          "Title": "NAGARI RD, WOY WOY",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called NAGARI RD, WOY WOY. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12712901",
           "EffectiveFrom": "2025-12-06T12:42:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-12-19T04:11:53",
+          "LastReviewed": "2025-12-20T10:28:58",
           "Title": "NIMBIN RD, KOOLEWONG",
           "ItemName": null,
           "Category": "Fires - Advice",
           "DescriptionHtml": "<p>There is a fire in this park called NIMBIN RD, KOOLEWONG. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12777101",
+          "EffectiveFrom": "2025-12-19T18:09:01",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-12-19T20:59:11",
+          "Title": "Areas closed due to bushfire",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails east of Mullet Creek, south of Mullet Creek Fire Trail, north of Patonga Drive and north of Little Wobby and west of Woy Woy / Umina urban interface&#xA0;are closed due to bushfire.</p>\n\n<p>This includes:</p>\n\n<ul>\n\t<li>Great North Walk between Patonga Drive and Mullet Creek Fire Trail</li>\n\t<li>Dillons Fire Trail</li>\n\t<li>Van Dahls Fire Trail</li>\n\t<li>Sani Depot Fire Trail</li>\n\t<li>Warrah Patch Fire Trail</li>\n\t<li>Corra Swamp to Warrah Patch Fire Trail</li>\n\t<li>PMG Fire Trail</li>\n\t<li>Rocky Ponds Fire Trail</li>\n\t<li>Mullet Creek Fire Trail</li>\n\t<li>Informal Highway&#xA0;Ridge Trail (link between Patonga Sport and Recreation Centre and Rocky Ponds Fire Trail)</li>\n\t<li>Tunnel Fire Trail south of the intersection with Mullet Creek Fire Trail</li>\n\t<li>Wondabyne Fire Trail</li>\n\t<li>Mount Wondabyne remote campsite</li>\n</ul>\n\n<p>Tommos Loop Fire Trail and the section of Tunnel Fire Trail north of the intersection with Mullet Creek Fire Trail will remain open.</p>\n\n<p>&#xA0;</p>\n\n<p>Do not enter the closed areas. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\n\n<p>This fire is called Nagari Rd, Woy Woy. For more information, contact the local NPWS office or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website</a></p>",
           "IsKml": false
         },
         {
@@ -2931,7 +2913,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-12-19T11:02:38",
+      "LastReviewed": "2025-12-20T15:45:48",
       "EffectiveFrom": "2020-12-24T09:34:30",
       "Categories": [
         "Fires - Advice",
@@ -2944,7 +2926,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12720401",
           "EffectiveFrom": "2025-12-09T11:38:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-12-19T11:02:38",
+          "LastReviewed": "2025-12-20T15:45:48",
           "Title": "HOME HILLS RD, BOGEE",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -5230,7 +5212,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-12-19T16:53:41",
+      "LastReviewed": "2025-12-20T17:35:43",
       "EffectiveFrom": "2025-10-01T09:05:47",
       "Categories": [
         "Fires - Advice",
@@ -5241,7 +5223,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12688501",
           "EffectiveFrom": "2025-11-27T17:17:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-12-19T16:53:41",
+          "LastReviewed": "2025-12-20T17:35:43",
           "Title": "Milsons Gully",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -5373,35 +5355,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Wambaara/Green Bay Trail is closed to public access from the junction of Wallaga Trail and Wambaara Trail until further notice. There will be no public access to Wallaga Lake from Wambaara/Green Bay&#xA0;Trail until completion of works along this trail.&#xA0;</p>\n\n<p>Road closure signs will be in place and&#xA0;<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Gulguer Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gulguer-nature-reserve",
-        "Id": "45dc68fd-8b3b-4d60-a5f3-6d5e5167a837",
-        "ItemName": "Gulguer-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2025-11-18T15:45:51",
-      "EffectiveFrom": "2025-10-11T08:00:00",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12529801",
-          "EffectiveFrom": "2025-10-11T08:00:00",
-          "EffectiveTo": "2025-12-22T08:00:00",
-          "LastReviewed": "2025-11-18T15:45:51",
-          "Title": "Closed for ground pest control operations",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Bents Basin SCA and Gulguer NR are closed due to pest animal control shooting operations. Shooting operations will occur on select nights throughout this period, excluding weekends and public holidays, Does not affect camping bookings. The operations will run from sunset to sunrise, where the park will be closed for public access.</p>\n\n<p><a href=\"http://click.ngcomms.net/q12cnh59en2a/b9bjh6x59d6ce/sqnt2d4yugej\">Penalties apply for non-compliance</a>. For more information, contact the Cumberland Area Office on 02 4580 2750.</p>",
           "IsKml": false
         }
       ]
@@ -5882,7 +5835,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2025-12-11T06:55:26",
+      "LastReviewed": "2025-12-19T20:05:17",
       "EffectiveFrom": "2022-07-06T14:56:02",
       "Categories": [
         "Other planned events",
@@ -5905,7 +5858,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12438501",
           "EffectiveFrom": "2025-08-25T09:38:15",
           "EffectiveTo": "2026-08-31T09:39:01",
-          "LastReviewed": "2025-12-11T06:55:26",
+          "LastReviewed": "2025-12-19T20:05:17",
           "Title": "Royal Hotel is temporarily closed.",
           "ItemName": null,
           "Category": "Closed areas",
@@ -6890,12 +6843,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-11-24T11:16:14",
+      "LastReviewed": "2025-12-20T15:57:46",
       "EffectiveFrom": "2025-05-22T12:28:51",
       "Categories": [
+        "Fires - Advice",
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12777301",
+          "EffectiveFrom": "2025-12-19T19:02:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-12-20T15:57:46",
+          "Title": "YELLOW ROCKS CREEK TRL, BOORGANNA",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called YELLOW ROCKS CREEK TRL, BOORGANNA. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11930601",
           "EffectiveFrom": "2025-05-22T12:28:51",
@@ -9696,27 +9661,15 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-12-19T10:46:28",
+      "LastReviewed": "2025-12-16T11:41:34",
       "EffectiveFrom": "2024-04-08T16:36:44",
       "Categories": [
-        "Fires - ",
         "Closed areas",
         "Safety alerts",
         "Other incidents",
         "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12734001",
-          "EffectiveFrom": "2025-12-14T17:49:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2025-12-19T10:46:28",
-          "Title": "Cod Rd Gulpa MVNP",
-          "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called Cod Rd Gulpa MVNP. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12628101",
           "EffectiveFrom": "2025-11-06T14:03:22",
@@ -9980,7 +9933,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 6,
-      "LastReviewed": "2025-12-19T17:29:13",
+      "LastReviewed": "2025-12-20T15:15:14",
       "EffectiveFrom": "2024-10-05T11:33:47",
       "Categories": [
         "Fires - Advice",
@@ -9993,7 +9946,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12710001",
           "EffectiveFrom": "2025-12-04T12:43:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-12-19T17:29:13",
+          "LastReviewed": "2025-12-20T15:15:14",
           "Title": "PACIFIC HWY, BULAHDELAH",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -10695,12 +10648,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 14,
-      "LastReviewed": "2025-12-10T09:39:25",
+      "LastReviewed": "2025-12-20T16:48:23",
       "EffectiveFrom": "2025-10-27T00:00:00",
       "Categories": [
+        "Fires - ",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12778201",
+          "EffectiveFrom": "2025-12-20T16:11:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2025-12-20T16:48:23",
+          "Title": "Green Gully Track",
+          "ItemName": null,
+          "Category": "Fires - ",
+          "DescriptionHtml": "<p>There is a fire in this park called Green Gully Track. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12573101",
           "EffectiveFrom": "2025-10-27T00:00:00",
@@ -10840,7 +10805,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2025-12-19T17:22:16",
+      "LastReviewed": "2025-12-20T15:16:55",
       "EffectiveFrom": "2025-10-08T09:46:08",
       "Categories": [
         "Fires - Advice",
@@ -10851,7 +10816,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12742601",
           "EffectiveFrom": "2025-12-15T14:14:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-12-19T17:22:16",
+          "LastReviewed": "2025-12-20T15:16:55",
           "Title": "Old No.1 Break Road",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -10922,7 +10887,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2025-12-19T17:22:16",
+      "LastReviewed": "2025-12-20T15:16:55",
       "EffectiveFrom": "2025-09-26T14:24:38",
       "Categories": [
         "Fires - Advice",
@@ -10934,7 +10899,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12742601",
           "EffectiveFrom": "2025-12-15T14:14:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-12-19T17:22:16",
+          "LastReviewed": "2025-12-20T15:16:55",
           "Title": "Old No.1 Break Road",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -14079,7 +14044,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2025-12-19T16:53:41",
+      "LastReviewed": "2025-12-20T17:35:43",
       "EffectiveFrom": "2022-11-23T14:08:54",
       "Categories": [
         "Fires - Advice",
@@ -14092,7 +14057,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12688501",
           "EffectiveFrom": "2025-11-27T17:17:00",
           "EffectiveTo": null,
-          "LastReviewed": "2025-12-19T16:53:41",
+          "LastReviewed": "2025-12-20T17:35:43",
           "Title": "Milsons Gully",
           "ItemName": null,
           "Category": "Fires - Advice",
