@@ -2,6 +2,7 @@
   "Categories": [
     "Current alerts",
     "Fires - Advice",
+    "Hazard reduction burns",
     "Fire bans",
     "Closed parks",
     "Closed areas",
@@ -49,25 +50,14 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-18T14:57:55",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
-        "Fire bans",
         "Closed areas",
+        "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12373501",
           "EffectiveFrom": "2025-07-23T10:16:35",
@@ -154,7 +144,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:02",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2025-11-01T00:22:08",
       "Categories": [
         "Fire bans"
@@ -164,7 +154,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -282,24 +272,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-20T10:06:27",
       "EffectiveFrom": "2026-01-01T06:00:00",
       "Categories": [
-        "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -338,35 +316,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>However the following campgrounds are exempt:</p>\n\n<p><strong>Capertee National Park</strong></p>\n\n<ul>\n\t<li>Capertee Campground</li>\n\t<li>Honeyeater Homestead</li>\n\t<li>Capertee Homestead</li>\n\t<li>Capertee Cottage</li>\n</ul>\n\n<p><strong>Goulburn River National Park</strong></p>\n\n<ul>\n\t<li>Spring Gully campground</li>\n\t<li>Big River campground</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Back Arm Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/back-arm-nature-reserve",
-        "Id": "e1213843-6054-43a5-a94f-76287ec62b58",
-        "ItemName": "Back-Arm-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -451,7 +400,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -461,7 +410,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -495,35 +444,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed.</p>\n\n<p>During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>However, the following campgrounds are exempt in the following reserves:</p>\n\n<p><strong>Yellomundee Regional Park</strong></p>\n\n<ul>\n\t<li>Shaws Creek Aboriginal Place</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Bango Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bango-nature-reserve",
-        "Id": "e87c81f1-a13e-4181-850f-a261325b1ac9",
-        "ItemName": "Bango-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -827,7 +747,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -837,40 +757,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban will be in place from 1 November 2025 until 31 March 2026 in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or cooker.<br/>\n<a href=\"http://click.ngcomms.net/q99z0h9thzjx/bd6zrqx52zs6r/syxwgx59a8bp\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://click.ngcomms.net/q99z0h9thzjx/bd6zrqx52zs6r/syxwjp9j0tw9\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Bees Nest Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bees-nest-nature-reserve",
-        "Id": "10d38f1c-5590-45e9-a0fe-6692e5153817",
-        "ItemName": "Bees-Nest-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -900,35 +791,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>However the following campgrounds are exempt:</p>\n\n<p><strong>Dharug National Park</strong></p>\n\n<ul>\n\t<li>Mill Creek Campground</li>\n</ul>\n\n<p><strong>Mount Royal National Park</strong></p>\n\n<ul>\n\t<li>Youngville Campground</li>\n</ul>\n\n<p><strong>Yengo National Park</strong></p>\n\n<ul>\n\t<li>Blue Gums Campground</li>\n\t<li>Mountain Arm Campground</li>\n\t<li>Yengo House</li>\n\t<li>Finchley Campground</li>\n\t<li>Mogo Campground</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Belmount Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/belmount-nature-reserve",
-        "Id": "ad44699a-3c50-4939-b1ef-525a29980fab",
-        "ItemName": "Belmount-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -1139,24 +1001,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-20T10:06:27",
       "EffectiveFrom": "2026-01-01T06:00:00",
       "Categories": [
-        "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -1453,25 +1303,13 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-02-05T11:18:58",
       "EffectiveFrom": "2025-09-11T10:00:00",
       "Categories": [
-        "Fire bans",
         "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12880701",
           "EffectiveFrom": "2026-02-05T10:24:52",
@@ -1586,17 +1424,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Jellybean track in the Glenbrook area of Blue Mountains National Park is closed for maintenance until&#xA0;Tuesday 30 June 2026.</p>\n\n<p>Jellybean Pool and car park remain&#xA0;open and are&#xA0;accessible by road only.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         },
         {
@@ -2194,7 +2021,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:02",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2025-11-01T00:22:08",
       "Categories": [
         "Fire bans"
@@ -2204,7 +2031,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -2370,17 +2197,6 @@
           "IsKml": false
         },
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/12802301",
           "EffectiveFrom": "2026-01-05T14:23:36",
           "EffectiveTo": null,
@@ -2517,23 +2333,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-29T15:52:12",
       "EffectiveFrom": "2025-10-01T09:43:58",
       "Categories": [
         "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12581101",
           "EffectiveFrom": "2025-10-01T09:43:58",
@@ -2557,24 +2362,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-02-02T09:04:21",
       "EffectiveFrom": "2025-08-04T16:50:36",
       "Categories": [
-        "Fire bans",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11893301",
           "EffectiveFrom": "2025-08-04T16:50:36",
@@ -2859,25 +2652,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-27T08:24:16",
       "EffectiveFrom": "2022-06-03T14:33:00",
       "Categories": [
-        "Fire bans",
         "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8545302",
           "EffectiveFrom": "2022-06-03T14:33:00",
@@ -2912,24 +2693,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2025-12-03T07:39:29",
       "EffectiveFrom": "2020-05-14T15:42:39",
       "Categories": [
-        "Fire bans",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/6230922",
           "EffectiveFrom": "2020-05-14T15:42:39",
@@ -2939,35 +2708,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Spring Creek Canyon&#xA0;in Bungonia State Conservation Area&#xA0;is closed due to rockfalls in the area.</p>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Burra Creek Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/burra-creek-nature-reserve",
-        "Id": "65fed3bf-61b5-4694-b6cc-34d261a90db6",
-        "ItemName": "Burra-Creek-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -3069,25 +2809,13 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-02-05T11:18:58",
       "EffectiveFrom": "2025-08-12T09:14:45",
       "Categories": [
-        "Fire bans",
         "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12880701",
           "EffectiveFrom": "2026-02-05T10:24:52",
@@ -3108,35 +2836,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting an ongoing baiting program using meat baits and canid pest ejectors containing 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. The program will be conducted from 12th August 2025 until 12 February 2026&#xA0;in Burrinjuck Nature Reserve.</p>\n\n<p>&#xA0;</p>\n\n<p>All entrances to the baiting location will be sign posted.</p>\n\n<p>&#xA0;</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>&#xA0;</p>\n\n<p>For further information please call NPWS Queanbeyan area office on 02 6229 7166.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Burwood Creek Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/burwood-creek-nature-reserve",
-        "Id": "b092a11b-5309-4962-91dd-94c62ca7bbd6",
-        "ItemName": "Burwood-Creek-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -3523,7 +3222,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-21T17:11:25",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2023-02-02T09:20:36",
       "Categories": [
         "Other planned events",
@@ -3546,7 +3245,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -3869,35 +3568,6 @@
     },
     {
       "Park": {
-        "Name": "Cookbundoon Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/cookbundoon-nature-reserve",
-        "Id": "03e3053d-f8c1-4441-9e17-6719c14a7e82",
-        "ItemName": "Cookbundoon-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Coolah Tops National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/coolah-tops-national-park",
         "Id": "36eb4128-cb0c-40e3-936c-c4ffe97e3205",
@@ -3947,7 +3617,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-19T08:05:19",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2023-02-02T09:20:36",
       "Categories": [
         "Fire bans",
@@ -3958,7 +3628,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -4391,35 +4061,6 @@
     },
     {
       "Park": {
-        "Name": "Cuumbeun Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/cuumbeun-nature-reserve",
-        "Id": "b61d8d04-9601-467f-855b-c43d03fd70d7",
-        "ItemName": "Cuumbeun-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Dandry Gorge Aboriginal Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/dandry-gorge-aboriginal-area",
         "Id": "6f4f68dc-ae4a-403d-a94f-9a6f5e09a985",
@@ -4538,26 +4179,14 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-20T10:06:27",
       "EffectiveFrom": "2014-09-24T10:00:00",
       "Categories": [
-        "Fire bans",
         "Other planned events",
         "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -4747,7 +4376,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-19T08:05:19",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2023-02-02T09:20:36",
       "Categories": [
         "Fire bans",
@@ -4758,7 +4387,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -5093,35 +4722,6 @@
     },
     {
       "Park": {
-        "Name": "Frogs Hole Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/frogs-hole-nature-reserve",
-        "Id": "5a77df5a-ef1d-4a8f-825a-e01b2af9bf88",
-        "ItemName": "Frogs-Hole-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Gaagal Wanggaan (South Beach) National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gaagal-wanggaan-south-beach-national-park",
         "Id": "221b538f-c353-45e8-ad62-4f37a9be2f70",
@@ -5401,35 +5001,6 @@
     },
     {
       "Park": {
-        "Name": "Gillindich Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gillindich-nature-reserve",
-        "Id": "47dcc716-f67d-4a60-afd0-7292cd52ef18",
-        "ItemName": "Gillindich-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Gilwarny Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gilwarny-nature-reserve",
         "Id": "f8d4927a-dc11-43ef-b5e2-359d85d9a466",
@@ -5548,10 +5119,11 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-06T15:53:47",
+      "LastReviewed": "2026-02-07T16:20:12",
       "EffectiveFrom": "2025-09-01T08:00:00",
       "Categories": [
         "Fires - Advice",
+        "Other incidents",
         "Fire bans",
         "Other planned events"
       ],
@@ -5560,11 +5132,22 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12881601",
           "EffectiveFrom": "2026-02-05T15:04:00",
           "EffectiveTo": "2026-02-13T12:32:53",
-          "LastReviewed": "2026-02-06T15:53:47",
+          "LastReviewed": "2026-02-07T16:20:12",
           "Title": "RENSHAW MCGIRR WAY",
           "ItemName": null,
           "Category": "Fires - Advice",
           "DescriptionHtml": "<p>There is a fire in this park called RENSHAW MCGIRR WAY. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12885201",
+          "EffectiveFrom": "2026-02-07T09:06:23",
+          "EffectiveTo": "2026-02-10T09:06:52",
+          "LastReviewed": "2026-02-07T09:16:31",
+          "Title": "Renshaw McGirr Way fire - Goobang NP",
+          "ItemName": null,
+          "Category": "Other incidents",
+          "DescriptionHtml": "<p>A bushfire was detected and report to the NSWS RFS on Thursday 5 February. NPWS responded with RFS volunteers and located the small fire caused by lightning. NPWS firefighters using heavy plant and aircraft were able to contain this fire to a 3 Ha size and maintain the fire behind mineral earth containment.&#xA0;</p>\n\n<p>There is no&#xA0;threat to the park or visitation as a result of this fire.</p>\n\n<p>NPWS staff will patrol and monitor this contained fire undertaking aggressive mop up for the next few days.&#xA0;</p>\n\n<p>For current information please continue to check the NSW RFS Incidents near Me&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information/fires-near-me\">Fires Near Me</a></p>\n\n<p>Or call the NSW NPWS Central West Area Bathurst office 02 6332 7640</p>",
           "IsKml": false
         },
         {
@@ -5688,7 +5271,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-19T08:05:19",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2023-02-02T09:20:36",
       "Categories": [
         "Fire bans",
@@ -5699,7 +5282,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -5729,7 +5312,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-19T08:05:19",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2023-02-02T09:20:36",
       "Categories": [
         "Fire bans",
@@ -5740,7 +5323,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -5770,7 +5353,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-06T14:36:17",
+      "LastReviewed": "2026-02-07T10:00:33",
       "EffectiveFrom": "2026-02-04T17:35:00",
       "Categories": [
         "Fires - Advice"
@@ -5780,40 +5363,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12879601",
           "EffectiveFrom": "2026-02-04T17:35:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-02-06T14:36:17",
+          "LastReviewed": "2026-02-07T10:00:33",
           "Title": "OLD ARMIDALE RD, STANNIFER",
           "ItemName": null,
           "Category": "Fires - Advice",
           "DescriptionHtml": "<p>There is a fire in this park called OLD ARMIDALE RD, STANNIFER. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Goorooyarroo Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/goorooyarroo-nature-reserve",
-        "Id": "5c1c2747-2bff-4758-a2b6-85e7ad100d51",
-        "ItemName": "Goorooyarroo-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -5886,24 +5440,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-13T11:02:50",
       "EffectiveFrom": "2022-02-14T14:02:54",
       "Categories": [
-        "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8256522",
           "EffectiveFrom": "2022-02-14T14:02:54",
@@ -6302,35 +5844,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Hattons Corner Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/hattons-corner-nature-reserve",
-        "Id": "8b6df9f9-719b-4019-ab30-79699c5741d2",
-        "ItemName": "Hattons-Corner-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -6842,35 +6355,6 @@
     },
     {
       "Park": {
-        "Name": "Jerralong Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/jerralong-nature-reserve",
-        "Id": "5e1a6588-1e7e-4b96-acfc-1902922b6013",
-        "ItemName": "Jerralong-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Jilliby State Conservation Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/jilliby-state-conservation-area",
         "Id": "c56c6e1f-dfae-4fd0-8ec0-8e4935627b05",
@@ -7111,7 +6595,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -7121,7 +6605,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -7230,7 +6714,7 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Kurnell Visitor Centre is currently closed and will remain closed until&#xA0;2026. A new visitor centre is under construction.</p>\n\n<p>During construction works, the precinct, including the carpark, will be fenced off and work crews will be on-site. Access to some walking tracks will be impacted. Please refer to on-site signage.</p>\n\n<p>Parking and toilets are&#xA0;available at the Cricket Pitch and Commemoration flat precincts.</p>\n\n<p>We apologise for any inconvenience.</p>\n\n<p>To learn more about the improvements being made as part of the <a href=\"https://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/park-management/community-engagement/kamay-botany-bay-national-park-public-consultation\">Kamay 2020 Master Plan Project</a>,&#xA0;<a href=\"mailto:npws.sydneysouth@environment.nsw.gov.au\">email</a> or call the local area office on&#xA0;02 9668 2010.</p>",
-          "IsKml": true
+          "IsKml": false
         }
       ]
     },
@@ -7244,7 +6728,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-19T07:59:42",
       "EffectiveFrom": "2023-09-29T16:04:49",
       "Categories": [
         "Fire bans",
@@ -7253,17 +6737,6 @@
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12537001",
           "EffectiveFrom": "2025-10-02T07:29:42",
@@ -7451,122 +6924,6 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>This park is closed due to <a href=\"https://www.nationalparks.nsw.gov.au/conservation-programs/fighting-invasive-phytophthora\">Phytophthora contamination</a>, unless the closure is otherwise extended or removed.</p>\n\n<p>To prevent phytophthora infection and spreading in parks and at home, try these hygiene tips:</p>\n\n<ul>\n\t<li>Start your trip with clean, dirt-free, dry gear (including shoes, bike tyres, camping gear, vehicles)</li>\n\t<li>Use the boot wash or scrub stations provided &#x2013; these capture contaminated water or control flow to septic or sewage systems where root rot will die</li>\n\t<li>Stay on formed tracks</li>\n\t<li>Follow instructions on signage</li>\n\t<li>Clean your gear again when you get home &#x2013; try a solution of 70% methylated spirits or ethanol, 30% water, and wash straight into the septic/sewage system. You may want to keep a spray bottle in the car.</li>\n</ul>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/viewtop/inforce/subordleg+427+2009+cd+0+N/?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>. For more information, please call&#xA0;the NPWS Cumberland area office on 02&#xA0;4572 3100.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Kerrawary Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kerrawary-nature-reserve",
-        "Id": "87c963ec-4e7a-468f-acee-0ee92118ae0e",
-        "ItemName": "Kerrawary-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Keverstone National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/keverstone-national-park",
-        "Id": "5f0ec60c-838d-4d0a-a03b-fd243d464596",
-        "ItemName": "Keverstone-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Keverstone State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/keverstone-state-conservation-area",
-        "Id": "638b7bd8-2200-495d-b83d-f47d6efba4c3",
-        "ItemName": "Keverstone-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Khancoban area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/khancoban-area",
-        "Id": "3dfe7356-14cd-4c9b-abbc-d546425ee6d3",
-        "ItemName": "khancoban-area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-06T16:19:15",
-      "EffectiveFrom": "2026-02-05T09:10:00",
-      "Categories": [
-        "Fires - Advice"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12880001",
-          "EffectiveFrom": "2026-02-05T09:10:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-02-06T16:19:15",
-          "Title": "Happy Jacks",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Happy Jacks. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -7767,7 +7124,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -7777,7 +7134,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -7854,37 +7211,14 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-06T16:19:15",
+      "LastReviewed": "2026-02-06T11:18:08",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
-        "Fires - Advice",
         "Other planned events",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12880001",
-          "EffectiveFrom": "2026-02-05T09:10:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-02-06T16:19:15",
-          "Title": "Happy Jacks",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Happy Jacks. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12873401",
-          "EffectiveFrom": "2026-02-02T16:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-02-06T16:06:39",
-          "Title": "Marica",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Marica. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12808401",
           "EffectiveFrom": "2026-02-05T20:00:05",
@@ -8112,7 +7446,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 4,
+      "ClosedAreasCount": 2,
       "LastReviewed": "2026-02-04T11:16:35",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
@@ -8129,17 +7463,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service will be conducting a baiting program using manufactured baits, fresh baits and Canid Pest Ejectors (CPEs) containing 1080 poison (sodium fluroacetate) for the control of foxes. The program is continuous and ongoing between 1 February and 31 July 2026 in <strong>Ku-ring-gai Chase</strong> <strong>National Park</strong>.</p>\n\n<p>All baiting locations are identifiable by signs. Don&#x2019;t touch baits or ejector devices. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\n\n<p>Domestic pets are not permitted in NSW national parks and reserves. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Fox baiting in these reserves is aimed at reducing their impact on threatened species.</p>\n\n<p>For more information, contact the local park office on:</p>\n\n<ul>\n\t<li>Forestville 9451 3479 or Lane Cove 8448 0400 (business hours)</li>\n\t<li>NPWS after-hours call centre: 1300 056 294 (after hours)</li>\n</ul>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12829201",
-          "EffectiveFrom": "2026-02-06T07:00:00",
-          "EffectiveTo": "2026-02-07T06:00:00",
-          "LastReviewed": "2026-02-02T09:21:05",
-          "Title": "Kalkari Discovery Centre and trail closed for maintenance",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Kalkari Discovery Centre is closed on Friday 6&#xA0;February 2026 for planned maintenance works. The&#xA0;Kalkari discovery trail will also be closed.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the North Western Sydney NPWS office on 02 8448 0400.</p>",
           "IsKml": false
         },
         {
@@ -8940,24 +8263,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-20T10:06:27",
       "EffectiveFrom": "2026-01-01T06:00:00",
       "Categories": [
-        "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -9079,24 +8390,13 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-29T15:52:12",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
         "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12581101",
           "EffectiveFrom": "2025-10-01T09:43:58",
@@ -9212,7 +8512,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-20T13:34:33",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2025-07-12T13:48:31",
       "Categories": [
         "Fire bans",
@@ -9223,7 +8523,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -9239,35 +8539,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>Maynggu Ganai Historic Site consist of three separate management precincts - locally referred to as the Government House Block, the Military Barracks Block and the Well Block. Please be advised that the National Parks and Wildlife Service (NPWS) undertakes regular and ongoing weed spraying operations across these three areas. These weed management works include (but are not limited too) spraying of all of the boundary and timber bollard fence lines and internal walking track routes with Roundup Biactive and Associate (being glyphosate and metsulfuron chemical products respectively). These works are conducted in order to; control exotic grasses and environmental weeds, assist with grounds maintenance activities such as mowing and improve the aesthetics of the site. In addition, NPWS staff then treat other emerging weeds on a cases by case basis, such as St Johns Wort using Grazon Extra.</p>\n\n<p>For further information regarding this activity please contact the NPWS Central West Area office at either Dubbo on 02 6841 7100 or Bathurst on 02 6332 7640</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Mcleods Creek Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mcleods-creek-nature-reserve",
-        "Id": "c3851617-ee77-44e5-b3fe-52555393a949",
-        "ItemName": "mcleods-creek-nature-reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -9520,7 +8791,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-19T08:05:19",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2023-02-02T09:20:36",
       "Categories": [
         "Fire bans",
@@ -9531,7 +8802,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -9561,25 +8832,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-20T10:06:27",
       "EffectiveFrom": "2023-06-30T13:41:48",
       "Categories": [
-        "Fire bans",
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -9614,24 +8873,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-20T10:06:27",
       "EffectiveFrom": "2026-01-01T06:00:00",
       "Categories": [
-        "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -9816,7 +9063,6 @@
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
         "Other planned events",
-        "Fire bans",
         "Closed areas"
       ],
       "Alerts": [
@@ -9829,17 +9075,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>Roadworks will be underway on Yadboro Road and Blue Gum Flat Road from Friday&#xA0;6&#xA0;February for approximately 3 weeks.&#xA0;The road may be uneven and slippery during this time. Drive safely and follow the directions of roadwork signs and NPWS staff.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         },
         {
@@ -10030,35 +9265,6 @@
     },
     {
       "Park": {
-        "Name": "Mount Davies Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mount-davies-nature-reserve",
-        "Id": "e1124bba-635d-4c10-bd8a-828b4bfa674b",
-        "ItemName": "Mount-Davies-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Mount Grenfell Historic Site",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mount-grenfell-historic-site",
         "Id": "bf725505-9526-4cf8-a952-1cf1ac47caa8",
@@ -10067,7 +9273,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -10077,7 +9283,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -10096,7 +9302,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -10106,7 +9312,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -10125,7 +9331,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -10135,7 +9341,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -10309,35 +9515,6 @@
     },
     {
       "Park": {
-        "Name": "Mundoonen Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mundoonen-nature-reserve",
-        "Id": "b362b2dc-b7cf-4f8d-8205-c6166aed5e58",
-        "ItemName": "Mundoonen-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Munghorn Gap Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/munghorn-gap-nature-reserve",
         "Id": "9a2c4654-b3f0-40ed-8314-f23508787bfb",
@@ -10375,7 +9552,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-02-06T09:13:05",
+      "LastReviewed": "2026-01-30T11:14:53",
       "EffectiveFrom": "2024-07-11T12:10:16",
       "Categories": [
         "Closed areas",
@@ -10383,17 +9560,6 @@
         "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12882801",
-          "EffectiveFrom": "2026-02-06T09:00:00",
-          "EffectiveTo": "2026-02-06T23:59:00",
-          "LastReviewed": "2026-02-06T09:13:05",
-          "Title": "Areas closed for ground shooting for feral animal control",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in this park are closed on Friday 6 February 2026 for ground shooting for feral animal control.</p>\n\n<p>Public access is not permitted on park management trails at any time.</p>\n\n<p><a href=\"http://click.ngcomms.net/qnieme52ysyf/bj6ksnu4vdoh4/t8h03a9g75d7\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12804001",
           "EffectiveFrom": "2026-02-02T08:00:00",
@@ -10450,7 +9616,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-06T09:13:05",
+      "LastReviewed": "2026-01-30T11:14:53",
       "EffectiveFrom": "2024-07-11T12:10:16",
       "Categories": [
         "Closed areas",
@@ -10458,17 +9624,6 @@
         "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12882801",
-          "EffectiveFrom": "2026-02-06T09:00:00",
-          "EffectiveTo": "2026-02-06T23:59:00",
-          "LastReviewed": "2026-02-06T09:13:05",
-          "Title": "Areas closed for ground shooting for feral animal control",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some areas in this park are closed on Friday 6 February 2026 for ground shooting for feral animal control.</p>\n\n<p>Public access is not permitted on park management trails at any time.</p>\n\n<p><a href=\"http://click.ngcomms.net/qnieme52ysyf/bj6ksnu4vdoh4/t8h03a9g75d7\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12804001",
           "EffectiveFrom": "2026-02-02T08:00:00",
@@ -10908,7 +10063,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 30,
-      "LastReviewed": "2026-02-06T18:01:30",
+      "LastReviewed": "2026-02-07T17:32:53",
       "EffectiveFrom": "2024-10-05T11:33:47",
       "Categories": [
         "Fires - Advice",
@@ -10921,7 +10076,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12858001",
           "EffectiveFrom": "2026-01-27T15:44:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-02-06T18:01:30",
+          "LastReviewed": "2026-02-07T17:32:53",
           "Title": "PACIFIC HWY, NERONG",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -10932,11 +10087,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12868601",
           "EffectiveFrom": "2026-02-01T11:54:56",
           "EffectiveTo": "2026-02-10T23:59:15",
-          "LastReviewed": "2026-02-06T17:32:50",
+          "LastReviewed": "2026-02-07T15:07:32",
           "Title": "Parts of Myall Lakes National Park near Mungo Brush are closed due to wildfire",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>To ensure public safety while there is an active fire, sections of Myall Lakes National Park along Mungo Brush Road are closed.</p>\n\n<p>&#xA0;</p>\n\n<p>Closed areas include:</p>\n\n<p>1. Myall Lakes National Park campgrounds and picnic areas between the Broadwater Ferry at Bombah Point Road and the southern park boundary (north of Myall River Camp) on Mungo Brush Road are all closed.</p>\n\n<p>2. Mungo Brush Road from Lemon Tree Beach access to Bombah Point Ferry is closed.</p>\n\n<p>4. Access to Mungo Beach via Mungo Beach access is&#xA0;closed.</p>\n\n<p>4. The Bombah Point Ferry is closed to the general public. (Emergency vehicles excepted).</p>\n\n<p>&#xA0;</p>\n\n<p>The situation will be reviewed Wednesday 11th of February 2026.</p>\n\n<p>If you have an existing campground booking, please contact 1300 072 757 for assistance and refunds.</p>",
+          "DescriptionHtml": "<p>To ensure public safety while there is an active fire, sections of Myall Lakes National Park along Mungo Brush Road are closed.</p>\n\n<p>&#xA0;</p>\n\n<p>Closed areas include:</p>\n\n<p>1. Myall Lakes National Park campgrounds and picnic areas between the Broadwater Ferry at Bombah Point Road and the southern park boundary (north of Myall River Camp) on Mungo Brush Road are all closed.</p>\n\n<p>2. Mungo Brush Road from Lemon Tree Beach access to Bombah Point Ferry is closed.</p>\n\n<p>4. Access to Mungo Beach via Mungo Beach access is&#xA0;closed.</p>\n\n<p>4. The Bombah Point Ferry is closed to the general public. (Emergency vehicles excepted).</p>\n\n<p>&#xA0;</p>\n\n<p>Please note; Fire has impacted the lower Myall River (between Bombah Broadwater and Tea Gardens ). To ensure firefighter and public safety, please do not enter&#xA0;the lower Myall River until further advised.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>The situation will be reviewed Wednesday 11th of February 2026.</p>\n\n<p>If you have an existing campground booking, please contact 1300 072 757 for assistance and refunds.</p>",
           "IsKml": false
         },
         {
@@ -11060,35 +10215,6 @@
     },
     {
       "Park": {
-        "Name": "Nadgigomar Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nadgigomar-nature-reserve",
-        "Id": "e7ba011e-c14e-4738-84af-fda7dc2249b1",
-        "ItemName": "Nadgigomar-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Nangar National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nangar-national-park",
         "Id": "e5af82e9-9d9a-4052-8a07-287ac1a943b4",
@@ -11141,35 +10267,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfires and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Narrangarril Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/narrangarril-nature-reserve",
-        "Id": "932697bb-7866-4901-a482-85fa3009b965",
-        "ItemName": "Narrangarril-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -11537,7 +10634,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-07T11:35:47",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2021-01-06T12:37:38",
       "Categories": [
         "Fire bans",
@@ -11548,7 +10645,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -11578,7 +10675,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-07T11:35:47",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2021-01-06T12:37:38",
       "Categories": [
         "Fire bans",
@@ -11589,7 +10686,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -11605,35 +10702,6 @@
           "ItemName": null,
           "Category": "Other incidents",
           "DescriptionHtml": "<p>There are a number of restrictions on visitation and access by the general public to Yathong, Nombinnie and Round Hill Nature Reserves and Nombinnie State Conservation Area.&#xA0;</p>\n\n<ul>\n\t<li>These reserves are not available for overnight camping or hiking. Visitation is restricted to day visits&#xA0;only.</li>\n\t<li>Vehicle access is restricted to the public roads passing through or adjoining the reserves.&#xA0;Management trails are closed to vehicles. However you&#xA0;are welcome to walk on the trails.</li>\n\t<li>Bird watchers are welcome to walk into the reserves and along management trails. However take care&#xA0;to make sure you can navigate back to your car - it is easy to get disorientated in mallee country.</li>\n\t<li>Trips to Round Hill Nature Reserve by bird watching clubs can be done by prior&#xA0;arrangement.</li>\n\t<li>There are a number of scientific research programs happening in the reserves and visitors should not disturb any field equipment if they come across it.</li>\n\t<li>The reserves are closed periodically to allow management programs to be undertaken.&#xA0;Please check the website for closures prior to visits.</li>\n</ul>\n\n<p>For further information contact the NPWS Central West area, Bathurst office on 02 6332 7640.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Nuggetty State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nuggetty-state-conservation-area",
-        "Id": "8c118b24-7886-4aa6-affb-43a91b6f2e4f",
-        "ItemName": "Nuggetty-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -11709,8 +10777,7 @@
       "LastReviewed": "2026-02-06T16:41:38",
       "EffectiveFrom": "2025-09-01T08:00:00",
       "Categories": [
-        "Other planned events",
-        "Fire bans"
+        "Other planned events"
       ],
       "Alerts": [
         {
@@ -11722,46 +10789,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting an ongoing baiting program&#xA0;from 1st September 2025 until 1st&#xA0;March 2026.</p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs.</p>\n\n<p>The program will take place in:</p>\n\n<ul>\n\t<li>Brindabella National Park</li>\n\t<li>Bimberi Nature Reserve</li>\n\t<li>Wee Jasper Nature Reserve</li>\n\t<li>Oak Creek Nature Reserve</li>\n</ul>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please call NPWS Queanbeyan area office on 02 6229 7166.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Oakdale Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/oakdale-nature-reserve",
-        "Id": "aceafe78-4c2c-446f-b9a8-a35faf4252eb",
-        "ItemName": "Oakdale-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -11846,7 +10873,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -11856,7 +10883,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -12251,35 +11278,6 @@
     },
     {
       "Park": {
-        "Name": "Pomaderris Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/pomaderris-nature-reserve",
-        "Id": "6527cadd-53ac-4c53-8e87-c3e6e1d822aa",
-        "ItemName": "Pomaderris-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Popran National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/popran-national-park",
         "Id": "92bdbb35-4f32-4cc1-b2d5-bfe5b87da9c8",
@@ -12433,7 +11431,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:09",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2025-11-01T13:27:10",
       "Categories": [
         "Fire bans"
@@ -12443,40 +11441,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban will be in place from 1 November 2025 until 31 March 2026 in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or cooker.<br/>\n<a href=\"http://click.ngcomms.net/q99z0h9thzjx/bd6zrqx52zs6r/syxwgx59a8bp\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://click.ngcomms.net/q99z0h9thzjx/bd6zrqx52zs6r/syxwjp9j0tw9\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Queanbeyan Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/queanbeyan-nature-reserve",
-        "Id": "472607c0-464c-4864-aba5-5f7c82e74f2a",
-        "ItemName": "Queanbeyan-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -12506,35 +11475,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting an ongoing baiting program from Thursday 5&#xA0;February&#xA0;2026&#xA0;to Thursday 2&#xA0;February&#xA0;2027. The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. This program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Baiting programs will take place across Kosciuszko National Park Wild Dog Plan Areas including:</p>\n\n<ul>\n\t<li>Thredbo/Ingebyra</li>\n\t<li>Dalgety/Paupong</li>\n\t<li>Corrowong/Tombong/Merriangaah</li>\n</ul>\n\n<p>Baiting programs will also take place in nature reserves including:</p>\n\n<ul>\n\t<li>Paupong Nature Reserve</li>\n\t<li>Merriangaah Nature Reserve</li>\n\t<li>Quidong Nature Reserves</li>\n</ul>\n\n<p>This includes the following sections of Kosciuszko National Park:</p>\n\n<ul>\n\t<li>Thredbo Valley</li>\n\t<li>Moonbah</li>\n\t<li>Ingebyra</li>\n\t<li>Paupong</li>\n\t<li>Numbla Vale</li>\n\t<li>Corrowong</li>\n</ul>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information, please call the Jindabyne area office on 02 6450 5555.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Razorback Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/razorback-nature-reserve",
-        "Id": "b0c3968c-6101-4870-b059-434aa5a4dd49",
-        "ItemName": "Razorback-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -12688,7 +11628,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-07T11:35:47",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2021-01-06T12:37:38",
       "Categories": [
         "Fire bans",
@@ -12699,7 +11639,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -12770,7 +11710,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-19T08:05:19",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2023-02-02T09:20:36",
       "Categories": [
         "Fire bans",
@@ -12781,7 +11721,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -12895,35 +11835,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Longneck Boardwalk currently closed due to flood damage. The rest of Longneck walking track is open.&#xA0;</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Scott Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/scott-nature-reserve",
-        "Id": "a3b0463e-9a4f-4fda-9992-69a89cb2343f",
-        "ItemName": "Scott-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -13220,35 +12131,6 @@
     },
     {
       "Park": {
-        "Name": "Stony Creek Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/stony-creek-nature-reserve",
-        "Id": "35f03337-af46-4757-bbf4-3aa85fc58f01",
-        "ItemName": "Stony-Creek-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Sturt National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/sturt-national-park",
         "Id": "ea90b0f7-8fc2-498f-9776-b9f4ae2779e2",
@@ -13487,25 +12369,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-13T11:02:50",
       "EffectiveFrom": "2022-02-14T14:02:54",
       "Categories": [
-        "Fire bans",
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8256522",
           "EffectiveFrom": "2022-02-14T14:02:54",
@@ -13540,24 +12410,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-13T11:02:50",
       "EffectiveFrom": "2022-02-14T14:02:54",
       "Categories": [
-        "Fire bans",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8256522",
           "EffectiveFrom": "2022-02-14T14:02:54",
@@ -13713,35 +12571,6 @@
     },
     {
       "Park": {
-        "Name": "Tarlo River National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/tarlo-river-national-park",
-        "Id": "e9db981b-7ea7-4ef9-931c-6389745b8028",
-        "ItemName": "Tarlo-River-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Terry Hie Hie Aboriginal Area",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/terry-hie-hie-aboriginal-area",
         "Id": "d03589b8-8e7e-42fd-9a08-35766191a515",
@@ -13765,35 +12594,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfires and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Thalaba Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/thalaba-nature-reserve",
-        "Id": "9606df64-9300-446f-b690-afce8baab556",
-        "ItemName": "Thalaba-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -13957,35 +12757,6 @@
     },
     {
       "Park": {
-        "Name": "Tinderry Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/tinderry-nature-reserve",
-        "Id": "88cb4d1a-6817-473f-8d24-909e7b0e4baf",
-        "ItemName": "Tinderry-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Tinkrameanah National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/tinkrameanah-national-park",
         "Id": "df98bbf8-2a98-4e39-ac65-318844e6af83",
@@ -14131,6 +12902,35 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>The Lighthouse Keepers' Cottages Ruins site&#xA0;is closed to pedestrian&#xA0;access for public safety reasons.&#xA0;Please do not enter the site under any circumstances.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the local office.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Tooloom National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/tooloom-national-park",
+        "Id": "2ca235a4-c7a6-452e-9e08-2de97f8c217e",
+        "ItemName": "Tooloom-National-Park"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-02-07T17:47:28",
+      "EffectiveFrom": "2026-02-07T10:30:00",
+      "Categories": [
+        "Hazard reduction burns"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12883901",
+          "EffectiveFrom": "2026-02-07T10:30:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-02-07T17:47:28",
+          "Title": "Goodwin HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 07/02/2026. The fire is called&#xA0;Goodwin HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -14387,64 +13187,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Tumut area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/tumut-area",
-        "Id": "ef70a322-c087-432e-8ca1-9759cbdf9226",
-        "ItemName": "tumut-area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-06T16:06:39",
-      "EffectiveFrom": "2026-02-02T16:00:00",
-      "Categories": [
-        "Fires - Advice"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12873401",
-          "EffectiveFrom": "2026-02-02T16:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-02-06T16:06:39",
-          "Title": "Marica",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Marica. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Turallo Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/turallo-nature-reserve",
-        "Id": "3f35d8ec-f3ad-478f-9cec-9762a27ed3c3",
-        "ItemName": "Turallo-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -14806,35 +13548,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Wanna Wanna Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wanna-wanna-nature-reserve",
-        "Id": "46fff2dd-4bfe-46d3-b52c-487591fc4e10",
-        "ItemName": "Wanna-Wanna-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -15297,8 +14010,7 @@
       "LastReviewed": "2026-02-06T16:41:38",
       "EffectiveFrom": "2025-09-01T08:00:00",
       "Categories": [
-        "Other planned events",
-        "Fire bans"
+        "Other planned events"
       ],
       "Alerts": [
         {
@@ -15310,17 +14022,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting an ongoing baiting program&#xA0;from 1st September 2025 until 1st&#xA0;March 2026.</p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs.</p>\n\n<p>The program will take place in:</p>\n\n<ul>\n\t<li>Brindabella National Park</li>\n\t<li>Bimberi Nature Reserve</li>\n\t<li>Wee Jasper Nature Reserve</li>\n\t<li>Oak Creek Nature Reserve</li>\n</ul>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please call NPWS Queanbeyan area office on 02 6229 7166.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
           "IsKml": false
         }
       ]
@@ -15504,23 +14205,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-29T15:52:12",
       "EffectiveFrom": "2025-10-01T09:43:58",
       "Categories": [
         "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12581101",
           "EffectiveFrom": "2025-10-01T09:43:58",
@@ -16101,24 +14791,13 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
+      "LastReviewed": "2026-01-30T09:06:15",
       "EffectiveFrom": "2025-07-08T15:02:47",
       "Categories": [
-        "Fire bans",
-        "Other incidents"
+        "Other incidents",
+        "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12191301",
           "EffectiveFrom": "2025-07-08T15:02:47",
@@ -16182,7 +14861,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-05T08:18:02",
+      "LastReviewed": "2026-02-07T09:05:55",
       "EffectiveFrom": "2025-11-01T00:22:08",
       "Categories": [
         "Fire bans"
@@ -16192,7 +14871,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
           "EffectiveTo": "2026-03-31T23:00:00",
-          "LastReviewed": "2026-01-05T08:18:02",
+          "LastReviewed": "2026-02-07T09:05:55",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -16528,93 +15207,6 @@
     },
     {
       "Park": {
-        "Name": "Yanununbeyan National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yanununbeyan-national-park",
-        "Id": "d21db196-2021-4c93-87d5-95509decabbf",
-        "ItemName": "Yanununbeyan-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Yanununbeyan Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yanununbeyan-nature-reserve",
-        "Id": "d996c30f-17f6-4c6d-82d5-e965c8c75380",
-        "ItemName": "Yanununbeyan-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Yanununbeyan State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yanununbeyan-state-conservation-area",
-        "Id": "3e928ae6-f504-406b-bf14-372cf16ca64a",
-        "ItemName": "Yanununbeyan-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-05T15:08:40",
-      "EffectiveFrom": "2026-02-06T00:00:00",
-      "Categories": [
-        "Fire bans"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12881401",
-          "EffectiveFrom": "2026-02-06T00:00:00",
-          "EffectiveTo": "2026-02-06T23:59:59",
-          "LastReviewed": "2026-02-05T15:08:40",
-          "Title": "Total Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A total fire ban has been declared by the <a href=\"http://www.rfs.nsw.gov.au/\">NSW Rural Fire Service</a>. The total fire ban applies for the entire 24-hour period. <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules\">Total fire ban rules apply</a>. This ban may be extended. Please continue to check this website. To find out where and when total fire bans are currently in effect, please visit the <a href=\"http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">NSW Rural Fire Service</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Yaouk Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yaouk-nature-reserve",
         "Id": "d1205bca-5790-43d5-a8df-15bbbbf4ba06",
@@ -16710,7 +15302,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-07T11:35:47",
+      "LastReviewed": "2026-02-07T09:05:48",
       "EffectiveFrom": "2021-01-06T12:37:38",
       "Categories": [
         "Fire bans",
@@ -16721,7 +15313,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12534401",
           "EffectiveFrom": "2025-11-01T13:27:10",
           "EffectiveTo": "2026-03-31T13:27:36",
-          "LastReviewed": "2026-01-05T08:18:09",
+          "LastReviewed": "2026-02-07T09:05:48",
           "Title": "Park Fire Ban",
           "ItemName": null,
           "Category": "Fire bans",
@@ -16749,26 +15341,14 @@
         "ItemName": "Yellomundee-Regional-Park"
       },
       "Closed": false,
-      "PartClosed": true,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-06T07:43:56",
+      "LastReviewed": "2026-02-05T11:22:08",
       "EffectiveFrom": "2025-10-01T09:00:28",
       "Categories": [
-        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12829401",
-          "EffectiveFrom": "2026-01-27T00:00:01",
-          "EffectiveTo": "2026-02-06T22:00:00",
-          "LastReviewed": "2026-02-06T07:43:56",
-          "Title": "Nepean River fire trail closed for repairs",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Nepean River fire trail in Yellomundee Regional Park will be closed for repairs&#xA0;from Tuesday 27 January 2026 to&#xA0;Friday 6th February&#xA0;2026, including weekends.</p>\n\n<p>The fire trail will be closed to all visitors, including pedestrians, cyclists and vehicles.</p>\n\n<p><a href=\"http://click.ngcomms.net/qklcit56gjzn/bgpacd952f8it/t52th94og8in\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office (02) 4720 6200.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12580501",
           "EffectiveFrom": "2025-10-01T09:00:28",
