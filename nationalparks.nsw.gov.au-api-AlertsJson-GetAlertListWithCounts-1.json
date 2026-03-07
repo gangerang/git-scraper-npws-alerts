@@ -342,7 +342,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-06T16:26:14",
+      "LastReviewed": "2026-03-07T16:42:19",
       "EffectiveFrom": "2026-02-23T11:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -352,7 +352,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12926701",
           "EffectiveFrom": "2026-02-23T11:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-06T16:26:14",
+          "LastReviewed": "2026-03-07T16:42:19",
           "Title": "Pulfords Road Nundle SF",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -1622,7 +1622,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-06T17:44:21",
+      "LastReviewed": "2026-03-07T16:21:29",
       "EffectiveFrom": "2026-02-16T11:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -1632,7 +1632,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12943301",
           "EffectiveFrom": "2026-02-16T11:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-06T17:44:21",
+          "LastReviewed": "2026-03-07T16:21:29",
           "Title": "Valla Road, Viewmont State Forest Plantations",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -1997,14 +1997,26 @@
         "ItemName": "Bournda-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-23T09:26:44",
+      "PartClosed": true,
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2026-03-07T09:20:15",
       "EffectiveFrom": "2026-01-01T06:00:00",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12946701",
+          "EffectiveFrom": "2026-03-07T08:42:37",
+          "EffectiveTo": "2026-04-04T09:19:10",
+          "LastReviewed": "2026-03-07T09:20:15",
+          "Title": "Bournda Beach access stairs - modified access",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Beach access stairs from Hobart Beach campground are currently closed due to damage. There is a temporary track adjacent to the stairs&#xA0;allowing beach access. Stairs will replaced from late March for approximately 2 weeks. During this time will be no beach access from Hobart Beach campground.&#xA0;Please follow local directional signage.&#xA0;&#xA0;&#xA0;</p>\n\n<p>Bournda Lagoon overflow car park stairs will be closed for replacement from the 12th March 2026 to the 27th March 2026. The Bournda Lagoon day use area beach access remains accessible. For enquires, please contact the Merimbula office on 6495 5000.&#xA0;&#xA0;&#xA0;</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -3795,35 +3807,6 @@
     },
     {
       "Park": {
-        "Name": "Corrie Island Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/corrie-island-nature-reserve",
-        "Id": "9e8eae6d-ecf9-4684-8c52-f5fb6a3b0c08",
-        "ItemName": "Corrie-Island-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-27T09:52:48",
-      "EffectiveFrom": "2025-08-01T10:13:27",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12391401",
-          "EffectiveFrom": "2025-08-01T10:13:27",
-          "EffectiveTo": "2026-03-31T10:20:38",
-          "LastReviewed": "2026-01-27T09:52:48",
-          "Title": "Corrie Island Nature Reserve closed for shorebird nesting season",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Corrie Island Nature Reserve is closed from Friday 1 August 2023 to Sunday 31 March 2026 for the protection of beach-nesting shorebirds.</p>\n\n<p>Corrie Island is an important breeding site for endangered little terns and pied oystercatchers. The island is closed to visitors for the duration of the nesting season to reduce disturbance that can cause egg or chick deaths.</p>\n\n<p>During the closure period visitors may not land anywhere on Corrie Island, and only NPWS staff and authorised volunteers are allowed on the island. Pest control activities may be undertaken on the island during this time.</p>\n\n<p><a href=\"http://click.ngcomms.net/g8cm7m9fkyaa/62ecvie4vf5di/guqbja9mlfnb\">Penalties apply for non-compliance</a>. For more information&#xA0;call the local park office on 02 4984 8200.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Couradda National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/couradda-national-park",
         "Id": "5efe2c5d-7e62-4e0b-b814-a3b773184a42",
@@ -4560,8 +4543,8 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-25T09:30:59",
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2026-03-07T10:03:47",
       "EffectiveFrom": "2015-10-21T11:57:17",
       "Categories": [
         "Closed areas",
@@ -4569,6 +4552,17 @@
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12946801",
+          "EffectiveFrom": "2026-03-07T09:42:43",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-03-07T10:03:47",
+          "Title": "Areas closed for road maintenance grading",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some roads this park are closed from Monday 9th March to Friday 20th March 2026 for the purpose of road grading.</p>\n\n<p>The closed areas will be sign-posted, and barriers will be placed at all relevant access points whilst works are being undertaken, the affected roads are:</p>\n\n<ul>\n\t<li>Mullimburra Point Road</li>\n\t<li>Parkers Beach Road</li>\n\t<li>Grey Rocks Road</li>\n\t<li>Bingie Point Road</li>\n</ul>\n\n<p>Access to these nearby sections of Bingi Dreaming Track using listed roads will not be available whilst road work is being undertaken.</p>\n\n<p>Visitors and other road users are advised to avoid the area until works are completed. The closure period maybe extended following rainfall in order to prevent road damage from vehicles.</p>\n\n<p>Please check the NPWS website for updates before travelling to Eurobodalla National Park and follow directions from NPWS officers, NPWS authorised traffic controllers and contractors. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, contact the local NPWS Eurobodalla Area Office on 02 4476 0800.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12926501",
           "EffectiveFrom": "2026-02-25T09:28:32",
@@ -6267,25 +6261,13 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-03-04T10:44:01",
+      "LastReviewed": "2026-01-19T07:59:22",
       "EffectiveFrom": "2024-07-18T16:36:09",
       "Categories": [
-        "Fire bans",
         "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12537001",
-          "EffectiveFrom": "2025-10-02T07:29:42",
-          "EffectiveTo": "2026-03-07T01:00:00",
-          "LastReviewed": "2026-03-04T10:44:01",
-          "Title": "Park Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11063801",
           "EffectiveFrom": "2024-07-18T16:36:09",
@@ -6719,26 +6701,14 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-04T10:44:01",
+      "LastReviewed": "2026-01-19T07:59:42",
       "EffectiveFrom": "2023-09-29T16:04:49",
       "Categories": [
-        "Fire bans",
         "Safety alerts",
         "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12537001",
-          "EffectiveFrom": "2025-10-02T07:29:42",
-          "EffectiveTo": "2026-03-07T01:00:00",
-          "LastReviewed": "2026-03-04T10:44:01",
-          "Title": "Park Fire Ban",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12060301",
           "EffectiveFrom": "2025-07-01T13:20:27",
@@ -6813,7 +6783,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-01-27T09:52:37",
+      "LastReviewed": "2026-03-06T18:11:32",
       "EffectiveFrom": "2025-07-01T09:43:30",
       "Categories": [
         "Closed areas"
@@ -6823,7 +6793,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12387201",
           "EffectiveFrom": "2025-07-01T09:43:30",
           "EffectiveTo": null,
-          "LastReviewed": "2026-01-27T09:52:37",
+          "LastReviewed": "2026-03-06T18:11:32",
           "Title": "Little Mountain campground and Little Mountain Road closed for repair",
           "ItemName": null,
           "Category": "Closed areas",
@@ -7262,7 +7232,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-03T11:14:41",
+      "LastReviewed": "2026-03-07T15:55:18",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
         "Other planned events",
@@ -7428,7 +7398,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12705501",
           "EffectiveFrom": "2025-12-08T00:14:46",
           "EffectiveTo": "2026-06-08T16:27:19",
-          "LastReviewed": "2026-02-06T08:17:27",
+          "LastReviewed": "2026-03-07T15:55:18",
           "Title": "Notice of 1080 ongoing program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -7799,35 +7769,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Innes Ruins is closed to public entry except by <a href=\"https://www.nationalparks.nsw.gov.au/things-to-do/guided-tours/innes-ruins-historic-site-guided-tour\">guided tour</a>. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office on 02 6588 5555.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Lake Macquarie State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/lake-macquarie-state-conservation-area",
-        "Id": "656deb9d-ea57-4516-9e72-3fa41961852a",
-        "ItemName": "Lake-Macquarie-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-05T14:59:35",
-      "EffectiveFrom": "2026-01-29T14:52:55",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12864701",
-          "EffectiveFrom": "2026-01-29T14:52:55",
-          "EffectiveTo": "2026-03-06T23:59:19",
-          "LastReviewed": "2026-03-05T14:59:35",
-          "Title": "Botany Walking Track, Lake Macquarie State Conservation Area",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The Botany Walking Track Wangi Wangi in Lake Macquarie State Conservation Area will be closed for maintenance from&#xA0;Monday, 9 February to Friday, 20 February 2026</p>\n\n<p><a href=\"http://click.ngcomms.net/qn2uqu55uj6y/biv5c0a9wzquk/t7y7uu5dhime\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office 4946 4100.</p>",
           "IsKml": false
         }
       ]
@@ -9731,25 +9672,14 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-02-27T15:44:41",
+      "LastReviewed": "2026-02-25T08:46:31",
       "EffectiveFrom": "2022-08-03T10:43:41",
       "Categories": [
-        "Safety alerts",
         "Closed areas",
-        "Other planned events"
+        "Other planned events",
+        "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12932601",
-          "EffectiveFrom": "2026-02-27T15:33:07",
-          "EffectiveTo": "2026-03-06T23:00:00",
-          "LastReviewed": "2026-02-27T15:44:41",
-          "Title": "Wild Rabbit Control Program",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>A wild rabbit control program is set to take place across Greater Sydney Local Government Areas, including the Central Coast, on 2 March 2026.<br/>\n<br/>\nNational Parks and Wildlife Service (NPWS) Central Coast Area is participating alongside Greater Sydney Local Land Services and Central Coast Council in the program to release the Rabbit Haemorrhagic Disease Virus (RHDV1-K5) in two reserves on the Central Coast: Wyrrabalong National Park and Munmorah State Conservation Area.<br/>\n<br/>\nWild rabbits are Australia&#x2019;s most destructive agricultural pest, causing severe competition for resources and land degradation. They are recognised as a key threat to Australian native animals, plants, and endangered ecological communities.<br/>\n<br/>\nRHDV1-K5 has been used for wild rabbit control since 2017. It is species-specific, affecting only rabbits and posing no risk to native wildlife or other pets.<br/>\n<br/>\nAs RHDV1-K5 can also affect pet rabbits, NPWS strongly advises domestic pet rabbit owners to vaccinate their pet rabbits by 28 February 2026 for the best protection against the virus. Pet rabbit owners should also take extra precautions, including maintaining good hygiene, providing mosquito-proof housing, and preventing contact with other wild rabbits.<br/>\n<br/>\nFor further information on the RHDV1-K5 release contact Greater Sydney Local Land Services on (02) 4724 2100<br/>\n<br/>\nLandholders and community members can report sightings of rabbits or evidence of disease through the Rabbit Scan online portal <a href=\"https://url.au.m.mimecastprotect.com/s/yjq9CVAEV5IrPvYcrHwIEpvvF?domain=enews.centralcoast.nsw.gov.au\">www.rabbitscan.org.au</a></p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11657301",
           "EffectiveFrom": "2025-01-28T09:22:37",
@@ -10258,7 +10188,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-03-06T15:46:41",
+      "LastReviewed": "2026-03-07T17:07:23",
       "EffectiveFrom": "2024-10-05T11:33:47",
       "Categories": [
         "Fires - Advice",
@@ -10271,7 +10201,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12858001",
           "EffectiveFrom": "2026-01-27T15:44:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-06T15:46:41",
+          "LastReviewed": "2026-03-07T17:07:23",
           "Title": "PACIFIC HWY, NERONG",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -11460,7 +11390,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-06T15:22:01",
+      "LastReviewed": "2026-03-07T09:51:44",
       "EffectiveFrom": "2021-08-18T17:01:16",
       "Categories": [
         "Closed parks"
@@ -11470,7 +11400,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/7547722",
           "EffectiveFrom": "2021-08-18T17:01:16",
           "EffectiveTo": null,
-          "LastReviewed": "2026-02-06T15:22:01",
+          "LastReviewed": "2026-03-07T09:51:44",
           "Title": "Prospect Nature Reserve closed public",
           "ItemName": null,
           "Category": "Closed parks",
@@ -11562,35 +11492,6 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban will be in place from 1 November 2025 until 31 March 2026 in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or cooker.<br/>\n<a href=\"http://click.ngcomms.net/q99z0h9thzjx/bd6zrqx52zs6r/syxwgx59a8bp\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://click.ngcomms.net/q99z0h9thzjx/bd6zrqx52zs6r/syxwjp9j0tw9\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Queens Lake State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/queens-lake-state-conservation-area",
-        "Id": "a8c335b7-dc99-4b73-876b-e1db6e4f4e28",
-        "ItemName": "Queens-Lake-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-05T16:13:20",
-      "EffectiveFrom": "2026-02-11T11:00:00",
-      "Categories": [
-        "Hazard reduction burns"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12902001",
-          "EffectiveFrom": "2026-02-11T11:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-03-05T16:13:20",
-          "Title": "Forestry HR Burrawan Plantation",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/02/2026. The fire is called&#xA0;Forestry HR Burrawan Plantation. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -12311,7 +12212,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 5,
+      "ClosedAreasCount": 7,
       "LastReviewed": "2026-03-03T16:38:28",
       "EffectiveFrom": "2018-07-09T11:06:59",
       "Categories": [
@@ -12339,6 +12240,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Boowambillee Shark Island is closed for the SailGP 2026 event from 7am Friday 20&#xA0;February until 7am Sunday 08 March 2026.</p>\n\n<p>Please note:</p>\n\n<ul>\n\t<li>No public access to Boowambillee Shark Island is permitted during this time.</li>\n\t<li>The Island is booked for an exclusive private event during this time.</li>\n</ul>\n\n<p><strong>Ticket Holders: </strong>Please refer to instructions provided with your ticket, or contact SailGP for further information.</p>\n\n<p><a href=\"https://www.nationalparks.nsw.gov.au/venues/shark-island\">Find more&#xA0;information or&#xA0;enquire</a> about private event bookings at Boowambillee Shark Island.</p>\n\n<p><a href=\"http://click.ngcomms.net/mwzvu14vbbde/9owavb94p0rl3/pvb45p9x1pgi\">Penalties apply for non-compliance</a>. For more information, <a href=\"mailto:npws.sydneysouth@environment.nsw.gov.au\">email</a> or call the NPWS Sydney South Area office on 02 9337 5511.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12888501",
+          "EffectiveFrom": "2026-03-07T07:00:00",
+          "EffectiveTo": "2026-03-07T20:00:00",
+          "LastReviewed": "2026-03-02T09:57:15",
+          "Title": "Clark Island closed for exclusive event",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Clark Island is closed for an exclusive event from 7am until 8pm, Saturday 7&#xA0;March 2026.</p>\n\n<p>Please note:</p>\n\n<ul>\n\t<li>No public access to Clark Island is permitted during this time.</li>\n\t<li>The island is booked for an exclusive private event during this time.</li>\n</ul>\n\n<p><a href=\"https://www.nationalparks.nsw.gov.au/venues/clark-island\">Find more information or enquire</a> about private event bookings at Clark Island.</p>\n\n<p><a href=\"http://click.ngcomms.net/mwzvu14vbbde/9owavb94p0rl3/pvb45p9x1pgi\">Penalties apply for non-compliance</a>. For more information, <a href=\"mailto:npws.sydneysouth@environment.nsw.gov.au\">email</a> or call the NPWS Sydney South Area office on 02 9337 5511.</p>",
           "IsKml": false
         },
         {
@@ -14938,35 +14850,6 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>Worimi beach&#xA0;is not suitable for swimming due to hazardous surf conditions.&#xA0;</p>\n\n<ul>\n\t<li>Beaches in this park are not patrolled by lifeguards and can have strong rips and&#xA0;currents.</li>\n\t<li>The safest place to swim is at a patrolled beach, between the red and yellow flags.</li>\n\t<li>Check the <a href=\"https://beachsafe.org.au/\">Beachsafe website</a> to find the nearest patrolled beaches- Birubi Beach at Anna Bay is the nearest lifeguard patrolled beach.</li>\n</ul>\n\n<p>These <a href=\"https://www.nationalparks.nsw.gov.au/safety/water-activities/beaches\">beach safety tips </a>will help you and your family stay safe in the water.</p>\n\n<p>For more information, contact the local NPWS -Anna Bay office 02 4984 8200.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Wyrrabalong National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wyrrabalong-national-park",
-        "Id": "ff25260e-b248-4947-a779-67f6375bab00",
-        "ItemName": "Wyrrabalong-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-27T15:44:41",
-      "EffectiveFrom": "2026-02-27T15:33:07",
-      "Categories": [
-        "Safety alerts"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12932601",
-          "EffectiveFrom": "2026-02-27T15:33:07",
-          "EffectiveTo": "2026-03-06T23:00:00",
-          "LastReviewed": "2026-02-27T15:44:41",
-          "Title": "Wild Rabbit Control Program",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>A wild rabbit control program is set to take place across Greater Sydney Local Government Areas, including the Central Coast, on 2 March 2026.<br/>\n<br/>\nNational Parks and Wildlife Service (NPWS) Central Coast Area is participating alongside Greater Sydney Local Land Services and Central Coast Council in the program to release the Rabbit Haemorrhagic Disease Virus (RHDV1-K5) in two reserves on the Central Coast: Wyrrabalong National Park and Munmorah State Conservation Area.<br/>\n<br/>\nWild rabbits are Australia&#x2019;s most destructive agricultural pest, causing severe competition for resources and land degradation. They are recognised as a key threat to Australian native animals, plants, and endangered ecological communities.<br/>\n<br/>\nRHDV1-K5 has been used for wild rabbit control since 2017. It is species-specific, affecting only rabbits and posing no risk to native wildlife or other pets.<br/>\n<br/>\nAs RHDV1-K5 can also affect pet rabbits, NPWS strongly advises domestic pet rabbit owners to vaccinate their pet rabbits by 28 February 2026 for the best protection against the virus. Pet rabbit owners should also take extra precautions, including maintaining good hygiene, providing mosquito-proof housing, and preventing contact with other wild rabbits.<br/>\n<br/>\nFor further information on the RHDV1-K5 release contact Greater Sydney Local Land Services on (02) 4724 2100<br/>\n<br/>\nLandholders and community members can report sightings of rabbits or evidence of disease through the Rabbit Scan online portal <a href=\"https://url.au.m.mimecastprotect.com/s/yjq9CVAEV5IrPvYcrHwIEpvvF?domain=enews.centralcoast.nsw.gov.au\">www.rabbitscan.org.au</a></p>",
           "IsKml": false
         }
       ]
