@@ -199,27 +199,15 @@
         "Id": "4bbd5c46-8a01-4ffd-9073-e51773ef8dc5",
         "ItemName": "Arakoola-Nature-Reserve"
       },
-      "Closed": true,
-      "PartClosed": true,
+      "Closed": false,
+      "PartClosed": false,
       "ClosedAreasCount": 0,
       "LastReviewed": "2026-03-03T11:20:52",
       "EffectiveFrom": "2025-11-20T14:37:52",
       "Categories": [
-        "Closed parks",
         "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12763401",
-          "EffectiveFrom": "2026-02-19T16:17:16",
-          "EffectiveTo": "2026-03-08T06:18:17",
-          "LastReviewed": "2026-02-27T10:21:26",
-          "Title": "Park closed for aerial pest control operation",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Arakoola Nature Reserve is closed from 6pm, Friday 6 March to 6am, Sunday 8 March 2026 for an aerial pest control operation. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12665101",
           "EffectiveFrom": "2025-11-20T14:37:52",
@@ -342,7 +330,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-07T16:42:19",
+      "LastReviewed": "2026-03-08T13:05:07",
       "EffectiveFrom": "2026-02-23T11:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -352,7 +340,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12926701",
           "EffectiveFrom": "2026-02-23T11:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-07T16:42:19",
+          "LastReviewed": "2026-03-08T13:05:07",
           "Title": "Pulfords Road Nundle SF",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -369,14 +357,26 @@
         "ItemName": "Badja-Swamps-Nature-Reserve"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-23T09:26:44",
+      "LastReviewed": "2026-03-05T04:30:05",
       "EffectiveFrom": "2026-01-01T06:00:00",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878101",
+          "EffectiveFrom": "2026-03-08T14:00:00",
+          "EffectiveTo": "2026-03-14T10:00:00",
+          "LastReviewed": "2026-03-05T04:30:05",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following sections of park will be closed to the public from 2pm Sunday 8 March&#xA0;until 10am Saturday 14 March&#xA0;2026&#xA0;for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Deua National Park (West of Merricumbene Fire Trail) including:\n\t<ul>\n\t\t<li>Bendethera campground</li>\n\t\t<li>Berlang campground</li>\n\t</ul>\n\t</li>\n\t<li>Wadbilliga National Park &#x2013; West of Wadbilliga</li>\n</ul>\n\n<p>Campgrounds in Wadbilliga National Park will remain open during this operation.</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>Closure signs will be established at all visitor access points to the shooting area. Visitors should not enter the shooting area during the closure period.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7pn069xovyt/bcfsqau9xnt37/sx8iim5cvwmb\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -1050,14 +1050,26 @@
         "ItemName": "Berlang-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-23T09:26:44",
+      "LastReviewed": "2026-03-05T04:30:05",
       "EffectiveFrom": "2026-01-01T06:00:00",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878101",
+          "EffectiveFrom": "2026-03-08T14:00:00",
+          "EffectiveTo": "2026-03-14T10:00:00",
+          "LastReviewed": "2026-03-05T04:30:05",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following sections of park will be closed to the public from 2pm Sunday 8 March&#xA0;until 10am Saturday 14 March&#xA0;2026&#xA0;for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Deua National Park (West of Merricumbene Fire Trail) including:\n\t<ul>\n\t\t<li>Bendethera campground</li>\n\t\t<li>Berlang campground</li>\n\t</ul>\n\t</li>\n\t<li>Wadbilliga National Park &#x2013; West of Wadbilliga</li>\n</ul>\n\n<p>Campgrounds in Wadbilliga National Park will remain open during this operation.</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>Closure signs will be established at all visitor access points to the shooting area. Visitors should not enter the shooting area during the closure period.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7pn069xovyt/bcfsqau9xnt37/sx8iim5cvwmb\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11035801",
           "EffectiveFrom": "2026-01-01T06:00:00",
@@ -1622,7 +1634,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-07T16:21:29",
+      "LastReviewed": "2026-03-08T14:12:47",
       "EffectiveFrom": "2026-02-16T11:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -1632,7 +1644,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12943301",
           "EffectiveFrom": "2026-02-16T11:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-07T16:21:29",
+          "LastReviewed": "2026-03-08T14:12:47",
           "Title": "Valla Road, Viewmont State Forest Plantations",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -4116,7 +4128,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 1,
+      "ClosedAreasCount": 3,
       "LastReviewed": "2026-03-05T09:38:50",
       "EffectiveFrom": "2014-09-24T10:00:00",
       "Categories": [
@@ -4134,6 +4146,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Wamban&#xA0;Fire Trail will be closed from 4th March 2026 - 4th April 2026 to allow works crews to complete essential roadworks. Road closed signage will be in place and heavy plant will be working along the road.&#xA0; For your safety and the safety of our works crews, do not attempt to use the fire trail, and please follow the directions of all road signage, contractors and NPWS staff.&#xA0;<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a></p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878101",
+          "EffectiveFrom": "2026-03-08T14:00:00",
+          "EffectiveTo": "2026-03-14T10:00:00",
+          "LastReviewed": "2026-03-05T04:30:05",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following sections of park will be closed to the public from 2pm Sunday 8 March&#xA0;until 10am Saturday 14 March&#xA0;2026&#xA0;for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Deua National Park (West of Merricumbene Fire Trail) including:\n\t<ul>\n\t\t<li>Bendethera campground</li>\n\t\t<li>Berlang campground</li>\n\t</ul>\n\t</li>\n\t<li>Wadbilliga National Park &#x2013; West of Wadbilliga</li>\n</ul>\n\n<p>Campgrounds in Wadbilliga National Park will remain open during this operation.</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>Closure signs will be established at all visitor access points to the shooting area. Visitors should not enter the shooting area during the closure period.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7pn069xovyt/bcfsqau9xnt37/sx8iim5cvwmb\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
           "IsKml": false
         },
         {
@@ -4863,25 +4886,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-03-05T14:28:40",
+      "LastReviewed": "2026-03-03T08:18:20",
       "EffectiveFrom": "2023-07-20T15:06:23",
       "Categories": [
-        "Fire bans",
         "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12534901",
-          "EffectiveFrom": "2025-10-01T14:58:04",
-          "EffectiveTo": "2026-03-07T23:59:00",
-          "LastReviewed": "2026-03-05T14:28:40",
-          "Title": "Park Fire Ban - Gardens of Stone State Conservation Area",
-          "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12936601",
           "EffectiveFrom": "2026-03-02T11:36:21",
@@ -7370,17 +7381,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>From Monday 2 February to Friday 3&#xA0;April&#xA0;2026, there&#xA0;will be construction to upgrade visitor facilities&#xA0;in small areas of the Geehi campgrounds. This includes Geehi Flats, Behrs Flat and Old Geehi campgrounds. The campgrounds will remain open, although machinery will be operating in the campgrounds during this time. Do not enter construction areas.&#xA0;<a href=\"http://click.ngcomms.net/qmmfxe9q2akl/bigh3q65gcohb/t7etjy5gzd4d\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, contact the Khancoban Visitor Information Centre 02&#xA0;6070 8400.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/5862022",
-          "EffectiveFrom": "2023-09-29T16:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-02-03T08:07:31",
-          "Title": "Kosciuszko National Park closed sites",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>A&#xA0;number of sites in Kosciuszko National Park are&#xA0;closed or may have other restrictions until further notice.</p>\n\n<p><strong>Fire-affected areas</strong></p>\n\n<p>Some sections of Kosciuszko National Park&#xA0;which burnt during the 2019/2020 fires remain closed. These areas include:</p>\n\n<ul>\n\t<li>Wolgal and Pattinson's Huts</li>\n</ul>\n\n<p><strong>Snowy 2.0 works affecting access to Tantangara Road and Tantangara Dam</strong></p>\n\n<ul>\n\t<li>Access to the southern end of Tantangara Reservoir&#xA0;via Quarry trail is&#xA0;closed to the public.</li>\n\t<li>Access to the southern end boat ramp is open, but may be subject to short-term closures.</li>\n\t<li>Current boating and camping access to Tantangara Reservoir will still be available at access points on the northern end of the reservoir, via Port Phillip and Dam trails.</li>\n</ul>\n\n<p>Do not enter closed areas in Kosciuszko National Park. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance.</a> For more information, contact the local NPWS office.</p>",
           "IsKml": false
         },
         {
@@ -11969,8 +11969,8 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-02T08:29:49",
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2026-03-04T10:01:41",
       "EffectiveFrom": "2022-03-25T16:56:42",
       "Categories": [
         "Closed areas",
@@ -11978,14 +11978,14 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12915801",
-          "EffectiveFrom": "2026-02-20T15:00:17",
-          "EffectiveTo": "2026-03-08T16:00:42",
-          "LastReviewed": "2026-03-02T08:29:49",
-          "Title": "Postmans Campground closed - roadworks and wet weather",
+          "ID": "npws-fis@id.ngcomms.net/eme/12874301",
+          "EffectiveFrom": "2026-03-08T14:00:00",
+          "EffectiveTo": "2026-03-21T10:00:00",
+          "LastReviewed": "2026-03-04T10:01:41",
+          "Title": "Part of the park closed for aerial shooting for feral animal control",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Postmans Campground will be closed between Fri 20th February and Sunday 8th&#xA0;March 2026. NPWS are undertaking road works on&#xA0;Cattlemans track&#xA0;and Postmans track, Knoxs link and Postmans Link trails. Forecast wet weather will make the roads unsafe during this time.</p>\n\n<p>For more information contact NPWS Bombala office 02 6458 5900</p>",
+          "DescriptionHtml": "<p>The following sections of park will be closed to the public from 2pm Sunday 8th March&#xA0;until 10am Saturday 21st March 2026&#xA0;for an aerial pest control operation:</p>\n\n<ul>\n\t<li>South East Forest National Park (Nunnock Swamp section) including:\n\t<ul>\n\t\t<li>Alexanders Hut campground</li>\n\t\t<li>Nunnock campground</li>\n\t\t<li>Postmans campground</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>The main thoroughfares through this area will remain open. However, residents, visitors and members of the public should not enter adjoining sections of the National Park that will be closed.</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>Closure signs will be established at all visitor access points to the shooting area. Visitors should not enter the shooting area during the closure period.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7pq0h9g7n9c/bcfsu0559b7oy/sx8nop9mjh4a\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
           "IsKml": false
         },
         {
@@ -12212,7 +12212,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 7,
+      "ClosedAreasCount": 3,
       "LastReviewed": "2026-03-03T16:38:28",
       "EffectiveFrom": "2018-07-09T11:06:59",
       "Categories": [
@@ -12229,28 +12229,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>A section of the Manly to Spit walk in the Castle Rock area near the Ogilvy Street step within Sydney Harbour National Park will be closed for essential upgrade works from 11&#xA0;to 12 March 2026.</p>\n\n<p>The work will involve repair of boardwalk decking and railings. Alternate route signage will be in place.&#xA0;</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12782201",
-          "EffectiveFrom": "2026-02-20T07:00:00",
-          "EffectiveTo": "2026-03-08T07:00:00",
-          "LastReviewed": "2026-02-20T08:34:52",
-          "Title": "Boowambillee Shark Island closed for SailGP 2026 exclusive event",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Boowambillee Shark Island is closed for the SailGP 2026 event from 7am Friday 20&#xA0;February until 7am Sunday 08 March 2026.</p>\n\n<p>Please note:</p>\n\n<ul>\n\t<li>No public access to Boowambillee Shark Island is permitted during this time.</li>\n\t<li>The Island is booked for an exclusive private event during this time.</li>\n</ul>\n\n<p><strong>Ticket Holders: </strong>Please refer to instructions provided with your ticket, or contact SailGP for further information.</p>\n\n<p><a href=\"https://www.nationalparks.nsw.gov.au/venues/shark-island\">Find more&#xA0;information or&#xA0;enquire</a> about private event bookings at Boowambillee Shark Island.</p>\n\n<p><a href=\"http://click.ngcomms.net/mwzvu14vbbde/9owavb94p0rl3/pvb45p9x1pgi\">Penalties apply for non-compliance</a>. For more information, <a href=\"mailto:npws.sydneysouth@environment.nsw.gov.au\">email</a> or call the NPWS Sydney South Area office on 02 9337 5511.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12888501",
-          "EffectiveFrom": "2026-03-07T07:00:00",
-          "EffectiveTo": "2026-03-07T20:00:00",
-          "LastReviewed": "2026-03-02T09:57:15",
-          "Title": "Clark Island closed for exclusive event",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Clark Island is closed for an exclusive event from 7am until 8pm, Saturday 7&#xA0;March 2026.</p>\n\n<p>Please note:</p>\n\n<ul>\n\t<li>No public access to Clark Island is permitted during this time.</li>\n\t<li>The island is booked for an exclusive private event during this time.</li>\n</ul>\n\n<p><a href=\"https://www.nationalparks.nsw.gov.au/venues/clark-island\">Find more information or enquire</a> about private event bookings at Clark Island.</p>\n\n<p><a href=\"http://click.ngcomms.net/mwzvu14vbbde/9owavb94p0rl3/pvb45p9x1pgi\">Penalties apply for non-compliance</a>. For more information, <a href=\"mailto:npws.sydneysouth@environment.nsw.gov.au\">email</a> or call the NPWS Sydney South Area office on 02 9337 5511.</p>",
           "IsKml": false
         },
         {
@@ -13218,6 +13196,17 @@
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878101",
+          "EffectiveFrom": "2026-03-08T14:00:00",
+          "EffectiveTo": "2026-03-14T10:00:00",
+          "LastReviewed": "2026-03-05T04:30:05",
+          "Title": "Park closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following sections of park will be closed to the public from 2pm Sunday 8 March&#xA0;until 10am Saturday 14 March&#xA0;2026&#xA0;for an aerial pest control operation:</p>\n\n<ul>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Deua National Park (West of Merricumbene Fire Trail) including:\n\t<ul>\n\t\t<li>Bendethera campground</li>\n\t\t<li>Berlang campground</li>\n\t</ul>\n\t</li>\n\t<li>Wadbilliga National Park &#x2013; West of Wadbilliga</li>\n</ul>\n\n<p>Campgrounds in Wadbilliga National Park will remain open during this operation.</p>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>Closure signs will be established at all visitor access points to the shooting area. Visitors should not enter the shooting area during the closure period.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7pn069xovyt/bcfsqau9xnt37/sx8iim5cvwmb\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12808201",
           "EffectiveFrom": "2026-01-08T07:16:19",
           "EffectiveTo": null,
@@ -13457,13 +13446,14 @@
         "Id": "c2728164-8310-4d56-a781-56c5fb1466bd",
         "ItemName": "Warrabah-National-Park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 1,
+      "ClosedAreasCount": 5,
       "LastReviewed": "2026-03-06T08:51:59",
       "EffectiveFrom": "2025-11-20T14:37:52",
       "Categories": [
         "Closed areas",
+        "Closed parks",
         "Fire bans"
       ],
       "Alerts": [
@@ -13476,6 +13466,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Muluerindie Cabin is closed from Monday 2 March until to Thursday 13 March 2026 while road maintenance is carried out on Muluerindie Trail.</p>\n\n<p>No entry is permitted to the trail or cabin during this time. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information, contact the Armidale NPWS office on Tel. 6738 9100.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12871501",
+          "EffectiveFrom": "2026-03-08T14:00:00",
+          "EffectiveTo": "2026-03-11T12:37:54",
+          "LastReviewed": "2026-03-06T08:18:14",
+          "Title": "Park closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Warrabah National Park is closed from 2 pm, Sunday 8 March&#xA0;to 4.30pm, Wednesday&#xA0;11&#xA0;March 2026&#xA0;for an aerial pest control operation. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the Armidale NPWS office on 6738 9100 if your enquiry relates to Muleurindie Hut. If your enquiry relates to camping at Warrabah campground or Gum Hole campground, please call the Narrabri NPWS office on 6792 7300.</p>",
           "IsKml": false
         },
         {
@@ -14077,15 +14078,27 @@
         "Id": "0404e6f4-8e27-4fcc-b159-06615d79c01e",
         "ItemName": "Willandra-National-Park"
       },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-06T08:56:37",
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 7,
+      "LastReviewed": "2026-03-02T08:02:17",
       "EffectiveFrom": "2025-10-13T00:00:00",
       "Categories": [
+        "Closed parks",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12906501",
+          "EffectiveFrom": "2026-03-08T08:00:00",
+          "EffectiveTo": "2026-03-12T08:00:00",
+          "LastReviewed": "2026-03-02T08:02:17",
+          "Title": "Willandra National Park CLOSED for ground pest control operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Willandra National Park is CLOSED from 8am, Sunday 8th March until 8am Thursday 12th March for ground shooting feral animal control operation.&#xA0;</p>\n\n<p>Do not enter the National Park.&#xA0;</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Griffith office on 02 6966 8100.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12528801",
           "EffectiveFrom": "2025-10-13T00:00:00",
@@ -14892,8 +14905,8 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 3,
-      "LastReviewed": "2026-03-04T08:50:25",
+      "ClosedAreasCount": 1,
+      "LastReviewed": "2026-03-08T12:14:55",
       "EffectiveFrom": "2025-10-13T08:00:00",
       "Categories": [
         "Closed areas",
@@ -14902,21 +14915,21 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/12941501",
-          "EffectiveFrom": "2026-03-04T08:45:17",
+          "ID": "npws-fis@id.ngcomms.net/eme/12947701",
+          "EffectiveFrom": "2026-03-08T12:11:20",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-04T08:50:25",
-          "Title": "Visitor Areas Closed Due to Rain",
+          "LastReviewed": "2026-03-08T12:14:55",
+          "Title": "Woolpress Bend Campground Closed",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Yanga Campgrounds &amp; the picnic area at Yanga Woolshed are closed due to significant rain. Please contact the park office for more information on 03 5021 8988</p>",
+          "DescriptionHtml": "<p>Woolpress Bend is currently closed due to rainfall in the area. It will reopen on Wednesday 11 March. For more information call the park office on 0350 218988.</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12776301",
           "EffectiveFrom": "2025-12-19T16:38:25",
           "EffectiveTo": null,
-          "LastReviewed": "2026-02-25T11:09:04",
+          "LastReviewed": "2026-03-08T12:10:36",
           "Title": "Red Alert - Blue Green Algae - Yanga Lake",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -14927,7 +14940,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12718401",
           "EffectiveFrom": "2025-12-08T15:34:34",
           "EffectiveTo": null,
-          "LastReviewed": "2026-02-25T11:08:56",
+          "LastReviewed": "2026-03-08T12:10:45",
           "Title": "Traffic Alert - Waugorah Road",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -14984,26 +14997,14 @@
         "ItemName": "yanga-state-conservation-area"
       },
       "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2026-03-04T08:50:25",
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2025-12-08T14:04:20",
       "EffectiveFrom": "2025-10-13T08:00:00",
       "Categories": [
-        "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12941501",
-          "EffectiveFrom": "2026-03-04T08:45:17",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-03-04T08:50:25",
-          "Title": "Visitor Areas Closed Due to Rain",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Yanga Campgrounds &amp; the picnic area at Yanga Woolshed are closed due to significant rain. Please contact the park office for more information on 03 5021 8988</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12564701",
           "EffectiveFrom": "2025-10-13T08:00:00",
