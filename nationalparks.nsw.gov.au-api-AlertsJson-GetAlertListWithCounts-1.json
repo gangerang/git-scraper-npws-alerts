@@ -818,13 +818,14 @@
         "Id": "10d38f1c-5590-45e9-a0fe-6692e5153817",
         "ItemName": "Bees-Nest-Nature-Reserve"
       },
-      "Closed": false,
-      "PartClosed": false,
+      "Closed": true,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-23T11:55:32",
+      "LastReviewed": "2026-03-05T04:29:56",
       "EffectiveFrom": "2026-02-23T08:55:52",
       "Categories": [
-        "Other planned events"
+        "Other planned events",
+        "Closed parks"
       ],
       "Alerts": [
         {
@@ -836,6 +837,17 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from 2nd March 2026&#xA0;to Monday 31st August 2026. The operation will use 1080 (sodium fluoroacetate) poison for the control of feral animals wild dogs and&#xA0;foxes.</p>\n\n<p>The program will take place in:</p>\n\n<p>Bees Nest Nature Reserve</p>\n\n<p>Colymea State Conservation Area</p>\n\n<p>Conjola National Park</p>\n\n<p>Jerrawangala National Park</p>\n\n<p>Morton National Park</p>\n\n<p>Murramarang National Park</p>\n\n<p>Parma Creek Nature Reserve</p>\n\n<p>&#xA0;</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Shoalhaven Area office for more information: Nowra 02&#xA0;44286300,&#xA0;&#xA0;Ulladulla 02 44549500</p>\n\n<p><a href=\"http://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878201",
+          "EffectiveFrom": "2026-03-22T14:00:00",
+          "EffectiveTo": "2026-03-28T10:00:00",
+          "LastReviewed": "2026-03-05T04:29:56",
+          "Title": "Parks closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 22nd&#xA0;March&#xA0;until 10am Saturday 28th March 2026&#xA0;for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n</ul>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7paqh4p1rfb/bcfpa859mjgwv/sx82p59x1puz\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
           "IsKml": false
         }
       ]
@@ -1006,7 +1018,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-20T11:51:38",
+      "LastReviewed": "2026-03-22T11:22:16",
       "EffectiveFrom": "2020-09-16T14:58:29",
       "Categories": [
         "Closed parks"
@@ -1016,7 +1028,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/6503522",
           "EffectiveFrom": "2020-09-16T14:58:29",
           "EffectiveTo": null,
-          "LastReviewed": "2026-02-20T11:51:38",
+          "LastReviewed": "2026-03-22T11:22:16",
           "Title": "Berkeley Nature Reserve closed",
           "ItemName": null,
           "Category": "Closed parks",
@@ -1396,6 +1408,17 @@
           "IsKml": false
         },
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/12829001",
+          "EffectiveFrom": "2026-03-22T17:00:00",
+          "EffectiveTo": "2026-04-02T19:00:00",
+          "LastReviewed": "2026-03-09T13:45:17",
+          "Title": "Part park closure for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The southern section of Blue Mountains National Park and Wiarborough Nature Reserve is closed at the following times for&#xA0;aerial shooting for feral animal control:</p>\n\n<ul>\n\t<li>5am&#xA0;Monday&#xA0;23rd&#xA0;March to 7pm&#xA0;Friday 27 March 2026</li>\n\t<li>5am Monday 29th March to 7pm&#xA0;Thursday 2&#xA0;April 2026&#xA0;</li>\n</ul>\n\n<p>Areas closed include Mt Werong Campground, Range Trail, Upper and&#xA0;Middle Werong Creek Trail, Parliament Hill Trail and Ruby Creek mine.</p>\n\n<p>Yerranderie Regional Park remains open. Access along Oberon-Colong Stock Route remains open.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/12883501",
           "EffectiveFrom": "2026-02-06T12:16:12",
           "EffectiveTo": "2026-06-30T17:00:00",
@@ -1571,7 +1594,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-21T13:23:19",
+      "LastReviewed": "2026-03-22T10:15:50",
       "EffectiveFrom": "2026-02-16T11:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -1581,7 +1604,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12943301",
           "EffectiveFrom": "2026-02-16T11:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-21T13:23:19",
+          "LastReviewed": "2026-03-22T10:15:50",
           "Title": "Valla Road, Viewmont State Forest Plantations",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -2611,13 +2634,14 @@
         "Id": "108a1586-cf12-4326-9109-817d7946db3b",
         "ItemName": "Bungonia-National-Park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
+      "ClosedAreasCount": 6,
       "LastReviewed": "2026-03-19T13:53:00",
       "EffectiveFrom": "2022-06-03T14:33:00",
       "Categories": [
         "Closed areas",
+        "Closed parks",
         "Safety alerts"
       ],
       "Alerts": [
@@ -2630,6 +2654,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>David Reid and Adam's Lookout Toilet Blocks&#xA0;are closed for renovations from 11/02/2026 until further notice. Do not enter construction sites.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878201",
+          "EffectiveFrom": "2026-03-22T14:00:00",
+          "EffectiveTo": "2026-03-28T10:00:00",
+          "LastReviewed": "2026-03-05T04:29:56",
+          "Title": "Parks closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 22nd&#xA0;March&#xA0;until 10am Saturday 28th March 2026&#xA0;for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n</ul>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7paqh4p1rfb/bcfpa859mjgwv/sx82p59x1puz\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
           "IsKml": false
         },
         {
@@ -2663,15 +2698,27 @@
         "Id": "f58711bd-dfd1-4137-9558-ab59512be55b",
         "ItemName": "Bungonia-State-Conservation-Area"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-04T12:29:40",
+      "LastReviewed": "2026-03-05T04:29:56",
       "EffectiveFrom": "2020-05-14T15:42:39",
       "Categories": [
+        "Closed parks",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878201",
+          "EffectiveFrom": "2026-03-22T14:00:00",
+          "EffectiveTo": "2026-03-28T10:00:00",
+          "LastReviewed": "2026-03-05T04:29:56",
+          "Title": "Parks closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 22nd&#xA0;March&#xA0;until 10am Saturday 28th March 2026&#xA0;for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n</ul>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7paqh4p1rfb/bcfpa859mjgwv/sx82p59x1puz\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/6230922",
           "EffectiveFrom": "2020-05-14T15:42:39",
@@ -4992,35 +5039,6 @@
     },
     {
       "Park": {
-        "Name": "Gibraltar Range National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gibraltar-range-national-park",
-        "Id": "8f8f2ec9-25f0-422d-a3bd-22908ffdec05",
-        "ItemName": "Gibraltar-Range-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-13T08:45:38",
-      "EffectiveFrom": "2026-03-01T10:00:00",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12927101",
-          "EffectiveFrom": "2026-03-01T10:00:00",
-          "EffectiveTo": "2026-03-22T17:00:00",
-          "LastReviewed": "2026-03-13T08:45:38",
-          "Title": "World Heritage Trail Running Event",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The World Heritage Trail Running Event will be taking place in this National Park from 8.00am Saturday 21 March until 1:00pm on Sunday 22 March 2026. Please be aware that runners will be using several trails and walking tracks within Washpool and Gibraltar Range National Parks. Please exercise caution if walking and driving in the National Park during this time as traffic conditions may change.&#xA0;For more information, contact the Glen Innes Office at (02) 6739 0700.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Gilwarny Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gilwarny-nature-reserve",
         "Id": "f8d4927a-dc11-43ef-b5e2-359d85d9a466",
@@ -5239,13 +5257,25 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-09T10:00:49",
+      "LastReviewed": "2026-03-22T17:46:41",
       "EffectiveFrom": "2023-02-02T09:20:36",
       "Categories": [
+        "Fires - Advice",
         "Fire bans",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12972401",
+          "EffectiveFrom": "2026-03-22T17:25:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-03-22T17:46:41",
+          "Title": "GOONOO FOREST",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called GOONOO FOREST. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12534301",
           "EffectiveFrom": "2025-11-01T00:22:08",
@@ -6288,6 +6318,35 @@
     },
     {
       "Park": {
+        "Name": "Jerralong Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/jerralong-nature-reserve",
+        "Id": "5e1a6588-1e7e-4b96-acfc-1902922b6013",
+        "ItemName": "Jerralong-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-03-05T04:29:56",
+      "EffectiveFrom": "2026-03-22T14:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878201",
+          "EffectiveFrom": "2026-03-22T14:00:00",
+          "EffectiveTo": "2026-03-28T10:00:00",
+          "LastReviewed": "2026-03-05T04:29:56",
+          "Title": "Parks closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 22nd&#xA0;March&#xA0;until 10am Saturday 28th March 2026&#xA0;for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n</ul>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7paqh4p1rfb/bcfpa859mjgwv/sx82p59x1puz\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Jerrawangala National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/jerrawangala-national-park",
         "Id": "c96455fd-67fe-4c7a-8dd4-69b1c0759130",
@@ -6885,6 +6944,35 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>This park is closed due to <a href=\"https://www.nationalparks.nsw.gov.au/conservation-programs/fighting-invasive-phytophthora\">Phytophthora contamination</a>, unless the closure is otherwise extended or removed.</p>\n\n<p>To prevent phytophthora infection and spreading in parks and at home, try these hygiene tips:</p>\n\n<ul>\n\t<li>Start your trip with clean, dirt-free, dry gear (including shoes, bike tyres, camping gear, vehicles)</li>\n\t<li>Use the boot wash or scrub stations provided &#x2013; these capture contaminated water or control flow to septic or sewage systems where root rot will die</li>\n\t<li>Stay on formed tracks</li>\n\t<li>Follow instructions on signage</li>\n\t<li>Clean your gear again when you get home &#x2013; try a solution of 70% methylated spirits or ethanol, 30% water, and wash straight into the septic/sewage system. You may want to keep a spray bottle in the car.</li>\n</ul>\n\n<p><a href=\"http://www.legislation.nsw.gov.au/viewtop/inforce/subordleg+427+2009+cd+0+N/?dq=Regulations%20under%20National%20Parks%20and%20Wildlife%20Act%201974%20No%2080\">Penalties apply for non-compliance</a>. For more information, please call&#xA0;the NPWS Cumberland area office on 02&#xA0;4580 2750.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Kerrawary Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kerrawary-nature-reserve",
+        "Id": "87c963ec-4e7a-468f-acee-0ee92118ae0e",
+        "ItemName": "Kerrawary-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-03-05T04:29:56",
+      "EffectiveFrom": "2026-03-22T14:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878201",
+          "EffectiveFrom": "2026-03-22T14:00:00",
+          "EffectiveTo": "2026-03-28T10:00:00",
+          "LastReviewed": "2026-03-05T04:29:56",
+          "Title": "Parks closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 22nd&#xA0;March&#xA0;until 10am Saturday 28th March 2026&#xA0;for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n</ul>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7paqh4p1rfb/bcfpa859mjgwv/sx82p59x1puz\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
           "IsKml": false
         }
       ]
@@ -8974,7 +9062,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 4,
+      "ClosedAreasCount": 5,
       "LastReviewed": "2026-03-20T14:23:18",
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
@@ -9025,6 +9113,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>The end of Tallowa Dam Road in Morton National Park is currently closed due to cracks which have developed after multiple heavy rain events, creating the potential for a landslide. The closure is located approximately 1.5km east of Tallowa Dam crest.</p>\n\n<p>There is no public access to Tallowa Dam. Paddlers must exit the lake at Beehive Point or Bendeela.</p>\n\n<p>For continued safety and risk management of the site, the road will remain closed to the public until&#xA0;late 2026. The road will be reopened when the remediation works are completed.&#xA0;This work is being managed by National Parks and Wildlife Service and we will update this message when we have more information.</p>\n\n<p>For more information, contact the NPWS Fitzroy Falls office on 02 4887 8244.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878301",
+          "EffectiveFrom": "2026-03-22T14:00:00",
+          "EffectiveTo": "2026-03-28T10:00:00",
+          "LastReviewed": "2026-03-05T04:29:49",
+          "Title": "Areas closed for aerial pest management",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The following parts of Morton National Park will be closed from 2pm Sunday 22 March&#xA0;to 10am&#xA0;Saturday 28 March 2026 for a pest management program:</p>\n\n<ul>\n\t<li>Areas west and north of the Shoalhaven River, including Caoura Ridge, Long Point, Badgerys Spur, Matodoro Ridge and all associated walking tracks and lookouts</li>\n\t<li>Areas east of the Shoalhaven River to Tolwong Road</li>\n\t<li>Shoalhaven Gorge area, upstream of Fossickers Flat</li>\n\t<li>Lake Yarrunga Shoalhaven River Arm</li>\n\t<li>Lake Yarrunga campgrounds on&#xA0;Shoalhaven River</li>\n</ul>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/q5xsgx5h0cjl/bbom8559mjkb5/svorht5gd5yv\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
           "IsKml": false
         },
         {
@@ -9275,14 +9374,26 @@
         "ItemName": "Mount-Jerusalem-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2026-03-18T08:52:47",
       "EffectiveFrom": "2025-01-15T08:51:07",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12964801",
+          "EffectiveFrom": "2026-03-22T00:01:00",
+          "EffectiveTo": "2026-03-23T23:59:00",
+          "LastReviewed": "2026-03-17T09:21:07",
+          "Title": "Gidjuum Gulganyi closed for infrastructure maintenance",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Gidjuum Gulganyi will be closed from Sunday 22 March until Tuesday 24 March while essential campground infrstructure&#xA0;maintenance is occuring at Yelgun Kyoomgun.&#xA0;</p>\n\n<p>No bookings will be possible during this period.</p>\n\n<p>For more information, contact Alstonville NPWS on 02 6627 0200 or&#xA0;npws.richmondriver@environment.nsw.gov.au</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11856101",
           "EffectiveFrom": "2025-01-15T08:51:07",
@@ -10285,6 +10396,35 @@
     },
     {
       "Park": {
+        "Name": "Nadgigomar Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nadgigomar-nature-reserve",
+        "Id": "e7ba011e-c14e-4738-84af-fda7dc2249b1",
+        "ItemName": "Nadgigomar-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-03-05T04:29:56",
+      "EffectiveFrom": "2026-03-22T14:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878201",
+          "EffectiveFrom": "2026-03-22T14:00:00",
+          "EffectiveTo": "2026-03-28T10:00:00",
+          "LastReviewed": "2026-03-05T04:29:56",
+          "Title": "Parks closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 22nd&#xA0;March&#xA0;until 10am Saturday 28th March 2026&#xA0;for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n</ul>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7paqh4p1rfb/bcfpa859mjgwv/sx82p59x1puz\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Nangar National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nangar-national-park",
         "Id": "e5af82e9-9d9a-4052-8a07-287ac1a943b4",
@@ -10630,6 +10770,17 @@
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12964801",
+          "EffectiveFrom": "2026-03-22T00:01:00",
+          "EffectiveTo": "2026-03-23T23:59:00",
+          "LastReviewed": "2026-03-17T09:21:07",
+          "Title": "Gidjuum Gulganyi closed for infrastructure maintenance",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Gidjuum Gulganyi will be closed from Sunday 22 March until Tuesday 24 March while essential campground infrstructure&#xA0;maintenance is occuring at Yelgun Kyoomgun.&#xA0;</p>\n\n<p>No bookings will be possible during this period.</p>\n\n<p>For more information, contact Alstonville NPWS on 02 6627 0200 or&#xA0;npws.richmondriver@environment.nsw.gov.au</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12831801",
           "EffectiveFrom": "2026-01-16T10:16:09",
@@ -11948,7 +12099,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-21T14:51:18",
+      "LastReviewed": "2026-03-22T15:15:11",
       "EffectiveFrom": "2022-03-25T16:56:42",
       "Categories": [
         "Hazard reduction burns",
@@ -11960,22 +12111,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12961201",
           "EffectiveFrom": "2026-03-15T11:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-21T14:51:18",
+          "LastReviewed": "2026-03-22T15:15:11",
           "Title": "Kellys Mountain HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 15/03/2026. The fire is called&#xA0;Kellys Mountain HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12960501",
-          "EffectiveFrom": "2026-03-15T10:19:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-03-21T14:46:43",
-          "Title": "Pericoe 564 HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 15/03/2026. The fire is called&#xA0;Pericoe 564 HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -12505,6 +12645,35 @@
           "ItemName": null,
           "Category": "Fire bans",
           "DescriptionHtml": "<p>A park fire ban is in place in this park and remains in effect unless otherwise extended or removed. During park fire ban periods, all campfires and solid fuel (wood, heat beads, charcoal, briquettes, hexamine) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, different rules apply. Contact the local park office before bringing a gas or electric barbecue or&#xA0;cooker.<br/>\n<a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information about fire bans in parks and reserves including your responsibilities, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire-safety\">NSW National Parks fire safety page</a>.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Tarlo River National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/tarlo-river-national-park",
+        "Id": "e9db981b-7ea7-4ef9-931c-6389745b8028",
+        "ItemName": "Tarlo-River-National-Park"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-03-05T04:29:56",
+      "EffectiveFrom": "2026-03-22T14:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12878201",
+          "EffectiveFrom": "2026-03-22T14:00:00",
+          "EffectiveTo": "2026-03-28T10:00:00",
+          "LastReviewed": "2026-03-05T04:29:56",
+          "Title": "Parks closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks, reserves and areas will be closed from 2pm Sunday 22nd&#xA0;March&#xA0;until 10am Saturday 28th March 2026&#xA0;for a pest management program:</p>\n\n<ul>\n\t<li>Bees Nest Nature Reserve</li>\n\t<li>Bungonia National Park - including Bungonia campground (Front gate will be locked at 2pm Sunday).</li>\n\t<li>Bungonia State Conservation Area</li>\n\t<li>Jerralong Nature Reserve</li>\n\t<li>Kerrawary Nature Reserve</li>\n\t<li>Nadgigomar Nature Reserve</li>\n\t<li>Tarlo River National Park</li>\n</ul>\n\n<p>This program will involve aerial shooting during daylight hours. Feral species targeted under this program include deer, goats, pigs, foxes and other pests. It aims to reduce the significant impact they have on native plants and animals including threatened species.</p>\n\n<p>The closed areas will be sign-posted at relevant access points. Please avoid these areas and do not enter closed areas during this time. Please follow any directions from NPWS staff and authorised contractors.</p>\n\n<p><a href=\"http://click.ngcomms.net/q7paqh4p1rfb/bcfpa859mjgwv/sx82p59x1puz\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Merimbula area office on 02 6495 5000.</p>",
           "IsKml": false
         }
       ]
@@ -13566,24 +13735,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-13T08:45:38",
+      "LastReviewed": "2026-02-20T14:41:06",
       "EffectiveFrom": "2014-11-26T16:28:00",
       "Categories": [
-        "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12927101",
-          "EffectiveFrom": "2026-03-01T10:00:00",
-          "EffectiveTo": "2026-03-22T17:00:00",
-          "LastReviewed": "2026-03-13T08:45:38",
-          "Title": "World Heritage Trail Running Event",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The World Heritage Trail Running Event will be taking place in this National Park from 8.00am Saturday 21 March until 1:00pm on Sunday 22 March 2026. Please be aware that runners will be using several trails and walking tracks within Washpool and Gibraltar Range National Parks. Please exercise caution if walking and driving in the National Park during this time as traffic conditions may change.&#xA0;For more information, contact the Glen Innes Office at (02) 6739 0700.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/1216201",
           "EffectiveFrom": "2014-11-26T16:28:00",
@@ -13895,7 +14052,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 4,
+      "ClosedAreasCount": 6,
       "LastReviewed": "2026-03-18T08:23:22",
       "EffectiveFrom": "2026-01-16T10:16:09",
       "Categories": [
@@ -13911,6 +14068,35 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Nightcap Range Road is closed to traffic in both directions due to a major landslip associated with the 2022 flood event. The closure affects the section of Nightcap Range Road between Rummery Road intersection and Telephone Road trailer parking area.</p>\n\n<p>Access to Minyon Falls and Rummery Park is via Minyon Falls Road only.</p>\n\n<p>An estimated repair date has not been determined. For more information, please <a href=\"mailto:npws.richmondriver@environment.nsw.gov.au\">email</a>&#xA0;NPWS Richmond River Area or call on 02 6672 0200.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Wiarborough Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wiarborough-nature-reserve",
+        "Id": "b00af0d5-a5f1-45f0-a691-1c35a32888cd",
+        "ItemName": "Wiarborough-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-03-09T13:45:17",
+      "EffectiveFrom": "2026-03-22T17:00:00",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12829001",
+          "EffectiveFrom": "2026-03-22T17:00:00",
+          "EffectiveTo": "2026-04-02T19:00:00",
+          "LastReviewed": "2026-03-09T13:45:17",
+          "Title": "Part park closure for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The southern section of Blue Mountains National Park and Wiarborough Nature Reserve is closed at the following times for&#xA0;aerial shooting for feral animal control:</p>\n\n<ul>\n\t<li>5am&#xA0;Monday&#xA0;23rd&#xA0;March to 7pm&#xA0;Friday 27 March 2026</li>\n\t<li>5am Monday 29th March to 7pm&#xA0;Thursday 2&#xA0;April 2026&#xA0;</li>\n</ul>\n\n<p>Areas closed include Mt Werong Campground, Range Trail, Upper and&#xA0;Middle Werong Creek Trail, Parliament Hill Trail and Ruby Creek mine.</p>\n\n<p>Yerranderie Regional Park remains open. Access along Oberon-Colong Stock Route remains open.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
           "IsKml": false
         }
       ]
