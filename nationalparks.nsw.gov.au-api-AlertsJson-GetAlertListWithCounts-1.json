@@ -9,6 +9,7 @@
     "Safety alerts",
     "Other incidents",
     "Other planned events",
+    "Fires - Not Applicable",
     "Fires - "
   ],
   "ParkAlerts": [
@@ -51,7 +52,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-16T16:07:32",
+      "LastReviewed": "2026-04-09T09:17:13",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
         "Closed areas",
@@ -84,7 +85,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -103,7 +104,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-08T10:41:32",
+      "LastReviewed": "2026-04-09T09:17:13",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
         "Other planned events"
@@ -113,7 +114,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -219,12 +220,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-01T12:57:02",
+      "LastReviewed": "2026-04-07T15:30:28",
       "EffectiveFrom": "2025-10-01T09:05:47",
       "Categories": [
+        "Other planned events",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004201",
+          "EffectiveFrom": "2026-04-09T11:39:08",
+          "EffectiveTo": "2026-05-31T12:27:07",
+          "LastReviewed": "2026-04-07T15:30:28",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Avisford Nature Reserve (NR), Capertee National Park (NP) and managed Crown Land, Goulburn River NP, Mugii Murum-ban SCA and Munghorn Gap NR from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Mudgee NPWS area office for more information on 02 6370 9000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12580601",
           "EffectiveFrom": "2025-10-01T09:05:47",
@@ -263,6 +276,35 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from Thursday 1 January 2026 to Tuesday 30 June 2026. The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and/or foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species and&#xA0;will take place in:</p>\n\n<ul>\n\t<li>Araluen Nature Reserve</li>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Beowa National Park</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Bondi Gulf Nature Reserve</li>\n\t<li>Bournda National Park</li>\n\t<li>Bournda Nature Reserve</li>\n\t<li>Coolumbooka Nature Reserve</li>\n\t<li>Deua National Park</li>\n\t<li>Eurobodalla National Park</li>\n\t<li>Kooraban National Park</li>\n\t<li>Majors Creek State Conservation Area</li>\n\t<li>Mimosa Rocks National Park</li>\n\t<li>Monga National Park and State Conservation Area</li>\n\t<li>South East Forest National Park</li>\n\t<li>Wadbilliga National Park</li>\n</ul>\n\n<p>Signs will be placed at the entry to baiting locations. Domestic pets are not permitted in NSW National Parks managed lands.</p>\n\n<p>Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For further information call the NPWS Merimbula area office on 02 6495 5000.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Bargo State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bargo-state-conservation-area",
+        "Id": "ccda0cea-77b0-40c4-8335-7a07a991126d",
+        "ItemName": "Bargo-State-Conservation-Area"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-04-07T15:12:34",
+      "EffectiveFrom": "2026-04-09T08:00:00",
+      "Categories": [
+        "Other planned events"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13003901",
+          "EffectiveFrom": "2026-04-09T08:00:00",
+          "EffectiveTo": "2026-05-31T11:49:00",
+          "LastReviewed": "2026-04-07T15:12:34",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Bargo State Conservation Area (SCA), Guula Ngurra NP and Nattai NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026. </strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impacts of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Glenbrook NPWS area office for more information on 02 4720 6200.</p>",
           "IsKml": false
         }
       ]
@@ -347,7 +389,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-04-08T08:46:09",
+      "LastReviewed": "2026-04-09T09:04:12",
       "EffectiveFrom": "2017-11-09T09:59:54",
       "Categories": [
         "Safety alerts",
@@ -358,7 +400,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12992901",
           "EffectiveFrom": "2026-04-01T11:57:10",
           "EffectiveTo": "2026-10-02T11:57:36",
-          "LastReviewed": "2026-04-01T12:00:41",
+          "LastReviewed": "2026-04-09T09:04:12",
           "Title": "Visitor safety alert: feral horses",
           "ItemName": null,
           "Category": "Safety alerts",
@@ -606,7 +648,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-04-08T17:24:28",
+      "LastReviewed": "2026-04-09T10:42:24",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
         "Closed areas",
@@ -617,11 +659,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13008701",
           "EffectiveFrom": "2026-04-08T17:02:01",
           "EffectiveTo": "2026-04-13T23:59:59",
-          "LastReviewed": "2026-04-08T17:24:28",
+          "LastReviewed": "2026-04-09T10:42:24",
           "Title": "Quarry Road Hazard Reduction in Berowra Valley National Park",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some parts of Berowra Valley National Park are closed for hazard reduction burning from <strong>Friday 10 April 2026</strong>. The burn is bounded by Hemers Rd and Quarry Rd, Dural to the south, Tunks Creek to the west, Berowra Creek to the east, and Galston Gorge to the north.&#xA0;. All tracks, trails, lookouts, and campgrounds within and approaching the burn area will be closed, including the Great North Walk.</p>\n\n<p>To undertake this burn the following tracks, trails and campgrounds&#xA0;will be closed:</p>\n\n<ul>\n\t<li>Quarry trail between Quarry Road, Dural and Stewart Avenue, Hornsby.</li>\n\t<li>Mitchell trail in Galston.</li>\n\t<li>Rowland trail in Galston.</li>\n\t<li>The Great North Walk Between Quarter Sessions Road Westleigh and Galston Gorge.</li>\n\t<li>Simon fire trail, The Outlook trail, Ulolo trail and Upper Gorge trail in Hornsby Heights.</li>\n\t<li>Ryan trail, Hornsby.</li>\n\t<li>Tunks Ridge fire trail</li>\n\t<li>The Blue Gum Walk between Fishponds and Ginger Meggs Park.</li>\n\t<li>Rowland trail</li>\n\t<li>Charltons Creek trail</li>\n\t<li>Tunks Ridge camping area</li>\n</ul>\n\n<p>Walkers using the Great North Walk will be required to detour North via Galston Road, Montview Parade, Mckay Road and Mckay trail in Hornsby Heights or walk to Asquith Station and rejoin the walk at Mount Ku-ring-gai Station. Walkers are advised&#xA0;you take the train from Thornleigh to Asquith.</p>\n\n<p><a href=\"http://click.ngcomms.net/o4vhkp5gzuq0/a8dxf9d5gysgt/quhevx52cs0r\">Penalties apply for non-compliance</a>. This burn is called the Quarry Rd HR. For more information, contact the North Western Sydney area office on 02 8448 0400 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "DescriptionHtml": "<p>Some parts of Berowra Valley National Park are closed for hazard reduction burning from <strong>Friday 10 April 2026</strong>. The burn is bounded by Hemers Rd and Quarry Rd, Dural to the south, Tunks Creek to the west, Berowra Creek to the east, and Galston Gorge to the north.&#xA0;. All tracks, trails, lookouts, and campgrounds within and approaching the burn area will be closed, including the Great North Walk.</p>\n\n<p>To undertake this burn the following tracks, trails and campgrounds&#xA0;will be closed:</p>\n\n<ul>\n\t<li>Quarry trail between Quarry Road, Dural and Stewart Avenue, Hornsby.</li>\n\t<li>Mitchell trail in Galston.</li>\n\t<li>Rowland trail in Galston.</li>\n\t<li>The Great North Walk Between Quarter Sessions Road Westleigh and Galston Gorge.</li>\n\t<li>Simon fire trail, The Outlook trail, Ulolo trail and Upper Gorge trail in Hornsby Heights.</li>\n\t<li>Ryan trail, Hornsby.</li>\n\t<li>Tunks Ridge fire trail</li>\n\t<li>The Blue Gum Walk between Fishponds and Ginger Meggs Park.</li>\n\t<li>Rowland trail</li>\n\t<li>Charltons Creek trail</li>\n\t<li>Tunks Ridge camping area</li>\n</ul>\n\n<p>For walkers&#xA0;heading north along the Great North Walk they can detour via Ginger Meggs Trail, walk to Rosemead Park and walk up the convict stairs to Hornsby Station.</p>\n\n<p>Go by train from Hornsby to Mt Kuringai and rejoin the Great North Walk at the Glenview St entrance.</p>\n\n<p><a href=\"http://click.ngcomms.net/o4vhkp5gzuq0/a8dxf9d5gysgt/quhevx52cs0r\">Penalties apply for non-compliance</a>. This burn is called the Quarry Rd HR. For more information, contact the North Western Sydney area office on 02 8448 0400 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
           "IsKml": false
         },
         {
@@ -647,7 +689,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-08T17:24:28",
+      "LastReviewed": "2026-04-09T10:42:24",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
         "Closed areas",
@@ -658,11 +700,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13008701",
           "EffectiveFrom": "2026-04-08T17:02:01",
           "EffectiveTo": "2026-04-13T23:59:59",
-          "LastReviewed": "2026-04-08T17:24:28",
+          "LastReviewed": "2026-04-09T10:42:24",
           "Title": "Quarry Road Hazard Reduction in Berowra Valley National Park",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some parts of Berowra Valley National Park are closed for hazard reduction burning from <strong>Friday 10 April 2026</strong>. The burn is bounded by Hemers Rd and Quarry Rd, Dural to the south, Tunks Creek to the west, Berowra Creek to the east, and Galston Gorge to the north.&#xA0;. All tracks, trails, lookouts, and campgrounds within and approaching the burn area will be closed, including the Great North Walk.</p>\n\n<p>To undertake this burn the following tracks, trails and campgrounds&#xA0;will be closed:</p>\n\n<ul>\n\t<li>Quarry trail between Quarry Road, Dural and Stewart Avenue, Hornsby.</li>\n\t<li>Mitchell trail in Galston.</li>\n\t<li>Rowland trail in Galston.</li>\n\t<li>The Great North Walk Between Quarter Sessions Road Westleigh and Galston Gorge.</li>\n\t<li>Simon fire trail, The Outlook trail, Ulolo trail and Upper Gorge trail in Hornsby Heights.</li>\n\t<li>Ryan trail, Hornsby.</li>\n\t<li>Tunks Ridge fire trail</li>\n\t<li>The Blue Gum Walk between Fishponds and Ginger Meggs Park.</li>\n\t<li>Rowland trail</li>\n\t<li>Charltons Creek trail</li>\n\t<li>Tunks Ridge camping area</li>\n</ul>\n\n<p>Walkers using the Great North Walk will be required to detour North via Galston Road, Montview Parade, Mckay Road and Mckay trail in Hornsby Heights or walk to Asquith Station and rejoin the walk at Mount Ku-ring-gai Station. Walkers are advised&#xA0;you take the train from Thornleigh to Asquith.</p>\n\n<p><a href=\"http://click.ngcomms.net/o4vhkp5gzuq0/a8dxf9d5gysgt/quhevx52cs0r\">Penalties apply for non-compliance</a>. This burn is called the Quarry Rd HR. For more information, contact the North Western Sydney area office on 02 8448 0400 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "DescriptionHtml": "<p>Some parts of Berowra Valley National Park are closed for hazard reduction burning from <strong>Friday 10 April 2026</strong>. The burn is bounded by Hemers Rd and Quarry Rd, Dural to the south, Tunks Creek to the west, Berowra Creek to the east, and Galston Gorge to the north.&#xA0;. All tracks, trails, lookouts, and campgrounds within and approaching the burn area will be closed, including the Great North Walk.</p>\n\n<p>To undertake this burn the following tracks, trails and campgrounds&#xA0;will be closed:</p>\n\n<ul>\n\t<li>Quarry trail between Quarry Road, Dural and Stewart Avenue, Hornsby.</li>\n\t<li>Mitchell trail in Galston.</li>\n\t<li>Rowland trail in Galston.</li>\n\t<li>The Great North Walk Between Quarter Sessions Road Westleigh and Galston Gorge.</li>\n\t<li>Simon fire trail, The Outlook trail, Ulolo trail and Upper Gorge trail in Hornsby Heights.</li>\n\t<li>Ryan trail, Hornsby.</li>\n\t<li>Tunks Ridge fire trail</li>\n\t<li>The Blue Gum Walk between Fishponds and Ginger Meggs Park.</li>\n\t<li>Rowland trail</li>\n\t<li>Charltons Creek trail</li>\n\t<li>Tunks Ridge camping area</li>\n</ul>\n\n<p>For walkers&#xA0;heading north along the Great North Walk they can detour via Ginger Meggs Trail, walk to Rosemead Park and walk up the convict stairs to Hornsby Station.</p>\n\n<p>Go by train from Hornsby to Mt Kuringai and rejoin the Great North Walk at the Glenview St entrance.</p>\n\n<p><a href=\"http://click.ngcomms.net/o4vhkp5gzuq0/a8dxf9d5gysgt/quhevx52cs0r\">Penalties apply for non-compliance</a>. This burn is called the Quarry Rd HR. For more information, contact the North Western Sydney area office on 02 8448 0400 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
           "IsKml": false
         },
         {
@@ -862,14 +904,48 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-07T15:30:30",
+      "LastReviewed": "2026-04-09T17:19:43",
       "EffectiveFrom": "2015-03-22T14:11:00",
       "Categories": [
+        "Hazard reduction burns",
         "Closed areas",
-        "Safety alerts",
-        "Other planned events"
+        "Other planned events",
+        "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13007201",
+          "EffectiveFrom": "2026-04-09T07:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-04-09T17:19:43",
+          "Title": "Massif Ridge stage 2",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 09/04/2026. The fire is called&#xA0;Massif Ridge stage 2. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/8419722",
+          "EffectiveFrom": "2022-04-09T13:03:17",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-04-09T15:41:13",
+          "Title": "Parts of Blue Mountains National Park closed",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Many roads, fire trails and walking tracks in Blue Mountains National Park are closed due to infrastructure repairs, upgrades or damage caused by wet weather including subsidence, rockfalls, landslides and fallen trees.</p>\n\n<p><strong>Katoomba and Leura </strong></p>\n\n<ul>\n\t<li>Katoomba Kiosk Reserve, Reids Plateau and Round Walk east are closed to due to Council upgrades. For details visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>.&#xA0;Access to Furber Stairs is available&#xA0;from the western side of the Round Walk via Vanimans Lookout.</li>\n\t<li>Honeymoon Bridge is closed due to rockfall hazards. (Visible bridge from Echo Point. Side route off Three Sisters Track and Giant Stairs).</li>\n\t<li>Glenraphael Drive (Narrow Neck fire trail) is closed to vehicles near Cliff Drive due to a road subsidence. Walkers and&#xA0;cyclists are permitted.</li>\n\t<li>Part of Lindeman Pass is closed due to a major landslide below Gladstone lookout. Roberts Pass is closed due to rockfall and landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is closed at the boundary to the <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a> Karst Conservation&#xA0;Reserve. Jenolan Karst Conservation Reserve (including the Caves Visitor Precinct)&#xA0;is closed&#xA0;until 31 December 2026.&#xA0;There is no&#xA0;access to the entire reserve during this time.</li>\n\t<li>Mt Hay Road will be closed for fire trail upgrades from Monday 18 May to Thursday 17 December. There will be no vehicle or pedestrian access during this time.</li>\n</ul>\n\n<p><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</p>\n\n<ul>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to elevated boardwalk repairs. There is&#xA0;no access to&#xA0;Roberts Pass, Hippocrene or&#xA0;Vera Falls routes.&#xA0;</li>\n\t<li>Valley of the Waters is closed below Silvia Falls due rockfall hazards. There is no access to Roberts Pass, Hippocrene or Vera Falls.</li>\n\t<li>Princes Rock walking track is closed for maintenance until 30 June 2026. Princes Rock lookout is however accessible from Overcliff/Undercliff track.</li>\n\t<li>Fletchers lookout is closed for maintenance until 30 June 2026.</li>\n\t<li>Lincolns Rock is closed. For details visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>.</li>\n\t<li>Evans St extension fire trail will be closed from Monday March 2 to Friday May&#xA0;15 for road maintenance. There will be increased truck movements on Blaxland Road in Wentworth Falls and Evans Lookout Road in Blackheath.</li>\n\t<li>North Lawson Fire Trail and access to Empire Pass Walking track from Federica Falls will be closed for road maintenance from Tuesday 10 March to&#xA0;Friday 17 April&#xA0;(excluding weekends and public holidays).</li>\n\t<li>Bruces Walk between North Lawson Park and Kent St in Bullaburra will have temporary closures in place from Monday 16 March to Friday 17&#xA0;April (excluding weekends) for road maintenance. Follow direction of staff and signage.</li>\n\t<li>Ingar Road is closed for maintenance from Wednesday 18 March to Friday 17&#xA0;April (excluding weekends &amp; public holidays).</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of&#xA0;Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Green Gully precinct including Dunphys Campground and Galong&#xA0;Cabins is closed for road upgrade works until 11th May&#xA0;2026 (weather dependent). This means there is no access to the K-2-K, Iron Pot Route, Breakfast Creek, Ironmonger Route&#xA0;or Bellbird Ridge Fire Trail.&#xA0;The road will reopen for ANZAC Day Long weekend (24,25 &amp; 26 April) to Galong Creek crossing on Green Gully Road, after which pedestrian access will be permitted to Dunphys Campground.&#xA0;&#xA0;</li>\n\t<li>Pulpit Rock Reserve, lookouts and part of the walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu&amp;g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D\">Google maps</a>).</li>\n\t<li>Govetts descent and parts of Rodriguez Pass are closed due to rockfalls and landslides. Valley access from Blackheath is via Horse Track.</li>\n\t<li>Braeside Walking track and fire trail&#xA0;will be closed from Tuesday 14th April 2026 due to Hazard Reduction activities.</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<p>Juggler (aka Point Pilcher) Canyon exit has been affected by a recent rockfall event. Canyoners should use caution&#xA0;and exit around the impact site.&#xA0;&#xA0;</p>\n\n<p>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004401",
+          "EffectiveFrom": "2026-04-09T11:45:13",
+          "EffectiveTo": "2026-05-31T11:45:44",
+          "LastReviewed": "2026-04-07T15:32:22",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Blue Mountains National Park from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local NPWS area office for more information:</p>\n\n<p>Blackheath 02 4787 8877</p>\n\n<p>Oberon 02 6336 6200</p>\n\n<p>Glenbrook 02 4720 6200</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13004301",
           "EffectiveFrom": "2026-04-07T15:10:04",
@@ -879,17 +955,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Closures will be in place within Glenbrook Precinct of the Blue Mountains National Park Due to Hazard Reduction Burning operations from Thursday&#xA0;9th&#xA0;April to Saturday 11th&#xA0;of April.</p>\n\n<p>&#xA0;</p>\n\n<p>During this time visitors will not be able to access</p>\n\n<p>&#xA0;</p>\n\n<p>- Nepean Lookout</p>\n\n<p>- Pisgah Lookout</p>\n\n<p>- Jack Evans Track</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p><strong>EUROKA CAMPGROUND WILL REMAIN OPEN DURING THIS PERIOD</strong></p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/qrgsxl9xnbqi/blo15rh4od7bj/tbu5z19j1qb3\">Penalties apply for non-compliance</a>. This burn is called Massif Ridge HR. For more information, contact the local NPWS office on 02 4720 6200 or visit the <a href=\"http://click.ngcomms.net/qrgsxl9xnbqi/blo15rh4od7bj/tbu61t9j3or2\">Rural Fire Service website.</a></p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/8419722",
-          "EffectiveFrom": "2022-04-09T13:03:17",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-04-02T15:43:46",
-          "Title": "Parts of Blue Mountains National Park closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Many roads, fire trails and walking tracks in Blue Mountains National Park are closed due to infrastructure repairs, upgrades or damage caused by wet weather including subsidence, rockfalls, landslides and fallen trees.</p>\n\n<p><strong>Katoomba and Leura </strong></p>\n\n<ul>\n\t<li>Katoomba Kiosk Reserve, Reids Plateau and Round Walk east are closed to due to Council upgrades. For details visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>.&#xA0;Access to Furber Stairs is available&#xA0;from the western side of the Round Walk via Vanimans Lookout.</li>\n\t<li>Honeymoon Bridge is closed due to rockfall hazards. (Visible bridge from Echo Point. Side route off Three Sisters Track and Giant Stairs).</li>\n\t<li>Glenraphael Drive (Narrow Neck fire trail) is closed to vehicles near Cliff Drive due to a road subsidence. Walkers and&#xA0;cyclists are permitted.</li>\n\t<li>Part of Lindeman Pass is closed due to a major landslide below Gladstone lookout. Roberts Pass is closed due to rockfall and landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is closed at the boundary to the <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a> Karst Conservation&#xA0;Reserve. Jenolan Karst Conservation Reserve (including the Caves Visitor Precinct)&#xA0;is closed&#xA0;until 31 December 2026.&#xA0;There is no&#xA0;access to the entire reserve during this time.</li>\n\t<li>Mt Hay Road will be closed for fire trail upgrades from Monday 18 May to Thursday 17 December. There will be no vehicle or pedestrian access during this time.</li>\n</ul>\n\n<p><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</p>\n\n<ul>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to elevated boardwalk repairs. There is&#xA0;no access to&#xA0;Roberts Pass, Hippocrene or&#xA0;Vera Falls routes.&#xA0;</li>\n\t<li>Valley of the Waters is closed below Silvia Falls due rockfall hazards. There is no access to Roberts Pass, Hippocrene or Vera Falls.</li>\n\t<li>Princes Rock walking track is closed for maintenance until 30 June 2026. Princes Rock lookout is however accessible from Overcliff/Undercliff track.</li>\n\t<li>Fletchers lookout is closed for maintenance until 30 June 2026.</li>\n\t<li>Lincolns Rock is closed. For details visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>.</li>\n\t<li>Evans St extension fire trail will be closed from Monday March 2 to Friday May&#xA0;15 for road maintenance. There will be increased truck movements on Blaxland Road in Wentworth Falls and Evans Lookout Road in Blackheath.</li>\n\t<li>North Lawson Fire Trail and access to Empire Pass Walking track from Federica Falls will be closed for road maintenance from Tuesday 10 March to&#xA0;Friday 17 April&#xA0;(excluding weekends and public holidays).</li>\n\t<li>Bruces Walk between North Lawson Park and Kent St in Bullaburra will have temporary closures in place from Monday 16 March to Friday 17&#xA0;April (excluding weekends) for road maintenance. Follow direction of staff and signage.</li>\n\t<li>Ingar Road is closed for maintenance from Wednesday 18 March to Friday 17&#xA0;April (excluding weekends &amp; public holidays).</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of&#xA0;Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Green Gully precinct including Dunphys Campground and Galong&#xA0;Cabins is closed for road upgrade works until 11th May&#xA0;2026 (weather dependent). This means there is no access to the K-2-K, Iron Pot Route, Breakfast Creek, Ironmonger Route&#xA0;or Bellbird Ridge Fire Trail.&#xA0;The road will reopen for ANZAC Day Long weekend (24,25 &amp; 26 April) to Galong Creek crossing on Green Gully Road, after which pedestrian access will be permitted to Dunphys Campground.&#xA0;&#xA0;</li>\n\t<li>Pulpit Rock Reserve, lookouts and part of the walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu&amp;g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D\">Google maps</a>).</li>\n\t<li>Govetts descent and parts of Rodriguez Pass are closed due to rockfalls and landslides. Valley access from Blackheath is via Horse Track.</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<p>Juggler (aka Point Pilcher) Canyon exit has been affected by a recent rockfall event. Canyoners should use caution&#xA0;and exit around the impact site.&#xA0;&#xA0;</p>\n\n<p>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</p>",
           "IsKml": false
         },
         {
@@ -973,7 +1038,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -1280,17 +1345,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from Thursday 1 January 2026 to Tuesday 30 June 2026. The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and/or foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species and&#xA0;will take place in:</p>\n\n<ul>\n\t<li>Araluen Nature Reserve</li>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Beowa National Park</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Bondi Gulf Nature Reserve</li>\n\t<li>Bournda National Park</li>\n\t<li>Bournda Nature Reserve</li>\n\t<li>Coolumbooka Nature Reserve</li>\n\t<li>Deua National Park</li>\n\t<li>Eurobodalla National Park</li>\n\t<li>Kooraban National Park</li>\n\t<li>Majors Creek State Conservation Area</li>\n\t<li>Mimosa Rocks National Park</li>\n\t<li>Monga National Park and State Conservation Area</li>\n\t<li>South East Forest National Park</li>\n\t<li>Wadbilliga National Park</li>\n</ul>\n\n<p>Signs will be placed at the entry to baiting locations. Domestic pets are not permitted in NSW National Parks managed lands.</p>\n\n<p>Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For further information call the NPWS Merimbula area office on 02 6495 5000.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12677601",
-          "EffectiveFrom": "2026-04-07T15:29:00",
-          "EffectiveTo": "2026-09-14T15:30:10",
-          "LastReviewed": "2026-03-11T09:02:45",
-          "Title": "Hobart Beach Campground Closure",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Hobart Beach Campground is closed from Tuesday the 7th of April 2026 to Monday 21st of September 2026 for campground upgrade works. Bournda Beach is still accessible from the ocean beach carpark at the end of Bournda road., and from the Bournda Lagoon day use area.&#xA0;&#xA0;Obey all signage and closures. Penalties apply for accessing closed areas. Contact Merimbula office on 6495 5000 for enquiries.&#xA0;</p>",
           "IsKml": false
         }
       ]
@@ -1611,17 +1665,29 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-08T11:47:26",
+      "LastReviewed": "2026-04-09T17:54:14",
       "EffectiveFrom": "2024-09-19T16:12:04",
       "Categories": [
+        "Fires - Not Applicable",
         "Other planned events"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/13006501",
+          "EffectiveFrom": "2026-04-09T09:30:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-04-09T17:54:14",
+          "Title": "Olive Gap & Haynes HR",
+          "ItemName": null,
+          "Category": "Fires - Not Applicable",
+          "DescriptionHtml": "<p>There is a fire in this park called Olive Gap &amp; Haynes HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/13006901",
           "EffectiveFrom": "2026-04-08T11:45:32",
           "EffectiveTo": "2026-04-13T16:00:00",
-          "LastReviewed": "2026-04-08T11:47:26",
+          "LastReviewed": "2026-04-09T08:07:18",
           "Title": "Hazard Reduction Bundjalung National Park",
           "ItemName": null,
           "Category": "Other planned events",
@@ -1662,7 +1728,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-07T09:09:29",
+      "LastReviewed": "2026-04-09T12:55:38",
       "EffectiveFrom": "2022-06-03T14:33:00",
       "Categories": [
         "Closed areas",
@@ -1673,7 +1739,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12904101",
           "EffectiveFrom": "2026-02-11T14:27:11",
           "EffectiveTo": "2026-04-30T14:27:49",
-          "LastReviewed": "2026-04-07T09:09:29",
+          "LastReviewed": "2026-04-09T12:55:38",
           "Title": "David Reid and Adam's Lookout Toilet Closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -1946,13 +2012,25 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-01T12:57:02",
+      "LastReviewed": "2026-04-07T15:30:28",
       "EffectiveFrom": "2020-12-24T09:34:30",
       "Categories": [
+        "Other planned events",
         "Fire bans",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004201",
+          "EffectiveFrom": "2026-04-09T11:39:08",
+          "EffectiveTo": "2026-05-31T12:27:07",
+          "LastReviewed": "2026-04-07T15:30:28",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Avisford Nature Reserve (NR), Capertee National Park (NP) and managed Crown Land, Goulburn River NP, Mugii Murum-ban SCA and Munghorn Gap NR from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Mudgee NPWS area office for more information on 02 6370 9000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12580601",
           "EffectiveFrom": "2025-10-01T09:05:47",
@@ -2690,7 +2768,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-08T15:45:21",
+      "LastReviewed": "2026-04-09T14:57:08",
       "EffectiveFrom": "2025-10-01T09:05:47",
       "Categories": [
         "Hazard reduction burns",
@@ -2701,7 +2779,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12987201",
           "EffectiveFrom": "2026-03-31T07:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T15:45:21",
+          "LastReviewed": "2026-04-09T14:57:08",
           "Title": "Dapper HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -2772,7 +2850,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-04-08T15:44:09",
+      "LastReviewed": "2026-04-09T16:33:50",
       "EffectiveFrom": "2014-09-24T10:00:00",
       "Categories": [
         "Hazard reduction burns",
@@ -2785,7 +2863,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12992501",
           "EffectiveFrom": "2026-04-01T10:16:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T15:44:09",
+          "LastReviewed": "2026-04-09T16:33:50",
           "Title": "Oulla Creek Central West HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -2870,12 +2948,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2026-03-26T09:17:09",
+      "LastReviewed": "2026-04-07T15:23:52",
       "EffectiveFrom": "2025-11-24T07:00:00",
       "Categories": [
+        "Other planned events",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004101",
+          "EffectiveFrom": "2026-04-09T14:31:21",
+          "EffectiveTo": "2026-05-31T14:31:44",
+          "LastReviewed": "2026-04-07T15:23:52",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Manobalai Nature Reserve (NR), Parr State Conservation Area (SCA), Wollemi FR, Dharug NP and Yengo NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. St</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Bulga NPWS area office for more information on 02 6574 5555</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12592101",
           "EffectiveFrom": "2025-11-24T07:00:00",
@@ -2927,24 +3017,13 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 2,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2026-04-07T09:37:30",
       "EffectiveFrom": "2026-02-02T07:00:00",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12933701",
-          "EffectiveFrom": "2026-03-01T08:00:00",
-          "EffectiveTo": "2026-05-01T23:00:00",
-          "LastReviewed": "2026-04-01T18:04:45",
-          "Title": "Slingsbys trail and Syndicate Trail remain closed due to flood damage",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Slingsbys trail and the western part of Syndicate track&#xA0;remain&#xA0;closed until further notice, due to severe flooding causing damage to infrastructure.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local area office on 02 6652 0900.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12866401",
           "EffectiveFrom": "2026-02-02T07:00:00",
@@ -3223,12 +3302,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-01T12:57:02",
+      "LastReviewed": "2026-04-07T15:34:11",
       "EffectiveFrom": "2025-10-01T09:05:47",
       "Categories": [
+        "Other planned events",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004601",
+          "EffectiveFrom": "2026-04-09T14:22:17",
+          "EffectiveTo": "2026-05-31T14:27:34",
+          "LastReviewed": "2026-04-07T15:34:11",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Gardens of Stone National Park from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local NPWS area office for more information:</p>\n\n<p>Mudgee 02 6370 9000</p>\n\n<p>Oberon 02 6336 6200</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12580601",
           "EffectiveFrom": "2025-10-01T09:05:47",
@@ -3252,7 +3343,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-03-31T16:24:47",
+      "LastReviewed": "2026-04-09T08:35:39",
       "EffectiveFrom": "2023-07-20T15:06:23",
       "Categories": [
         "Closed areas",
@@ -3263,11 +3354,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12375301",
           "EffectiveFrom": "2025-07-24T13:24:25",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-31T16:24:47",
+          "LastReviewed": "2026-04-09T08:35:39",
           "Title": "Forest Campground precinct closure",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>The area west of Glowworm Tunnel Road from Western Boundary Road to Fire Trail No. 1 will be closed from&#xA0;Monday 28&#xA0;July 2025&#xA0;for construction of visitor infrastructure works. The closure will be in place for at least 12 months while works continue. Access to Broad Swamp walking tracks&#xA0;remains open.&#xA0;</p>\n\n<p>During the closure, there is no public access to:</p>\n\n<ul>\n\t<li>Western Boundary Road</li>\n\t<li>Red Hill Road</li>\n\t<li>Camp Road</li>\n\t<li>Newnes Afforestation Camp</li>\n\t<li>Any roads within the closed area including access to the southern end of Carne Creek Canyon</li>\n</ul>\n\n<p>Closures are in place to enable the construction of:</p>\n\n<ul>\n\t<li>Forest Campground (at the old Newnes Afforestation Camp Ruins) which will include 50 bookable sites, group campground and picnic area</li>\n\t<li>Upgrading roads for 2WD access</li>\n\t<li>Rehabilitation of damaged and eroded areas</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p><strong>Additional Temporary Closures: Road Works for Western Boundary and Camp Road</strong></p>\n\n<p>Roadworks extending from Red Hill Road towards Glow Worm Tunnel Road will commence on 27 January 2026 and are expected to be completed by 23 April 2026.</p>\n\n<p>During this construction period, and in addition to previously notified closures, there will be <strong>no public access</strong> to the following areas:</p>\n\n<ul>\n\t<li>Broad Swamp Loop Walk</li>\n\t<li>Broad Swamp to Birds Rock Walking Track (Pagoda Walk &#x2013; Section 1)</li>\n\t<li>Broad Swamp Car Park</li>\n</ul>\n\n<p>Visitors are advised to plan ahead and follow all on-site signage. For safety reasons, access restrictions will be strictly enforced while works are underway.</p>\n\n<p>&#xA0;</p>\n\n<p>Information for camping:</p>\n\n<p>Bush camping is allowed at sites further than 200 metres from park infrastructure such as roads, walking tracks and lookouts.</p>\n\n<p>&#xA0;</p>\n\n<p>For information on the access strategy for Gardens of Stone State Conservation Area refer to the <a href=\"https://www.environment.nsw.gov.au/sites/default/files/2025-01/gardens-of-stone-state-conservation-area-vehicle-access-strategy-240328.pdf\">Road Access Strategy</a></p>\n\n<p>For information on the long-term plan for the Gardens of Stone State Conservation Area refer to the <a href=\"https://www.environment.nsw.gov.au/publications/gardens-stone-state-conservation-area-visitor-infrastructure-master-plan\">Master Plan&#xA0;</a></p>\n\n<p>&#xA0;</p>",
+          "DescriptionHtml": "<p>The area west of Glowworm Tunnel Road from Western Boundary Road to Fire Trail No. 1 will be closed from&#xA0;Monday 28&#xA0;July 2025&#xA0;for construction of visitor infrastructure works. The closure will be in place for at least 12 months while works continue.&#xA0;&#xA0;</p>\n\n<p>During the closure, there is no public access to:</p>\n\n<ul>\n\t<li>Western Boundary Road</li>\n\t<li>Red Hill Road</li>\n\t<li>Camp Road</li>\n\t<li>Newnes Afforestation Camp</li>\n\t<li>Any roads within the closed area including access to the southern end of Carne Creek Canyon</li>\n</ul>\n\n<p>Closures are in place to enable the construction of:</p>\n\n<ul>\n\t<li>Forest Campground (at the old Newnes Afforestation Camp Ruins) which will include 50 bookable sites, group campground and picnic area</li>\n\t<li>Upgrading roads for 2WD access</li>\n\t<li>Rehabilitation of damaged and eroded areas</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p><strong>Additional Temporary Closures: Road Works for Western Boundary and Camp Road</strong></p>\n\n<p>Roadworks extending from Red Hill Road towards Glow Worm Tunnel Road will commence on 27 January 2026 and are expected to be completed by 23 April 2026.</p>\n\n<p>During this construction period, and in addition to previously notified closures, there will be <strong>no public access</strong> to the following areas:</p>\n\n<ul>\n\t<li>Broad Swamp Loop Walk</li>\n\t<li>Broad Swamp to Birds Rock Walking Track (Pagoda Walk &#x2013; Section 1)</li>\n\t<li>Broad Swamp Car Park</li>\n</ul>\n\n<p>Visitors are advised to plan ahead and follow all on-site signage. For safety reasons, access restrictions will be strictly enforced while works are underway.</p>\n\n<p>&#xA0;</p>\n\n<p>Information for camping:</p>\n\n<p>Bush camping is allowed at sites further than 200 metres from park infrastructure such as roads, walking tracks and lookouts.</p>\n\n<p>&#xA0;</p>\n\n<p>For information on the access strategy for Gardens of Stone State Conservation Area refer to the <a href=\"https://www.environment.nsw.gov.au/sites/default/files/2025-01/gardens-of-stone-state-conservation-area-vehicle-access-strategy-240328.pdf\">Road Access Strategy</a></p>\n\n<p>For information on the long-term plan for the Gardens of Stone State Conservation Area refer to the <a href=\"https://www.environment.nsw.gov.au/publications/gardens-stone-state-conservation-area-visitor-infrastructure-master-plan\">Master Plan&#xA0;</a></p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         },
         {
@@ -3628,13 +3719,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-04-02T13:06:26",
+      "LastReviewed": "2026-04-07T15:30:28",
       "EffectiveFrom": "2025-10-01T09:05:47",
       "Categories": [
+        "Other planned events",
         "Closed areas",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004201",
+          "EffectiveFrom": "2026-04-09T11:39:08",
+          "EffectiveTo": "2026-05-31T12:27:07",
+          "LastReviewed": "2026-04-07T15:30:28",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Avisford Nature Reserve (NR), Capertee National Park (NP) and managed Crown Land, Goulburn River NP, Mugii Murum-ban SCA and Munghorn Gap NR from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Mudgee NPWS area office for more information on 02 6370 9000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12996501",
           "EffectiveFrom": "2026-04-02T13:02:58",
@@ -3814,13 +3917,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-03-24T07:32:05",
+      "LastReviewed": "2026-04-07T15:12:34",
       "EffectiveFrom": "2025-07-16T07:00:00",
       "Categories": [
+        "Other planned events",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13003901",
+          "EffectiveFrom": "2026-04-09T08:00:00",
+          "EffectiveTo": "2026-05-31T11:49:00",
+          "LastReviewed": "2026-04-07T15:12:34",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Bargo State Conservation Area (SCA), Guula Ngurra NP and Nattai NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026. </strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impacts of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Glenbrook NPWS area office for more information on 02 4720 6200.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12974701",
           "EffectiveFrom": "2026-04-06T05:00:00",
@@ -3954,7 +4069,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-04-07T08:40:15",
+      "LastReviewed": "2026-04-09T08:41:48",
       "EffectiveFrom": "2022-07-06T14:56:02",
       "Categories": [
         "Closed areas",
@@ -3988,7 +4103,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12438501",
           "EffectiveFrom": "2025-08-25T09:38:15",
           "EffectiveTo": "2026-08-31T09:39:01",
-          "LastReviewed": "2026-04-01T07:38:51",
+          "LastReviewed": "2026-04-09T08:41:48",
           "Title": "Royal Hotel is temporarily closed.",
           "ItemName": null,
           "Category": "Closed areas",
@@ -4029,7 +4144,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-08T14:57:49",
+      "LastReviewed": "2026-04-09T15:24:38",
       "EffectiveFrom": "2026-03-29T10:30:00",
       "Categories": [
         "Hazard reduction burns"
@@ -4039,7 +4154,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12982401",
           "EffectiveFrom": "2026-03-29T10:30:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T14:57:49",
+          "LastReviewed": "2026-04-09T15:24:38",
           "Title": "Mongogarie HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -4173,7 +4288,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-08T16:37:10",
+      "LastReviewed": "2026-04-09T15:53:38",
       "EffectiveFrom": "2026-04-08T08:00:00",
       "Categories": [
         "Hazard reduction burns",
@@ -4184,7 +4299,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13000301",
           "EffectiveFrom": "2026-04-08T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T16:37:10",
+          "LastReviewed": "2026-04-09T15:53:38",
           "Title": "Casuarina HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -4254,13 +4369,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-01-19T07:59:22",
+      "LastReviewed": "2026-04-09T09:17:13",
       "EffectiveFrom": "2024-07-18T16:36:09",
       "Categories": [
-        "Closed parks",
-        "Other planned events"
+        "Other planned events",
+        "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004001",
+          "EffectiveFrom": "2026-04-09T14:48:29",
+          "EffectiveTo": "2026-05-31T14:48:52",
+          "LastReviewed": "2026-04-07T15:15:52",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP and Mares Forest NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11063801",
           "EffectiveFrom": "2024-07-18T16:36:09",
@@ -4276,7 +4402,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -4497,14 +4623,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-21T08:26:25",
+      "LastReviewed": "2026-04-09T09:17:13",
       "EffectiveFrom": "2023-09-29T16:04:49",
       "Categories": [
+        "Other planned events",
         "Closed areas",
-        "Safety alerts",
-        "Other planned events"
+        "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004001",
+          "EffectiveFrom": "2026-04-09T14:48:29",
+          "EffectiveTo": "2026-05-31T14:48:52",
+          "LastReviewed": "2026-04-07T15:15:52",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP and Mares Forest NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12971601",
           "EffectiveFrom": "2026-03-21T08:23:40",
@@ -4531,7 +4668,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -4759,14 +4896,36 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-08T15:46:48",
+      "LastReviewed": "2026-04-09T17:22:46",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
-        "Safety alerts",
         "Closed areas",
-        "Other planned events"
+        "Other planned events",
+        "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13012701",
+          "EffectiveFrom": "2026-04-09T17:16:43",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-04-09T17:22:46",
+          "Title": "Greg Greg trail closed.",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Greg Greg trail is closed for hazardous tree maintenance from Thursday 9th April, 2026. Do not enter.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the Khancoban Visitor Centre (02) 6070 8400.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12938301",
+          "EffectiveFrom": "2026-03-10T00:03:32",
+          "EffectiveTo": "2026-05-13T23:59:12",
+          "LastReviewed": "2026-04-09T14:31:40",
+          "Title": "Delays on Khancoban to Kiandra Drive (Snow Ridge Road)",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>Snowy Hydro is&#xA0;conducting maintenance works on Tumut Ponds Dam wall from Tuesday 10 March to Wednesday 13 May 2026. Expect delays and partial closures on the Khancoban to Kiandra Drive (Snow Ridge Road) at Tumut Ponds Dam on the following dates:</p>\n\n<p>Road closures for up to two hours at a time on:</p>\n\n<ul>\n\t<li>Wednesday 11 March 2026</li>\n\t<li>Tuesday 17 March 2026</li>\n\t<li>Tuesday 14 April 2026</li>\n\t<li>Friday 17 April 2026</li>\n\t<li>Monday 4 May 2026</li>\n\t<li>Tuesday 5 May 2026</li>\n</ul>\n\n<p>Partial road closure, expect delays on:</p>\n\n<ul>\n\t<li>Tuesday 10 March 2026</li>\n\t<li>Wednesday 13 May 2026</li>\n</ul>\n\n<p>Construction works will be underway. Drive safely and follow the directions of roadwork signs and traffic control staff.</p>\n\n<p>For more information, contact:</p>\n\n<ul>\n\t<li>Snowy Hydro - Kieran Wells (Project Manager) on&#xA0;0460 775 396</li>\n\t<li>Matthew Warner (Site Manager) on 0428 157 545</li>\n</ul>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13008201",
           "EffectiveFrom": "2026-04-08T15:39:53",
@@ -4831,17 +4990,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be undertaking fire trail maintenance, including vegetation maintenance, on the following sections of the Australian Alps Walking Track:</p>\n\n<ul>\n\t<li>Cowombat Trail</li>\n\t<li>Snow Gums Trail</li>\n\t<li>Pilot Creek Trail</li>\n</ul>\n\n<p>Work areas will be signposted. Please wait for directions from staff or contractors before proceeding through active works areas.</p>\n\n<p>For further information please contact the NPWS Jindabyne office on 02&#xA0;6450 5555.&#xA0;</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12938301",
-          "EffectiveFrom": "2026-03-10T00:03:32",
-          "EffectiveTo": "2026-05-13T23:59:12",
-          "LastReviewed": "2026-03-10T09:10:58",
-          "Title": "Delays on Khancoban to Kiandra Drive (Snow Ridge Road)",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Snowy Hydro is&#xA0;conducting maintenance works on Tumut Ponds Dam wall from Tuesday 10 March to Wednesday 13 May 2026. Expect delays and partial closures on the Khancoban to Kiandra Drive (Snow Ridge Road) at Tumut Ponds Dam on the following dates:</p>\n\n<p>Road closures for up to two hours at a time on:</p>\n\n<ul>\n\t<li>Wednesday 11 March 2026</li>\n\t<li>Tuesday 17 March 2026</li>\n\t<li>Tuesday 14 April 2026</li>\n\t<li>Monday 4 May 2026</li>\n\t<li>Tuesday 5 May 2026</li>\n</ul>\n\n<p>Partial road closure, expect delays on:</p>\n\n<ul>\n\t<li>Tuesday 10 March 2026</li>\n\t<li>Wednesday 13 May 2026</li>\n</ul>\n\n<p>Construction works will be underway. Drive safely and follow the directions of roadwork signs and traffic control staff.</p>\n\n<p>For more information, contact:</p>\n\n<ul>\n\t<li>Snowy Hydro - Kieran Wells (Project Manager) on&#xA0;0460 775 396</li>\n\t<li>Matthew Warner (Site Manager) on 0428 157 545</li>\n</ul>",
           "IsKml": false
         },
         {
@@ -4977,7 +5125,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-01T18:03:30",
+      "LastReviewed": "2026-04-09T11:30:55",
       "EffectiveFrom": "2026-03-25T08:00:00",
       "Categories": [
         "Other planned events"
@@ -4987,7 +5135,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12977001",
           "EffectiveFrom": "2026-03-25T08:00:00",
           "EffectiveTo": "2026-04-30T18:00:00",
-          "LastReviewed": "2026-04-01T18:03:30",
+          "LastReviewed": "2026-04-09T11:30:55",
           "Title": "Roadside Spraying - Kumbatine National Park",
           "ItemName": null,
           "Category": "Other planned events",
@@ -5006,7 +5154,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-04-08T08:58:22",
+      "LastReviewed": "2026-04-09T11:08:40",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
         "Other planned events",
@@ -5050,7 +5198,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11583701",
           "EffectiveFrom": "2025-01-01T20:49:41",
           "EffectiveTo": "2026-06-30T20:50:17",
-          "LastReviewed": "2026-04-01T10:00:20",
+          "LastReviewed": "2026-04-09T11:08:40",
           "Title": "Berowra walking track partial closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -5248,7 +5396,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-03-23T11:11:30",
+      "LastReviewed": "2026-04-09T10:04:50",
       "EffectiveFrom": "2026-02-24T11:20:44",
       "Categories": [
         "Closed parks"
@@ -5258,7 +5406,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12925701",
           "EffectiveFrom": "2026-02-24T11:20:44",
           "EffectiveTo": null,
-          "LastReviewed": "2026-03-23T11:11:30",
+          "LastReviewed": "2026-04-09T10:04:50",
           "Title": "Eckerboon Lake campground is closed due to rain.",
           "ItemName": null,
           "Category": "Closed parks",
@@ -5545,6 +5693,35 @@
     },
     {
       "Park": {
+        "Name": "Manobalai Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/manobalai-nature-reserve",
+        "Id": "ada6ba44-d49d-4764-b89a-3f2300b8ddc7",
+        "ItemName": "Manobalai-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-04-07T15:23:52",
+      "EffectiveFrom": "2026-04-09T14:31:21",
+      "Categories": [
+        "Other planned events"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004101",
+          "EffectiveFrom": "2026-04-09T14:31:21",
+          "EffectiveTo": "2026-05-31T14:31:44",
+          "LastReviewed": "2026-04-07T15:23:52",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Manobalai Nature Reserve (NR), Parr State Conservation Area (SCA), Wollemi FR, Dharug NP and Yengo NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. St</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Bulga NPWS area office for more information on 02 6574 5555</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Mares Forest National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mares-forest-national-park",
         "Id": "fb2b33ca-c880-48bb-8de6-5e3e3624adec",
@@ -5553,17 +5730,28 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-08T10:41:32",
+      "LastReviewed": "2026-04-09T09:17:13",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
         "Other planned events"
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004001",
+          "EffectiveFrom": "2026-04-09T14:48:29",
+          "EffectiveTo": "2026-05-31T14:48:52",
+          "LastReviewed": "2026-04-07T15:15:52",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Jenolan Karst Conservation Reserve (KCR), Kanangra-Boyd NP and Mares Forest NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Oberon NPWS area office for more information on 02 6336 6200.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -5611,7 +5799,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-02-04T09:00:31",
+      "LastReviewed": "2026-04-09T09:17:13",
       "EffectiveFrom": "2020-06-04T15:29:14",
       "Categories": [
         "Other planned events"
@@ -5621,7 +5809,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -5796,7 +5984,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 8,
-      "LastReviewed": "2026-04-01T11:20:23",
+      "LastReviewed": "2026-04-09T12:57:32",
       "EffectiveFrom": "2024-11-07T10:32:37",
       "Categories": [
         "Closed areas",
@@ -5804,6 +5992,17 @@
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12775801",
+          "EffectiveFrom": "2026-02-01T13:04:02",
+          "EffectiveTo": "2026-12-31T13:05:24",
+          "LastReviewed": "2026-04-09T12:57:32",
+          "Title": "Temporary closures at Mimosa Rocks National Park",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The National Parks and Wildlife Service is delivering a range of improvements at the popular Mimosa Rocks National Park on NSW&#x2019;s South Coast. The upgrades will improve flood resilience, sustainability and visitor safety across four key precincts in the park including Nelsons Beach and Aragunnu Beach, Gillards Beach and Middle Beach campgrounds.</p>\n\n<p>Work will be completed in stages from February 2026 to December 2026, and has been scheduled outside of peak holiday times, where possible.</p>\n\n<p><strong>Visitors can expect the following temporary closures:</strong></p>\n\n<ul>\n\t<li>From February 2026 to mid-2026 Nelsons Beach precinct, including Nelsons Beach Road and Carpark will be closed to all public access for upgrades.</li>\n\t<li>From July&#xA0;2026 to late-2026 Middle Beach Campground and Day Use Area will be closed to all public access for upgrades.&#xA0;</li>\n\t<li>From February&#xA0;2027&#xA0;to mid-2027&#xA0;Gillards and Aragunnu campgrounds will be closed for upgrades.</li>\n</ul>\n\n<p>Alternative camping options include Picnic Point in Mimosa Rocks National Park and Hobart Beach in Bournda National Park.</p>\n\n<p>All other areas in Mimosa Rocks National Park will remain open to visitors during these times. <a href=\"https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mimosa-rocks-national-park/local-alerts\">Check for park closure alerts before you travel.</a></p>\n\n<p>For more information or questions, <a href=\"mailto:npws.eurobodalla@environment.nsw.gov.au%C2%A0\">contact the Eurobodalla NPWS Office via email</a>.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12832201",
           "EffectiveFrom": "2026-02-02T13:45:14",
@@ -5824,17 +6023,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from Thursday 1 January 2026 to Tuesday 30 June 2026. The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and/or foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species and&#xA0;will take place in:</p>\n\n<ul>\n\t<li>Araluen Nature Reserve</li>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Beowa National Park</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Bondi Gulf Nature Reserve</li>\n\t<li>Bournda National Park</li>\n\t<li>Bournda Nature Reserve</li>\n\t<li>Coolumbooka Nature Reserve</li>\n\t<li>Deua National Park</li>\n\t<li>Eurobodalla National Park</li>\n\t<li>Kooraban National Park</li>\n\t<li>Majors Creek State Conservation Area</li>\n\t<li>Mimosa Rocks National Park</li>\n\t<li>Monga National Park and State Conservation Area</li>\n\t<li>South East Forest National Park</li>\n\t<li>Wadbilliga National Park</li>\n</ul>\n\n<p>Signs will be placed at the entry to baiting locations. Domestic pets are not permitted in NSW National Parks managed lands.</p>\n\n<p>Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For further information call the NPWS Merimbula area office on 02 6495 5000.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12775801",
-          "EffectiveFrom": "2026-02-01T13:04:02",
-          "EffectiveTo": "2026-12-31T13:05:24",
-          "LastReviewed": "2026-03-25T15:24:20",
-          "Title": "Temporary closures at Mimosa Rocks National Park",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>The National Parks and Wildlife Service is delivering a range of improvements at the popular Mimosa Rocks National Park on NSW&#x2019;s South Coast. The upgrades will improve flood resilience, sustainability and visitor safety across four key precincts in the park including Nelsons Beach and Aragunnu Beach, Gillards Beach and Middle Beach campgrounds.</p>\n\n<p>Work will be completed in stages from February 2026 to December 2026, and has been scheduled outside of peak holiday times, where possible.</p>\n\n<p><strong>Visitors can expect the following temporary closures:</strong></p>\n\n<ul>\n\t<li>From February 2026 to mid-2026 Nelsons Beach precinct, including Nelsons Beach Road and carpark, are closed to all access for upgrades.</li>\n</ul>\n\n<ul>\n\t<li>From late April 2026 to December 2026 Gillards, Middle Beach and Aragunnu campgrounds will be closed for upgrades.</li>\n</ul>\n\n<p>Alternative camping options include Picnic Point in Mimosa Rocks National Park and Hobart Beach in Bournda National Park.</p>\n\n<p>All other areas in Mimosa Rocks National Park will remain open to visitors during these times. <a href=\"https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mimosa-rocks-national-park/local-alerts\">Check for park closure alerts before you travel.</a></p>\n\n<p>For more information or questions, <a href=\"mailto:npws.eurobodalla@environment.nsw.gov.au%C2%A0\">contact the Eurobodalla NPWS Office via email</a>.</p>",
           "IsKml": false
         },
         {
@@ -6342,6 +6530,7 @@
       "EffectiveFrom": "2020-02-18T17:42:12",
       "Categories": [
         "Safety alerts",
+        "Other planned events",
         "Fire bans",
         "Closed areas"
       ],
@@ -6355,6 +6544,17 @@
           "ItemName": null,
           "Category": "Safety alerts",
           "DescriptionHtml": "<p>In preparation for upcoming road works, increased heavy vehicle movements will be occurring along the Genowlan point trail in Mugii Murrum-ban SCA until the 12th of April.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>Driver and hikers should travel slowly and stay alert for trucks and bulldozers. Please wait until machine operators have seen you and follow instructions of machine operators before passing by.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>This will affect access to Valley of the Dinosaurs, Airly Turret, Diamond mine and Point Hatteras.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>For further information call the Mudgee office on 6370 9000</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004201",
+          "EffectiveFrom": "2026-04-09T11:39:08",
+          "EffectiveTo": "2026-05-31T12:27:07",
+          "LastReviewed": "2026-04-07T15:30:28",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Avisford Nature Reserve (NR), Capertee National Park (NP) and managed Crown Land, Goulburn River NP, Mugii Murum-ban SCA and Munghorn Gap NR from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Mudgee NPWS area office for more information on 02 6370 9000.</p>",
           "IsKml": false
         },
         {
@@ -6391,12 +6591,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-01T12:57:02",
+      "LastReviewed": "2026-04-07T15:30:28",
       "EffectiveFrom": "2025-10-01T09:05:47",
       "Categories": [
+        "Other planned events",
         "Fire bans"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004201",
+          "EffectiveFrom": "2026-04-09T11:39:08",
+          "EffectiveTo": "2026-05-31T12:27:07",
+          "LastReviewed": "2026-04-07T15:30:28",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Avisford Nature Reserve (NR), Capertee National Park (NP) and managed Crown Land, Goulburn River NP, Mugii Murum-ban SCA and Munghorn Gap NR from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Mudgee NPWS area office for more information on 02 6370 9000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12580601",
           "EffectiveFrom": "2025-10-01T09:05:47",
@@ -6669,7 +6881,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-04-08T12:46:29",
+      "LastReviewed": "2026-04-09T08:55:51",
       "EffectiveFrom": "2026-01-16T10:39:29",
       "Categories": [
         "Closed areas"
@@ -6679,7 +6891,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12832001",
           "EffectiveFrom": "2026-01-16T11:00:38",
           "EffectiveTo": "2026-07-27T11:01:19",
-          "LastReviewed": "2026-04-01T12:41:49",
+          "LastReviewed": "2026-04-09T08:55:51",
           "Title": "Swifts Creek Campground Closures",
           "ItemName": null,
           "Category": "Closed areas",
@@ -6915,6 +7127,35 @@
     },
     {
       "Park": {
+        "Name": "Nadgigomar Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nadgigomar-nature-reserve",
+        "Id": "e7ba011e-c14e-4738-84af-fda7dc2249b1",
+        "ItemName": "Nadgigomar-Nature-Reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-04-09T17:46:03",
+      "EffectiveFrom": "2026-04-09T10:00:00",
+      "Categories": [
+        "Fires - Not Applicable"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13009101",
+          "EffectiveFrom": "2026-04-09T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-04-09T17:46:03",
+          "Title": "CableEurodux HR",
+          "ItemName": null,
+          "Category": "Fires - Not Applicable",
+          "DescriptionHtml": "<p>There is a fire in this park called CableEurodux HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Narriearra Caryapundy Swamp National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/narriearra-caryapundy-swamp-national-park",
         "Id": "ff14fe6c-fab1-4fea-92f2-1d04563f4eb1",
@@ -6964,12 +7205,23 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-09T14:22:48",
+      "LastReviewed": "2026-04-07T15:12:34",
       "EffectiveFrom": "2024-09-18T14:22:32",
       "Categories": [
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13003901",
+          "EffectiveFrom": "2026-04-09T08:00:00",
+          "EffectiveTo": "2026-05-31T11:49:00",
+          "LastReviewed": "2026-04-07T15:12:34",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Bargo State Conservation Area (SCA), Guula Ngurra NP and Nattai NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026. </strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impacts of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Glenbrook NPWS area office for more information on 02 4720 6200.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/11328801",
           "EffectiveFrom": "2024-09-18T14:22:32",
@@ -7352,13 +7604,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2026-03-17T11:14:27",
+      "LastReviewed": "2026-04-09T15:29:40",
       "EffectiveFrom": "2014-09-25T10:00:00",
       "Categories": [
-        "Closed parks",
-        "Fire bans"
+        "Fire bans",
+        "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/1502201",
+          "EffectiveFrom": "2014-09-25T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-04-09T15:29:40",
+          "Title": "Park fire ban for Paroo-Darling National Park",
+          "ItemName": null,
+          "Category": "Fire bans",
+          "DescriptionHtml": "<p>There is a 'no solid fuel fire policy'&#xA0;in Paroo-Darling National&#xA0;Park all year round. This park fire ban will remain in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamite) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, please contact the local park office before using a gas and/or electric barbecue or cooker.&#xA0;<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. To find out more about fire bans in parks and reserves, including your responsibilities, visit <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks safety page</a>.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12964901",
           "EffectiveFrom": "2026-03-17T11:12:08",
@@ -7369,16 +7632,34 @@
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Paroo-Darling National Park is closed due to rain.&#xA0; The Coach and Horses campground remains closed and&#xA0;Peery Lake day use area is closed.&#xA0; These closures will be updated as conditions change.</p>",
           "IsKml": false
-        },
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Parr State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/parr-state-conservation-area",
+        "Id": "6928bc92-5806-4eac-a662-70d40c0c48b0",
+        "ItemName": "Parr-State-Conservation-Area"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-04-07T15:23:52",
+      "EffectiveFrom": "2026-04-09T14:31:21",
+      "Categories": [
+        "Other planned events"
+      ],
+      "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/1502201",
-          "EffectiveFrom": "2014-09-25T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-01-05T09:57:17",
-          "Title": "Park fire ban for Paroo-Darling National Park",
+          "ID": "npws-fis@id.ngcomms.net/eme/13004101",
+          "EffectiveFrom": "2026-04-09T14:31:21",
+          "EffectiveTo": "2026-05-31T14:31:44",
+          "LastReviewed": "2026-04-07T15:23:52",
+          "Title": "Notice of 1080 aerial baiting program",
           "ItemName": null,
-          "Category": "Fire bans",
-          "DescriptionHtml": "<p>There is a 'no solid fuel fire policy'&#xA0;in Paroo-Darling National&#xA0;Park all year round. This park fire ban will remain in effect unless otherwise extended or removed. During park fire ban periods, all campfire and solid fuel (wood, heat beads, charcoal, briquettes, hexamite) barbecues and stoves are prohibited. Gas and electric barbecues and cookers are permitted as long as:</p>\n\n<ul>\n\t<li>They're under direct control of an adult</li>\n\t<li>The ground within 2m of the barbecue is cleared of all flammable materials</li>\n\t<li>There's an adequate supply of water (minimum of a bucket)</li>\n</ul>\n\n<p>If a Total Fire Ban is in place, please contact the local park office before using a gas and/or electric barbecue or cooker.&#xA0;<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. To find out more about fire bans in parks and reserves, including your responsibilities, visit <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks safety page</a>.</p>",
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Manobalai Nature Reserve (NR), Parr State Conservation Area (SCA), Wollemi FR, Dharug NP and Yengo NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. St</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Bulga NPWS area office for more information on 02 6574 5555</p>",
           "IsKml": false
         }
       ]
@@ -7748,7 +8029,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-08T17:12:43",
+      "LastReviewed": "2026-04-09T16:17:06",
       "EffectiveFrom": "2026-04-05T17:09:00",
       "Categories": [
         "Fires - Advice"
@@ -7758,7 +8039,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13001001",
           "EffectiveFrom": "2026-04-05T17:09:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T17:12:43",
+          "LastReviewed": "2026-04-09T16:17:06",
           "Title": "RAMORNIE RD, RAMORNIE",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -7777,7 +8058,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2026-04-01T07:57:34",
+      "LastReviewed": "2026-04-09T15:28:32",
       "EffectiveFrom": "2026-02-02T09:55:07",
       "Categories": [
         "Closed areas"
@@ -7787,11 +8068,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12870001",
           "EffectiveFrom": "2026-02-02T09:55:07",
           "EffectiveTo": "2026-04-30T09:55:24",
-          "LastReviewed": "2026-04-01T07:57:34",
+          "LastReviewed": "2026-04-09T15:28:32",
           "Title": "Cambridge Plateau Forest Drive seasonal partial closure",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Cambridge Plateau Forest Drive will be closed between Mount Babyl north to Peacock Creek Road until Late February/March 2026 due to hazardous conditions over the wet summer season.</p>\n\n<p>The following facilities will remain open</p>\n\n<ul>\n\t<li>Cambridge Plateau picnic area</li>\n\t<li>Culmaran loop trail</li>\n\t<li>Culmaran Valley track</li>\n</ul>\n\n<p>Please use Iron Pot Creek Road, Sextonville Road or Peacock Creek Road to access Peacock Creek campground as there will be no access&#xA0;via Cambridge Plateau Forest Drive until the road re-opens.</p>\n\n<p>Telco Companies &amp; related persons that require access to Mount Babyl trail and tower area, can access Mount Babyl using a KRB key only.</p>\n\n<p>The private Airbnb cabin off Cambridge Plateau Forest Drive will remain accessible via Cambridge Plateau Forest Drive from the south via the Bruxner Highway, contact the owner for more information.</p>\n\n<p><a href=\"http://click.ngcomms.net/qn66cd52drly/bixywsp5gxsqo/t81mxd4ve998\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Kyogle area office on 02 6632 0000.</p>",
+          "DescriptionHtml": "<p>Cambridge Plateau Forest Drive will be closed between Mount Babyl north to Peacock Creek Road until Late May 2026 due to hazardous conditions over the wet summer season.</p>\n\n<p>The following facilities will remain open</p>\n\n<ul>\n\t<li>Cambridge Plateau picnic area</li>\n\t<li>Culmaran loop trail</li>\n\t<li>Culmaran Valley track</li>\n</ul>\n\n<p>Please use Iron Pot Creek Road, Sextonville Road or Peacock Creek Road to access Peacock Creek campground as there will be no access&#xA0;via Cambridge Plateau Forest Drive until the road re-opens.</p>\n\n<p>Telco Companies &amp; related persons that require access to Mount Babyl trail and tower area, can access Mount Babyl using a KRB key only.</p>\n\n<p>The private Airbnb cabin off Cambridge Plateau Forest Drive will remain accessible via Cambridge Plateau Forest Drive from the south via the Bruxner Highway, contact the owner for more information.</p>\n\n<p><a href=\"http://click.ngcomms.net/qn66cd52drly/bixywsp5gxsqo/t81mxd4ve998\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Kyogle area office on 02 6632 0000.</p>",
           "IsKml": false
         }
       ]
@@ -8136,7 +8417,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-08T15:20:54",
+      "LastReviewed": "2026-04-09T15:44:15",
       "EffectiveFrom": "2022-03-25T16:56:42",
       "Categories": [
         "Hazard reduction burns",
@@ -8148,7 +8429,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12997201",
           "EffectiveFrom": "2026-03-25T09:16:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T15:20:54",
+          "LastReviewed": "2026-04-09T15:44:15",
           "Title": "Killarney Road Nalbaugh State Forest",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -8329,13 +8610,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2026-04-08T11:01:53",
+      "LastReviewed": "2026-04-09T12:53:21",
       "EffectiveFrom": "2018-07-09T11:06:59",
       "Categories": [
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12978601",
+          "EffectiveFrom": "2026-03-30T08:57:07",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-04-09T12:53:21",
+          "Title": "Area closed for restoration work - Strickland Caretakers Cottage",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Strickland Caretakers Cottage is&#xA0;closed from Monday 30&#xA0;March 2026&#xA0;while it is being restored.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12941101",
           "EffectiveFrom": "2026-03-19T09:57:37",
@@ -8345,17 +8637,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>A section of the Manly to Spit walk in the Castle Rock area near the Ogilvy Street step within Sydney Harbour National Park will be closed for essential upgrade works from 11 May to 10 June 2026.</p>\n\n<p>The work will involve repair of boardwalk decking and railings. Alternate route signage will be in place.&#xA0;</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12978601",
-          "EffectiveFrom": "2026-03-30T08:57:07",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-03-26T15:06:44",
-          "Title": "Area closed for restoration work - Strickland Caretakers Cottage",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some parts of this park are closed from Monday 30th March 2026&#xA0;while Strickland Caretakers Cottage&#xA0;is being restored. The closed areas are:</p>\n\n<ul>\n\t<li>Strickland Caretakers Cottage</li>\n</ul>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         },
         {
@@ -8750,7 +9031,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-04-08T17:18:35",
+      "LastReviewed": "2026-04-09T08:43:03",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
         "Fires - ",
@@ -8761,7 +9042,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13007001",
           "EffectiveFrom": "2026-04-08T11:08:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T17:18:35",
+          "LastReviewed": "2026-04-09T08:43:03",
           "Title": "ROCKY TRL FIRE, ONE MILE",
           "ItemName": null,
           "Category": "Fires - ",
@@ -8988,7 +9269,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-01-08T10:41:32",
+      "LastReviewed": "2026-04-09T09:17:13",
       "EffectiveFrom": "2025-05-02T08:59:00",
       "Categories": [
         "Other planned events"
@@ -8998,7 +9279,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -9424,7 +9705,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2026-04-08T14:55:18",
+      "LastReviewed": "2026-04-09T15:54:44",
       "EffectiveFrom": "2025-12-01T09:12:18",
       "Categories": [
         "Fires - Advice",
@@ -9437,7 +9718,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12999701",
           "EffectiveFrom": "2026-04-04T17:57:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T14:55:18",
+          "LastReviewed": "2026-04-09T15:54:44",
           "Title": "LUCAS TERRACE TONDERBURINE",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -10036,6 +10317,35 @@
     },
     {
       "Park": {
+        "Name": "Wollemi Flora Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wollemi-flora-reserve",
+        "Id": "51a1047d-54f0-4b9b-b16e-22556dc0e64e",
+        "ItemName": "wollemi-flora-reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-04-07T15:23:52",
+      "EffectiveFrom": "2026-04-09T14:31:21",
+      "Categories": [
+        "Other planned events"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004101",
+          "EffectiveFrom": "2026-04-09T14:31:21",
+          "EffectiveTo": "2026-05-31T14:31:44",
+          "LastReviewed": "2026-04-07T15:23:52",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Manobalai Nature Reserve (NR), Parr State Conservation Area (SCA), Wollemi FR, Dharug NP and Yengo NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. St</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Bulga NPWS area office for more information on 02 6574 5555</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Wollemi National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/wollemi-national-park",
         "Id": "b6bf505b-9dc2-4661-a0c9-8732856431a4",
@@ -10044,7 +10354,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-04-08T16:45:38",
+      "LastReviewed": "2026-04-09T13:47:32",
       "EffectiveFrom": "2022-11-23T14:08:54",
       "Categories": [
         "Hazard reduction burns",
@@ -10057,7 +10367,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12981701",
           "EffectiveFrom": "2026-03-29T06:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-04-08T16:45:38",
+          "LastReviewed": "2026-04-09T13:47:32",
           "Title": "Spring Creek HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -10134,7 +10444,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/11895901",
           "EffectiveFrom": "2025-05-02T08:59:00",
           "EffectiveTo": "2026-05-01T09:00:00",
-          "LastReviewed": "2026-01-08T10:41:32",
+          "LastReviewed": "2026-04-09T09:17:13",
           "Title": "Notice of ongoing 1080 baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -10628,12 +10938,24 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-06T16:31:45",
+      "LastReviewed": "2026-04-07T15:23:52",
       "EffectiveFrom": "2025-05-29T07:48:17",
       "Categories": [
+        "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13004101",
+          "EffectiveFrom": "2026-04-09T14:31:21",
+          "EffectiveTo": "2026-05-31T14:31:44",
+          "LastReviewed": "2026-04-07T15:23:52",
+          "Title": "Notice of 1080 aerial baiting program",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an aerial baiting program in Manobalai Nature Reserve (NR), Parr State Conservation Area (SCA), Wollemi FR, Dharug NP and Yengo NP from <strong>Monday 20th April &#x2013; Sunday 3rd May 2026.</strong></p>\n\n<p>The operation will use 1080 (sodium fluoroacetate) poison for the control of wild dogs and foxes. St</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species, and to minimise the impact of wild dogs on neighbouring stock.</p>\n\n<p>Signs will be placed at the entry to the baiting location. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>Please contact the local Bulga NPWS area office for more information on 02 6574 5555</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12729101",
           "EffectiveFrom": "2025-12-12T12:35:04",
@@ -10726,7 +11048,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-03-18T09:02:38",
+      "LastReviewed": "2026-04-09T16:45:30",
       "EffectiveFrom": "2023-10-06T11:39:19",
       "Categories": [
         "Closed areas",
@@ -10748,7 +11070,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/10168501",
           "EffectiveFrom": "2023-10-06T11:39:19",
           "EffectiveTo": null,
-          "LastReviewed": "2026-01-05T09:32:58",
+          "LastReviewed": "2026-04-09T16:45:30",
           "Title": "Yiraaldiya National Park closed during the establishment of feral predator-free area",
           "ItemName": null,
           "Category": "Closed parks",
