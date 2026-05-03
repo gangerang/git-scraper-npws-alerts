@@ -8,8 +8,7 @@
     "Closed areas",
     "Safety alerts",
     "Other incidents",
-    "Other planned events",
-    "Fires - "
+    "Other planned events"
   ],
   "ParkAlerts": [
     {
@@ -22,12 +21,23 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-02-09T10:33:36",
+      "LastReviewed": "2026-05-01T13:42:35",
       "EffectiveFrom": "2022-05-09T08:53:00",
       "Categories": [
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12982101",
+          "EffectiveFrom": "2026-05-03T14:14:50",
+          "EffectiveTo": "2026-05-09T14:17:13",
+          "LastReviewed": "2026-05-01T13:42:35",
+          "Title": "Parks closed for aerial and ground pest control operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 3&#xA0;May&#xA0;to 5.30pm, Friday 8&#xA0;May&#xA0;2026&#xA0;for an aerial and ground pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Oberon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2my5h52yvzv/b9zuec55kgjai/ssbz459n62fj\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8478122",
           "EffectiveFrom": "2022-05-09T08:53:00",
@@ -37,6 +47,64 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Abercrombie Karst Conservation Reserve will remain closed to the public until 2026&#xA0;due to ongoing flood repairs and enhancements to visitor services&#xA0;and facilities. NPWS will announce a reopening date in the new year.</p>\n\n<p>The closure affects the entire reserve, including walking tracks, campgrounds, Arch Cottage, caves and trails.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, call the local NPWS office on 02 4843 5976.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Abercrombie River National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/abercrombie-river-national-park",
+        "Id": "0f8fe64c-29eb-4956-9df3-abd34e03d805",
+        "ItemName": "Abercrombie-River-National-Park"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 4,
+      "LastReviewed": "2026-05-01T13:42:35",
+      "EffectiveFrom": "2026-05-03T14:14:50",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12982101",
+          "EffectiveFrom": "2026-05-03T14:14:50",
+          "EffectiveTo": "2026-05-09T14:17:13",
+          "LastReviewed": "2026-05-01T13:42:35",
+          "Title": "Parks closed for aerial and ground pest control operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 3&#xA0;May&#xA0;to 5.30pm, Friday 8&#xA0;May&#xA0;2026&#xA0;for an aerial and ground pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Oberon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2my5h52yvzv/b9zuec55kgjai/ssbz459n62fj\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Abercrombie River State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/abercrombie-river-state-conservation-area",
+        "Id": "6065be7d-5118-4623-9caf-317aaf15a229",
+        "ItemName": "Abercrombie-River-State-Conservation-Area"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-05-01T13:42:35",
+      "EffectiveFrom": "2026-05-03T14:14:50",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12982101",
+          "EffectiveFrom": "2026-05-03T14:14:50",
+          "EffectiveTo": "2026-05-09T14:17:13",
+          "LastReviewed": "2026-05-01T13:42:35",
+          "Title": "Parks closed for aerial and ground pest control operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 3&#xA0;May&#xA0;to 5.30pm, Friday 8&#xA0;May&#xA0;2026&#xA0;for an aerial and ground pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Oberon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2my5h52yvzv/b9zuec55kgjai/ssbz459n62fj\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
           "IsKml": false
         }
       ]
@@ -434,26 +502,14 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 10,
-      "LastReviewed": "2026-04-29T10:45:53",
+      "LastReviewed": "2026-04-29T08:56:32",
       "EffectiveFrom": "2017-11-09T09:59:54",
       "Categories": [
-        "Hazard reduction burns",
         "Other planned events",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13083501",
-          "EffectiveFrom": "2026-04-30T09:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-04-29T10:45:53",
-          "Title": "Beean Beean HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 30/04/2026. The fire is called&#xA0;Beean Beean HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13053001",
           "EffectiveFrom": "2026-04-21T10:40:34",
@@ -1112,24 +1168,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-05-02T12:58:31",
+      "LastReviewed": "2026-05-03T17:59:22",
       "EffectiveFrom": "2015-03-22T14:11:00",
       "Categories": [
-        "Fires - ",
+        "Hazard reduction burns",
         "Closed areas",
         "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/13091801",
-          "EffectiveFrom": "2026-05-02T11:39:00",
+          "ID": "npws-fis@id.ngcomms.net/eme/13085801",
+          "EffectiveFrom": "2026-05-03T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T12:58:31",
-          "Title": "CLEAR VIEW PDE, HAZELBROOK",
+          "LastReviewed": "2026-05-03T17:59:22",
+          "Title": "Burralow Creek West HR",
           "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called CLEAR VIEW PDE, HAZELBROOK. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 03/05/2026. The fire is called&#xA0;Burralow Creek West HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -1153,6 +1209,17 @@
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Many roads, fire trails and walking tracks in Blue Mountains National Park are closed due to infrastructure repairs, upgrades or damage caused by wet weather including subsidence, rockfalls, landslides and fallen trees.</p>\n\n<p><strong>Katoomba and Leura </strong></p>\n\n<ul>\n\t<li>Katoomba Kiosk Reserve, Reids Plateau and Round Walk east are closed to due to Council upgrades. For details visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>.&#xA0;Access to Furber Stairs is available&#xA0;from the western side of the Round Walk via Vanimans Lookout.</li>\n\t<li>Leura Cascades track closed between Leura Falls lookout and Amphitheatre track.&#xA0; Access to Amphitheatre track is via Prince Henry Cliff walk opposite&#xA0;Sequoia on Cliff Drive or Fern Bower track.</li>\n\t<li>Honeymoon Bridge is closed due to rockfall hazards. (Visible bridge from Echo Point. Side route off Three Sisters Track and Giant Stairs).</li>\n\t<li>Glenraphael Drive (Narrow Neck fire trail) is closed to vehicles near Cliff Drive due to a road subsidence. Walkers and&#xA0;cyclists are permitted.</li>\n\t<li>Part of Lindeman Pass is closed due to a major landslide below Gladstone lookout. Roberts Pass is closed due to rockfall and landslide hazards.</li>\n\t<li><a href=\"http://www.sixfoottrack.com\">Six Foot track</a> is closed at the boundary to the <a href=\"https://www.jenolancaves.org.au/\">Jenolan Caves</a> Karst Conservation&#xA0;Reserve. Jenolan Karst Conservation Reserve (including the Caves Visitor Precinct)&#xA0;is closed&#xA0;until 31 December 2026.&#xA0;There is no&#xA0;access to the entire reserve during this time.</li>\n\t<li>Ngula Bulgarabang Regional Park will be closed from Thursday 29th April 2026 to allow for Hazard Reduction burning.&#xA0;&#xA0;</li>\n\t<li>Mt Hay Road will be closed from Monday 18 May to Thursday 17 December 2026 for Fire Trail upgrades. There will be no vehicle or pedestrian access during this time.</li>\n</ul>\n\n<p><strong>Wentworth Falls and&#xA0;Woodford</strong>&#xA0;&#xA0;</p>\n\n<ul>\n\t<li>Part of National Pass (west of Wentworth Falls middle crossing) is closed due to a major landslide and ongoing risks.</li>\n\t<li>Wentworth Pass and Slack Stairs are closed due to elevated boardwalk repairs. There is&#xA0;no access to&#xA0;Roberts Pass, Hippocrene or&#xA0;Vera Falls routes.&#xA0;</li>\n\t<li>Valley of the Waters is closed below Silvia Falls due rockfall hazards. There is no access to Roberts Pass, Hippocrene or Vera Falls.</li>\n\t<li>Princes Rock walking track is closed for maintenance until 30 June 2026. Princes Rock lookout is however accessible from Overcliff/Undercliff track.</li>\n\t<li>Fletchers lookout is closed for maintenance until 30 June 2026.</li>\n\t<li>Lincolns Rock is closed. For details visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>.</li>\n\t<li>Evans St extension fire trail will be closed from Monday March 2 to Friday May&#xA0;15 for road maintenance. There will be increased truck movements on Blaxland Road in Wentworth Falls and Evans Lookout Road in Blackheath.</li>\n\t<li>Ingar Road &amp; Camping Area is closed following&#xA0;hazard reduction burn between Bedford and Queen Victoria Creeks. The precinct will open once declared safe. &#xA0;</li>\n\t<li>Empire Pass walking track, Lawson Ridge Fire Trail and surrounding areas&#xA0;will be closed from Wednesday 6&#xA0;May 2026 to allow for Hazard Reduction operations.&#xA0;&#xA0; For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>.</li>\n</ul>\n\n<p><strong>Blackheath, Mount Victoria, Megalong Valley and Bells Line of&#xA0;Road</strong>&#xA0;</p>\n\n<ul>\n\t<li>Hat Hill Road&#xA0;(affecting Perrys Lookdown Road) will be&#xA0;temporarily&#xA0;closed&#xA0;Monday 4th May due to BMCC roadworks at the&#xA0;Pulpit Rock Road intersection.</li>\n\t<li>Green Gully precinct including Dunphys Campground and Galong&#xA0;Cabins is closed for road upgrade works until 11th May&#xA0;2026 (weather dependent). This means there is no access to the K-2-K, Iron Pot Route, Breakfast Creek, Ironmonger Route&#xA0;or Bellbird Ridge Fire Trail.&#xA0;The road will temporarily reopen for ANZAC Day long weekend and closed from Tuesday 28th April 2026.&#xA0;&#xA0;</li>\n\t<li>Pulpit Rock Reserve, lookouts and part of the walking track are closed. For more information visit the <a href=\"https://www.bmcc.nsw.gov.au/walking/walking-track-closures\">Blue Mountains City Council website</a>. Pulpit Rock walking track from Popes Glen is open as far as the NPWS boundary (as shown on <a href=\"https://www.google.com.au/maps/@-33.6218067,150.3169011,17z?entry=ttu&amp;g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D\">Google maps</a>).</li>\n\t<li>Govetts descent and parts of Rodriguez Pass are closed due to rockfalls and landslides. Valley access from Blackheath is via Horse Track.</li>\n</ul>\n\n<p><strong>Adventure recreation, canyons, abseiling and rock climbing</strong></p>\n\n<p>Juggler (aka Point Pilcher) Canyon exit has been affected by a recent rockfall event. Canyoners should use caution&#xA0;and exit around the impact site.&#xA0;&#xA0;</p>\n\n<p>Some adventure recreation areas and routes may be closed where the access or exit road/track is mentioned above.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, please contact the Blue Mountains Heritage Centre.</p>",
           "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12982801",
+          "EffectiveFrom": "2026-05-03T15:13:49",
+          "EffectiveTo": "2026-05-09T15:14:20",
+          "LastReviewed": "2026-05-01T11:09:18",
+          "Title": "Parts of Blue Mountains National Park closed for aerial pest control operations",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Blue Mountains National Park is closed south of Dunphy's campground and south of Medlow Gap from 4pm, Sunday 3&#xA0;May&#xA0;to 5pm, Friday 8&#xA0;May&#xA0;2026&#xA0;for an aerial pest control program.</p>\n\n<p>The following walking tracks are closed during this time:</p>\n\n<ul>\n\t<li>Carlon Creek Walking Track</li>\n\t<li>Breakfast Creek Walking Track</li>\n\t<li>Bellbird Ridge Walking track</li>\n\t<li>White Dog Ridge Trail</li>\n\t<li>Cedarland Ridge Trail</li>\n\t<li>Splendour Rock Walking Track</li>\n\t<li>Yellow Pup Ridge Walking Track</li>\n\t<li>Kelpie Point Trail</li>\n\t<li>Medlow Gap East Trail</li>\n\t<li>K2K</li>\n\t<li>Katoomba to Mittagong</li>\n\t<li>All areas of the Southern Blue Mountains (south of Kanangra Boyd national Park)</li>\n</ul>\n\n<p>The Colong Stock Route and Dunphy's campground will remain open</p>\n\n<p><a href=\"http://click.ngcomms.net/q2ycc59u74v5/ba71esp9j2ayl/ssqymd9flxvd\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": true
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13052501",
@@ -1765,25 +1832,13 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 9,
-      "LastReviewed": "2026-05-02T17:40:55",
+      "LastReviewed": "2026-04-30T07:42:32",
       "EffectiveFrom": "2024-05-21T11:41:40",
       "Categories": [
-        "Fires - ",
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13092501",
-          "EffectiveFrom": "2026-05-02T17:38:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T17:40:55",
-          "Title": "WOY WOY BAY",
-          "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called WOY WOY BAY. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13040701",
           "EffectiveFrom": "2026-04-22T15:31:36",
@@ -3126,12 +3181,35 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-05-01T08:46:17",
+      "LastReviewed": "2026-05-03T16:41:23",
       "EffectiveFrom": "2026-04-29T17:00:00",
       "Categories": [
+        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13093401",
+          "EffectiveFrom": "2026-05-03T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-05-03T16:41:23",
+          "Title": "Basin View HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 03/05/2026. The fire is called&#xA0;Basin View HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13089501",
+          "EffectiveFrom": "2026-05-03T09:00:00",
+          "EffectiveTo": "2026-05-08T15:00:00",
+          "LastReviewed": "2026-05-01T14:48:42",
+          "Title": "Areas closed for hazard reduction burning",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some parts of this park are closed for hazard reduction burning from Sunday 3 May to Friday 8 May.&#xA0; The closed areas are:</p>\n\n<ul>\n\t<li>Behind the&#xA0; Basin View Masonic Village</li>\n\t<li>all entry points from Harriss Ave</li>\n\t<li>all entry points from Owen Ave</li>\n</ul>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. This burn is called Basin View HR. For more information, contact the local NPWS office or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13067101",
           "EffectiveFrom": "2026-04-29T17:00:00",
@@ -3141,35 +3219,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Some parts of this park are closed from Thursday 30 April&#xA0;to Friday&#xA0;8&#xA0;May&#xA0;2026&#xA0;while access roads are repaired. The closed areas are:</p>\n\n<ul>\n\t<li>Anabranch Loop Track</li>\n\t<li>Delta Track</li>\n\t<li>Wandandian Creek picnic area</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Corrie Island Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/corrie-island-nature-reserve",
-        "Id": "9e8eae6d-ecf9-4684-8c52-f5fb6a3b0c08",
-        "ItemName": "Corrie-Island-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-27T09:38:38",
-      "EffectiveFrom": "2026-04-27T09:21:52",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13076401",
-          "EffectiveFrom": "2026-04-27T09:21:52",
-          "EffectiveTo": "2026-05-03T09:26:54",
-          "LastReviewed": "2026-04-27T09:38:38",
-          "Title": "Corrie Island NR is Closed for Fox and Dog Control",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Corrie Island NR is closed to all visitors from 8am, Tuesday&#xA0;28&#xA0;April&#xA0;to 4.30pm, Sunday&#xA0;3 May&#xA0;2026&#xA0;for a ground pest control operation. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local park office at Anna Bay on 02 4984 4200&#xA0;</p>\n\n<ul>\n\t<li>This program will target foxes. It aims to reduce the significant impact they have on native animals including threatened species.</li>\n</ul>",
           "IsKml": false
         }
       ]
@@ -4935,13 +4984,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-04-21T09:04:55",
+      "LastReviewed": "2026-05-01T13:42:35",
       "EffectiveFrom": "2024-07-18T16:36:09",
       "Categories": [
-        "Other planned events",
-        "Closed parks"
+        "Closed parks",
+        "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12982101",
+          "EffectiveFrom": "2026-05-03T14:14:50",
+          "EffectiveTo": "2026-05-09T14:17:13",
+          "LastReviewed": "2026-05-01T13:42:35",
+          "Title": "Parks closed for aerial and ground pest control operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 3&#xA0;May&#xA0;to 5.30pm, Friday 8&#xA0;May&#xA0;2026&#xA0;for an aerial and ground pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Oberon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2my5h52yvzv/b9zuec55kgjai/ssbz459n62fj\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13004001",
           "EffectiveFrom": "2026-04-09T14:48:29",
@@ -5005,7 +5065,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-05-02T17:08:26",
+      "LastReviewed": "2026-05-03T16:45:33",
       "EffectiveFrom": "2026-04-30T12:51:21",
       "Categories": [
         "Hazard reduction burns",
@@ -5013,21 +5073,10 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/13087901",
-          "EffectiveFrom": "2026-05-01T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T17:08:26",
-          "Title": "Kallaroo & Kinkuna HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 01/05/2026. The fire is called&#xA0;Kallaroo &amp; Kinkuna HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/13091601",
           "EffectiveFrom": "2026-05-02T10:40:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T17:03:30",
+          "LastReviewed": "2026-05-03T16:45:33",
           "Title": "High School HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -5035,10 +5084,21 @@
           "IsKml": false
         },
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/13087901",
+          "EffectiveFrom": "2026-05-01T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-05-03T16:42:19",
+          "Title": "Kallaroo & Kinkuna HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 01/05/2026. The fire is called&#xA0;Kallaroo &amp; Kinkuna HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/13088101",
           "EffectiveFrom": "2026-05-01T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T15:53:03",
+          "LastReviewed": "2026-05-03T14:36:24",
           "Title": "Bowling Club HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -5068,7 +5128,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-05-01T07:39:11",
+      "LastReviewed": "2026-05-02T18:51:06",
       "EffectiveFrom": "2022-04-13T10:37:17",
       "Categories": [
         "Closed areas",
@@ -5079,11 +5139,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13075501",
           "EffectiveFrom": "2026-04-28T06:00:00",
           "EffectiveTo": "2026-05-03T20:00:00",
-          "LastReviewed": "2026-05-01T07:39:11",
+          "LastReviewed": "2026-05-02T18:51:06",
           "Title": "Areas closed for hazard reduction burning",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some parts of this park are closed for hazard reduction burning from Tuesday&#xA0;28 April to Sunday 3 May 2026. The closed areas are:</p>\n\n<p>- Watagan Forest Road</p>\n\n<p>- Whitemans Ridge Road</p>\n\n<p>- Whitemans Lane</p>\n\n<p>- Woodards Point Road</p>\n\n<p>- Daniels Point Road</p>\n\n<p>- Little Jilliby Road</p>\n\n<p>- Grey Gum Road</p>\n\n<p>- Stinsons Lane</p>\n\n<p>- Stintsons Point Road</p>\n\n<p>- Siding Road</p>\n\n<p>- Maculata Road</p>\n\n<p>- Pitts Point Road</p>\n\n<p>The closure also includes all informal vehicle trails and walking tracks leading into the burn area.</p>\n\n<p>Note: road closures will be in place on Watagan Forest Road.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. This burn is called NPWS HR Whitemans. For more information, contact the local NPWS office on 4320 4200 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "DescriptionHtml": "<p>Some parts of this park are closed for hazard reduction burning from Tuesday&#xA0;28 April to Sunday 3 May 2026. The closed areas are:</p>\n\n<p>- Whitemans Ridge Road</p>\n\n<p>- Whitemans Lane</p>\n\n<p>- Woodards Point Road</p>\n\n<p>- Daniels Point Road</p>\n\n<p>- Little Jilliby Road</p>\n\n<p>- Siding Road</p>\n\n<p>- Maculata Road</p>\n\n<p>The closure also includes all informal vehicle trails and walking tracks leading into the burn area.</p>\n\n<p><a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. This burn is called NPWS HR Whitemans. For more information, contact the local NPWS office on 4320 4200 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
           "IsKml": false
         },
         {
@@ -5238,17 +5298,29 @@
         "Id": "55207048-e63e-4c43-be49-3b8bf7edefae",
         "ItemName": "KanangraBoyd-National-Park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-21T09:04:48",
+      "ClosedAreasCount": 6,
+      "LastReviewed": "2026-05-01T13:42:35",
       "EffectiveFrom": "2023-09-29T16:04:49",
       "Categories": [
+        "Closed parks",
         "Other planned events",
         "Safety alerts",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12982101",
+          "EffectiveFrom": "2026-05-03T14:14:50",
+          "EffectiveTo": "2026-05-09T14:17:13",
+          "LastReviewed": "2026-05-01T13:42:35",
+          "Title": "Parks closed for aerial and ground pest control operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 3&#xA0;May&#xA0;to 5.30pm, Friday 8&#xA0;May&#xA0;2026&#xA0;for an aerial and ground pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Oberon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2my5h52yvzv/b9zuec55kgjai/ssbz459n62fj\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13004001",
           "EffectiveFrom": "2026-04-09T14:48:29",
@@ -5521,7 +5593,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-05-02T16:33:50",
+      "LastReviewed": "2026-05-03T15:02:28",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
         "Hazard reduction burns",
@@ -5530,6 +5602,39 @@
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13084101",
+          "EffectiveFrom": "2026-04-30T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-05-03T15:02:28",
+          "Title": "Rileys",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 30/04/2026. The fire is called&#xA0;Rileys. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13082601",
+          "EffectiveFrom": "2026-04-30T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-05-03T13:33:06",
+          "Title": "Geehi Walls",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 30/04/2026. The fire is called&#xA0;Geehi Walls. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13082401",
+          "EffectiveFrom": "2026-05-02T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-05-03T13:31:05",
+          "Title": "Indi North HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 02/05/2026. The fire is called&#xA0;Indi North HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13083901",
           "EffectiveFrom": "2026-04-30T10:00:00",
@@ -5542,28 +5647,6 @@
           "IsKml": false
         },
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/13082401",
-          "EffectiveFrom": "2026-05-02T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T15:50:14",
-          "Title": "Indi North HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 02/05/2026. The fire is called&#xA0;Indi North HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13082601",
-          "EffectiveFrom": "2026-04-30T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T15:47:24",
-          "Title": "Geehi Walls",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 30/04/2026. The fire is called&#xA0;Geehi Walls. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/13067601",
           "EffectiveFrom": "2026-04-28T10:00:00",
           "EffectiveTo": null,
@@ -5572,17 +5655,6 @@
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 28/04/2026. The fire is called&#xA0;Perkins. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13084101",
-          "EffectiveFrom": "2026-04-30T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-05-01T16:51:18",
-          "Title": "Rileys",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 30/04/2026. The fire is called&#xA0;Rileys. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -5605,17 +5677,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting an aerial baiting program between Monday 11 May 2026 to Friday 22 May 2026,&#xA0;using 1080 (sodium fluroacetate) poison for the control of wild dogs and foxes. This program is part of an integrated feral animal control strategy, aimed at minimising the impacts of wild dogs and foxes on neighbouring stock.</p>\n\n<p>This program forms part of a larger feral animal control program and will be conducted in the Thredbo/Ingebyra, Dalgety/Paupong &amp; Corrowong/Tombong/Merriangaah Wild Dog Plan Areas.</p>\n\n<p>This includes the following areas of Kosciuszko National Park:</p>\n\n<ul>\n\t<li>Thredbo Valley</li>\n\t<li>Moonbah</li>\n\t<li>Ingebyra</li>\n\t<li>Lower Snowy area</li>\n\t<li>Paupong &amp; Numbla Vale areas</li>\n\t<li>Byadbo &amp; Pilot Wilderness&#xA0;</li>\n</ul>\n\n<p>Baiting programs will also be undertaken in Merriangaah &amp; Quidong Nature Reserves. All baiting locations will be identified by signs.</p>\n\n<p>Please be reminded that domestic pets are not permitted on NPWS estate. Pets and working dogs may be affected (1080 is lethal to cats and dogs). In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please call the Jindabyne NPWS office on 02 6450 5555.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13080501",
-          "EffectiveFrom": "2026-04-29T08:00:00",
-          "EffectiveTo": "2026-05-03T16:00:00",
-          "LastReviewed": "2026-04-28T10:00:30",
-          "Title": "Behrs Flat and Old Geehi campgrounds closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Behrs Flat and Old Geehi campgrounds are closed from Wednesday 29th April to Sunday 3rd May, 2026 for hazard reduction burn operations. The closure applies to:</p>\n\n<ul>\n\t<li>Behrs Flat campground and Keebles Hut</li>\n\t<li>Old Geehi campground and Old Geehi Hut</li>\n\t<li>Doctors Hut</li>\n\t<li>Behrs Flat trail</li>\n\t<li>Geehi Hut trail</li>\n\t<li>Geehi Walls trail (and the National Trail)</li>\n\t<li>Major Clews trail and Major Clews Hut</li>\n</ul>\n\n<p>Do not enter closed areas.&#xA0;<a href=\"http://click.ngcomms.net/qmmfxe9q2akl/bigh3q65gcohb/t7etjy5gzd4d\">Penalties apply for non-compliance</a>.</p>\n\n<p>The Geehi Flats campground and day use area and Geehi Hut remain open.</p>\n\n<p>For more information, contact the Khancoban Visitor Information Centre (02) 6070 8400</p>\n\n<p>&#xA0;</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         },
         {
@@ -5872,7 +5933,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-05-02T14:15:46",
+      "LastReviewed": "2026-05-03T12:42:05",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
         "Hazard reduction burns",
@@ -5884,7 +5945,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13049601",
           "EffectiveFrom": "2026-04-23T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T11:42:38",
+          "LastReviewed": "2026-05-03T12:42:05",
           "Title": "Powerline Trail HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -6548,15 +6609,27 @@
         "Id": "fb2b33ca-c880-48bb-8de6-5e3e3624adec",
         "ItemName": "Mares-Forest-National-Park"
       },
-      "Closed": false,
-      "PartClosed": false,
+      "Closed": true,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-04-07T15:15:52",
+      "LastReviewed": "2026-05-01T13:42:35",
       "EffectiveFrom": "2026-04-09T14:48:29",
       "Categories": [
+        "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12982101",
+          "EffectiveFrom": "2026-05-03T14:14:50",
+          "EffectiveTo": "2026-05-09T14:17:13",
+          "LastReviewed": "2026-05-01T13:42:35",
+          "Title": "Parks closed for aerial and ground pest control operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 3&#xA0;May&#xA0;to 5.30pm, Friday 8&#xA0;May&#xA0;2026&#xA0;for an aerial and ground pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Oberon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2my5h52yvzv/b9zuec55kgjai/ssbz459n62fj\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13004001",
           "EffectiveFrom": "2026-04-09T14:48:29",
@@ -7107,7 +7180,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-05-02T17:18:21",
+      "LastReviewed": "2026-05-03T12:23:40",
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
         "Hazard reduction burns",
@@ -7120,7 +7193,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13051901",
           "EffectiveFrom": "2026-04-21T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T17:18:21",
+          "LastReviewed": "2026-05-03T12:23:40",
           "Title": "Brooks Plateau North HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -7910,7 +7983,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-05-02T14:00:28",
+      "LastReviewed": "2026-05-03T16:02:30",
       "EffectiveFrom": "2026-04-24T13:32:00",
       "Categories": [
         "Fires - Advice",
@@ -7921,7 +7994,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13071201",
           "EffectiveFrom": "2026-04-24T13:32:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T14:00:28",
+          "LastReviewed": "2026-05-03T16:02:30",
           "Title": "EUROLEY RD, MIA 2",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -8235,7 +8308,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-05-02T15:43:37",
+      "LastReviewed": "2026-05-03T15:00:54",
       "EffectiveFrom": "2024-09-18T14:22:32",
       "Categories": [
         "Hazard reduction burns",
@@ -8246,7 +8319,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13080401",
           "EffectiveFrom": "2026-05-01T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T15:43:37",
+          "LastReviewed": "2026-05-03T15:00:54",
           "Title": "High Range",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -8414,7 +8487,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-05-02T14:32:54",
+      "LastReviewed": "2026-05-03T09:47:49",
       "EffectiveFrom": "2026-04-23T14:09:18",
       "Categories": [
         "Hazard reduction burns",
@@ -8425,7 +8498,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13084901",
           "EffectiveFrom": "2026-04-30T07:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T14:32:54",
+          "LastReviewed": "2026-05-03T09:47:49",
           "Title": "Ngula Bulgarabang HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -9291,7 +9364,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 8,
-      "LastReviewed": "2026-05-02T16:50:10",
+      "LastReviewed": "2026-05-03T15:28:11",
       "EffectiveFrom": "2023-07-14T15:13:01",
       "Categories": [
         "Hazard reduction burns",
@@ -9304,7 +9377,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13088401",
           "EffectiveFrom": "2026-05-01T07:30:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T16:50:10",
+          "LastReviewed": "2026-05-03T15:28:11",
           "Title": "Royal Central HR Stage 1",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -9315,7 +9388,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13086801",
           "EffectiveFrom": "2026-05-02T00:00:00",
           "EffectiveTo": "2026-05-07T17:00:00",
-          "LastReviewed": "2026-05-01T22:28:50",
+          "LastReviewed": "2026-05-02T18:56:24",
           "Title": "Areas closed for Royal Central Hazard Reduction Burn",
           "ItemName": null,
           "Category": "Closed areas",
@@ -10117,7 +10190,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-05-02T08:36:59",
+      "LastReviewed": "2026-05-03T12:22:07",
       "EffectiveFrom": "2026-04-20T08:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -10127,7 +10200,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13045501",
           "EffectiveFrom": "2026-04-20T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T08:36:59",
+          "LastReviewed": "2026-05-03T12:22:07",
           "Title": "Cowhorn Creek HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -10384,31 +10457,19 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 5,
-      "LastReviewed": "2026-05-02T17:26:56",
+      "LastReviewed": "2026-05-03T16:37:58",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
-        "Fires - ",
         "Hazard reduction burns",
         "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/13092301",
-          "EffectiveFrom": "2026-05-02T17:10:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T17:26:56",
-          "Title": "BOX BEACH RD, SHOAL BAY",
-          "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called BOX BEACH RD, SHOAL BAY. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/13087601",
           "EffectiveFrom": "2026-05-01T09:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T17:07:52",
+          "LastReviewed": "2026-05-03T16:37:58",
           "Title": "East Shoal Bay HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -10419,11 +10480,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13085101",
           "EffectiveFrom": "2026-04-29T09:00:00",
           "EffectiveTo": "2026-05-04T23:00:00",
-          "LastReviewed": "2026-05-02T16:24:39",
+          "LastReviewed": "2026-05-03T08:36:09",
           "Title": "Box Beach and Shoal Bay East hazard reduction burn",
           "ItemName": null,
           "Category": "Closed areas",
-          "DescriptionHtml": "<p>Some parts of this park are closed for hazard reduction burning on Friday 1&#xA0;May 2026<strong>.</strong> The closed areas are:</p>\n\n<ul>\n\t<li>Box Beach (closed from the evening of 29/04/2026)</li>\n\t<li>Box Beach Road&#xA0;(closed from the evening of 29/04/2026)</li>\n\t<li>Shoal Bay East&#xA0;trail between Wreck Beach Trail and Ocean Beach Road</li>\n\t<li>Tomaree Coastal Walk. This will be partially closed during the hazard reduction burn. Users will have to divert along Tomaree Road between Ocean Beach Road and Verona Road.</li>\n</ul>\n\n<p>The closure will remain in place until a hazardous tree assessment is completed and it is safe to reopen.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. This burn is called NPWS HR East Shoal Bay. For more information, contact the local NPWS office (02 4984 8200) or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
+          "DescriptionHtml": "<p>Some parts of this park are closed for hazard reduction burning on Friday 1&#xA0;May 2026<strong>.</strong> The closed areas are:</p>\n\n<ul>\n\t<li>Shoal Bay East&#xA0;trail between Wreck Beach Trail and Ocean Beach Road</li>\n\t<li>Tomaree Coastal Walk. This will be partially closed during the hazard reduction burn. Users will have to divert along Tomaree Road between Ocean Beach Road and Verona Road.</li>\n</ul>\n\n<p>The closure will remain in place until a hazardous tree assessment is completed and it is safe to reopen.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. This burn is called NPWS HR East Shoal Bay. For more information, contact the local NPWS office (02 4984 8200) or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a></p>",
           "IsKml": false
         },
         {
@@ -11881,26 +11942,14 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-05-02T16:21:07",
+      "LastReviewed": "2026-05-01T15:41:40",
       "EffectiveFrom": "2022-11-23T14:08:54",
       "Categories": [
-        "Fires - Advice",
         "Closed areas",
         "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13074301",
-          "EffectiveFrom": "2026-04-25T17:06:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-05-02T16:21:07",
-          "Title": "BUREEN RD, BUREEN",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called BUREEN RD, BUREEN. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13040201",
           "EffectiveFrom": "2026-04-20T15:10:55",
@@ -12634,7 +12683,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2026-04-30T11:40:56",
       "EffectiveFrom": "2022-06-09T14:01:54",
       "Categories": [
@@ -12650,6 +12699,35 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Post Office Lodge in Yerranderie Regional Park is closed for restoration works until October 2026.</p>\n\n<p>For further information please contact the NPWS Kanangra area office on&#xA0;02 6336 6200.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Yerranderie State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yerranderie-state-conservation-area",
+        "Id": "e5ffaa5b-025b-4b28-85a3-5dc504e3bd42",
+        "ItemName": "Yerranderie-State-Conservation-Area"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-05-01T13:42:35",
+      "EffectiveFrom": "2026-05-03T14:14:50",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/12982101",
+          "EffectiveFrom": "2026-05-03T14:14:50",
+          "EffectiveTo": "2026-05-09T14:17:13",
+          "LastReviewed": "2026-05-01T13:42:35",
+          "Title": "Parks closed for aerial and ground pest control operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday 3&#xA0;May&#xA0;to 5.30pm, Friday 8&#xA0;May&#xA0;2026&#xA0;for an aerial and ground pest control operation:</p>\n\n<ul>\n\t<li>Abercrombie River National Park and State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve</li>\n\t<li>Mares Forest</li>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderrie State Conservation Area</li>\n</ul>\n\n<p>Yerranderie Regional Park and&#xA0;the Oberon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/q2my5h52yvzv/b9zuec55kgjai/ssbz459n62fj\">Penalties apply for non-compliance</a>. For more information, contact the local park office.</p>",
           "IsKml": false
         }
       ]
