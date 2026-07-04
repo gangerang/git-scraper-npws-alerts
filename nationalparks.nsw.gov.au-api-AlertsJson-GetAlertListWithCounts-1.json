@@ -1,6 +1,7 @@
 {
   "Categories": [
     "Current alerts",
+    "Hazard reduction burns",
     "Fire bans",
     "Closed parks",
     "Closed areas",
@@ -1040,12 +1041,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-07-02T18:25:36",
+      "LastReviewed": "2026-07-04T15:08:08",
       "EffectiveFrom": "2026-07-02T18:15:28",
       "Categories": [
+        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13366501",
+          "EffectiveFrom": "2026-07-04T08:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-07-04T15:08:08",
+          "Title": "Booti Booti CB",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 04/07/2026. The fire is called&#xA0;Booti Booti CB. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13367001",
           "EffectiveFrom": "2026-07-02T18:15:28",
@@ -2026,7 +2039,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-07-02T10:29:40",
+      "LastReviewed": "2026-07-04T08:47:50",
       "EffectiveFrom": "2026-07-02T10:24:06",
       "Categories": [
         "Closed parks"
@@ -2036,7 +2049,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13365801",
           "EffectiveFrom": "2026-07-02T10:24:06",
           "EffectiveTo": "2026-07-06T07:00:00",
-          "LastReviewed": "2026-07-02T10:29:40",
+          "LastReviewed": "2026-07-04T08:47:50",
           "Title": "Closed parks: Cocoparra National Park and Nature Reserve CLOSED due to wet weather",
           "ItemName": null,
           "Category": "Closed parks",
@@ -2055,7 +2068,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 11,
-      "LastReviewed": "2026-07-02T10:29:40",
+      "LastReviewed": "2026-07-04T08:47:50",
       "EffectiveFrom": "2026-04-21T07:00:00",
       "Categories": [
         "Closed parks",
@@ -2066,7 +2079,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13365801",
           "EffectiveFrom": "2026-07-02T10:24:06",
           "EffectiveTo": "2026-07-06T07:00:00",
-          "LastReviewed": "2026-07-02T10:29:40",
+          "LastReviewed": "2026-07-04T08:47:50",
           "Title": "Closed parks: Cocoparra National Park and Nature Reserve CLOSED due to wet weather",
           "ItemName": null,
           "Category": "Closed parks",
@@ -2768,25 +2781,14 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 7,
-      "LastReviewed": "2026-07-03T13:35:34",
+      "ClosedAreasCount": 6,
+      "LastReviewed": "2026-07-01T10:11:41",
       "EffectiveFrom": "2026-06-01T08:51:45",
       "Categories": [
-        "Closed areas",
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/12866401",
-          "EffectiveFrom": "2026-07-01T07:00:00",
-          "EffectiveTo": "2026-07-04T11:00:00",
-          "LastReviewed": "2026-07-03T13:35:34",
-          "Title": "The Glade BBQ Area closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p><strong>The Glade BBQ Area closed until 11am&#xA0;Sat&#xA0;4th July&#xA0;2026 for minor works.</strong></p>\n\n<p>The Glade BBQ Area&#xA0;is closed due to minor works. Access to The Glade Picnic Area is open with seating available.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the Dorrigo Rainforest Centre on 02 6657 5913 or Coffs Coast Area Office on 02 6652 0900.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13345401",
           "EffectiveFrom": "2026-06-01T11:11:15",
@@ -5409,7 +5411,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-06-30T10:18:32",
+      "LastReviewed": "2026-07-04T08:18:18",
       "EffectiveFrom": "2026-06-01T09:21:31",
       "Categories": [
         "Closed parks",
@@ -5419,19 +5421,19 @@
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13345201",
           "EffectiveFrom": "2026-06-22T06:00:00",
-          "EffectiveTo": "2026-07-10T17:00:57",
-          "LastReviewed": "2026-06-30T10:18:32",
+          "EffectiveTo": "2026-07-17T17:00:57",
+          "LastReviewed": "2026-07-04T08:18:18",
           "Title": "Park closure alert for Mooball National Park",
           "ItemName": null,
           "Category": "Closed parks",
-          "DescriptionHtml": "<p>Park closed for road repairs</p>\n\n<p>&#xA0;</p>\n\n<p>Mooball National Park is closed from 7.30am, Monday 22 June 2026 to 4.30pm, Friday 10 July 2026 for all of park road repairs.</p>\n\n<p>&#xA0;</p>\n\n<p>During the period of closure multiple heavy truck movements are scheduled on Cooradilla Road per day. For your safety, please adhere to the park closure.</p>\n\n<p>&#xA0;</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the Byron Bay office 02 6639 8300 or email <a href=\"mailto:npws.tweedbyron@environment.nsw.gov.au\"><strong>npws.tweedbyron@environment.nsw.gov.au</strong></a>.</p>\n\n<p>&#xA0;</p>",
+          "DescriptionHtml": "<p>Park closed for road repairs</p>\n\n<p>&#xA0;</p>\n\n<p>Mooball National Park is closed from 7.30am, Monday 22 June 2026 to 4.30pm, Friday 17&#xA0;July 2026 for all of park road repairs.</p>\n\n<p>&#xA0;</p>\n\n<p>During the period of closure multiple heavy truck movements are scheduled on Cooradilla Road per day. For your safety, please adhere to the park closure.</p>\n\n<p>&#xA0;</p>\n\n<p>Penalties apply for non-compliance. For more information, contact the Byron Bay office 02 6639 8300 or email <a href=\"mailto:npws.tweedbyron@environment.nsw.gov.au\"><strong>npws.tweedbyron@environment.nsw.gov.au</strong></a>.</p>\n\n<p>&#xA0;</p>",
           "IsKml": false
         },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13164001",
           "EffectiveFrom": "2026-06-01T09:21:31",
           "EffectiveTo": "2026-07-10T09:21:51",
-          "LastReviewed": "2026-06-25T09:47:38",
+          "LastReviewed": "2026-07-04T08:16:42",
           "Title": "Baranbali & Wabba Road Closure",
           "ItemName": null,
           "Category": "Closed areas",
@@ -5478,25 +5480,14 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 20,
-      "LastReviewed": "2026-07-03T10:09:57",
+      "ClosedAreasCount": 4,
+      "LastReviewed": "2026-06-26T08:28:25",
       "EffectiveFrom": "2017-06-29T12:48:20",
       "Categories": [
-        "Closed areas",
-        "Other planned events"
+        "Other planned events",
+        "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13366101",
-          "EffectiveFrom": "2026-07-02T09:00:00",
-          "EffectiveTo": "2026-07-03T23:59:00",
-          "LastReviewed": "2026-07-03T10:09:57",
-          "Title": "Fitzroy Falls Visitor Centre and Visitor Areas Closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Fitzroy Falls Visitor Centre precinct and associated visitor ares&#xA0;are&#xA0;temporarily closed due to an operational incident. Please avoid the area and follow directions from NPWS staff and emergency services. We appreciate your cooperation.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12923701",
           "EffectiveFrom": "2026-02-23T08:55:52",
@@ -5898,11 +5889,22 @@
       "LastReviewed": "2026-06-30T08:10:49",
       "EffectiveFrom": "2022-08-03T10:43:41",
       "Categories": [
-        "Safety alerts",
         "Closed areas",
+        "Safety alerts",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13355701",
+          "EffectiveFrom": "2026-07-04T09:00:00",
+          "EffectiveTo": "2026-07-11T14:00:00",
+          "LastReviewed": "2026-06-29T08:48:26",
+          "Title": "Snapper Point Road temporary closure",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Snapper Point Road will be closed for the duration of the&#xA0;Max Adventure Run that will take place on Saturday 11 July 2026..&#xA0;</p>\n\n<p>There will be no&#xA0;vehicle access to Snapper Point and the carpark during this time.&#xA0;Traffic control will manage the closure between 7:30am to 1pm.</p>\n\n<p>We apologise for the inconvenience,&#xA0;this closure is necessary to ensure the safety of&#xA0;runners.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local NPWS office on 4972 9000.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13162001",
           "EffectiveFrom": "2026-05-29T11:27:38",
@@ -6452,35 +6454,6 @@
           "ItemName": null,
           "Category": "Other incidents",
           "DescriptionHtml": "<p>Vehicle access for the general public&#xA0;is restricted to public roads passing through&#xA0;or adjoining the reserve.&#xA0;Camping is not permitted.&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/odrkvm5cveps/ad4jtq69izd1w/r2dcki4p1cs3\">Penalties apply for non-compliance</a>. For further information please contact&#xA0;the NPWS Lower Darling Area, Buronga office on 03 5021 8900.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Nest Hill Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/nest-hill-nature-reserve",
-        "Id": "1a1fa5d9-35bb-471d-8d59-8d5fbc60e462",
-        "ItemName": "Nest-Hill-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-07-01T09:24:13",
-      "EffectiveFrom": "2026-05-14T12:29:38",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13132701",
-          "EffectiveFrom": "2026-05-14T12:29:38",
-          "EffectiveTo": "2026-07-04T12:33:01",
-          "LastReviewed": "2026-07-01T09:24:13",
-          "Title": "NOTICE OF 1080 BAITING for control of Foxes",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using <strong>Meat Baits</strong> containing 1080 (sodium fluoroacetate) poison for the control of <strong>Foxes</strong>. The program will be <strong>conducted between the 27th of May and the 3rd of July 2026</strong> in <strong>Ulandra Nature Reserve and Nest Hill Nature Reserve.</strong></p>\n\n<p>Signs will be placed at the entry to the baiting location. Please be reminded that domestic pets are not permitted on NPWS Estate. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please contact NPWS Tumut on (02) 6947 7000</p>",
           "IsKml": false
         }
       ]
@@ -8292,35 +8265,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>Planned roadworks will be taking place on Tuesday&#xA0;9th June&#xA0;until Monday 6th July&#xA0;in Tyagarah Nature Reserve.&#xA0;</p>\n\n<p>&#xA0;</p>\n\n<p>Closure of Black Rocks Road</p>\n\n<p>&#xA0;</p>\n\n<p>For more information, contact the local NPWS office.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Ulandra Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/ulandra-nature-reserve",
-        "Id": "b71c1a60-8884-4dfc-a365-8ef1bad8a4fc",
-        "ItemName": "Ulandra-Nature-Reserve"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-07-01T09:24:13",
-      "EffectiveFrom": "2026-05-14T12:29:38",
-      "Categories": [
-        "Other planned events"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13132701",
-          "EffectiveFrom": "2026-05-14T12:29:38",
-          "EffectiveTo": "2026-07-04T12:33:01",
-          "LastReviewed": "2026-07-01T09:24:13",
-          "Title": "NOTICE OF 1080 BAITING for control of Foxes",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>The NSW National Parks and Wildlife Service (NPWS) will be conducting a baiting program using <strong>Meat Baits</strong> containing 1080 (sodium fluoroacetate) poison for the control of <strong>Foxes</strong>. The program will be <strong>conducted between the 27th of May and the 3rd of July 2026</strong> in <strong>Ulandra Nature Reserve and Nest Hill Nature Reserve.</strong></p>\n\n<p>Signs will be placed at the entry to the baiting location. Please be reminded that domestic pets are not permitted on NPWS Estate. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p>For further information please contact NPWS Tumut on (02) 6947 7000</p>",
           "IsKml": false
         }
       ]
