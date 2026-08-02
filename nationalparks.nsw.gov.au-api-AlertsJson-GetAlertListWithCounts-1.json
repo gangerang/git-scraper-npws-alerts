@@ -8,7 +8,8 @@
     "Safety alerts",
     "Other incidents",
     "Other planned events",
-    "Fires - "
+    "Fires - ",
+    "Fires - Not Applicable"
   ],
   "ParkAlerts": [
     {
@@ -21,12 +22,23 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-05-11T09:32:38",
+      "LastReviewed": "2026-07-01T15:24:54",
       "EffectiveFrom": "2022-05-09T08:53:00",
       "Categories": [
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364101",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-01T15:24:54",
+          "Title": "Parks Closed for Aerial Pest Control Operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday the 2nd&#xA0;of August to 9am, Saturday the 8th of August 2026&#xA0;for an aerial pest control operation:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Mares Forest National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderie State Conservation Area</li>\n\t<li>Turon National Park</li>\n\t<li>Abercrombie River State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>.Yerranderie Regional Park and the Oberon-Colong Stock Route remain open.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance.&#xA0;</a>&#xA0;For more information contact the local office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/8478122",
           "EffectiveFrom": "2022-05-09T08:53:00",
@@ -36,6 +48,105 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Abercrombie Karst Conservation Reserve will remain closed to the public until 2026&#xA0;due to ongoing flood repairs and enhancements to visitor services&#xA0;and facilities. NPWS will announce a reopening date in the new year.</p>\n\n<p>The closure affects the entire reserve, including walking tracks, campgrounds, Arch Cottage, caves and trails.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, call the local NPWS office on 02 4843 5976.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Abercrombie River National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/abercrombie-river-national-park",
+        "Id": "0f8fe64c-29eb-4956-9df3-abd34e03d805",
+        "ItemName": "Abercrombie-River-National-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2026-07-01T15:24:04",
+      "EffectiveFrom": "2026-08-02T16:00:00",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364301",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-01T15:24:04",
+          "Title": "Abercrombie River National Park is Closed for Aerial Pest Control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The majority of Abercrombie River National Park is closed from&#xA0;4pm, Sunday the 2nd of August to 9am, Saturday the 8th of August 2026 for an aerial pest control operation.&#xA0;</p>\n\n<p>Bummaroo Ford Campground will remain open during this time.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance. </a> For more information contact the local office.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Abercrombie River State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/abercrombie-river-state-conservation-area",
+        "Id": "6065be7d-5118-4623-9caf-317aaf15a229",
+        "ItemName": "Abercrombie-River-State-Conservation-Area"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-07-01T15:24:54",
+      "EffectiveFrom": "2026-08-02T16:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364101",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-01T15:24:54",
+          "Title": "Parks Closed for Aerial Pest Control Operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday the 2nd&#xA0;of August to 9am, Saturday the 8th of August 2026&#xA0;for an aerial pest control operation:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Mares Forest National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderie State Conservation Area</li>\n\t<li>Turon National Park</li>\n\t<li>Abercrombie River State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>.Yerranderie Regional Park and the Oberon-Colong Stock Route remain open.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance.&#xA0;</a>&#xA0;For more information contact the local office.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Agnes Banks Nature Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/agnes-banks-nature-reserve",
+        "Id": "afab7d06-b6b2-4e44-994c-6aa9451c92ee",
+        "ItemName": "Agnes-Banks-Nature-Reserve"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-08-02T17:50:06",
+      "EffectiveFrom": "2026-08-02T00:00:01",
+      "Categories": [
+        "Hazard reduction burns",
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13576901",
+          "EffectiveFrom": "2026-08-02T08:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-08-02T17:50:06",
+          "Title": "Nutans HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 02/08/2026. The fire is called&#xA0;Nutans HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13578401",
+          "EffectiveFrom": "2026-08-02T00:00:01",
+          "EffectiveTo": "2026-08-06T17:14:10",
+          "LastReviewed": "2026-07-31T12:19:13",
+          "Title": "Agnes Banks Nature Reserve - close due to Hazard Reduction - Sunday 2 August 2026",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Park closed for hazard reduction burning -&#xA0;Sunday 2 August 2026 to Thursday 6 August 2026.</p>\n\n\n<p>Do not enter the park. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>\nFor more information, contact the local NPWS office Cumberland 02 4580 2750 or visit the <a href=\"https://www.rfs.nsw.gov.au/\">Rural Fire Service website.</a>",
           "IsKml": false
         }
       ]
@@ -178,7 +289,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-01T00:28:29",
+      "LastReviewed": "2026-08-02T18:14:32",
       "EffectiveFrom": "2026-07-24T13:34:00",
       "Categories": [
         "Hazard reduction burns"
@@ -188,7 +299,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13560001",
           "EffectiveFrom": "2026-07-24T13:34:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-08-01T00:28:29",
+          "LastReviewed": "2026-08-02T18:14:32",
           "Title": "BALD ROCK WALK, CARROLLS CREEK",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -207,7 +318,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-01T11:02:04",
+      "LastReviewed": "2026-08-02T12:23:37",
       "EffectiveFrom": "2026-07-27T08:47:00",
       "Categories": [
         "Fires - "
@@ -217,7 +328,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13567801",
           "EffectiveFrom": "2026-07-27T08:47:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-08-01T11:02:04",
+          "LastReviewed": "2026-08-02T12:23:37",
           "Title": "Mann River Fire",
           "ItemName": null,
           "Category": "Fires - ",
@@ -953,6 +1064,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Walking track between the bottom of Furber Stairs to Scenic World Valley stations will be closed from Wednesday 29 July to Friday 14 August (weather dependent).</p>\n\n<ul>\n\t<li>No access to Scenic World valley stations from Furber Stairs, Giant Stairs, Leura Forest, Lila Falls or Fern Bower.&#xA0;&#xA0;</li>\n\t<li>No access to Golden Stairs, Mount Solitary or Ruined Castle from&#xA0;Furber Stairs, Giant Stairs, Leura Forest, Lila Falls or Fern Bower.</li>\n</ul>\n\n<p>Please use alternate routes and follow all closure signage.&#xA0;</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364201",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-06T09:26:48",
+          "Title": "Parts of Blue Mountains National Park closed for aerial pest control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All areas in&#xA0;Blue Mountains National Park south of Dunphys campground and south of Medlow Gap are&#xA0;closed from 4pm Sunday 2&#xA0;August to 9am&#xA0;Saturday 8&#xA0;August 2026 for an aerial pest control operation. This includes the following walking tracks and campgrounds:</p>\n\n<ul>\n\t<li>Carlon Creek</li>\n\t<li>Breakfast Creek</li>\n\t<li>Bellbird Ridge</li>\n\t<li>Cedarland Ridge trail</li>\n\t<li>Splendour Rock</li>\n\t<li>Yellow Pup Ridge</li>\n\t<li>Kelpie Point trail</li>\n\t<li>Medlow Gap East trail</li>\n\t<li>K2K</li>\n\t<li>Katoomba to Mittagong</li>\n\t<li>Mt Werong Campground</li>\n</ul>\n\n<p>Yerranderie Regional Park and the Oberon-Colong Stock Route remain open.</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance.</a>&#xA0;For more information contact the local office.</p>",
           "IsKml": false
         },
         {
@@ -2389,6 +2511,35 @@
     },
     {
       "Park": {
+        "Name": "Comleroy Flora Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/comleroy-flora-reserve",
+        "Id": "0e2a965f-d322-4023-a01c-57a6dd072bf8",
+        "ItemName": "comleroy-flora-reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-08-02T18:34:35",
+      "EffectiveFrom": "2026-08-02T10:00:00",
+      "Categories": [
+        "Fires - Not Applicable"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13578301",
+          "EffectiveFrom": "2026-08-02T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-08-02T18:34:35",
+          "Title": "Greens Swamp",
+          "ItemName": null,
+          "Category": "Fires - Not Applicable",
+          "DescriptionHtml": "<p>There is a fire in this park called Greens Swamp. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Conjola National Park",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/conjola-national-park",
         "Id": "e493c7d6-4d60-4e3b-b6b2-8d99a57fd8d1",
@@ -2437,7 +2588,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-07-27T08:49:00",
+      "LastReviewed": "2026-08-02T08:28:44",
       "EffectiveFrom": "2026-05-25T08:00:00",
       "Categories": [
         "Other planned events",
@@ -2448,7 +2599,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13344201",
           "EffectiveFrom": "2026-06-18T18:04:38",
           "EffectiveTo": "2026-08-10T18:00:00",
-          "LastReviewed": "2026-07-24T18:13:05",
+          "LastReviewed": "2026-08-02T08:28:44",
           "Title": "Notice of 1080 dog baiting program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -3213,7 +3364,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-01T11:00:04",
+      "LastReviewed": "2026-08-02T12:24:41",
       "EffectiveFrom": "2026-07-30T10:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -3223,7 +3374,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13571201",
           "EffectiveFrom": "2026-07-30T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-08-01T11:00:04",
+          "LastReviewed": "2026-08-02T12:24:41",
           "Title": "Spirabo North Boundary HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -3938,6 +4089,17 @@
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364101",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-01T15:24:54",
+          "Title": "Parks Closed for Aerial Pest Control Operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday the 2nd&#xA0;of August to 9am, Saturday the 8th of August 2026&#xA0;for an aerial pest control operation:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Mares Forest National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderie State Conservation Area</li>\n\t<li>Turon National Park</li>\n\t<li>Abercrombie River State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>.Yerranderie Regional Park and the Oberon-Colong Stock Route remain open.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance.&#xA0;</a>&#xA0;For more information contact the local office.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/11063801",
           "EffectiveFrom": "2024-07-18T16:36:09",
           "EffectiveTo": null,
@@ -4188,15 +4350,27 @@
         "Id": "55207048-e63e-4c43-be49-3b8bf7edefae",
         "ItemName": "KanangraBoyd-National-Park"
       },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 6,
       "LastReviewed": "2026-07-30T07:50:13",
       "EffectiveFrom": "2025-07-01T13:20:27",
       "Categories": [
+        "Closed parks",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364101",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-01T15:24:54",
+          "Title": "Parks Closed for Aerial Pest Control Operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday the 2nd&#xA0;of August to 9am, Saturday the 8th of August 2026&#xA0;for an aerial pest control operation:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Mares Forest National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderie State Conservation Area</li>\n\t<li>Turon National Park</li>\n\t<li>Abercrombie River State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>.Yerranderie Regional Park and the Oberon-Colong Stock Route remain open.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance.&#xA0;</a>&#xA0;For more information contact the local office.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/12060301",
           "EffectiveFrom": "2025-07-01T13:20:27",
@@ -4751,7 +4925,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 4,
-      "LastReviewed": "2026-07-31T11:51:25",
+      "LastReviewed": "2026-07-28T09:29:48",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
         "Other planned events",
@@ -4759,17 +4933,6 @@
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13578001",
-          "EffectiveFrom": "2026-07-31T11:40:26",
-          "EffectiveTo": "2026-08-02T09:00:00",
-          "LastReviewed": "2026-07-31T11:51:25",
-          "Title": "Delays on Ku-ring-gai Chase Road",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Expect short delays on Ku-ring-gai Chase Road from Saturday 1st August 7am to 5pm. Roadworks will be underway. Drive safely and follow the directions of roadwork signs, NPWS staff and traffic control.</p>\n\n<p>For more information, contact the local NPWS office on 8448 0400.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13569801",
           "EffectiveFrom": "2026-07-31T22:25:11",
@@ -5044,7 +5207,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 3,
-      "LastReviewed": "2026-07-31T12:24:53",
+      "LastReviewed": "2026-08-02T11:48:11",
       "EffectiveFrom": "2024-02-01T12:10:51",
       "Categories": [
         "Other planned events",
@@ -5052,6 +5215,17 @@
         "Other incidents"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13581801",
+          "EffectiveFrom": "2026-08-02T11:43:09",
+          "EffectiveTo": "2026-08-03T23:00:00",
+          "LastReviewed": "2026-08-02T11:48:11",
+          "Title": "Lane Cove park office closed Monday 3 August",
+          "ItemName": null,
+          "Category": "Other planned events",
+          "DescriptionHtml": "<p>The park office in Lane Cove National Park will be closed on Monday 3rd August 2026. We apologise for any inconvenience this may cause.</p>\n\n<p>For general enquiries please contact the National Parks and Wildlife Service on 1300 072 757 (13000 PARKS) or visit the Bobbin Head Visitor Centre, Ku-ring-gai Chase Rd, Mount Colah.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13570101",
           "EffectiveFrom": "2026-07-31T22:00:39",
@@ -5105,35 +5279,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Sugarloaf carpark in Lane Cove National Park is no longer open to the public. We apologise for any inconvenience.</p>\n\n<p>For more information, please contact the NPWS Chatswood area office on 02 8448 0400. <a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Ledknapper Nature Reserve",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/ledknapper-nature-reserve",
-        "Id": "d0ee9664-36fe-4c1e-a244-b05acf1c643a",
-        "ItemName": "Ledknapper-Nature-Reserve"
-      },
-      "Closed": true,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-07-14T10:19:47",
-      "EffectiveFrom": "2026-07-30T06:00:00",
-      "Categories": [
-        "Closed parks"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13541801",
-          "EffectiveFrom": "2026-07-30T06:00:00",
-          "EffectiveTo": "2026-08-02T11:59:00",
-          "LastReviewed": "2026-07-14T10:19:47",
-          "Title": "Park closed for ground shooting pest control program",
-          "ItemName": null,
-          "Category": "Closed parks",
-          "DescriptionHtml": "<p>Ledknapper Nature Reserve is closed from Thursday 30th&#xA0;July&#xA0;2026&#xA0;to Sunday 2nd August 2026&#xA0;for a ground shooting pest control program.</p>\n\n<p>There will be no access to this area during this time.</p>\n\n<p><a href=\"http://click.ngcomms.net/qfz9fl9jowbw/bf2ff499qmu60/t2dcap9mizap\">Penalties apply for non-compliance</a>. For more information, contact the local park office on 6830 0200.</p>",
           "IsKml": false
         }
       ]
@@ -5434,6 +5579,35 @@
     },
     {
       "Park": {
+        "Name": "Mares Forest National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/mares-forest-national-park",
+        "Id": "fb2b33ca-c880-48bb-8de6-5e3e3624adec",
+        "ItemName": "Mares-Forest-National-Park"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-07-01T15:24:54",
+      "EffectiveFrom": "2026-08-02T16:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364101",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-01T15:24:54",
+          "Title": "Parks Closed for Aerial Pest Control Operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday the 2nd&#xA0;of August to 9am, Saturday the 8th of August 2026&#xA0;for an aerial pest control operation:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Mares Forest National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderie State Conservation Area</li>\n\t<li>Turon National Park</li>\n\t<li>Abercrombie River State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>.Yerranderie Regional Park and the Oberon-Colong Stock Route remain open.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance.&#xA0;</a>&#xA0;For more information contact the local office.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Maroota Historic Site",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/maroota-historic-site",
         "Id": "66293080-91a1-47cb-864c-75c17217125c",
@@ -5457,6 +5631,35 @@
           "ItemName": null,
           "Category": "Closed parks",
           "DescriptionHtml": "<p>Due to the sensitive nature of this site, access to Maroota Historic Site is restricted to approved research and cultural activities only. <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the local park office on (02) 8448 0400.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Marramarra National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/marramarra-national-park",
+        "Id": "f31ade3f-b387-40e9-b2ff-2c5c5acffa47",
+        "ItemName": "Marramarra-National-Park"
+      },
+      "Closed": false,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-08-02T11:59:43",
+      "EffectiveFrom": "2026-08-02T11:48:26",
+      "Categories": [
+        "Closed areas"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13581901",
+          "EffectiveFrom": "2026-08-02T11:48:26",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-08-02T11:59:43",
+          "Title": "Weavers Ridge Trail closed for hazard reduction burning",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Weavers Ridge Trail in the Maroota area, Marramarra National Park, will be closed for hazard reduction burning from Monday 3rd August. The trail will remain closed following the burn until a safety assessment has been undertaken.</p>\n\n<p>Penalties apply for non-compliance. This burn is called the One Tree Hill HR. For more information, contact the local NPWS office or visit the Rural Fire Service website.</p>",
           "IsKml": false
         }
       ]
@@ -6801,13 +7004,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-08-01T11:45:03",
+      "LastReviewed": "2026-08-02T15:21:40",
       "EffectiveFrom": "2025-02-11T11:11:01",
       "Categories": [
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13582501",
+          "EffectiveFrom": "2026-08-02T15:17:16",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-08-02T15:21:40",
+          "Title": "Area closed for pest control operation",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Jane Spiers Beach will&#xA0;be closed to the public from Monday 17&#xA0;August to Tuesday 18 August 6pm to 6am for ground shooting feral animal control.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13580901",
           "EffectiveFrom": "2026-08-01T11:41:12",
@@ -7402,6 +7616,35 @@
     },
     {
       "Park": {
+        "Name": "Parr State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/parr-state-conservation-area",
+        "Id": "6928bc92-5806-4eac-a662-70d40c0c48b0",
+        "ItemName": "Parr-State-Conservation-Area"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-08-02T18:34:35",
+      "EffectiveFrom": "2026-08-02T10:00:00",
+      "Categories": [
+        "Fires - Not Applicable"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13578301",
+          "EffectiveFrom": "2026-08-02T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-08-02T18:34:35",
+          "Title": "Greens Swamp",
+          "ItemName": null,
+          "Category": "Fires - Not Applicable",
+          "DescriptionHtml": "<p>There is a fire in this park called Greens Swamp. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Paupong Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/paupong-nature-reserve",
         "Id": "5c252064-727f-4dca-8df7-aefcf972d595",
@@ -7479,7 +7722,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-07-02T08:52:58",
+      "LastReviewed": "2026-08-02T08:28:16",
       "EffectiveFrom": "2026-04-01T10:00:40",
       "Categories": [
         "Other planned events"
@@ -7489,7 +7732,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12991501",
           "EffectiveFrom": "2026-04-01T10:00:40",
           "EffectiveTo": "2026-09-30T10:01:23",
-          "LastReviewed": "2026-07-02T08:52:58",
+          "LastReviewed": "2026-08-02T08:28:16",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -7549,7 +7792,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-07-02T08:52:58",
+      "LastReviewed": "2026-08-02T08:28:16",
       "EffectiveFrom": "2026-04-01T10:00:40",
       "Categories": [
         "Other planned events"
@@ -7559,7 +7802,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12991501",
           "EffectiveFrom": "2026-04-01T10:00:40",
           "EffectiveTo": "2026-09-30T10:01:23",
-          "LastReviewed": "2026-07-02T08:52:58",
+          "LastReviewed": "2026-08-02T08:28:16",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -8674,24 +8917,12 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-08-01T09:05:15",
+      "LastReviewed": "2026-04-29T16:44:24",
       "EffectiveFrom": "2021-08-02T13:52:50",
       "Categories": [
-        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13567601",
-          "EffectiveFrom": "2026-07-28T09:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-08-01T09:05:15",
-          "Title": "East Shoal Bay Stage 2",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 28/07/2026. The fire is called&#xA0;East Shoal Bay Stage 2. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/7463822",
           "EffectiveFrom": "2021-08-02T13:52:50",
@@ -8811,6 +9042,35 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Areas within Towarri National Park may be intermittently closed from 5pm to 5am between Thursday 23 October 2025 to Thursday 31 December&#xA0;2026 for ground shooting for feral animal control.</p>\n\n<p>Areas will be closed by signage. Do Not Enter. Penalties apply</p>\n\n<p>Note: Washpools campground and picnic area will not be directly affected by these closures.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Turon National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/turon-national-park",
+        "Id": "42b7bb8e-6e01-4367-a6ce-616f757b9c34",
+        "ItemName": "Turon-National-Park"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 3,
+      "LastReviewed": "2026-07-01T15:24:54",
+      "EffectiveFrom": "2026-08-02T16:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364101",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-01T15:24:54",
+          "Title": "Parks Closed for Aerial Pest Control Operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday the 2nd&#xA0;of August to 9am, Saturday the 8th of August 2026&#xA0;for an aerial pest control operation:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Mares Forest National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderie State Conservation Area</li>\n\t<li>Turon National Park</li>\n\t<li>Abercrombie River State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>.Yerranderie Regional Park and the Oberon-Colong Stock Route remain open.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance.&#xA0;</a>&#xA0;For more information contact the local office.</p>",
           "IsKml": false
         }
       ]
@@ -9248,7 +9508,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-01T18:21:41",
+      "LastReviewed": "2026-08-02T12:24:41",
       "EffectiveFrom": "2014-11-26T16:28:00",
       "Categories": [
         "Hazard reduction burns",
@@ -9256,25 +9516,25 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/13570901",
-          "EffectiveFrom": "2026-07-29T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-08-01T18:21:41",
-          "Title": "Rockadooie HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 29/07/2026. The fire is called&#xA0;Rockadooie HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/13571201",
           "EffectiveFrom": "2026-07-30T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-08-01T11:00:04",
+          "LastReviewed": "2026-08-02T12:24:41",
           "Title": "Spirabo North Boundary HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
           "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 30/07/2026. The fire is called&#xA0;Spirabo North Boundary HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13570901",
+          "EffectiveFrom": "2026-07-29T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-08-02T12:22:35",
+          "Title": "Rockadooie HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 29/07/2026. The fire is called&#xA0;Rockadooie HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -9300,7 +9560,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-01T11:00:04",
+      "LastReviewed": "2026-08-02T12:24:41",
       "EffectiveFrom": "2026-07-30T10:00:00",
       "Categories": [
         "Hazard reduction burns"
@@ -9310,7 +9570,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13571201",
           "EffectiveFrom": "2026-07-30T10:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-08-01T11:00:04",
+          "LastReviewed": "2026-08-02T12:24:41",
           "Title": "Spirabo North Boundary HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -9519,12 +9779,24 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-07-31T17:34:04",
+      "LastReviewed": "2026-08-02T16:21:08",
       "EffectiveFrom": "2025-07-25T17:26:25",
       "Categories": [
+        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13579801",
+          "EffectiveFrom": "2026-08-02T08:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-08-02T16:21:08",
+          "Title": "Abernethy South HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 02/08/2026. The fire is called&#xA0;Abernethy South HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13580501",
           "EffectiveFrom": "2026-07-31T17:11:47",
@@ -10277,7 +10549,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2026-04-30T11:40:56",
       "EffectiveFrom": "2022-06-09T14:01:54",
       "Categories": [
@@ -10293,6 +10565,35 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Post Office Lodge in Yerranderie Regional Park is closed for restoration works until October 2026.</p>\n\n<p>For further information please contact the NPWS Kanangra area office on&#xA0;02 6336 6200.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Yerranderie State Conservation Area",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/yerranderie-state-conservation-area",
+        "Id": "e5ffaa5b-025b-4b28-85a3-5dc504e3bd42",
+        "ItemName": "Yerranderie-State-Conservation-Area"
+      },
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-07-01T15:24:54",
+      "EffectiveFrom": "2026-08-02T16:00:00",
+      "Categories": [
+        "Closed parks"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13364101",
+          "EffectiveFrom": "2026-08-02T16:00:00",
+          "EffectiveTo": "2026-08-08T09:00:00",
+          "LastReviewed": "2026-07-01T15:24:54",
+          "Title": "Parks Closed for Aerial Pest Control Operations",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>The following parks are closed from 4pm, Sunday the 2nd&#xA0;of August to 9am, Saturday the 8th of August 2026&#xA0;for an aerial pest control operation:</p>\n\n<p>&#xA0;</p>\n\n<ul>\n\t<li>Kanangra Boyd National Park</li>\n\t<li>Mares Forest National Park</li>\n\t<li>Jenolan Karst Conservation Reserve</li>\n\t<li>Yerranderie State Conservation Area</li>\n\t<li>Turon National Park</li>\n\t<li>Abercrombie River State Conservation Area</li>\n\t<li>Abercrombie Karst Conservation Reserve&#xA0;</li>\n</ul>\n\n<p>&#xA0;</p>\n\n<p>.Yerranderie Regional Park and the Oberon-Colong Stock Route remain open.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/pymuf54sji40/b875r8p5g9q6j/snttgl55uxp6\">Penalties apply for non-compliance.&#xA0;</a>&#xA0;For more information contact the local office.</p>",
           "IsKml": false
         }
       ]
