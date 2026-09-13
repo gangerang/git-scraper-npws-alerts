@@ -9,8 +9,7 @@
     "Safety alerts",
     "Other incidents",
     "Other planned events",
-    "Fires - Not Applicable",
-    "Fires - "
+    "Fires - Not Applicable"
   ],
   "ParkAlerts": [
     {
@@ -148,14 +147,26 @@
         "ItemName": "Avisford-Nature-Reserve"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-03T12:03:34",
+      "LastReviewed": "2026-09-10T08:53:54",
       "EffectiveFrom": "2026-08-07T11:39:08",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13642101",
+          "EffectiveFrom": "2026-09-13T16:47:59",
+          "EffectiveTo": "2026-09-18T17:00:00",
+          "LastReviewed": "2026-09-10T08:53:54",
+          "Title": "Part of Avisford NR is closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Southern part of Avisford NR is closed&#xA0;5pm, Sunday 13th of September to 5pm Friday 18th of September 2026 for Aerial shooting for feral animal control.</p>\n\n<ul>\n\t<li>The closed&#xA0;area includes Sawpit Gully trail and all areas south of that location.&#xA0;&#xA0;</li>\n\t<li>Waterworks Gully trail remains open&#xA0;</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qyf94y59bauu/bq50r9y9qmu61/th6q5e52do2o\">Penalties apply for non-compliance</a>. For more information, contact the local park office 6370 9000</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13585101",
           "EffectiveFrom": "2026-08-07T11:39:08",
@@ -194,35 +205,6 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) is conducting an ongoing ground baiting program from Wednesday&#xA0;1 July&#xA0;2026 to Thursday&#xA0;31&#xA0;December&#xA0;2026. The operation will use sodium fluoroacetate (1080) poison for the control of wild dogs and/or foxes.</p>\n\n<p>The program is designed to minimise predator impacts on wildlife, especially threatened species and will take place in:</p>\n\n<ul>\n\t<li>Araluen Nature Reserve</li>\n\t<li>Badja Swamps Nature Reserve</li>\n\t<li>Beowa National Park</li>\n\t<li>Berlang State Conservation Area</li>\n\t<li>Bondi Gulf Nature Reserve</li>\n\t<li>Bournda National Park</li>\n\t<li>Bournda Nature Reserve</li>\n\t<li>Coolumbooka Nature Reserve</li>\n\t<li>Deua National Park</li>\n\t<li>Eurobodalla National Park</li>\n\t<li>Kooraban National Park</li>\n\t<li>Majors Creek State Conservation Area</li>\n\t<li>Mimosa Rocks National Park</li>\n\t<li>Monga National Park and State Conservation Area</li>\n\t<li>South East Forest National Park</li>\n\t<li>Wadbilliga National Park</li>\n</ul>\n\n<p>Signs will be placed at the entry to baiting locations. Domestic pets are not permitted in NSW National Parks managed lands.</p>\n\n<p>Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.</p>\n\n<p><a href=\"http://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For further information call the NPWS Merimbula area office on 02 6495 5000.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Bago Bluff National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bago-bluff-national-park",
-        "Id": "77bc1729-b2fe-405c-a79d-122ebdde467f",
-        "ItemName": "Bago-Bluff-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T16:23:28",
-      "EffectiveFrom": "2026-09-06T08:44:00",
-      "Categories": [
-        "Fires - Advice"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13689401",
-          "EffectiveFrom": "2026-09-06T08:44:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T16:23:28",
-          "Title": "MILLIGANS RD, BAGO",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called MILLIGANS RD, BAGO. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -2194,16 +2176,28 @@
         "Id": "32d09e6d-cfb2-4131-9b9c-26c452071f6a",
         "ItemName": "Capertee-National-Park"
       },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-17T09:05:32",
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 7,
+      "LastReviewed": "2026-09-11T11:22:34",
       "EffectiveFrom": "2020-12-24T09:34:30",
       "Categories": [
+        "Closed parks",
         "Other planned events",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13641601",
+          "EffectiveFrom": "2026-09-13T17:00:00",
+          "EffectiveTo": "2026-09-18T15:00:00",
+          "LastReviewed": "2026-09-11T11:22:34",
+          "Title": "Capertee National Park closed for Aerial pest control",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Capertee NP is closed from 5pm, Sunday 13th of September to 3pm&#xA0;Friday 18th of September 2026 for Aerial shooting for feral animal control.</p>\n\n<p>&#xA0;</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For more information, contact the local park office 6370 9000</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13585101",
           "EffectiveFrom": "2026-08-07T11:39:08",
@@ -2238,7 +2232,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-09-12T18:40:47",
+      "LastReviewed": "2026-09-13T16:56:21",
       "EffectiveFrom": "2026-09-02T12:14:00",
       "Categories": [
         "Fires - Advice",
@@ -2246,10 +2240,21 @@
       ],
       "Alerts": [
         {
+          "ID": "npws-fis@id.ngcomms.net/eme/13685601",
+          "EffectiveFrom": "2026-09-04T11:07:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-09-13T16:56:21",
+          "Title": "COCHRANES FIRE TRAIL CARRAI",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called COCHRANES FIRE TRAIL CARRAI. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
           "ID": "npws-fis@id.ngcomms.net/eme/13680201",
           "EffectiveFrom": "2026-09-03T15:44:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T18:40:47",
+          "LastReviewed": "2026-09-13T16:53:37",
           "Title": "JUNCTION KNOB COMARA",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -2260,22 +2265,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13671701",
           "EffectiveFrom": "2026-09-02T12:14:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T15:16:36",
+          "LastReviewed": "2026-09-13T16:51:49",
           "Title": "FELTERS CREEK FIRE",
           "ItemName": null,
           "Category": "Fires - Advice",
           "DescriptionHtml": "<p>There is a fire in this park called FELTERS CREEK FIRE. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13685601",
-          "EffectiveFrom": "2026-09-04T11:07:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T14:40:31",
-          "Title": "COCHRANES FIRE TRAIL CARRAI",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called COCHRANES FIRE TRAIL CARRAI. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -2301,7 +2295,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T14:40:31",
+      "LastReviewed": "2026-09-13T16:56:21",
       "EffectiveFrom": "2026-09-04T11:07:00",
       "Categories": [
         "Fires - Advice",
@@ -2312,7 +2306,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13685601",
           "EffectiveFrom": "2026-09-04T11:07:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T14:40:31",
+          "LastReviewed": "2026-09-13T16:56:21",
           "Title": "COCHRANES FIRE TRAIL CARRAI",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -2342,7 +2336,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T15:25:13",
+      "LastReviewed": "2026-09-13T17:58:07",
       "EffectiveFrom": "2026-09-06T16:24:00",
       "Categories": [
         "Fires - Advice"
@@ -2352,7 +2346,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13690201",
           "EffectiveFrom": "2026-09-06T16:24:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T15:25:13",
+          "LastReviewed": "2026-09-13T17:58:07",
           "Title": "BRUSHBOX TRL, TABULAM",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -3524,7 +3518,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T16:21:45",
+      "LastReviewed": "2026-09-13T17:53:29",
       "EffectiveFrom": "2026-09-01T16:28:00",
       "Categories": [
         "Fires - Advice"
@@ -3534,11 +3528,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13670801",
           "EffectiveFrom": "2026-09-01T16:28:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T16:21:45",
+          "LastReviewed": "2026-09-13T17:53:29",
           "Title": "DONNYBROOK FIRETRAIL, BACK CREEK",
           "ItemName": null,
           "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called DONNYBROOK FIRETRAIL, BACK CREEK. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "DescriptionHtml": "<p>There is a fire in this park called DONNYBROOK FIRETRAIL, BACK CREEK. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -3889,7 +3883,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T18:22:36",
+      "LastReviewed": "2026-09-13T19:06:19",
       "EffectiveFrom": "2026-08-31T19:01:00",
       "Categories": [
         "Fires - Advice"
@@ -3899,7 +3893,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13688301",
           "EffectiveFrom": "2026-08-31T19:01:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T18:22:36",
+          "LastReviewed": "2026-09-13T19:06:19",
           "Title": "BILLIRIMBA RD, ROCKY RIVER",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -3976,21 +3970,21 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T16:09:59",
+      "LastReviewed": "2026-09-13T15:45:13",
       "EffectiveFrom": "2026-09-04T07:38:00",
       "Categories": [
-        "Fires - Not Applicable"
+        "Hazard reduction burns"
       ],
       "Alerts": [
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13681501",
           "EffectiveFrom": "2026-09-04T07:38:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T16:09:59",
+          "LastReviewed": "2026-09-13T15:45:13",
           "Title": "Gunbarrel PFU 8,9 HR",
           "ItemName": null,
-          "Category": "Fires - Not Applicable",
-          "DescriptionHtml": "<p>There is a fire in this park called Gunbarrel PFU 8,9 HR. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 04/09/2026. The fire is called&#xA0;Gunbarrel PFU 8,9 HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -4326,14 +4320,26 @@
         "ItemName": "Goulburn-River-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-03T12:03:34",
+      "PartClosed": true,
+      "ClosedAreasCount": 4,
+      "LastReviewed": "2026-09-11T15:29:07",
       "EffectiveFrom": "2026-08-07T11:39:08",
       "Categories": [
+        "Closed areas",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13641801",
+          "EffectiveFrom": "2026-09-13T17:00:00",
+          "EffectiveTo": "2026-09-18T17:00:00",
+          "LastReviewed": "2026-09-11T15:29:07",
+          "Title": "Part of Goulburn River National park is closed for aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Parts of Goulburn River&#xA0;NP are closed from 3pm, Sunday 13th of September to 5pm Friday 18th of September 2026 for Aerial shooting for feral animal control.</p>\n\n<p>The closed areas include:</p>\n\n<ul>\n\t<li>Big River Campground</li>\n\t<li>Spring Gully Campground</li>\n\t<li>Drummers Flat</li>\n\t<li>Morrisons Flat</li>\n\t<li>Thompsons Flat&#xA0;</li>\n\t<li>Mt Dangar Area&#xA0;</li>\n\t<li>Merriwa River</li>\n\t<li>Tunnel Trail&#xA0;</li>\n</ul>\n\n<p>The Drip walking track remains open, but walkers should not travel off track down the river, from&#xA0;the lookout.&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/qyf94y59bauu/bq50r9y9qmu61/th6q5e52do2o\">Penalties apply for non-compliance</a>. For more information, contact the local park office 6370 9000</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13585101",
           "EffectiveFrom": "2026-08-07T11:39:08",
@@ -4514,7 +4520,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 10,
-      "LastReviewed": "2026-09-12T18:28:02",
+      "LastReviewed": "2026-09-13T19:55:52",
       "EffectiveFrom": "2026-09-01T10:00:00",
       "Categories": [
         "Fires - Advice",
@@ -4522,25 +4528,25 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/13663901",
-          "EffectiveFrom": "2026-09-01T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T18:28:02",
-          "Title": "Pantons Fire",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called Pantons Fire. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/13695701",
           "EffectiveFrom": "2026-09-06T15:30:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T18:21:11",
+          "LastReviewed": "2026-09-13T19:55:52",
           "Title": "Bear Hill Fire",
           "ItemName": null,
           "Category": "Fires - Advice",
           "DescriptionHtml": "<p>There is a fire in this park called Bear Hill Fire. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13663901",
+          "EffectiveFrom": "2026-09-01T10:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-09-13T18:28:35",
+          "Title": "Pantons Fire",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called Pantons Fire. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -4595,7 +4601,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 8,
-      "LastReviewed": "2026-09-12T18:48:49",
+      "LastReviewed": "2026-09-13T18:16:01",
       "EffectiveFrom": "2024-05-02T14:21:45",
       "Categories": [
         "Hazard reduction burns",
@@ -4607,7 +4613,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13707101",
           "EffectiveFrom": "2026-09-11T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T18:48:49",
+          "LastReviewed": "2026-09-13T18:16:01",
           "Title": "Scouters Mountain HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -4959,13 +4965,36 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-10T14:37:10",
+      "LastReviewed": "2026-09-13T19:56:42",
       "EffectiveFrom": "2022-04-13T10:37:17",
       "Categories": [
+        "Hazard reduction burns",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13712901",
+          "EffectiveFrom": "2026-09-13T16:05:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-09-13T19:56:42",
+          "Title": "MACULATA Block 2, JILLIBY",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 13/09/2026. The fire is called&#xA0;MACULATA Block 2, JILLIBY. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13713101",
+          "EffectiveFrom": "2026-09-13T17:52:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-09-13T18:17:33",
+          "Title": "MACULATA BLOCK 2 NPWS",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 13/09/2026. The fire is called&#xA0;MACULATA BLOCK 2 NPWS. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13678601",
           "EffectiveFrom": "2026-09-03T13:41:50",
@@ -5051,7 +5080,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T15:14:53",
+      "LastReviewed": "2026-09-13T17:16:47",
       "EffectiveFrom": "2026-09-02T12:17:00",
       "Categories": [
         "Fires - Advice"
@@ -5061,7 +5090,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13676501",
           "EffectiveFrom": "2026-09-02T12:17:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T15:14:53",
+          "LastReviewed": "2026-09-13T17:16:47",
           "Title": "LAGOON CREEK FIRE",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -5965,7 +5994,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 6,
-      "LastReviewed": "2026-09-12T20:25:55",
+      "LastReviewed": "2026-09-13T17:17:55",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
         "Hazard reduction burns",
@@ -5975,21 +6004,10 @@
       ],
       "Alerts": [
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/13707401",
-          "EffectiveFrom": "2026-09-12T10:00:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T20:25:55",
-          "Title": "Wirringulla HR",
-          "ItemName": null,
-          "Category": "Hazard reduction burns",
-          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 12/09/2026. The fire is called&#xA0;Wirringulla HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/13709901",
           "EffectiveFrom": "2026-09-11T08:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T19:30:55",
+          "LastReviewed": "2026-09-13T17:17:55",
           "Title": "Mt Murray Anderson HR",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -7346,13 +7364,14 @@
         "Id": "b6247f3a-f647-4f83-bd09-a41faa480af5",
         "ItemName": "Mount-Kaputar-National-Park"
       },
-      "Closed": false,
+      "Closed": true,
       "PartClosed": true,
-      "ClosedAreasCount": 3,
+      "ClosedAreasCount": 36,
       "LastReviewed": "2026-09-11T08:51:54",
       "EffectiveFrom": "2025-12-15T00:00:00",
       "Categories": [
         "Closed areas",
+        "Closed parks",
         "Other planned events",
         "Safety alerts"
       ],
@@ -7366,6 +7385,17 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Waa Gorge picnic area and walking track in Mount Kaputar National Park are closed from Friday 28&#xA0;August&#xA0;until Thursday 17 September 2026. Recent heavy rainfall in the area has made the access road impassable.</p>\n\n<p><a href=\"https://legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2019-0408\">Penalties apply for non-compliance</a>. For further information please contact the NPWS Barwon Area office on (02) 6792 7300.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13554901",
+          "EffectiveFrom": "2026-09-13T12:00:00",
+          "EffectiveTo": "2026-09-17T09:00:00",
+          "LastReviewed": "2026-08-27T09:40:08",
+          "Title": "Park closed for aerial pest control operation",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>Mount Kaputar National Park is closed from 12pm Sunday 13 September to 9am Thursday 17 September&#xA0;2026 for aerial pest control operations.</p>\n\n<p><a href=\"http://click.ngcomms.net/nly9nm4ofngn/a2twmxy4rx04j/qlw45y4obppc\">Penalties apply for non-compliance</a>. For more information, please contact the NPWS Narrabri office on 02 6792 7300.</p>",
           "IsKml": false
         },
         {
@@ -7518,12 +7548,23 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-07-23T08:48:19",
+      "LastReviewed": "2026-09-11T11:22:26",
       "EffectiveFrom": "2020-02-18T17:42:12",
       "Categories": [
         "Closed areas"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13641701",
+          "EffectiveFrom": "2026-09-13T17:00:00",
+          "EffectiveTo": "2026-09-18T15:00:00",
+          "LastReviewed": "2026-09-11T11:22:26",
+          "Title": "Part of Mugii Murrum-ban SCA are closed for Aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>The Genowlan Messa&#xA0;is closed from 5pm, Sunday 13th of September to 5pm Friday 18th of September 2026 for Aerial shooting for feral animal control.</p>\n\n<p>There will be no access to:</p>\n\n<ul>\n\t<li>Valley of the Dinosaurs</li>\n\t<li>The Genowlan Point Trail</li>\n\t<li>Pt Hatteras</li>\n\t<li>Diamond Mine</li>\n\t<li>Airly turret&#xA0;</li>\n</ul>\n\n<p>Airly Gap campground remains open&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/qyf94y59bauu/bq50r9y9qmu61/th6q5e52do2o\">Penalties apply for non-compliance</a>. For more information, contact the local park office 6370 9000</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/5704222",
           "EffectiveFrom": "2020-02-18T17:42:12",
@@ -7544,15 +7585,27 @@
         "Id": "9a2c4654-b3f0-40ed-8314-f23508787bfb",
         "ItemName": "Munghorn-Gap-Nature-Reserve"
       },
-      "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-03T12:03:34",
+      "Closed": true,
+      "PartClosed": true,
+      "ClosedAreasCount": 2,
+      "LastReviewed": "2026-09-07T18:12:01",
       "EffectiveFrom": "2026-08-07T11:39:08",
       "Categories": [
+        "Closed parks",
         "Other planned events"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13642001",
+          "EffectiveFrom": "2026-09-13T17:00:00",
+          "EffectiveTo": "2026-09-18T17:00:00",
+          "LastReviewed": "2026-09-07T18:12:01",
+          "Title": "Parts of Munghorn Gap Nature Reserve are closed for aerial shooting of feral animals",
+          "ItemName": null,
+          "Category": "Closed parks",
+          "DescriptionHtml": "<p>All remote areas of Munghorn Gap NR are closed form 5pm, Sunday 13th of September to 3pm Friday 18th of September 2026 for Aerial shooting for feral animal control.</p>\n\n<ul>\n\t<li>Castle Rocks Track remains open.</li>\n\t<li>All other tracks and areas are closed.&#xA0;</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qyf94y59bauu/bq50r9y9qmu61/th6q5e52do2o\">Penalties apply for non-compliance</a>. For more information, contact the local park office 6370 9000</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13585101",
           "EffectiveFrom": "2026-08-07T11:39:08",
@@ -8291,7 +8344,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 2,
-      "LastReviewed": "2026-09-12T15:14:53",
+      "LastReviewed": "2026-09-13T17:16:47",
       "EffectiveFrom": "2025-10-28T12:11:08",
       "Categories": [
         "Fires - Advice",
@@ -8302,7 +8355,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13676501",
           "EffectiveFrom": "2026-09-02T12:17:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T15:14:53",
+          "LastReviewed": "2026-09-13T17:16:47",
           "Title": "LAGOON CREEK FIRE",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -8599,24 +8652,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-08T12:14:24",
+      "LastReviewed": "2026-09-07T10:20:24",
       "EffectiveFrom": "2026-08-23T12:36:31",
       "Categories": [
-        "Safety alerts",
         "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13697701",
-          "EffectiveFrom": "2026-09-08T12:30:00",
-          "EffectiveTo": "2026-09-14T16:30:00",
-          "LastReviewed": "2026-09-08T12:14:24",
-          "Title": "Bushfire near the Doboy Road, the access to Nymboida River Campground.",
-          "ItemName": null,
-          "Category": "Safety alerts",
-          "DescriptionHtml": "<p>There are bushfires south of Doboy Road, which is part of the road access to Nymboida River Campground.&#xA0;</p>\n\n<p>Road access to the Nymboida River campground is open.&#xA0;Please monitor <a href=\"https://www.rfs.nsw.gov.au/fire-information/fires-near-me\">Fires Near Me</a>&#xA0;app for any changes.</p>\n\n<p>For any further information, contact the Grafton NPWS Office on 02 6641 1500.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13644901",
           "EffectiveFrom": "2026-08-23T12:36:31",
@@ -8655,6 +8696,35 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>NSW National Parks and Wildlife Service (NPWS) will be conducting an ongoing baiting program from 1st September&#xA0;2026 until 28th February&#xA0;2027.<br/>\nThe program will use 1080 (sodium fluoroacetate) poison for the control of wild dogs.<br/>\n<br/>\nThe program will take place in:</p>\n\n<ul>\n\t<li>Brindabella National Park</li>\n\t<li>Bimberi Nature Reserve</li>\n\t<li>Wee Jasper Nature Reserve</li>\n\t<li>Oak Creek Nature Reserve</li>\n</ul>\n\n<p><br/>\nSigns will be placed at the entry to the baiting locations. Domestic pets are not permitted in NSW National Parks managed lands. Pets and working dogs may be affected (1080 is lethal to cats and dogs). Pets and working dogs must be restrained or muzzled in the vicinity and must not enter the baiting location. In the event of accidental poisoning seek immediate veterinary assistance.<br/>\n<br/>\nFor further information please call NPWS Queanbeyan area office on (02) 6229 7166.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
+        "Name": "Oakwood Flora Reserve",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/oakwood-flora-reserve",
+        "Id": "58eec355-e421-4e27-9575-806dbf918770",
+        "ItemName": "oakwood-flora-reserve"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-09-13T19:55:52",
+      "EffectiveFrom": "2026-09-06T15:30:00",
+      "Categories": [
+        "Fires - Advice"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13695701",
+          "EffectiveFrom": "2026-09-06T15:30:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-09-13T19:55:52",
+          "Title": "Bear Hill Fire",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called Bear Hill Fire. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         }
       ]
@@ -9058,7 +9128,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-12T08:56:31",
+      "LastReviewed": "2026-09-13T09:23:38",
       "EffectiveFrom": "2021-08-18T17:01:16",
       "Categories": [
         "Closed parks"
@@ -9068,7 +9138,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/7547722",
           "EffectiveFrom": "2021-08-18T17:01:16",
           "EffectiveTo": null,
-          "LastReviewed": "2026-08-12T08:56:31",
+          "LastReviewed": "2026-09-13T09:23:38",
           "Title": "Prospect Nature Reserve closed public",
           "ItemName": null,
           "Category": "Closed parks",
@@ -10115,7 +10185,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-09-12T16:44:37",
+      "LastReviewed": "2026-09-13T15:03:06",
       "EffectiveFrom": "2026-04-03T11:48:21",
       "Categories": [
         "Hazard reduction burns",
@@ -10127,7 +10197,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13694401",
           "EffectiveFrom": "2026-09-11T09:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T16:44:37",
+          "LastReviewed": "2026-09-13T15:03:06",
           "Title": "Dry Lakes SFAZ",
           "ItemName": null,
           "Category": "Hazard reduction burns",
@@ -10190,7 +10260,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T17:41:02",
+      "LastReviewed": "2026-09-13T18:05:31",
       "EffectiveFrom": "2026-09-03T15:40:00",
       "Categories": [
         "Fires - Advice"
@@ -10200,7 +10270,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13683401",
           "EffectiveFrom": "2026-09-03T15:40:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T17:41:02",
+          "LastReviewed": "2026-09-13T18:05:31",
           "Title": "ROCKY RIVER ROAD, ROCKY RIVER",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -10910,24 +10980,12 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T16:17:18",
-      "EffectiveFrom": "2026-09-03T14:25:00",
+      "LastReviewed": "2026-09-12T09:36:08",
+      "EffectiveFrom": "2026-09-12T09:31:05",
       "Categories": [
-        "Fires - Advice",
         "Safety alerts"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13693801",
-          "EffectiveFrom": "2026-09-03T14:25:00",
-          "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T16:17:18",
-          "Title": "MALARA CREEK, HONGKONG POINT",
-          "ItemName": null,
-          "Category": "Fires - Advice",
-          "DescriptionHtml": "<p>There is a fire in this park called MALARA CREEK, HONGKONG POINT. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13710201",
           "EffectiveFrom": "2026-09-12T09:31:05",
@@ -10951,7 +11009,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T18:22:36",
+      "LastReviewed": "2026-09-13T19:06:19",
       "EffectiveFrom": "2014-11-26T16:28:00",
       "Categories": [
         "Fires - Advice",
@@ -10963,7 +11021,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13688301",
           "EffectiveFrom": "2026-08-31T19:01:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T18:22:36",
+          "LastReviewed": "2026-09-13T19:06:19",
           "Title": "BILLIRIMBA RD, ROCKY RIVER",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -11650,8 +11708,8 @@
       "EffectiveFrom": "2022-11-23T14:08:54",
       "Categories": [
         "Other planned events",
-        "Safety alerts",
-        "Closed areas"
+        "Closed areas",
+        "Safety alerts"
       ],
       "Alerts": [
         {
@@ -11685,6 +11743,17 @@
           "ItemName": null,
           "Category": "Other planned events",
           "DescriptionHtml": "<p>Roadworks will be underway on Commission Road from<strong> Monday 18 May to Friday 30&#xA0;October&#xA0;2026</strong>.</p>\n\n<p>The trails will be subjected to <strong>partial and temporary closures during this period</strong>. Access to Sheepskin Hut and Appletree Aboriginal Area may be periodically impacted.</p>\n\n<p>The roads may be uneven and slippery during this time and very rough outside work areas. Exercise caution and drive / ride safely to the conditions and follow the directions of roadwork signs and NPWS staff.</p>\n\n<p>For further information contact the NPWS Bulga office on (02) 6574 5555.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13641901",
+          "EffectiveFrom": "2026-09-13T17:00:00",
+          "EffectiveTo": "2026-09-18T17:00:00",
+          "LastReviewed": "2026-09-07T18:11:37",
+          "Title": "Part of Wollemi National park is closed for Aerial shooting for feral animal control",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some remote parts of Wollemi NP are closed from 5pm, Sunday 13th of September, to 5pm Friday 18th of September 2026, for aerial shooting for feral animal control.</p>\n\n<p>The areas include:</p>\n\n<ul>\n\t<li>Nullo Mountain</li>\n\t<li>Bylong Valley</li>\n\t<li>Dewys 40 trail&#xA0;</li>\n</ul>\n\n<p><a href=\"http://click.ngcomms.net/qyf94y59bauu/bq50r9y9qmu61/th6q5e52do2o\">Penalties apply for non-compliance</a>. For more information, contact the local park office 6370 9000</p>",
           "IsKml": false
         },
         {
@@ -12155,10 +12224,10 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-12T20:52:23",
+      "LastReviewed": "2026-09-13T16:02:10",
       "EffectiveFrom": "2026-09-05T07:00:00",
       "Categories": [
-        "Fires - ",
+        "Hazard reduction burns",
         "Closed areas"
       ],
       "Alerts": [
@@ -12166,11 +12235,11 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13669201",
           "EffectiveFrom": "2026-09-05T07:00:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-09-12T20:52:23",
+          "LastReviewed": "2026-09-13T16:02:10",
           "Title": "River Road",
           "ItemName": null,
-          "Category": "Fires - ",
-          "DescriptionHtml": "<p>There is a fire in this park called River Road. Refer to the&#xA0;<a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a>&#xA0;for latest information.\n\t\t\tDo not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>.\n\t\t\tFor more information about fire safety in parks and reserves, visit the&#xA0;<a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a>&#xA0;for park safety guidelines.</p>",
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 05/09/2026. The fire is called&#xA0;River Road. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
           "IsKml": false
         },
         {
@@ -12196,7 +12265,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-09T09:08:38",
+      "LastReviewed": "2026-09-13T06:55:38",
       "EffectiveFrom": "2025-12-12T12:35:04",
       "Categories": [
         "Other planned events",
@@ -12207,7 +12276,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13653501",
           "EffectiveFrom": "2026-08-30T07:00:00",
           "EffectiveTo": "2026-10-02T17:00:00",
-          "LastReviewed": "2026-09-04T06:59:07",
+          "LastReviewed": "2026-09-13T06:55:38",
           "Title": "Delays on Big Yango loop trail",
           "ItemName": null,
           "Category": "Other planned events",
