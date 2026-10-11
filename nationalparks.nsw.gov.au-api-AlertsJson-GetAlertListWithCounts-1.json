@@ -2,6 +2,7 @@
   "Categories": [
     "Current alerts",
     "Fires - Advice",
+    "Hazard reduction burns",
     "Fire bans",
     "Closed parks",
     "Closed areas",
@@ -397,7 +398,7 @@
         "ItemName": "Bangadilly-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2026-10-01T00:00:01",
@@ -456,7 +457,7 @@
       },
       "Closed": false,
       "PartClosed": false,
-      "ClosedAreasCount": 0,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2026-10-01T00:00:01",
       "Categories": [
@@ -1093,8 +1094,8 @@
         "ItemName": "Berowra-Valley-National-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2026-09-29T10:44:57",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
@@ -1122,8 +1123,8 @@
         "ItemName": "Berowra-Valley-Regional-Park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2026-09-29T10:44:57",
       "EffectiveFrom": "2024-02-01T12:07:54",
       "Categories": [
@@ -1251,7 +1252,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 2,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2026-09-21T08:25:30",
       "EffectiveFrom": "2022-03-21T10:41:42",
       "Categories": [
@@ -1281,17 +1282,6 @@
           "IsKml": false
         },
         {
-          "ID": "npws-fis@id.ngcomms.net/eme/13633801",
-          "EffectiveFrom": "2026-08-17T20:04:34",
-          "EffectiveTo": "2026-10-11T20:04:59",
-          "LastReviewed": "2026-09-21T08:24:52",
-          "Title": "Bindarray Picnic Area temporarily closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Bindarray Picnic Area is closed to the public until late September&#xA0;due to construction works.</p>\n\n<p>There will be no access possible via vehicle or pedestrians during this time.</p>\n\n<p>&#xA0;</p>\n\n<p>The closed area is from the gate at the northern end of Jersery Bull Rd (near junction with Pine Rd) and south to Bindarray Picnic Area.</p>\n\n<p>There is no change to any access to Pine Rd.</p>\n\n<p>&#xA0;</p>\n\n<p>Construction of a new pedestrian suspension bridge across the Urumbilium River near Bindarray Picnic Area will provide improved access to the site once works are completed.</p>\n\n<p>This project is part of the Dorrigo Escarpment Great Walk, which will provide a new public walking track from Dorrigo Rainforest Centre to Bindarray Picnic Area.</p>\n\n<p>&#xA0;</p>\n\n<p>Any enquiries, please call NPWS Coffs on 02 6652 0900</p>",
-          "IsKml": false
-        },
-        {
           "ID": "npws-fis@id.ngcomms.net/eme/8351922",
           "EffectiveFrom": "2022-03-21T10:41:42",
           "EffectiveTo": null,
@@ -1300,35 +1290,6 @@
           "ItemName": null,
           "Category": "Closed areas",
           "DescriptionHtml": "<p>Suttons road is closed to vehicle traffic&#xA0;following the second major pavement collapse in an area of highly dispersible soils.&#xA0;Alternate access is via Granite Pit&#xA0;or McMullens roads.</p>\n\n<p>For further&#xA0;information please contact the NPWS Coffs Coast&#xA0;area office on 02 6652 0900.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
-        "Name": "Bindarri State Conservation Area",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bindarri-state-conservation-area",
-        "Id": "e4a581ab-e173-48ce-beab-a778a53cd3c6",
-        "ItemName": "Bindarri-State-Conservation-Area"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-21T08:24:52",
-      "EffectiveFrom": "2026-08-17T20:04:34",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13633801",
-          "EffectiveFrom": "2026-08-17T20:04:34",
-          "EffectiveTo": "2026-10-11T20:04:59",
-          "LastReviewed": "2026-09-21T08:24:52",
-          "Title": "Bindarray Picnic Area temporarily closed",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Bindarray Picnic Area is closed to the public until late September&#xA0;due to construction works.</p>\n\n<p>There will be no access possible via vehicle or pedestrians during this time.</p>\n\n<p>&#xA0;</p>\n\n<p>The closed area is from the gate at the northern end of Jersery Bull Rd (near junction with Pine Rd) and south to Bindarray Picnic Area.</p>\n\n<p>There is no change to any access to Pine Rd.</p>\n\n<p>&#xA0;</p>\n\n<p>Construction of a new pedestrian suspension bridge across the Urumbilium River near Bindarray Picnic Area will provide improved access to the site once works are completed.</p>\n\n<p>This project is part of the Dorrigo Escarpment Great Walk, which will provide a new public walking track from Dorrigo Rainforest Centre to Bindarray Picnic Area.</p>\n\n<p>&#xA0;</p>\n\n<p>Any enquiries, please call NPWS Coffs on 02 6652 0900</p>",
           "IsKml": false
         }
       ]
@@ -2559,8 +2520,8 @@
         "ItemName": "Burragorang-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
+      "PartClosed": true,
+      "ClosedAreasCount": 1,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2026-10-01T00:00:01",
       "Categories": [
@@ -3663,12 +3624,24 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-08-11T13:19:49",
+      "LastReviewed": "2026-10-11T14:47:23",
       "EffectiveFrom": "2026-09-01T13:14:04",
       "Categories": [
+        "Safety alerts",
         "Closed parks"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13792601",
+          "EffectiveFrom": "2026-10-11T14:40:39",
+          "EffectiveTo": "2026-10-19T14:41:36",
+          "LastReviewed": "2026-10-11T14:47:23",
+          "Title": "Corrie Island Nature Reserve closed for pest control operation",
+          "ItemName": null,
+          "Category": "Safety alerts",
+          "DescriptionHtml": "<p>Corrie Island Nature Reserve is closed for predator control operations between Sunday 11 October to Sunday 18 October to protect endangered birds nesting on the island.</p>\n\n<p>You will not be able to land anywhere on Corrie Island at any time of day or night, while the operation is underway.</p>\n\n<p>Please remember that Corrie Island is always closed to visitors at all times between 1 September 2026&#xA0;to 7&#xA0;March 2027&#xA0;(see separate alert) to protect endangered shorebirds.</p>\n\n<p><a href=\"http://click.ngcomms.net/g8cm7m9fkyaa/62ecvie4vf5di/guqbja9mlfnb\">Penalties apply for non-compliance</a>. For more information, call the NPWS Anna Bay office on 02 4984 8200</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13611601",
           "EffectiveFrom": "2026-09-01T13:14:04",
@@ -4818,15 +4791,26 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 2,
-      "LastReviewed": "2026-10-09T08:43:50",
+      "ClosedAreasCount": 9,
+      "LastReviewed": "2026-10-11T17:44:42",
       "EffectiveFrom": "2016-02-10T15:18:20",
       "Categories": [
+        "Closed areas",
         "Other planned events",
-        "Safety alerts",
-        "Closed areas"
+        "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13793701",
+          "EffectiveFrom": "2026-10-11T17:32:15",
+          "EffectiveTo": "2026-10-12T23:59:59",
+          "LastReviewed": "2026-10-11T17:44:42",
+          "Title": "Total fire ban - all tracks and trails closed Monday 12 October 2026",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>All tracks and trails&#xA0;in Garigal National Park are closed on Monday 12 October 2026 due to a Total Fire Ban and elevated Fire Danger Rating</p>\n\n<p>Picnic areas and the Davidson Boat Ramp will remain open.&#xA0;</p>\n\n<p><a href=\"http://click.ngcomms.net/q8i7ed9mihjn/bct246h9q08x9/sy2fll4ocaza\">Penalties apply for non-compliance</a>.</p>\n\n<p>For more information contact the NPWS contact centre on 1300 072 757 (13000 PARKS).</p>\n\n<p>Please review RFS information on Total Fire Bans, Fire Danger Ratings and keep up to date using the Hazards Near Me app:</p>\n\n<p><a href=\"https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans\">https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans</a></p>\n\n<p><a href=\"https://www.nsw.gov.au/emergency/hazards-near-me-app\">https://www.nsw.gov.au/emergency/hazards-near-me-app</a></p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13570001",
           "EffectiveFrom": "2026-07-31T22:29:51",
@@ -5111,7 +5095,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-10-10T16:03:39",
+      "LastReviewed": "2026-10-11T16:08:05",
       "EffectiveFrom": "2026-09-18T13:17:00",
       "Categories": [
         "Fires - "
@@ -5121,7 +5105,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13732901",
           "EffectiveFrom": "2026-09-18T13:17:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-10-10T16:03:39",
+          "LastReviewed": "2026-10-11T16:08:05",
           "Title": "RIFLE RANGE RD, INVERELL",
           "ItemName": null,
           "Category": "Fires - ",
@@ -5376,8 +5360,8 @@
         "ItemName": "guula-ngurra-national-park"
       },
       "Closed": false,
-      "PartClosed": false,
-      "ClosedAreasCount": 0,
+      "PartClosed": true,
+      "ClosedAreasCount": 3,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2025-07-16T07:00:00",
       "Categories": [
@@ -5856,7 +5840,7 @@
         "ItemName": "jellore-flora-reserve"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2026-10-01T00:00:01",
@@ -5957,13 +5941,25 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-10-01T08:27:44",
+      "LastReviewed": "2026-10-11T18:56:27",
       "EffectiveFrom": "2022-04-13T10:37:17",
       "Categories": [
+        "Fires - Advice",
         "Closed areas",
         "Safety alerts"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13792401",
+          "EffectiveFrom": "2026-10-11T12:39:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-10-11T18:56:27",
+          "Title": "Bush Fire",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called Bush Fire. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/9382701",
           "EffectiveFrom": "2023-03-08T09:09:45",
@@ -6036,7 +6032,7 @@
         "ItemName": "Joadja-Nature-Reserve"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2026-10-01T00:00:01",
@@ -6298,7 +6294,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 1,
-      "LastReviewed": "2026-10-07T16:49:37",
+      "LastReviewed": "2026-10-11T14:48:41",
       "EffectiveFrom": "2025-07-01T09:43:30",
       "Categories": [
         "Closed areas"
@@ -6308,7 +6304,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/12387201",
           "EffectiveFrom": "2025-07-01T09:43:30",
           "EffectiveTo": null,
-          "LastReviewed": "2026-10-07T16:49:37",
+          "LastReviewed": "2026-10-11T14:48:41",
           "Title": "Little Mountain campground and Little Mountain Road closed for repair",
           "ItemName": null,
           "Category": "Closed areas",
@@ -6720,7 +6716,7 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-10-09T08:30:21",
+      "LastReviewed": "2026-10-11T15:02:05",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
         "Closed areas",
@@ -6843,7 +6839,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13171701",
           "EffectiveFrom": "2026-06-08T00:00:50",
           "EffectiveTo": "2026-12-08T23:59:21",
-          "LastReviewed": "2026-09-08T07:33:14",
+          "LastReviewed": "2026-10-11T15:02:05",
           "Title": "Notice of ongoing 1080 program",
           "ItemName": null,
           "Category": "Other planned events",
@@ -6945,7 +6941,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 6,
+      "ClosedAreasCount": 28,
       "LastReviewed": "2026-10-09T09:09:48",
       "EffectiveFrom": "2025-01-01T20:49:41",
       "Categories": [
@@ -7290,15 +7286,50 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
-      "LastReviewed": "2026-10-07T11:15:07",
+      "ClosedAreasCount": 5,
+      "LastReviewed": "2026-10-11T23:13:15",
       "EffectiveFrom": "2024-02-01T12:10:51",
       "Categories": [
+        "Fires - ",
+        "Hazard reduction burns",
+        "Closed areas",
         "Other planned events",
-        "Other incidents",
-        "Closed areas"
+        "Other incidents"
       ],
       "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13794201",
+          "EffectiveFrom": "2026-10-11T22:39:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-10-11T23:13:15",
+          "Title": "ALETA CL, WAHROONGA",
+          "ItemName": null,
+          "Category": "Fires - ",
+          "DescriptionHtml": "<p>There is a fire in this park called ALETA CL, WAHROONGA. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13787801",
+          "EffectiveFrom": "2026-10-11T08:00:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-10-11T21:51:46",
+          "Title": "George Christie HR",
+          "ItemName": null,
+          "Category": "Hazard reduction burns",
+          "DescriptionHtml": "<p>There is a planned Hazard Reduction burn in this park from 11/10/2026. The fire is called&#xA0;George Christie HR. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        },
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13789101",
+          "EffectiveFrom": "2026-10-11T06:00:00",
+          "EffectiveTo": "2026-10-16T17:00:00",
+          "LastReviewed": "2026-10-09T14:44:24",
+          "Title": "George Christie Hazard Reduction in Lane Cove National Park",
+          "ItemName": null,
+          "Category": "Closed areas",
+          "DescriptionHtml": "<p>Some areas of this park&#xA0;are closed for hazard reduction burning from Sunday 11 October 2026 and will remain closed until tracks and trails are declared safe.</p>\n\n<p><strong>The closed areas include:</strong></p>\n\n<ul>\n\t<li>Beltana Trail</li>\n\t<li>Morona Trail</li>\n\t<li>George Christie Trail</li>\n\t<li>Lane Cove River Trail</li>\n\t<li>Pennant Hills Park Trail</li>\n\t<li>Water Dragon Creek Track</li>\n\t<li>Yannilla Trail</li>\n\t<li>Fox Valley Trail</li>\n\t<li>Muttama Trail</li>\n\t<li>Lorna Pass Trail</li>\n\t<li>Pomona Trail</li>\n\t<li>Devlins Creek Trail east of the Lane Cove River</li>\n\t<li>Great North Walk between Browns Waterhole (South Turramurra) and Thornleigh Oval (Thornleigh).</li>\n</ul>\n\n<p>Great North Walk Detour: From Browns Waterhole, follow the Eastcote Walking Track, then continue along Boundary Road to reconnect with Devlins Creek Trail. Continue to Cheltenham Station, catch the train to Thornleigh Station, and then rejoin the Great North Walk.</p>\n\n<p><a href=\"http://click.ngcomms.net/qslsh255u1is/bmjhcem5cufhj/tcu5ce5gcoc9\">Penalties apply for non-compliance</a>. This burn is called the George Christie Hazard Reduction<strong>.</strong> For more information, contact the local NPWS office on 02 8448 0400 or visit the <a href=\"http://click.ngcomms.net/qslsh255u1is/bmjhcem5cufhj/tcu5f69u74v5\">Rural Fire Service website.</a></p>",
+          "IsKml": false
+        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13570101",
           "EffectiveFrom": "2026-07-31T22:00:39",
@@ -8284,7 +8315,7 @@
       "Closed": true,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-09-29T19:10:53",
+      "LastReviewed": "2026-10-11T07:38:47",
       "EffectiveFrom": "2026-09-23T07:00:41",
       "Categories": [
         "Closed parks"
@@ -8294,7 +8325,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13697301",
           "EffectiveFrom": "2026-09-23T07:00:41",
           "EffectiveTo": "2026-10-23T17:30:23",
-          "LastReviewed": "2026-09-29T19:10:53",
+          "LastReviewed": "2026-10-11T07:38:47",
           "Title": "Park closure alert for Mooball National Park",
           "ItemName": null,
           "Category": "Closed parks",
@@ -9489,7 +9520,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 0,
+      "ClosedAreasCount": 2,
       "LastReviewed": "2026-09-23T16:30:02",
       "EffectiveFrom": "2026-09-14T06:00:00",
       "Categories": [
@@ -9540,7 +9571,7 @@
         "ItemName": "Nattai-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2026-10-01T00:00:01",
@@ -11495,7 +11526,7 @@
       "Closed": false,
       "PartClosed": false,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-10-09T13:18:34",
+      "LastReviewed": "2026-10-11T09:50:46",
       "EffectiveFrom": "2026-10-01T12:33:00",
       "Categories": [
         "Fires - Advice"
@@ -11505,7 +11536,7 @@
           "ID": "npws-fis@id.ngcomms.net/eme/13769701",
           "EffectiveFrom": "2026-10-01T12:33:00",
           "EffectiveTo": null,
-          "LastReviewed": "2026-10-09T13:18:34",
+          "LastReviewed": "2026-10-11T09:50:46",
           "Title": "MASONITE RD, TOMAGO",
           "ItemName": null,
           "Category": "Fires - Advice",
@@ -11901,7 +11932,7 @@
         "ItemName": "Upper-Nepean-State-Conservation-Area"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2026-10-01T00:00:01",
@@ -12918,6 +12949,35 @@
     },
     {
       "Park": {
+        "Name": "Willi Willi National Park",
+        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/willi-willi-national-park",
+        "Id": "9f4cf0b3-964a-44b8-b668-1ab4cdd6d565",
+        "ItemName": "Willi-Willi-National-Park"
+      },
+      "Closed": false,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
+      "LastReviewed": "2026-10-11T18:33:53",
+      "EffectiveFrom": "2026-10-11T10:46:00",
+      "Categories": [
+        "Fires - Advice"
+      ],
+      "Alerts": [
+        {
+          "ID": "npws-fis@id.ngcomms.net/eme/13792101",
+          "EffectiveFrom": "2026-10-11T10:46:00",
+          "EffectiveTo": null,
+          "LastReviewed": "2026-10-11T18:33:53",
+          "Title": "DOUBLE HEAD TRL, MOPARRABAH",
+          "ItemName": null,
+          "Category": "Fires - Advice",
+          "DescriptionHtml": "<p>There is a fire in this park called DOUBLE HEAD TRL, MOPARRABAH. Refer to the <a href=\"https://www.rfs.nsw.gov.au/fire-information\">Rural Fire Service</a> for latest information. Do not enter any closed area or area with fire. If you see an unattended fire call Triple Zero (000). <a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information about fire safety in parks and reserves, visit the <a href=\"http://www.nationalparks.nsw.gov.au/safety/fire\">NSW National Parks fire safety page</a> for park safety guidelines.</p>",
+          "IsKml": false
+        }
+      ]
+    },
+    {
+      "Park": {
         "Name": "Winburndale Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/winburndale-nature-reserve",
         "Id": "a4f512a8-3a32-41ef-ad15-00331ee9fcaf",
@@ -13314,7 +13374,7 @@
         "ItemName": "Wollondilly-River-Nature-Reserve"
       },
       "Closed": false,
-      "PartClosed": false,
+      "PartClosed": true,
       "ClosedAreasCount": 0,
       "LastReviewed": "2026-09-15T11:17:13",
       "EffectiveFrom": "2026-10-01T00:00:01",
