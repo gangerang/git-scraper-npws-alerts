@@ -234,35 +234,6 @@
     },
     {
       "Park": {
-        "Name": "Arakoon National Park",
-        "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/arakoon-national-park",
-        "Id": "140b4e03-8e1f-4fd4-8e54-f2862792cc58",
-        "ItemName": "Arakoon-National-Park"
-      },
-      "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
-      "LastReviewed": "2026-09-25T11:29:33",
-      "EffectiveFrom": "2021-03-01T11:38:40",
-      "Categories": [
-        "Closed areas"
-      ],
-      "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/6884522",
-          "EffectiveFrom": "2021-03-01T11:38:40",
-          "EffectiveTo": "2026-10-30T09:17:34",
-          "LastReviewed": "2026-09-25T11:29:33",
-          "Title": "Area permanently closed - Mermaid Pools",
-          "ItemName": null,
-          "Category": "Closed areas",
-          "DescriptionHtml": "<p>Access to Mermaid Pools is&#xA0;permanently closed including for&#xA0;swimming. Sudden large swells and tides create major waves that wash over the rocks and pools.</p>\n\n<p>Do not access this area. The severe conditions at this site have&#xA0;caused a number of significant injuries and deaths in the past.</p>\n\n<p>Mermaid Pools have&#xA0;never been a designated visitor site due to the extreme nature of the surf and tides at this location. There is no approved public access walking track to Mermaid Pools.</p>\n\n<p>For further information call the NPWS Verges Creek area office on 02 6561 6700.</p>",
-          "IsKml": false
-        }
-      ]
-    },
-    {
-      "Park": {
         "Name": "Araluen Nature Reserve",
         "Url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/araluen-nature-reserve",
         "Id": "6b793d8d-d199-456b-9a18-8508c88a9644",
@@ -4700,7 +4671,7 @@
       },
       "Closed": false,
       "PartClosed": true,
-      "ClosedAreasCount": 2,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2026-10-19T09:44:53",
       "EffectiveFrom": "2023-07-20T15:06:23",
       "Categories": [
@@ -6846,25 +6817,14 @@
       "Closed": false,
       "PartClosed": true,
       "ClosedAreasCount": 0,
-      "LastReviewed": "2026-10-18T08:46:01",
+      "LastReviewed": "2026-10-17T16:11:14",
       "EffectiveFrom": "2017-09-22T16:01:24",
       "Categories": [
-        "Other planned events",
         "Closed areas",
-        "Safety alerts"
+        "Safety alerts",
+        "Other planned events"
       ],
       "Alerts": [
-        {
-          "ID": "npws-fis@id.ngcomms.net/eme/13814001",
-          "EffectiveFrom": "2026-10-18T08:41:05",
-          "EffectiveTo": "2026-10-30T08:45:51",
-          "LastReviewed": "2026-10-18T08:46:01",
-          "Title": "Merambego Trail Closure",
-          "ItemName": null,
-          "Category": "Other planned events",
-          "DescriptionHtml": "<p>Please be advised that <strong>Merambego Trail will be closed from Tuesday 20th October to Friday 30th October</strong> to allow for essential road works.<br/>\n<br/>\nVisitors are encouraged to check the NPWS website for the latest updates and closure information before travelling.<br/>\n<br/>\n<a href=\"https://www.legislation.nsw.gov.au/#/view/regulation/2019/408/full\">Penalties apply for non-compliance</a>. For more information, contact the NPWS Jindabyne office on 02 6450 5555.</p>",
-          "IsKml": false
-        },
         {
           "ID": "npws-fis@id.ngcomms.net/eme/13811001",
           "EffectiveFrom": "2026-10-15T14:11:08",
@@ -13466,8 +13426,8 @@
         "ItemName": "Willandra-National-Park"
       },
       "Closed": false,
-      "PartClosed": true,
-      "ClosedAreasCount": 1,
+      "PartClosed": false,
+      "ClosedAreasCount": 0,
       "LastReviewed": "2026-10-20T09:01:18",
       "EffectiveFrom": "2026-09-01T08:00:00",
       "Categories": [
